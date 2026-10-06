@@ -16,14 +16,14 @@ A catalyst-driven special situation built around the separation of Lionsgate Stu
 ### 2. [VICI Properties — REIT Fundamental Analysis & Valuation](./vici-properties/README.md)
 A REIT research case focused on AFFO, leverage, per-share economics, capital allocation and valuation using P/AFFO, EV/EBITDA and P/Book cross-checks.
 
-**Supporting file:** [VICI Public Model](./vici-properties/VICI_Public_Model.xlsx)
+**Supporting research:** [VICI Model Snapshot](./vici-properties/MODEL_SNAPSHOT.md)
 
 **Skills demonstrated:** REIT accounting, AFFO, leverage analysis, financial modeling, valuation.
 
 ### 3. [Shift4 Payments (FOUR) — Investment Post-Mortem](./shift4-payments-four/README.md)
 A review of an investment initiated around $66/share in December 2025. The post-mortem focuses on the difference between growth and cash conversion, the treatment of preferred dividends, and the valuation discipline required when paying for high growth.
 
-**Supporting file:** [FOUR Post-Mortem Model](./shift4-payments-four/FOUR_Post_Mortem_Model.xlsx)
+**Supporting research:** [FOUR Model Snapshot](./shift4-payments-four/MODEL_SNAPSHOT.md)
 
 **Skills demonstrated:** FCF reconstruction, capital-structure analysis, valuation, error analysis, process improvement.
 

@@ -15,16 +15,19 @@ For a REIT, the analytical focus shifts toward:
 - dilution and per-share compounding;
 - valuation relative to recurring cash flow and asset value.
 
-## Model Structure
+## Public Model Snapshot
 
-The public workbook contains four simplified tabs:
+I rebuilt the core outputs from my personal Excel workbook into a clean public snapshot that can be reviewed directly in GitHub:
 
-- **Summary** — key metrics and valuation outputs.
-- **Financials** — selected historical and forecast operating data.
-- **Valuation** — P/AFFO, EV/EBITDA and P/Book cross-checks.
-- **Assumptions** — the inputs and scope of the public model.
+[Open the VICI model snapshot](./MODEL_SNAPSHOT.md)
 
-[Open the public Excel model](./VICI_Public_Model.xlsx)
+The model focuses on:
+
+- historical and forecast operating data;
+- AFFO and AFFO/share;
+- net debt / EBITDA;
+- share dilution and per-share compounding;
+- P/AFFO, EV/EBITDA and P/Book valuation cross-checks.
 
 ## Key Questions
 
@@ -54,4 +57,4 @@ No single multiple is treated as the answer. The point is to understand what eac
 
 The VICI case is intended to show a more traditional modeling process than the Lionsgate special situation. It demonstrates my ability to work through historical financials, identify the right sector-specific metric, forecast per-share economics and connect operating assumptions to valuation.
 
-> The workbook is a simplified public version rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded.
+> The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded.

@@ -45,6 +45,14 @@ The lesson was not simply “do not pay a high multiple.” It was:
 
 > **The stronger the growth narrative, the more important it is to reconcile adjusted metrics with cash available to common equity before deciding what multiple is justified.**
 
+## Public Post-Mortem Model
+
+I rebuilt the key lines from my personal Excel workbook into a clean public snapshot:
+
+[Open the Shift4 model snapshot](./MODEL_SNAPSHOT.md)
+
+It shows the relationship between revenue growth, EBITDA, CFO, capex, preferred dividends, FCF to common and the valuation paid at entry.
+
 ## Process Changes
 
 This investment led me to add several explicit checks to my research process:
@@ -55,12 +63,6 @@ This investment led me to add several explicit checks to my research process:
 4. Compare EBITDA growth with actual cash conversion.
 5. Stress-test the valuation before using growth to justify a premium multiple.
 6. Define thesis-breaking conditions before entering the position.
-
-## Supporting Model
-
-The public workbook reconstructs selected financials and compares the valuation at the original entry price with a later model price.
-
-[Open the post-mortem Excel model](./FOUR_Post_Mortem_Model.xlsx)
 
 ## What This Case Demonstrates
 

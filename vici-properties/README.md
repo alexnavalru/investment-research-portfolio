@@ -75,13 +75,80 @@ I separate the valuation into **primary asset-based methods** and **supporting v
 
 ### Other Valuation Cross-Checks
 
-| Method | 2026E Input & Assumption | Implied Price | Price Upside / (Downside) | Dividend Yield | Illustrative Total Return* |
-|---|---|---:|---:|---:|---:|
-| **P/AFFO** | **$2.41 AFFO/share × 11.0x** | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
-| **EV/EBITDA** | **$3.456bn EBITDA × 12.0x − $16.8bn net debt; / 1.090bn diluted shares** | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
-| **P/Book** | **$27.06 book value/share × 0.9x** | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
+| Method | Target Multiple | Implied Price | Price Upside / (Downside) | Dividend Yield | Illustrative Total Return* |
+|---|---:|---:|---:|---:|---:|
+| **P/AFFO** | **11.0x** | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
+| **EV/EBITDA** | **12.0x** | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
+| **P/Book** | **0.9x** | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
+
+**2026E inputs used:** AFFO/share **$2.41**; EBITDA **$3.456bn**; net debt **$16.8bn**; diluted shares **1.090bn**; book value/share **$27.06**.
 
 \*Illustrative one-year framework: **price return to the implied valuation + current 8.1% dividend yield**, assuming the annual dividend remains **$1.84/share**. NAV and SOTP are the primary valuation methods; the remaining approaches are cross-checks and should not be averaged mechanically.
+
+## Tenant Concentration & Rent Coverage Risk
+
+VICI's rent stream is highly concentrated in a small number of large gaming tenants. That concentration makes tenant solvency a central risk: the lease is valuable only if the operator can continue to pay it through a downturn.
+
+I use two rent-coverage measures:
+
+**VICI Rent Coverage = EBITDAR / rent paid to VICI**
+
+**Total Corporate Rent Coverage = EBITDAR / total cash rent paid to all landlords**
+
+For example, if a tenant generates **$2,500m of EBITDAR** and pays **$1,000m of total rent**, corporate rent coverage is **2.5x**.
+
+The second ratio is more informative for tenant solvency. A tenant cannot use the same EBITDAR to cover VICI's rent while ignoring rent owed to Blackstone, GLPI or other landlords. VICI-only coverage therefore tells me how protected VICI's specific lease is; total corporate coverage tells me how much cushion the operating company has after considering its full real-estate rent burden.
+
+### Caesars Entertainment
+
+Caesars accounts for its major VICI and GLPI leases as **financing obligations**. Its Adjusted EBITDA explicitly excludes the associated rent expense because that expense is reflected in the interest component of those obligations. Therefore, I do **not** add VICI/GLPI rent back again when deriving EBITDAR; doing so would double count it.
+
+| Period | EBITDAR ($m) | VICI Rent ($m) | VICI Coverage | Total Cash Rent ($m) | Total Corporate Coverage |
+|---|---:|---:|---:|---:|---:|
+| **FY23** | 3,938.00 | 1,164.70 | **3.38x** | 1,288.00 | **3.06x** |
+| **FY24** | 3,739.00 | 1,201.50 | **3.11x** | 1,325.00 | **2.82x** |
+| **FY25** | 3,624.00 | 1,225.10 | **2.96x** | 1,350.00 | **2.68x** |
+| **H1'26** | 1,807.00 | 623.10 | **2.90x** | 686.00 | **2.63x** |
+
+The trend is still healthy in absolute terms but has weakened: total corporate coverage declined from **3.06x in FY23 to 2.63x in H1'26**.
+
+### MGM Resorts
+
+MGM is the opposite accounting case. Its **Consolidated Adjusted EBITDA includes triple-net rent expense**. MGM disclosed that this EBITDA included roughly **$2.3bn per year of triple-net rent expense** in FY23–FY25. Therefore:
+
+**EBITDAR = Consolidated Adjusted EBITDA + triple-net rent expense**
+
+| Period | EBITDAR ($m) | VICI Rent ($m) | VICI Coverage | Total Cash Rent ($m) | Total Corporate Coverage |
+|---|---:|---:|---:|---:|---:|
+| **FY23** | 4,599.18 | 1,047.06 | **4.39x** | 1,766.08 | **2.60x** |
+| **FY24** | 4,668.90 | 1,069.57 | **4.37x** | 1,796.69 | **2.60x** |
+| **FY25** | 4,684.03 | 1,090.96 | **4.29x** | 1,832.99 | **2.56x** |
+| **H1'26** | 2,307.37 | 542.79 | **4.25x** | 918.31 | **2.51x** |
+
+MGM's VICI-specific coverage is very strong, but total corporate coverage is materially lower because MGM also pays substantial rent to other landlords. That is exactly why I prefer the total-corporate measure when assessing solvency.
+
+### Venetian / Pioneer HoldCo
+
+The Venetian tenant is **Pioneer HoldCo / Venetian Las Vegas**, controlled by funds managed by Apollo, and is private. Public disclosure is therefore more limited. S&P provides useful operating data, including EBITDA margins of approximately **36.0% in 2023, 33.7% in 2024 and 34.3% in 2025**, together with Debt/EBITDA of **7.9x, 8.7x and 8.2x** respectively.
+
+VICI also stated that Venetian EBITDAR increased from **$487m pre-Covid to $777m in 2024**. For 2025, I estimate EBITDAR at approximately **$841.45m** using the 2024 EBITDAR base, S&P's **6.4% revenue growth** estimate and the change in EBITDA margin from **33.7% to 34.3%**.
+
+| Period | EBITDAR ($m) | VICI Rent ($m) | VICI Coverage | Total Cash Rent* ($m) | Total Corporate Coverage* |
+|---|---:|---:|---:|---:|---:|
+| **FY23** | 742.00 | 256.25 | **2.90x** | 256.25 | **2.90x** |
+| **FY24** | 777.00 | 270.28 | **2.87x** | 270.28 | **2.87x** |
+| **FY25e** | ~841.45 | 300.85 | **~2.80x** | 300.85 | **~2.80x** |
+| **H1'26e** | ~455.05 | 153.26 | **~2.97x** | 153.26 | **~2.97x** |
+
+\*For Venetian, I use VICI rent as a proxy for total material real-estate rent because Pioneer essentially operates this single complex and the VICI triple-net lease is its main property obligation. I would not treat this as an audited corporate-rent figure covering every small lease obligation.
+
+### Hard Rock
+
+Hard Rock has the same disclosure limitation. The guarantors of VICI's leases are **Seminole Hard Rock Entertainment, Inc.** and **Seminole Hard Rock International, LLC**, both private companies. I therefore do not present a directly comparable corporate-rent-coverage series without sufficient public data.
+
+### Takeaway
+
+The tenant-concentration risk is real, but the three largest tenants studied still show **total corporate rent coverage around 2.5x–3.0x** on the latest available / estimated figures. I would monitor the **direction of coverage**, not just the absolute level: Caesars and MGM have both seen gradual compression, while Venetian remains around the high-2x range.
 
 ## Public Model Snapshot
 

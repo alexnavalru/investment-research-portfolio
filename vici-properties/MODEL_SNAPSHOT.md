@@ -2,6 +2,52 @@
 
 This is a recruiter-friendly snapshot of the public model rebuilt from my personal workbook.
 
+## Company & Portfolio Overview
+
+VICI is an experiential triple-net REIT. Its core business is to own real estate and lease it to gaming, hospitality and other experiential operators under long-duration agreements. Under a **triple-net lease**, the tenant is generally responsible for property-level operating expenses, taxes, insurance and maintenance/capital requirements, which allows VICI to earn high-margin contractual rent with comparatively limited property-level capex.
+
+Based on VICI's latest September 2026 investor presentation, with portfolio data as of **September 1, 2026**:
+
+- **16 real-estate tenants** across **103 experiential assets**: **63 gaming properties** and **40 other experiential properties**.
+- The three largest tenants represent approximately **79% of annualized cash rent**: **Caesars 38%**, **MGM Resorts 32%** and **The Venetian 9%**.
+- Portfolio footprint across the **United States and Canada**, totaling approximately **130 million square feet**, about **66,000 hotel rooms** and more than **700 restaurants, bars, nightclubs and sportsbooks**.
+- Properties on the **Las Vegas Strip generated approximately 49% of lease revenues** in H1 2026.
+- **100% occupancy**, **100% triple-net leases**, and **100% rent collection since VICI's formation in 2017, including through COVID**.
+- Weighted-average lease term (**WALT**) of approximately **39.4 years**, including tenant renewal options.
+- Approximately **88% of rent roll has parent guarantees** and **82% is protected by master leases**. Parent guarantees broaden the payment obligation beyond an individual property-level tenant, while master leases make it harder for an operator to selectively reject a weak property while retaining stronger assets.
+
+### Rent Escalators & Inflation Protection
+
+All of VICI's lease agreements provide for annual base-rent escalation. Depending on the lease, this can be a fixed annual increase, typically around **1%–2%**, or later transition to the greater of a fixed floor and CPI, usually subject to a cap. Certain leases also include a **variable-rent component**, generally around **20%–30%** of rent, that can reset based on property revenues during specified periods.
+
+VICI estimates that the share of rent roll subject to **CPI-linked escalation** rises materially over time:
+
+| Year | CPI-Linked Rent Roll |
+|---|---:|
+| **2026E** | **45%** |
+| **2027E** | **47%** |
+| **2032E** | **74%** |
+| **2033E** | **77%** |
+| **2035E** | **87%** |
+
+This is slightly different from some earlier portfolio figures: the latest September 2026 presentation supports **74% / 77% / 87%** for 2032 / 2033 / 2035.
+
+### How VICI Makes Money
+
+VICI earns most of its revenue from **leasing real estate**, but it also acts as a capital provider to experiential operators. In addition to acquiring properties and collecting rent, VICI can provide **senior or mezzanine loans, preferred-equity / securities investments and development capital**. Some development partnerships are structured so VICI earns financing income during the investment period and/or receives **incremental contractual rent** when capital is deployed into an existing or future leased property.
+
+The revenue mix shows that leasing remains dominant, while financing income has become more meaningful:
+
+| Revenue Mix | 2023 | 2024 | 2025 |
+|---|---:|---:|---:|
+| **Leasing revenue** | **94.7%** | **93.4%** | **91.6%** |
+| **Income from loans & securities** | **2.2%** | **3.5%** | **5.5%** |
+| **Other income + golf** | **3.1%** | **3.1%** | **2.9%** |
+
+In dollar terms, leasing revenue was approximately **$3.421bn / $3.597bn / $3.670bn** in 2023 / 2024 / 2025, while income from loans and securities increased from approximately **$78.8m to $134.4m to $218.4m**.
+
+For this analysis I classify VICI's **lease-financing receivable income as leasing revenue**, consistent with the company's annual-report presentation. Some sale-leaseback transactions are accounted for as financing receivables under GAAP even though the underlying economics are contractual property rent.
+
 ## Current Market Snapshot — October 2026
 
 | Metric | Value |

@@ -86,6 +86,26 @@ Across those disclosed purchases, he acquired approximately **728,564 shares for
 
 I view this as a meaningful alignment signal, but not as proof that the stock is undervalued. Insider purchases are one input alongside valuation, leverage, cash conversion and operating execution.
 
+### Global Blue: Margin and Tourism Exposure Risk
+
+The **Global Blue acquisition** is one of the main reasons I remain cautious despite the lower valuation.
+
+Shift4 completed the acquisition in July 2025 for approximately **$2.7bn of cash consideration**. Strategically, Global Blue expands Shift4 into tax-free shopping, dynamic currency conversion and payments for global luxury retailers. The trade-off is that Global Blue has a different economic profile from the legacy Shift4 business.
+
+Management has explicitly said that Global Blue is **gross-margin accretive but slightly dilutive to adjusted EBITDA margin and working capital** in the near term. That matters because one of the key issues in my post-mortem is already the difference between EBITDA growth and cash ultimately available to common shareholders.
+
+The second concern is cyclicality. Global Blue's Tax-Free Shopping activity is exposed to **international travel and luxury spending**, so it adds sensitivity to variables that are outside Shift4's control.
+
+Shift4 already reduced the midpoint of its 2026 revenue guidance by roughly **200 bps** in Q2 because of travel disruption affecting tax-free shopping. That specific revision was primarily linked to the Middle East conflict, not China. Separately, however, I view weakness in Chinese luxury demand as another risk to monitor because Global Blue is tied to cross-border luxury shopping.
+
+The broader luxury environment has weakened materially in 2026. Hermès shares fell sharply after reporting that buying in China had not rebounded, while LVMH — owner of Louis Vuitton — has also suffered from weak Chinese demand and a broader luxury downturn. I therefore treat **China / luxury-sector weakness as an external demand risk**, not as a confirmed explanation for Shift4's current results.
+
+This creates an important tension in the thesis:
+
+**Global Blue expands Shift4's addressable market and international reach, but also adds lower-margin integration risk, working-capital drag and greater exposure to tourism and luxury spending cycles.**
+
+At a sufficiently low valuation I can accept that risk, but it strengthens my preference for a re-entry closer to **$30/share** rather than treating the current share price as automatically attractive.
+
 
 ## Process Changes
 
@@ -117,5 +137,7 @@ A good investment process should be able to explain:
 - [SEC Form 4 — March 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X03/ownership.xml)
 - [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
 - [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
+- [Shift4 FY2025 10-K — Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)
+- [Shift4 Q4 2025 shareholder letter — Global Blue margin profile](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000006/0001794669-26-000006.pdf)
 
 > This case study is personal research for professional portfolio purposes and is not investment advice.

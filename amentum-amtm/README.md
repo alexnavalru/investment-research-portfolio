@@ -17,6 +17,14 @@ The thesis is built around four elements:
 
 At roughly **$18–$19/share**, my internal model values the business in the mid-$20s under relatively conservative assumptions. My personal medium-term target is **above $25/share**, with upside dependent on execution, continued deleveraging and potentially accretive share repurchases.
 
+### Current Return Bridge
+
+Using the **October 6, 2026 close of $18.77/share**, a **$25/share** threshold implies approximately **33.2% price upside**. Amentum does **not currently pay a dividend**, so there is no dividend contribution in the return bridge.
+
+**Price return: +33.2% | Dividend: 0% | Total: +33.2%**
+
+Because my stated target is **above $25**, this should be read as a minimum return threshold rather than a precise endpoint.
+
 The most important catalyst is not that buybacks are guaranteed. It is that a material constraint on capital allocation has now fallen away at the same time that leverage has reached management's target range.
 
 ## Why the Reverse Morris Trust Matters
@@ -179,5 +187,6 @@ The investment case does not require a buyback to work, but a well-priced repurc
 - [Amentum — UK SMR owner's engineer contract](https://www.amentum.com/news/amentum-led-joint-venture-secures-406-million-contract-as-owners-engineer-for-uks-first-small-modular-reactors/)
 - [Amentum — Q3 FY2026 results / global nuclear bookings](https://ir.amentum.com/news/news-details/2026/Amentum-Reports-Third-Quarter-Fiscal-Year-2026-Results/default.aspx)
 - [Amentum — Sellafield preferred supplier selection](https://ir.amentum.com/news/news-details/2026/Amentum-Joint-Venture-Secures-Preferred-Position-for-Major-UK-Nuclear-Contract/default.aspx)
+- [AMTM historical price / dividend status — October 6, 2026](https://stockanalysis.com/stocks/amtm/)
 
 > Prospective entry level and valuation outputs are personal research assumptions. This case study is for professional portfolio purposes and is not investment advice.

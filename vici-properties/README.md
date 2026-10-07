@@ -64,17 +64,24 @@ At $22.73, that implies approximately **28.9% price upside + 8.1% current divide
 
 ## Total Return Potential
 
-To compare the valuation methods on the same basis, I use the **$22.73 current share price** and the **8.1% current dividend yield**. The primary valuation methods are NAV and SOTP; P/AFFO, EV/EBITDA and P/Book are secondary cross-checks.
+I separate the valuation into **primary asset-based methods** and **supporting valuation cross-checks**. All return figures use the **$22.73 current share price** and the **8.1% current dividend yield**.
 
-| Valuation Method | Key Assumption | Implied Price | Price Upside / (Downside) | Current Dividend Yield | Illustrative Total Return* |
+### Primary Valuation — NAV & SOTP
+
+| Method | Key Assumption | Implied Price | Price Upside | Dividend Yield | Illustrative Total Return* |
 |---|---|---:|---:|---:|---:|
 | **NAV** | 7.0% cap rate | **$30.10** | **+32.4%** | **+8.1%** | **~+40.5%** |
 | **SOTP** | Segment-specific cap rates | **$29.30** | **+28.9%** | **+8.1%** | **~+37.0%** |
-| **P/AFFO** | **~$2.41 2026E AFFO/share × 11.0x** | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
-| **EV/EBITDA** | **$3.456bn 2026E EBITDA × 12.0x − $16.8bn net debt; / 1.090bn diluted shares** | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
-| **P/Book** | **$27.06 2026E book value/share × 0.9x** | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
 
-\*Illustrative one-year framework: **price return to the implied valuation + current 8.1% dividend yield**, assuming the annual dividend remains **$1.84/share**. The methods are cross-checks, not targets to be averaged mechanically.
+### Other Valuation Cross-Checks
+
+| Method | 2026E Input & Assumption | Implied Price | Price Upside / (Downside) | Dividend Yield | Illustrative Total Return* |
+|---|---|---:|---:|---:|---:|
+| **P/AFFO** | **$2.41 AFFO/share × 11.0x** | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
+| **EV/EBITDA** | **$3.456bn EBITDA × 12.0x − $16.8bn net debt; / 1.090bn diluted shares** | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
+| **P/Book** | **$27.06 book value/share × 0.9x** | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
+
+\*Illustrative one-year framework: **price return to the implied valuation + current 8.1% dividend yield**, assuming the annual dividend remains **$1.84/share**. NAV and SOTP are the primary valuation methods; the remaining approaches are cross-checks and should not be averaged mechanically.
 
 ## Public Model Snapshot
 

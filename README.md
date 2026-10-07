@@ -27,12 +27,12 @@ A contrarian large-cap thesis developed during the 2025 collapse. The case focus
 
 **Skills demonstrated:** insurance economics, management assessment, normalized earnings, regulatory analysis, scenario valuation, long-dated options.
 
-### 4. [Shift4 Payments (FOUR) — Investment Post-Mortem](./shift4-payments-four/README.md)
-A review of an investment initiated around $66/share in December 2025. The post-mortem focuses on the difference between growth and cash conversion, the treatment of preferred dividends, and the valuation discipline required when paying for high growth.
+### 4. [Shift4 Payments (FOUR) — Investment Post-Mortem & Current Reassessment](./shift4-payments-four/README.md)
+A post-mortem of an investment initiated around $66/share in December 2025, now combined with a fresh watchlist reassessment after the subsequent valuation compression. The current framework focuses on FCF available to common shareholders, leverage, capital structure, founder alignment and valuation discipline. Founder Jared Isaacman's 2026 open-market purchases are included as a qualitative signal, while my preferred re-entry level is around $30/share.
 
 **Supporting research:** [FOUR Model Snapshot](./shift4-payments-four/MODEL_SNAPSHOT.md)
 
-**Skills demonstrated:** FCF reconstruction, capital-structure analysis, valuation, error analysis, process improvement.
+**Skills demonstrated:** FCF reconstruction, capital-structure analysis, insider/ownership analysis, valuation, error analysis, process improvement.
 
 
 ### 5. [PayPal (PYPL) — Turnaround, Cash Flow & Capital Allocation](./paypal-pypl/README.md)

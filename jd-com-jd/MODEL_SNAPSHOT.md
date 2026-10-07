@@ -124,6 +124,69 @@ Q2 2026 examples include:
 
 These are treated as **optionality**, not embedded aggressively into the base valuation.
 
+## Conservative NAV
+
+For JD, NAV is mainly a downside / balance-sheet reference rather than the primary valuation method.
+
+At Q2 2026:
+
+- JD.com shareholders' equity: **RMB219.1bn**
+- Goodwill: **RMB26.3bn**
+- Ordinary shares outstanding: **~2.688bn**
+- ADR ratio: **2 ordinary shares per ADR**
+- October 7, 2026 FX: **1 CNY ≈ $0.1492**
+
+This gives:
+
+| NAV measure | RMB bn | Approx. value / ADR |
+|---|---:|---:|
+| Book NAV | **219.1** | **~$24.3** |
+| Tangible NAV | **192.8** | **~$21.4** |
+
+This NAV intentionally does not capitalize JD's franchise, logistics network, technology, customer base or future earnings.
+
+## Conservative SOTP
+
+The SOTP is the more relevant valuation framework.
+
+### Base conservative case
+
+| Component | Assumption | RMB bn |
+|---|---:|---:|
+| JD Retail normalized EBIT | **RMB55bn** |  |
+| JD Retail EV / EBIT | **4.0x** | **220.0** |
+| JD Logistics | 100% current market EV | **58.3** |
+| New Businesses | **0 value** | **0.0** |
+| Conservative net cash | Internal model | **+151.8** |
+| Lease liabilities | Q2 2026 | **(35.4)** |
+| Non-controlling interests | Q2 2026 book value | **(63.3)** |
+| **JD equity value** |  | **331.7** |
+
+At approximately 2.688bn ordinary shares and two ordinary shares per ADR:
+
+**SOTP ≈ $36.8 per ADR**
+
+### Sensitivity
+
+| JD Retail EV / EBIT | Equity Value (RMB bn) | SOTP / ADR |
+|---|---:|---:|
+| **4.0x** | **331.7** | **~$36.8** |
+| **4.5x** | **359.2** | **~$39.9** |
+| **5.0x** | **386.7** | **~$42.9** |
+
+At a reference price of **$26.50**, these scenarios imply roughly **39%–62% upside**.
+
+The 4.0x case is intentionally conservative because:
+
+- H1 2026 JD Retail EBIT annualizes to ~RMB56.8bn, but the SOTP uses only **RMB55bn**;
+- New Businesses receive **zero value**;
+- no separate value is assigned to AI / automation optionality;
+- no value is assigned to CECONOMY before closing;
+- lease liabilities are treated as debt;
+- a meaningful China / governance discount remains appropriate.
+
+My personal medium-term target is **above $35 per ADR**, below the conservative SOTP output.
+
 ## Internal Model Valuation Context
 
 Selected model outputs:
@@ -137,6 +200,8 @@ The model intentionally does not capitalize every RMB of cash at full value beca
 
 The original preferred accumulation range was approximately **$20–$25 per ADR**.
 
+**Personal medium-term target: above $35 per ADR.**
+
 ### Public Sources
 
 - [JD.com Q2 / H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
@@ -144,5 +209,7 @@ The original preferred accumulation range was approximately **$20–$25 per ADR*
 - [SEC — Richard Liu ownership](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
 - [China — 2025 appliance subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
 - [China — 2026 appliance subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
+- [JD Logistics current valuation](https://stockanalysis.com/quote/hkg/2618/statistics/)
+- [JD Health current valuation](https://stockanalysis.com/quote/hkg/6618/statistics/)
 
 > Model values are personal assumptions and are not company guidance or investment advice.

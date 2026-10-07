@@ -97,7 +97,7 @@ The current FCF base is **depressed by heavy New Businesses investment**, so the
 
 This FCF method is separate from the NAV + SOTP framework and is **not added on top of it**, avoiding double counting.
 
-This is before giving explicit credit to the large net-cash position.
+The P/FCF outputs are already **equity-value** cross-checks, so I do not add net cash on top of them; the balance sheet is analyzed separately in the NAV framework.
 
 ## Shareholder Returns
 
@@ -144,15 +144,15 @@ I use NAV here only for **separable assets**. I do not include the operating ass
 
 ### Step 1 — Deconsolidated excess cash
 
-Q2 2026 consolidated liquid assets and financial debt imply approximately **RMB165.2bn of net financial cash**.
+After excluding **RMB13.4bn of restricted cash**, Q2 2026 unrestricted liquid assets and financial debt imply approximately **RMB151.8bn of unrestricted net financial cash**.
 
 To avoid double counting the cash already embedded in the quoted market values of listed subsidiaries, I remove the full net cash / net debt of JD Health, JD Industrials and JD Logistics from the consolidated amount.
 
-This leaves approximately **RMB106bn** of parent / residual-group net cash.
+This leaves approximately **RMB92.6bn** of parent / residual-group unrestricted net cash.
 
 I then reserve **RMB30bn** for working capital, strategic investment and acquisitions.
 
-**Excess cash credited to NAV: ~RMB76bn.**
+**Excess cash credited to NAV: ~RMB62.6bn.**
 
 ### Step 2 — Listed subsidiaries / spin-offs
 
@@ -184,7 +184,7 @@ JD Property is deliberately valued far below its **RMB121.5bn AUM**, because ass
 
 | Component | RMB bn |
 |---|---:|
-| Excess parent / residual cash | **76.0** |
+| Excess parent / residual cash | **62.6** |
 | JD Health stake | **51.3** |
 | JD Logistics stake | **28.2** |
 | JD Industrials stake | **16.9** |

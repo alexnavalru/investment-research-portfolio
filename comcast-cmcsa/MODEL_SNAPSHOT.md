@@ -27,7 +27,12 @@ My original written thesis explicitly highlighted low valuation, shareholder ret
 | Net debt / EBITDA | 2.41x | 2.39x | 2.46x | 2.30x |
 | Model FCF/share | $3.70 | $4.10 | $3.39 | $3.56 |
 
-The decline in modeled 2026 earnings and FCF reflects the changing asset base and weaker operating outlook rather than assuming a smooth continuation of the original thesis.
+The decline in modeled 2026 earnings and FCF reflects **two separate effects**:
+
+1. **Perimeter change:** Versant was separated on January 2, 2026, so its revenue, EBITDA and cash generation are no longer consolidated in Comcast.
+2. **Underlying operating weakness:** the remaining business also faced softer connectivity trends and other margin pressures.
+
+This distinction matters. In Q2 2026, reported revenue declined 1.2% and Adjusted EBITDA declined 13.4%, but on a pro forma basis reflecting the Versant separation and the sale of Sky Germany, revenue increased 4.7% and Adjusted EBITDA declined 5.3%. Therefore, a meaningful part of the headline 2026 step-down is due to the changed asset perimeter rather than pure organic deterioration.
 
 ## Original Valuation Logic
 

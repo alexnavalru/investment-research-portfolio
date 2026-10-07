@@ -23,6 +23,17 @@ The key question was not whether 2025 would be a bad year. It clearly would be. 
 
 My base-case valuation was **above $400/share**, with a medium-term range of roughly **$400–$450 by 2027**.
 
+### Current Return Bridge
+
+Using the **October 6, 2026 close of $376.32/share** and the latest **$2.32 quarterly dividend** (**$9.28 annualized**, ~**2.5% current yield**):
+
+| Target | Price Return | Dividend Contribution* | Illustrative Total Return* |
+|---|---:|---:|---:|
+| **$400** | **+6.3%** | **+2.5%** | **~+8.8%** |
+| **$450** | **+19.6%** | **+2.5%** | **~+22.0%** |
+
+\*Illustrative one-year bridge assuming the current annualized dividend is maintained. Because the thesis target is framed through 2027, the actual dividend contribution depends on how long the re-rating takes.
+
 ## Why the Selloff Became Interesting
 
 At the start of 2025, UnitedHealth expected adjusted EPS of **$29.50–$30.00**.
@@ -185,5 +196,7 @@ This case demonstrates how I approached a large-cap company experiencing a rapid
 - [U.S. Senate — 2024 Medicare Advantage investigation](https://www.hsgac.senate.gov/subcommittees/investigations/library/files/psi-majority-staff-report-medicare-advantage/)
 - [UnitedHealth — response to DOJ investigation](https://www.unitedhealthgroup.com/newsroom/2025/2025-07-24-uhg-responds-to-doj-investigation.html)
 - [CMS — 2026 Medicare Advantage payment update](https://www.cms.gov/newsroom/press-releases/cms-finalizes-2026-payment-policy-updates-medicare-advantage-part-d-programs)
+- [UnitedHealth — dividend history](https://www.unitedhealthgroup.com/investors/stock.html)
+- [UNH historical price — October 6, 2026](https://stockanalysis.com/stocks/unh/history/)
 
 > This is personal research prepared for professional portfolio purposes. The trade outcome is unaudited and is not presented as investment advice or audited investment performance.

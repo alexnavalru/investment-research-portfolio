@@ -3,7 +3,8 @@
 **Case type:** Fundamental Value / China Consumer / New-Business Optionality  
 **Status:** Watchlist; original entry zone identified around **$20–$25 per ADS**  
 **Reference price:** approximately **$26.50 per ADR on October 6, 2026**  
-**Primary skills:** segment analysis, normalized earnings, balance-sheet valuation, capital allocation, China consumer policy, optionality analysis
+**Personal medium-term target:** **above $35 per ADR**  
+**Primary skills:** segment analysis, normalized earnings, balance-sheet valuation, NAV, SOTP, capital allocation, China consumer policy, optionality analysis
 
 ## Executive Summary
 
@@ -150,7 +151,61 @@ My model also assumes continued share-count reduction from repurchases.
 
 The attraction is therefore not that JD requires an aggressive multiple to work. The market is already assigning a low value to the operating business after adjusting for financial liquidity.
 
-## 8. Founder Alignment — With an Important Governance Caveat
+## 8. Conservative NAV and SOTP
+
+For JD, **NAV is less informative than SOTP** because most of the value comes from operating businesses rather than passive assets. I therefore use NAV mainly as a balance-sheet floor and SOTP as the primary fair-value framework.
+
+### Conservative Balance-Sheet NAV
+
+At June 30, 2026, JD reported **RMB219.1bn of equity attributable to JD.com shareholders** and **RMB26.3bn of goodwill**.
+
+Using approximately **2.688bn ordinary shares outstanding**, with **2 ordinary shares per ADR**, and the October 7, 2026 CNY/USD exchange rate:
+
+- **Book NAV:** ~RMB219.1bn → approximately **$24.3 per ADR**
+- **Tangible NAV:** ~RMB192.8bn after subtracting goodwill → approximately **$21.4 per ADR**
+
+I view this as a conservative balance-sheet floor, not a fair-value target. It gives almost no credit to the earning power, brand, logistics network, technology stack or New-Business optionality.
+
+### Conservative SOTP
+
+The SOTP is deliberately structured to avoid relying on optimistic assumptions.
+
+I use:
+
+| Component | Conservative assumption | Value |
+|---|---:|---:|
+| JD Retail normalized EBIT | ~RMB55bn |  |
+| EV / EBIT multiple | **4.0x** | **RMB220bn** |
+| JD Logistics | Current 100% market EV | **~RMB58.3bn** |
+| New Businesses | **0 value** | **RMB0bn** |
+| Conservative net cash | Internal model | **+RMB151.8bn** |
+| Lease liabilities | Q2 2026 | **-RMB35.4bn** |
+| Non-controlling interests | Q2 2026 book value | **-RMB63.3bn** |
+| **Equity value** |  | **~RMB331.7bn** |
+
+This produces approximately **$36.8 per ADR**.
+
+The framework is intentionally conservative:
+
+- JD Retail's H1 2026 operating profit annualizes to roughly RMB56.8bn, but I use only **RMB55bn**.
+- I apply only **4x EV/EBIT** to JD Retail despite the balance-sheet quality and cash generation.
+- I give **zero value to New Businesses**, despite Food Delivery, Jingxi, Joybuy, JD Property and other optionality.
+- I do not include a separate premium for AI, autonomous logistics or the pending CECONOMY transaction.
+- JD Health and JD Industrials are already embedded within JD Retail, so I do not add their listed market values separately and risk double counting.
+
+For reference, modestly higher — but still undemanding — Retail multiples produce:
+
+| JD Retail EV/EBIT | SOTP / ADR |
+|---|---:|
+| **4.0x** | **~$36.8** |
+| **4.5x** | **~$39.9** |
+| **5.0x** | **~$42.9** |
+
+At the current ~$26.50 ADR price, the 4.0x case implies roughly **39% upside**.
+
+My personal medium-term target is therefore **above $35 per ADR**. I deliberately set the target below the conservative SOTP output because China-related governance, VIE, geopolitical, capital-allocation and execution risks justify a meaningful discount.
+
+## 9. Founder Alignment — With an Important Governance Caveat
 
 **Richard Qiangdong Liu** remains JD.com's founder and Chairman.
 
@@ -166,7 +221,7 @@ The alignment is therefore meaningful, but it comes with a governance trade-off:
 
 can align incentives, but minority shareholders have limited ability to influence strategic decisions if they disagree with management.
 
-## 9. Automation and AI Optionality
+## 10. Automation and AI Optionality
 
 JD's logistics infrastructure is already a competitive asset. Automation and AI create additional optionality to improve fulfillment efficiency and expand that infrastructure into external services.
 
@@ -181,7 +236,7 @@ Examples at Q2 2026 include:
 
 R&D expense increased **37.7% YoY in Q2 2026**, so this optionality is not free. The key question is whether the technology spend produces lower fulfillment costs, stronger customer retention, advertising monetization or new high-return businesses.
 
-## 10. New Businesses Create Multiple Sources of Optionality
+## 11. New Businesses Create Multiple Sources of Optionality
 
 The New Businesses segment includes or supports:
 
@@ -199,7 +254,7 @@ I do not assume Food Delivery will automatically reach Meituan-like historical m
 
 The more conservative thesis is simply that **reducing current losses can unlock large incremental consolidated earnings even without heroic steady-state margins**.
 
-## 11. European Expansion and CECONOMY
+## 12. European Expansion and CECONOMY
 
 JD is also expanding overseas through **Joybuy** and its planned acquisition of **CECONOMY**, the parent of MediaMarkt and Saturn.
 
@@ -219,6 +274,8 @@ I therefore treat CECONOMY as both:
 The original thesis identified approximately **$20–$25 per ADR** as the preferred accumulation range.
 
 At approximately **$26.50**, the stock is now close enough to that range that the thesis deserves active monitoring, but the valuation is not the only variable.
+
+My personal medium-term valuation objective is **above $35 per ADR**. This is below the conservative SOTP output of approximately **$36.8 per ADR** and materially below the ~$40–$43 range produced by 4.5x–5.0x Retail EV/EBIT scenarios.
 
 The next major check is whether:
 
@@ -269,5 +326,8 @@ The strongest version of the thesis does not require JD Food Delivery, AI or Eur
 - [China NDRC — 2026 appliance and digital-product subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
 - [Reuters — JD Q2 2026 revenue / high-base electronics comparison](https://www.reuters.com/business/retail-consumer/chinas-jdcom-beats-quarterly-revenue-estimates-2026-08-13/)
 - [Reuters — CECONOMY regulatory review, October 2026](https://www.reuters.com/business/retail-consumer/jdcom-set-win-eu-approval-ceconomy-deal-source-says-2026-10-02/)
+- [JD Logistics — current market valuation reference](https://stockanalysis.com/quote/hkg/2618/statistics/)
+- [JD Health — current market valuation reference](https://stockanalysis.com/quote/hkg/6618/statistics/)
+- [JD Health 2025 Annual Report — JD.com ownership / listed subsidiaries](https://manager.wisdomir.com/files/586/2026/0424/20260424171501_75649801_en.pdf)
 
 > This case study is personal research for professional portfolio purposes and is not investment advice. China-related equities carry governance, regulatory, geopolitical and market-structure risks that are not captured by valuation multiples alone.

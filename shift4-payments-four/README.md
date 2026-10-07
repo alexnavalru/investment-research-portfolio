@@ -78,11 +78,12 @@ Isaacman founded the company that became Shift4, stepped down as CEO in 2025, an
 
 SEC Form 4 filings show a series of open-market purchases in 2026:
 
-- **296,237 shares** purchased on February 26–27 at weighted-average prices around **$44–$48**;
-- **43,827 shares** purchased on March 10 around **$45.75**;
-- **388,500 shares** purchased on May 11–12 around **$40–$41**.
+- **296,237 shares** purchased on February 26–27 at weighted-average prices of approximately **$48.38 and $44.15**;
+- **45,693 shares** purchased on March 2 at a weighted-average price of approximately **$43.83**;
+- **43,827 shares** purchased on March 10 at a weighted-average price of approximately **$45.75**;
+- **388,500 shares** purchased on May 11–12 at weighted-average prices of approximately **$41.41 and $40.66**.
 
-Across those disclosed purchases, he acquired approximately **728,564 shares for about $31.6m**, at a weighted-average price of roughly **$43.4/share**.
+Across these disclosed purchases, Isaacman acquired approximately **774,257 shares for about $33.6m**, at a weighted-average price of roughly **$43.4/share**.
 
 I view this as a meaningful alignment signal, but not as proof that the stock is undervalued. Insider purchases are one input alongside valuation, leverage, cash conversion and operating execution.
 
@@ -134,7 +135,8 @@ A good investment process should be able to explain:
 
 - [NASA — Jared Isaacman biography](https://www.nasa.gov/people/jared-isaacman/)
 - [SEC Form 4 — February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
-- [SEC Form 4 — March 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X03/ownership.xml)
+- [SEC Form 4 — March 2, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1805608/000119312526089784/xslF345X03/ownership.xml)
+- [SEC Form 4 — March 10, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X05/ownership.xml)
 - [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
 - [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
 - [Shift4 FY2025 10-K — Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)

@@ -35,6 +35,17 @@ The current version of the personal model produces approximately:
 
 These outputs are broadly consistent with the original **$400–$450** medium-term target.
 
+## Current Return Bridge
+
+Using the **October 6, 2026 close of $376.32/share** and the latest **$2.32 quarterly dividend** (**$9.28 annualized**):
+
+| Target | Price Return | Dividend Contribution* | Illustrative Total Return* |
+|---|---:|---:|---:|
+| **$400** | **+6.3%** | **+2.5%** | **~+8.8%** |
+| **$450** | **+19.6%** | **+2.5%** | **~+22.0%** |
+
+\*One-year illustration assuming the current annualized dividend is maintained.
+
 ## Why Normalization Was Plausible
 
 The underlying assumption was not that medical inflation would disappear.

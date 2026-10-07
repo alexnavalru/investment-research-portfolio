@@ -28,7 +28,7 @@ A contrarian large-cap thesis developed during the 2025 collapse. The case focus
 **Skills demonstrated:** insurance economics, management assessment, normalized earnings, regulatory analysis, scenario valuation, long-dated options.
 
 ### 4. [Shift4 Payments (FOUR) — Investment Post-Mortem & Current Reassessment](./shift4-payments-four/README.md)
-A post-mortem of an investment initiated around $66/share in December 2025, now combined with a fresh watchlist reassessment after the subsequent valuation compression. The current framework focuses on FCF available to common shareholders, leverage, capital structure, founder alignment and valuation discipline. Founder Jared Isaacman's 2026 open-market purchases are included as a qualitative signal, while my preferred re-entry level is around $30/share.
+A post-mortem of an investment initiated around $66/share in December 2025, now combined with a fresh watchlist reassessment after the subsequent valuation compression. The current framework focuses on FCF available to common shareholders, leverage, capital structure, founder alignment, valuation discipline and the added margin/tourism risk from the Global Blue acquisition. Founder Jared Isaacman's 2026 open-market purchases are included as a qualitative signal, while my preferred re-entry level is around $30/share.
 
 **Supporting research:** [FOUR Model Snapshot](./shift4-payments-four/MODEL_SNAPSHOT.md)
 
@@ -58,7 +58,7 @@ An evolving special-situation case. The original thesis combined low valuation, 
 
 
 ### 8. [Amentum (AMTM) — Deleveraging, Capital Allocation & Post-RMT Catalyst](./amentum-amtm/README.md)
-A watchlist idea built around low valuation, rapid deleveraging, a growing backlog and the expiry of the two-year Reverse Morris Trust tax restrictions. The key optionality is a broader capital-allocation set — including potential share repurchases — now that leverage has reached management's target range.
+A watchlist idea built around low valuation, rapid deleveraging, a growing backlog, nuclear-energy growth optionality and the expiry of the two-year Reverse Morris Trust tax restrictions. The key optionality is a broader capital-allocation set — including potential share repurchases — now that leverage has reached management's target range.
 
 **Supporting research:** [Amentum Model Snapshot](./amentum-amtm/MODEL_SNAPSHOT.md)
 

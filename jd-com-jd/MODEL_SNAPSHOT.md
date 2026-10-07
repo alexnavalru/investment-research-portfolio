@@ -288,6 +288,16 @@ The original preferred accumulation range was approximately **$20–$25 per ADR*
 
 **Personal medium-term target: above $35 per ADR.**
 
+## Target Return Bridge
+
+Using the **$26.50 ADR reference price** and a **$1.00 annual dividend per ADS**:
+
+| Target | Price Return | Dividend Contribution* | Illustrative Total Return* |
+|---|---:|---:|---:|
+| **$35** | **+32.1%** | **+3.8%** | **~+35.8%** |
+
+\*One-year illustration assuming the $1.00 annual dividend is maintained. Because the target is **above $35**, the table represents a minimum threshold.
+
 ### Public Sources
 
 - [JD.com Q2 / H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)

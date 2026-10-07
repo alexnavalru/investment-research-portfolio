@@ -27,6 +27,14 @@ I do not view that multiple as genuinely cheap because the denominator is unusua
 
 My normalized valuation is **below €24/share**.
 
+### Current Return Bridge
+
+Using the **October 6, 2026 close of €28.76/share** and Repsol's **€1.051/share total cash dividend paid in 2026** (~**3.7%** of the October 6 share price), an illustrative move to **€24/share** would imply:
+
+**Price return: -16.6% | Dividend contribution: +3.7% | Illustrative total return: ~-12.9%**
+
+Because my normalized thesis value is **below €24**, €24 is the upper end of the bear-case valuation rather than the final downside target. If the share price fell below €24, the negative price contribution would be larger.
+
 ## Why the Current Earnings Level Looks Cyclically Elevated
 
 Repsol benefits from several parts of the energy value chain:
@@ -210,5 +218,7 @@ The core analytical framework is:
 - [Repsol — Q2 2026 results](https://www.repsol.com/en/shareholders-and-investors/financial-information/quarterly-results/index.cshtml)
 - [Repsol — FY2025 results and new reporting model](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/rif/2026/rif19022026-press-release-results-year-2025.pdf)
 - [Reuters — oil around $100/bbl amid October 2026 geopolitical supply risks](https://www.reuters.com/business/energy/oil-prices-rise-storms-air-strikes-threaten-supply-2026-10-07/)
+- [Repsol — 2026 cash dividend](https://www.repsol.com/es/accionistas-inversores/club-accionistas/actualidad-en-accion/club-accionistas/repsol-aprueba-junta-retribucion-alza/index.cshtml)
+- [Repsol historical price — October 6, 2026](https://es.investing.com/equities/repsol-ypf-historical-data)
 
 > This is a bearish research case, not a recommendation to short the stock. Commodity-cycle timing is inherently uncertain. Model outputs are personal assumptions and are not company guidance.

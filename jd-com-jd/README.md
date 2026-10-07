@@ -151,101 +151,31 @@ My model also assumes continued share-count reduction from repurchases.
 
 The attraction is therefore not that JD requires an aggressive multiple to work. The market is already assigning a low value to the operating business after adjusting for financial liquidity.
 
-## 8. Look-Through NAV + Penalized Operating SOTP
+## 8. Valuation — Conservative NAV + Penalized SOTP
 
-For JD, I do **not** add book NAV to an operating valuation. That would double count the assets used by the operating business.
+I separate **separable-asset NAV** from the value of the operating business to avoid double counting.
 
-Instead, I separate the valuation into two blocks:
+My conservative NAV includes excess cash, JD's listed stakes in **JD Health, JD Logistics and JD Industrials**, plus conservative values for JD Technology, Home Credit, JD Property and other financial investments. After haircuts and reserving capital for working capital / future investment, I estimate:
 
-1. **Conservative separable-asset NAV:** excess cash, listed subsidiary stakes, equity-method investments and other financial / non-core assets that can be valued independently.
-2. **Residual operating SOTP:** the earning power of the core JD Retail operation **after stripping out the operating profit of listed subsidiaries already included in NAV**.
+**Conservative separable NAV: ~RMB225.7bn, or ~$25.1 per ADR.**
 
-This distinction is critical: the NAV below is **only the net value of separable assets**. It deliberately assigns **zero value to the residual operating franchise itself** — brand, customer base, procurement scale, marketplace, fulfillment network, technology and future earnings are valued only in the SOTP.
+This NAV deliberately excludes the value of JD's residual operating franchise.
 
-### Conservative Separable-Asset NAV
+I then value the residual JD Retail core separately. After removing the operating contribution of subsidiaries already included in NAV, residual core EBIT is approximately **RMB49.5bn annualized**. I apply only **4x EV/EBIT**.
 
-JD's consolidated Q2 2026 balance sheet contained RMB235.1bn of cash, restricted cash and short-term investments against roughly RMB69.9bn of financial debt and senior notes, or about RMB165.2bn of consolidated net financial cash.
+New Businesses currently reduce group profitability significantly: H1 2026 operating loss was **RMB20.2bn**, or roughly **RMB40.4bn annualized** at the current run rate.
 
-Because the cash of JD Health, JD Industrials and JD Logistics is already embedded in their quoted equity values, I first deconsolidate those subsidiaries' net cash / net debt from the group number. That leaves roughly **RMB106bn** attributable to the parent / residual group. I then retain an additional **RMB30bn operating and acquisition reserve**, giving credit to only about **RMB76bn of excess cash**.
+This produces three simple scenarios:
 
-For the listed subsidiaries, I use JD's attributable ownership at current market values and apply a further **20% holding-company / China / liquidity haircut**.
+| Scenario | Total Value / ADR |
+|---|---:|
+| **Current New Businesses drag persists** | **~$29.1** |
+| **New Businesses losses fall by 50%** | **~$38.1** |
+| **New Businesses reach break-even** | **~$47.0** |
 
-| Separable asset | Conservative treatment | Attributable value |
-|---|---:|---:|
-| Parent / residual excess net cash | Deconsolidated cash less RMB30bn reserve | **RMB76.0bn** |
-| JD Health (67%) | Current attributable market value less 20% haircut | **RMB51.3bn** |
-| JD Logistics (63%) | Current attributable market value less 20% haircut | **RMB28.2bn** |
-| JD Industrials (71%) | Current attributable market value less 20% haircut | **RMB16.9bn** |
-| JD Technology | 80% of 2025 carrying value | **RMB12.0bn** |
-| Home Credit direct stake | 80% of carrying / acquisition value | **RMB1.9bn** |
-| Other equity-method investments | 25% of residual carrying value | **RMB10.1bn** |
-| JD Property / property platform | Conservative placeholder; 75% owned, IPO pending | **RMB10.0bn** |
-| Marketable securities & other investments | 50% of Q2 2026 carrying value | **RMB19.2bn** |
-| Dada / other New Businesses | No separate NAV credit | **RMB0bn** |
-| CECONOMY | No value before transaction close | **RMB0bn** |
-| **Conservative separable NAV** |  | **~RMB225.7bn** |
+The break-even case still assigns **zero positive value** to Food Delivery, Jingxi, Joybuy and the rest of New Businesses; they simply stop destroying value.
 
-Using approximately **2.688bn ordinary shares**, two ordinary shares per ADR and the October 7, 2026 CNY/USD exchange rate, this is approximately:
-
-**Conservative separable NAV ≈ $25.1 per ADR**
-
-This is deliberately not a conventional accounting NAV. It is a **look-through separable-asset NAV** designed to avoid double counting. I do not separately include inventory, PPE, land, warehouses or working capital used by JD Retail because those assets are necessary to generate the operating earnings valued below.
-
-The estimate is also intentionally conservative:
-
-- public subsidiary stakes receive a 20% haircut;
-- only half of marketable securities / other investments is credited;
-- residual equity-method investments receive a 75% haircut;
-- JD Property receives only RMB10bn despite managing RMB121.5bn of assets at September 2025 — AUM is not equity value, so I do not capitalize it directly;
-- Dada and the rest of New Businesses receive no separate positive value;
-- CECONOMY receives no value before closing;
-- RMB30bn of residual net cash is reserved for working capital, investment and acquisitions rather than treated as excess.
-
-### Residual Core Operating SOTP
-
-Because JD Health and JD Industrials are already valued separately in NAV, I remove their operating earnings from JD Retail before valuing the residual core.
-
-H1 2026 operating profit:
-
-- JD Retail: **RMB28.438bn**
-- less JD Health: **RMB3.174bn**
-- less JD Industrials: **RMB0.530bn**
-- residual JD Retail H1 EBIT: **~RMB24.734bn**
-- annualized residual core EBIT: **~RMB49.5bn**
-
-I apply only **4.0x EV/EBIT** to this residual core.
-
-The main uncertainty is New Businesses. H1 2026 New Businesses operating loss was **RMB20.206bn**, or approximately **RMB40.4bn annualized** if the H1 run rate persisted.
-
-I therefore show three scenarios:
-
-| Scenario | Residual core EBIT | New Businesses annual drag used | Net EBIT valued at 4x | Operating SOTP |
-|---|---:|---:|---:|---:|
-| **Current-drag / extreme bear** | RMB49.5bn | **(RMB40.4bn)** | RMB9.1bn | **RMB36.2bn** |
-| **50% loss normalization** | RMB49.5bn | **(RMB20.2bn)** | RMB29.3bn | **RMB117.0bn** |
-| **New Businesses break-even** | RMB49.5bn | **RMB0bn** | RMB49.5bn | **RMB197.9bn** |
-
-The first scenario is intentionally punitive: it assumes the current H1 2026 New Businesses loss rate persists indefinitely and capitalizes that drag at the same 4x multiple. It is not my base case; it is a downside stress test.
-
-The break-even case also remains conservative because it gives **zero positive operating value** to Food Delivery, Jingxi, Joybuy, JD Property and the other New Businesses. They merely stop subtracting value.
-
-### Total Value = Conservative NAV + Penalized Operating SOTP
-
-Combining the separable-asset NAV with the operating SOTP produces:
-
-| Scenario | Conservative NAV | Operating SOTP | Total equity value | Value / ADR | Upside vs ~$26.50 |
-|---|---:|---:|---:|---:|---:|
-| **Current New Businesses drag persists** | RMB225.7bn | RMB36.2bn | **RMB261.9bn** | **~$29.1** | **~10%** |
-| **50% of current drag remains** | RMB225.7bn | RMB117.0bn | **RMB342.7bn** | **~$38.1** | **~44%** |
-| **New Businesses reach break-even** | RMB225.7bn | RMB197.9bn | **RMB423.6bn** | **~$47.0** | **~77%** |
-
-This is the key valuation insight.
-
-Even an **extreme current-loss perpetuity** produces a value only modestly above the current ADR price because the separable assets cover most of the market capitalization. If New Businesses merely reduce their losses by half, the valuation moves into the high-$30s. Full break-even — still assigning no positive value to New Businesses — moves the SOTP toward the high-$40s.
-
-My personal medium-term target remains **above $35 per ADR**. Importantly, reaching $35 does **not** require New Businesses to become profitable. On this framework, it requires their annualized operating drag to fall from roughly RMB40.4bn to about **RMB27bn**, a reduction of only around **one third**.
-
-That is why I view the current valuation as asymmetric: the market is already pricing a large amount of current New-Business pain, while the balance sheet, listed stakes and other separable assets provide substantial support.
+My personal medium-term target remains **above $35 per ADR**. On this framework, JD does not need New Businesses to become profitable to justify that target — current losses only need to fall by roughly one third.
 
 ## 9. Founder Alignment — With an Important Governance Caveat
 

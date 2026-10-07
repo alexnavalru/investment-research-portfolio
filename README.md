@@ -20,7 +20,14 @@ A REIT research case focused on AFFO, leverage, per-share economics, capital all
 
 **Skills demonstrated:** REIT accounting, AFFO, leverage analysis, financial modeling, valuation.
 
-### 3. [Shift4 Payments (FOUR) — Investment Post-Mortem](./shift4-payments-four/README.md)
+### 3. [UnitedHealth Group (UNH) — Crisis-Driven Fundamental Thesis](./unitedhealth-unh/README.md)
+A contrarian large-cap thesis developed during the 2025 collapse. The case focuses on separating a severe pricing and medical-cost mismatch from permanent franchise impairment, evaluating the return of former CEO Stephen Hemsley, regulatory risk and a multi-year normalization path.
+
+**Supporting research:** [UNH Valuation Snapshot](./unitedhealth-unh/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** insurance economics, management assessment, normalized earnings, regulatory analysis, scenario valuation, long-dated options.
+
+### 4. [Shift4 Payments (FOUR) — Investment Post-Mortem](./shift4-payments-four/README.md)
 A review of an investment initiated around $66/share in December 2025. The post-mortem focuses on the difference between growth and cash conversion, the treatment of preferred dividends, and the valuation discipline required when paying for high growth.
 
 **Supporting research:** [FOUR Model Snapshot](./shift4-payments-four/MODEL_SNAPSHOT.md)

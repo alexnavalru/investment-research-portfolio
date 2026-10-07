@@ -15,6 +15,52 @@ For a REIT, the analytical focus shifts toward:
 - dilution and per-share compounding;
 - valuation relative to recurring cash flow and asset value.
 
+## Company & Portfolio Overview
+
+VICI is an experiential triple-net REIT. Its core business is to own real estate and lease it to gaming, hospitality and other experiential operators under long-duration agreements. Under a **triple-net lease**, the tenant is generally responsible for property-level operating expenses, taxes, insurance and maintenance/capital requirements, which allows VICI to earn high-margin contractual rent with comparatively limited property-level capex.
+
+Based on VICI's latest September 2026 investor presentation, with portfolio data as of **September 1, 2026**:
+
+- **16 real-estate tenants** across **103 experiential assets**: **63 gaming properties** and **40 other experiential properties**.
+- The three largest tenants represent approximately **79% of annualized cash rent**: **Caesars 38%**, **MGM Resorts 32%** and **The Venetian 9%**.
+- Portfolio footprint across the **United States and Canada**, totaling approximately **130 million square feet**, about **66,000 hotel rooms** and more than **700 restaurants, bars, nightclubs and sportsbooks**.
+- Properties on the **Las Vegas Strip generated approximately 49% of lease revenues** in H1 2026.
+- **100% occupancy**, **100% triple-net leases**, and **100% rent collection since VICI's formation in 2017, including through COVID**.
+- Weighted-average lease term (**WALT**) of approximately **39.4 years**, including tenant renewal options.
+- Approximately **88% of rent roll has parent guarantees** and **82% is protected by master leases**. Parent guarantees broaden the payment obligation beyond an individual property-level tenant, while master leases make it harder for an operator to selectively reject a weak property while retaining stronger assets.
+
+### Rent Escalators & Inflation Protection
+
+All of VICI's lease agreements provide for annual base-rent escalation. Depending on the lease, this can be a fixed annual increase, typically around **1%–2%**, or later transition to the greater of a fixed floor and CPI, usually subject to a cap. Certain leases also include a **variable-rent component**, generally around **20%–30%** of rent, that can reset based on property revenues during specified periods.
+
+VICI estimates that the share of rent roll subject to **CPI-linked escalation** rises materially over time:
+
+| Year | CPI-Linked Rent Roll |
+|---|---:|
+| **2026E** | **45%** |
+| **2027E** | **47%** |
+| **2032E** | **74%** |
+| **2033E** | **77%** |
+| **2035E** | **87%** |
+
+This is slightly different from some earlier portfolio figures: the latest September 2026 presentation supports **74% / 77% / 87%** for 2032 / 2033 / 2035.
+
+### How VICI Makes Money
+
+VICI earns most of its revenue from **leasing real estate**, but it also acts as a capital provider to experiential operators. In addition to acquiring properties and collecting rent, VICI can provide **senior or mezzanine loans, preferred-equity / securities investments and development capital**. Some development partnerships are structured so VICI earns financing income during the investment period and/or receives **incremental contractual rent** when capital is deployed into an existing or future leased property.
+
+The revenue mix shows that leasing remains dominant, while financing income has become more meaningful:
+
+| Revenue Mix | 2023 | 2024 | 2025 |
+|---|---:|---:|---:|
+| **Leasing revenue** | **94.7%** | **93.4%** | **91.6%** |
+| **Income from loans & securities** | **2.2%** | **3.5%** | **5.5%** |
+| **Other income + golf** | **3.1%** | **3.1%** | **2.9%** |
+
+In dollar terms, leasing revenue was approximately **$3.421bn / $3.597bn / $3.670bn** in 2023 / 2024 / 2025, while income from loans and securities increased from approximately **$78.8m to $134.4m to $218.4m**.
+
+For this analysis I classify VICI's **lease-financing receivable income as leasing revenue**, consistent with the company's annual-report presentation. Some sale-leaseback transactions are accounted for as financing receivables under GAAP even though the underlying economics are contractual property rent.
+
 ## Current Valuation Snapshot — October 2026
 
 VICI closed at approximately **$22.73/share on October 6, 2026**. The latest quarterly dividend is **$0.46/share**, or **$1.84 annualized**, implying a current dividend yield of approximately **8.1%**.
@@ -164,38 +210,16 @@ The model focuses on:
 - share dilution and per-share compounding;
 - P/AFFO, NAV, SOTP, EV/EBITDA and P/Book valuation cross-checks.
 
-## Key Questions
-
-### 1. Is AFFO per share compounding?
-
-Absolute growth is not enough for a REIT that regularly accesses external capital. The model therefore tracks AFFO per share alongside diluted shares.
-
-### 2. Is leverage sustainable?
-
-Net debt / EBITDA is tracked directly to assess whether growth is being financed at a level that remains consistent with the business model.
-
-### 3. Is the dividend supported by recurring cash flow?
-
-At the current annualized dividend of **$1.84/share**, VICI offers an approximately **8.1% dividend yield** at a $22.73 share price. I treat that yield as an important part of the expected return while waiting for a potential re-rating, and evaluate its sustainability through AFFO coverage rather than accounting earnings alone.
-
-### 4. What valuation framework is appropriate?
-
-I use several cross-checks:
-
-- **P/AFFO**
-- **NAV**
-- **Sum-of-the-Parts**
-- **EV/EBITDA**
-- **P/Book**
-
-No single method is treated as the answer. The point is to understand what each method implies and whether they tell a consistent story.
-
 ## What This Case Demonstrates
 
 The VICI case is intended to show a more traditional modeling process than the Lionsgate special situation. It demonstrates my ability to work through historical financials, identify the right sector-specific metric, forecast per-share economics and connect operating assumptions to valuation.
 
 ### Sources
 
+- [VICI September 2026 Investor Presentation](https://investors.viciproperties.com/static-files/66194a2c-b74b-4519-85be-64da2c0c1d29)
+- [VICI 2025 Annual Report / Form 10-K](https://investors.viciproperties.com/static-files/8a76eb1d-45cd-46e1-96a3-9cde572ce4a3)
+- [VICI 2024 Annual Report / Form 10-K](https://investors.viciproperties.com/static-files/cd5639ce-05a6-4f60-a180-529903a44696)
+- [VICI Q2 2026 Form 10-Q](https://investors.viciproperties.com/static-files/9ccc5e77-6ffd-459a-a966-e825b6e791ae)
 - [VICI Q2 2026 Supplemental Financial Information](https://investors.viciproperties.com/static-files/4bd1c7f3-8a07-4af9-ae2d-b8da7d7ba208)
 - [VICI September 2026 dividend announcement](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-increases-regular-quarterly-dividend-2)
 - [Golden Entertainment transaction overview — 7.5% acquisition cap rate](https://investors.viciproperties.com/static-files/0fb2943a-42fe-48b2-8a8e-7661051d2440)

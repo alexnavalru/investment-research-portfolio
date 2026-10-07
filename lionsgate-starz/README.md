@@ -40,7 +40,22 @@ One qualitative part of my original work was the ownership build-up by **Liberty
 
 Mnuchin was the **77th U.S. Secretary of the Treasury in the first Trump administration (2017–2021)** and had also served as finance chairman for Donald Trump's 2016 presidential campaign. I therefore studied both his investment history and the possible regulatory backdrop for a future strategic transaction.
 
-Liberty 77 had accumulated a substantial voting position in Lions Gate before the separation. SEC filings show the group at **7.9% of the Class A voting shares in January 2024** and **12.6% by mid-2024**. After the separation, Liberty 77 also remained a major Lionsgate Studios shareholder, with approximately **13%** disclosed in 2025.
+Liberty 77 had accumulated a substantial voting position in Lions Gate before the separation. SEC filings show the group at **7.9% of the Class A voting shares in January 2024** and **12.6% by mid-2024**. After the separation, Liberty 77 remained a major Lionsgate Studios shareholder.
+
+### Ownership Follow-Through
+
+The ownership behavior after the separation is also relevant to the thesis.
+
+At the time of the spin-off, **Mark H. Rachesky / MHR Fund Management** beneficially owned roughly **37.9m shares**, while **Liberty 77 Capital** owned roughly **37.5m shares**. Both had accumulated heavily around the restructuring process.
+
+The important follow-up is that neither investor has made a material economic exit from the position. Lionsgate's 2026 proxy still showed:
+
+- **Mark H. Rachesky / MHR:** approximately **37.91m shares**, or **12.7%**;
+- **Liberty 77 Capital:** approximately **37.55m shares**, or **12.6%**.
+
+MHR did complete a 2026 continuation-fund transaction that moved shares among affiliated vehicles, so it would be inaccurate to say there were literally no reportable dispositions. Economically, however, the latest ownership disclosures show that MHR and Liberty 77 remained two of the largest shareholders rather than materially reducing exposure.
+
+I treat that as **supportive evidence, not proof, of continued conviction**. Large shareholders can have many reasons for holding or restructuring positions, but the fact that both remained heavily exposed after the spin-off is consistent with the idea that they continued to see strategic or fundamental value.
 
 I did **not** treat Mnuchin's involvement as evidence of inside information or as proof that a sale would happen. Instead, I viewed it as an additional qualitative signal: a sophisticated investor with deep finance, entertainment and regulatory experience was committing meaningful capital while the company was restructuring to create two cleaner standalone assets.
 
@@ -102,6 +117,9 @@ The research process used public filings, earnings calls, management commentary,
 - [SEC Schedule 13D — Liberty 77 ownership, January 2024](https://www.sec.gov/Archives/edgar/data/929351/000095014224000180/eh240439180_13da1-lgf.htm)
 - [Lionsgate 10-K/A — Liberty 77 at 12.6% of Class A voting shares](https://www.sec.gov/Archives/edgar/data/929351/000119312524187548/d858515d10ka.htm)
 - [Lionsgate ownership filing — Liberty 77 at approximately 13% post-separation](https://www.sec.gov/Archives/edgar/data/2052959/000119312525173603/d812719d424b3.htm)
+- [Lionsgate 2026 Proxy — Rachesky/MHR and Liberty 77 remain major shareholders](https://www.sec.gov/Archives/edgar/data/2052959/000119312526321010/d105125ddef14a.htm)
+- [MHR Schedule 13D/A — July 2026 continuation-fund transaction](https://www.sec.gov/Archives/edgar/data/2052959/000119312526299128/xslSCHEDULE_13D_X02/primary_doc.xml)
+- [Liberty 77 Schedule 13D/A — January 2026 ownership](https://www.sec.gov/Archives/edgar/data/2052959/000095014226000238/xslSCHEDULE_13D_X01/primary_doc.xml)
 - [U.S. Treasury — Steven T. Mnuchin, 77th Treasury Secretary, 2017–2021](https://home.treasury.gov/about/history/prior-secretaries/steven-t-mnuchin-2017-2021)
 - [DOJ — 2023 Merger Guidelines retained in 2025](https://www.justice.gov/atr/media/1389861/dl)
 

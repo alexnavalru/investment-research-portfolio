@@ -206,6 +206,14 @@ Because **4x is intentionally conservative**, I also monitor the effect of a 4xâ
 
 My personal medium-term target remains **above $35 per ADR**. At the deliberately conservative 4x multiple, JD still does not need New Businesses to become profitable to justify that target: the annualized New Businesses drag could remain around **RMB23.7bn**, versus roughly RMB40.4bn currently.
 
+### Target Return Bridge
+
+Using the **$26.50 ADR reference price** and the latest **$1.00 annual dividend per ADS**:
+
+**Price return to $35: +32.1% | Dividend contribution: +3.8% | Illustrative total return: ~+35.8%**
+
+Because my target is **above $35**, this is a minimum threshold. The dividend contribution assumes the $1.00 annual dividend is maintained over an approximately one-year holding period.
+
 ## 9. Founder Alignment â€” With an Important Governance Caveat
 
 **Richard Qiangdong Liu** remains JD.com's founder and Chairman.

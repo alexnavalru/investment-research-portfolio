@@ -66,6 +66,24 @@ Founder Jared Isaacman disclosed multiple open-market purchases in 2026 totaling
 Isaacman is currently NASA Administrator and remains a major Shift4 shareholder. I treat the purchases as an alignment signal, not as a substitute for fundamental analysis.
 
 
+## Global Blue Risk Overlay
+
+The model should not treat Global Blue as a pure growth add-on.
+
+Shift4 has said Global Blue is **slightly dilutive to adjusted EBITDA margins and to working capital** in the near term, despite being gross-margin accretive. This is relevant because the post-mortem already focuses on cash conversion rather than headline EBITDA growth.
+
+Global Blue also increases exposure to:
+
+- international tourism;
+- cross-border luxury spending;
+- foreign exchange;
+- travel disruption;
+- cyclicality in high-end discretionary consumption.
+
+In Q2 2026, Shift4 lowered the midpoint of full-year revenue guidance by roughly **200 bps**, citing travel disruption affecting tax-free shopping. Separately, weakness in Chinese luxury demand and the broader luxury sector is an additional external risk to monitor rather than a currently proven cause of Shift4's results.
+
+At a prospective **$30/share** entry level, I would want a wider margin of safety specifically because the Global Blue acquisition introduces both integration risk and a more cyclical revenue mix.
+
 ## Process Rules Added After the Investment
 
 1. Reconcile adjusted FCF with the cash-flow statement.
@@ -81,5 +99,7 @@ Isaacman is currently NASA Administrator and remains a major Shift4 shareholder.
 - [SEC Form 4 — February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
 - [SEC Form 4 — March 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X03/ownership.xml)
 - [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
+- [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
+- [Shift4 FY2025 10-K — Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)
 
 > Figures above are taken from the simplified public version of my personal model and are presented for portfolio demonstration only.

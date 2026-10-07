@@ -57,6 +57,19 @@ At Q3 FY2026:
 
 Backlog is not guaranteed revenue because it includes unfunded work and option periods, but it is an important measure of future opportunity and contract visibility.
 
+## Nuclear Growth Optionality
+
+I do not explicitly capitalize a separate nuclear premium in the base valuation. Instead, I treat nuclear as an upside option supported by recent contract wins.
+
+Selected 2026 evidence:
+
+- up to **$207m** for an Amentum-led consortium supporting the Netherlands' new nuclear program;
+- **$406m** for an Amentum-led JV serving as owner's engineer for the UK's first SMR program;
+- **>$400m** of Q3 FY2026 bookings tied to advanced nuclear engineering, development and design;
+- preferred-supplier status on a Sellafield framework worth up to **$2.78bn**.
+
+This matters because the current model does not require an aggressive nuclear-growth assumption to reach the low-to-mid $20s valuation range. If global nuclear investment accelerates and Amentum converts these capabilities into recurring backlog and cash flow, that would represent incremental upside.
+
 ## Reverse Morris Trust Catalyst
 
 The CMS distribution / Amentum combination closed on **September 27, 2024**.
@@ -80,5 +93,8 @@ The purpose of this scenario is to test how low-valuation repurchases could chan
 - [Amentum FY2025 10-K](https://www.sec.gov/Archives/edgar/data/2011286/000162828025053993/amtm-20251003.htm)
 - [Amentum Q3 FY2026 results](https://www.sec.gov/Archives/edgar/data/2011286/000162828026055294/exhibit991-august102026.htm)
 - [Amentum 2026 Proxy](https://www.sec.gov/Archives/edgar/data/2011286/000110465925123111/tm2523471-2_def14a.htm)
+- [Amentum Q3 FY2026 results / nuclear bookings](https://ir.amentum.com/news/news-details/2026/Amentum-Reports-Third-Quarter-Fiscal-Year-2026-Results/default.aspx)
+- [Amentum UK SMR contract](https://www.amentum.com/news/amentum-led-joint-venture-secures-406-million-contract-as-owners-engineer-for-uks-first-small-modular-reactors/)
+- [Amentum Netherlands nuclear program](https://www.amentum.com/news/amentum-led-consortium-wins-207-million-contract-from-dutch-government-for-new-nuclear-program/)
 
 > Model figures are personal assumptions and are not company guidance or investment advice.

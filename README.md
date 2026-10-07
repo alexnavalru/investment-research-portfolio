@@ -64,6 +64,14 @@ A watchlist idea built around low valuation, rapid deleveraging, a growing backl
 
 **Skills demonstrated:** leverage analysis, FCF valuation, backlog analysis, capital allocation, special-situation/tax-structure analysis.
 
+
+### 9. [Repsol (REP) — Cyclical Peak / Normalized Earnings Bear Case](./repsol-rep/README.md)
+A bearish cyclical thesis focused on the difference between **peak 2026 cash generation and normalized mid-cycle earnings**. Repsol is a stronger company than in prior cycles, with better capital allocation and shareholder returns, but current oil and especially refining economics are far above the company's own strategic assumptions. The case tests whether an optically low ~5x current FCF multiple remains cheap once the cycle is normalized.
+
+**Supporting research:** [Repsol Bear-Case Model Snapshot](./repsol-rep/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** commodity-cycle analysis, refining economics, normalized FCF, accounting adjustments, scenario valuation, bearish thesis construction.
+
 ## Research Approach
 
 My default process is:

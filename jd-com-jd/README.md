@@ -147,6 +147,18 @@ Using a market capitalization around **RMB250bn**, the stock trades at roughly:
 - **~8x market cap / FCF** on a ~RMB30–31bn cash-flow base;
 - with approximately **60% of market capitalization represented by conservative model net cash**.
 
+Using **RMB30bn of 2026 FCF** as a cross-check and approximately **1.344bn ADR-equivalent shares**, the implied equity values are:
+
+| P / FCF | Implied Equity Value | Implied Value / ADR |
+|---|---:|---:|
+| **8x** | **RMB240bn** | **~$26.6** |
+| **10x** | **RMB300bn** | **~$33.3** |
+| **12x** | **RMB360bn** | **~$39.9** |
+
+This is an important cross-check because the current **~RMB30bn FCF is still depressed by heavy New Businesses investment**. If those losses continue to normalize, the same 8x–12x multiples would imply materially higher ADR values.
+
+This FCF approach is **not added to the NAV + SOTP framework**; it is a separate valuation cross-check to avoid double counting.
+
 My model also assumes continued share-count reduction from repurchases.
 
 The attraction is therefore not that JD requires an aggressive multiple to work. The market is already assigning a low value to the operating business after adjusting for financial liquidity.

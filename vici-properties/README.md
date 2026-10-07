@@ -177,6 +177,25 @@ MGM is the opposite accounting case. Its **Consolidated Adjusted EBITDA includes
 
 MGM's VICI-specific coverage is very strong, but total corporate coverage is materially lower because MGM also pays substantial rent to other landlords. That is exactly why I prefer the total-corporate measure when assessing solvency.
 
+### Ownership-Change / Privatization Risk — Caesars & MGM
+
+The ownership structure of VICI's two largest tenants is also changing or has recently been under review, which creates an additional layer of credit-monitoring risk.
+
+**Caesars:** on May 28, 2026, Caesars entered into a definitive agreement to be acquired by **Fertitta Entertainment** for **$31/share in cash**, in a transaction valued at approximately **$17.6bn including the assumption of ~$11.9bn of Caesars debt**. Caesars shareholders approved the merger on September 22, 2026. The deal is still subject to regulatory and other closing conditions; the FTC issued a **Second Request** in September, extending the antitrust review. If the transaction closes, Caesars would cease to be Nasdaq-listed and become a private subsidiary of Fertitta Entertainment.
+
+For VICI, I view this as **two-sided**:
+
+- **Negative / uncertainty:** public financial transparency would likely decline once Caesars is private, making independent monitoring of leverage, liquidity and rent coverage more difficult. The acquisition also uses a combination of Fertitta equity, assumed Caesars debt and new committed debt financing, so I would not automatically assume the transaction improves Caesars' credit profile.
+- **Potential positive:** Fertitta brings a large private hospitality/gaming platform, operating expertise and committed equity capital. That could provide additional strategic and liquidity support to Caesars. However, I do **not** treat Fertitta's balance sheet as an automatic guarantee of VICI's rent unless explicit contractual support or guarantees are in place. VICI's real protection remains the lease structure, parent guarantees, master leases and financial covenants.
+
+**MGM:** on June 1, 2026, **People Incorporated (formerly IAC)** — already MGM's largest shareholder — proposed to acquire the remaining MGM shares for **$48.30/share in cash** and take MGM private. That proposal was **withdrawn on September 23, 2026**, and MGM's board stated that it remained committed to operating as a standalone company. One day later, Reuters reported, citing the Wall Street Journal, that **MGM was discussing a potential bid to acquire People Incorporated instead**. That reverse transaction has not been formally announced by either company, so I treat it only as a reported strategic possibility.
+
+Therefore, there is **no active MGM privatization proposal at present**, but the episode highlights material ownership and capital-allocation uncertainty around VICI's second-largest tenant.
+
+A move from public to private ownership would reduce transparency for outside investors, but it does not necessarily leave VICI without information. **MGM's master lease explicitly requires financial statements, covenant-compliance reports and operating data to be delivered to the landlord, and it contains protections for a non-public parent.** In particular, if MGM were no longer publicly listed and its EBITDAR-to-rent ratio fell below **2.0x**, the lease can require security equal to approximately one year's rent through cash escrow and/or letters of credit.
+
+Importantly, neither transaction should be described simply as a **private-equity takeover**: Fertitta Entertainment is a privately held strategic hospitality/gaming group, while People Incorporated is a publicly traded holding/media company. A well-capitalized new owner could ultimately be positive for rent security, but I would only give credit for that after analyzing the post-transaction leverage, liquidity and any explicit guarantees.
+
 ### Venetian / Pioneer HoldCo
 
 The Venetian tenant is **Pioneer HoldCo / Venetian Las Vegas**, controlled by funds managed by Apollo, and is private. Public disclosure is therefore more limited. S&P provides useful operating data, including EBITDA margins of approximately **36.0% in 2023, 33.7% in 2024 and 34.3% in 2025**, together with Debt/EBITDA of **7.9x, 8.7x and 8.2x** respectively.
@@ -228,5 +247,12 @@ The VICI case is intended to show a more traditional modeling process than the L
 - [VICI September 2026 dividend announcement](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-increases-regular-quarterly-dividend-2)
 - [Golden Entertainment transaction overview — 7.5% acquisition cap rate](https://investors.viciproperties.com/static-files/0fb2943a-42fe-48b2-8a8e-7661051d2440)
 - [Gamehost transaction overview — 8.0% acquisition cap rate](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-announces-sale-leaseback-canadian-portfolio)
+- [Caesars — definitive agreement to be acquired by Fertitta Entertainment](https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-enters-agreement-be-acquired-fertitta)
+- [SEC — Caesars shareholder approval of Fertitta merger](https://www.sec.gov/Archives/edgar/data/1590895/000119312526398606/d743488d8k.htm)
+- [SEC — FTC Second Request on Caesars / Fertitta transaction](https://www.sec.gov/Archives/edgar/data/1590895/000119312526393853/d242276d8k.htm)
+- [MGM — June 2026 People Incorporated acquisition proposal](https://investors.mgmresorts.com/2026-06-01-MGM-Resorts-International-Confirms-Receipt-of-Acquisition-Proposal-from-People-Incorporated)
+- [MGM — People Incorporated withdraws acquisition proposal](https://investors.mgmresorts.com/2026-09-23-MGM-Resorts-Internationals-Board-of-Directors-Confirms-Commitment-to-Execution-of-MGM-Resorts-Strategy-as-a-Standalone-Company)
+- [Reuters — MGM discussing potential bid for People Incorporated, September 2026](https://www.reuters.com/business/mgm-discusses-bid-barry-dillers-people-inc-wsj-reports-2026-09-24/)
+- [SEC — MGM Master Lease reporting and covenant protections](https://www.sec.gov/Archives/edgar/data/1705696/000170569623000035/mgmgrand_mandalaybayleasef.htm)
 
 > The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded. Valuation assumptions are illustrative and do not constitute investment advice.

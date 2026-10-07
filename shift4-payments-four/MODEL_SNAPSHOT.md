@@ -47,6 +47,25 @@ That implies roughly:
 
 The key mistake was not simply paying a high multiple. It was giving too much weight to growth and EBITDA expansion without being strict enough about how much cash ultimately accrued to common equity.
 
+
+## Current Watchlist Reassessment
+
+Reference price on **October 6, 2026:** approximately **$38.50/share**.
+
+Using the same strict FCF-to-common framework:
+
+- At **$38.50**, 2026E P/FCF is roughly **15.4x** and 2027E P/FCF is roughly **10.3x**.
+- At a preferred re-entry level around **$30/share**, 2026E P/FCF would be roughly **12.0x** and 2027E P/FCF roughly **8.0x**.
+
+This does not erase the original analytical mistake. It shows why valuation is dynamic: the same business can become more attractive after a large price decline if the underlying economics remain intact.
+
+### Founder Purchases
+
+Founder Jared Isaacman disclosed multiple open-market purchases in 2026 totaling approximately **728,564 shares** for about **$31.6m**, at a weighted-average price around **$43.4/share**.
+
+Isaacman is currently NASA Administrator and remains a major Shift4 shareholder. I treat the purchases as an alignment signal, not as a substitute for fundamental analysis.
+
+
 ## Process Rules Added After the Investment
 
 1. Reconcile adjusted FCF with the cash-flow statement.
@@ -55,5 +74,12 @@ The key mistake was not simply paying a high multiple. It was giving too much we
 4. Compare EBITDA growth with cash conversion.
 5. Stress-test valuation before allowing growth to justify a premium.
 6. Define thesis-breaking conditions before entering.
+
+### Additional Sources
+
+- [NASA — Jared Isaacman](https://www.nasa.gov/people/jared-isaacman/)
+- [SEC Form 4 — February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
+- [SEC Form 4 — March 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X03/ownership.xml)
+- [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
 
 > Figures above are taken from the simplified public version of my personal model and are presented for portfolio demonstration only.

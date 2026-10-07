@@ -56,6 +56,14 @@ An evolving special-situation case. The original thesis combined low valuation, 
 
 **Skills demonstrated:** FCF analysis, spin-offs, conglomerate analysis, capital allocation, thesis monitoring, error analysis.
 
+
+### 8. [Amentum (AMTM) — Deleveraging, Capital Allocation & Post-RMT Catalyst](./amentum-amtm/README.md)
+A watchlist idea built around low valuation, rapid deleveraging, a growing backlog and the expiry of the two-year Reverse Morris Trust tax restrictions. The key optionality is a broader capital-allocation set — including potential share repurchases — now that leverage has reached management's target range.
+
+**Supporting research:** [Amentum Model Snapshot](./amentum-amtm/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** leverage analysis, FCF valuation, backlog analysis, capital allocation, special-situation/tax-structure analysis.
+
 ## Research Approach
 
 My default process is:

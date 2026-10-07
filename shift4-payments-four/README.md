@@ -1,8 +1,9 @@
-# Shift4 Payments (FOUR) — Investment Post-Mortem
+# Shift4 Payments (FOUR) — Investment Post-Mortem & Current Reassessment
 
-**Case type:** Investment Post-Mortem / Payments  
-**Entry:** approximately **$66/share in December 2025**  
-**Primary skills:** FCF reconstruction, valuation discipline, capital-structure analysis, error review
+**Case type:** Investment Post-Mortem / Payments / Watchlist Reassessment  
+**Original entry:** approximately **$66/share in December 2025**  
+**Current status:** back on the watchlist; preferred re-entry around **$30/share**  
+**Primary skills:** FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
 
 ## Why I Include a Losing Investment
 
@@ -53,6 +54,39 @@ I rebuilt the key lines from my personal Excel workbook into a clean public snap
 
 It shows the relationship between revenue growth, EBITDA, CFO, capex, preferred dividends, FCF to common and the valuation paid at entry.
 
+
+## Current Reassessment
+
+The fact that the original investment lost money does not mean the company can never become attractive again.
+
+At materially lower prices, the valuation has compressed enough for me to reassess the name using the stricter FCF-to-common framework developed in the post-mortem.
+
+At roughly **$38.50/share on October 6, 2026**, the stock is materially below my original ~$66 entry. Using my current model:
+
+- 2026E FCF to common is approximately **$2.50/share**;
+- 2027E FCF to common is approximately **$3.75/share**.
+
+That implies a much less demanding valuation than at the original entry, although leverage, preferred claims and cash conversion remain important risks.
+
+My preferred re-entry level would be around **$30/share**. At that level, the model would imply roughly **12x 2026E FCF/share** and **8x 2027E FCF/share**. This is a watchlist threshold rather than a current position or a claim that the stock must reach that level.
+
+### Founder Buying: Jared Isaacman
+
+A new qualitative factor in the reassessment is the behavior of founder **Jared Isaacman**.
+
+Isaacman founded the company that became Shift4, stepped down as CEO in 2025, and is now the **15th Administrator of NASA**. He remains a major Shift4 shareholder.
+
+SEC Form 4 filings show a series of open-market purchases in 2026:
+
+- **296,237 shares** purchased on February 26–27 at weighted-average prices around **$44–$48**;
+- **43,827 shares** purchased on March 10 around **$45.75**;
+- **388,500 shares** purchased on May 11–12 around **$40–$41**.
+
+Across those disclosed purchases, he acquired approximately **728,564 shares for about $31.6m**, at a weighted-average price of roughly **$43.4/share**.
+
+I view this as a meaningful alignment signal, but not as proof that the stock is undervalued. Insider purchases are one input alongside valuation, leverage, cash conversion and operating execution.
+
+
 ## Process Changes
 
 This investment led me to add several explicit checks to my research process:
@@ -75,5 +109,13 @@ A good investment process should be able to explain:
 - what was missed;
 - how the valuation changed;
 - what rule will be different next time.
+
+### Sources
+
+- [NASA — Jared Isaacman biography](https://www.nasa.gov/people/jared-isaacman/)
+- [SEC Form 4 — February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
+- [SEC Form 4 — March 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X03/ownership.xml)
+- [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
+- [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
 
 > This case study is personal research for professional portfolio purposes and is not investment advice.

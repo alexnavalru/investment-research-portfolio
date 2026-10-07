@@ -73,6 +73,26 @@ At Q3 FY2026:
 
 The backlog is not equivalent to guaranteed revenue — it contains unfunded work and contract options — but it provides evidence that the business continues to win work even while reported revenue is affected by contract transitions, divestitures and selected exits from low-return programs.
 
+## Nuclear Energy Exposure: A Long-Term Growth Option
+
+One part of Amentum that I find particularly attractive is its exposure to the **nuclear-energy value chain**.
+
+This is not a thesis that Amentum itself is a nuclear utility or that it directly benefits from electricity prices. The opportunity is that Amentum already has engineering, program-management, decommissioning and nuclear-services capabilities that position it to participate in a larger global nuclear build-out.
+
+Recent contract activity supports that view:
+
+- in **January 2026**, an Amentum-led consortium won a contract worth up to **$207m** to support the Netherlands' new nuclear-build program;
+- in **April 2026**, an Amentum-led joint venture won a **$406m, up-to-14-year** contract as owner's engineer for the UK's first small modular reactor program;
+- in Q3 FY2026, Amentum said it had booked **more than $400m** for initial engineering, development and design of advanced nuclear technologies;
+- in **September 2026**, an Amentum joint venture was selected as preferred supplier for a Sellafield framework worth up to **$2.78bn**;
+- Amentum is also working with Rolls-Royce SMR on deployment of its first SMRs in the UK and Czech Republic.
+
+I view this as a **long-duration growth option** rather than something required to justify the current valuation. My broader industry view is that demand for reliable low-carbon baseload power, grid resilience and energy-intensive infrastructure such as data centers can support greater nuclear investment over time. Amentum's existing capabilities and recent contract wins give it a credible position if that investment cycle accelerates.
+
+The key investment point is therefore:
+
+**low current valuation + existing backlog + deleveraging + potential buybacks + underappreciated nuclear growth optionality**
+
 ## Private-Equity Ownership
 
 Amentum also has an unusual shareholder structure.
@@ -136,6 +156,8 @@ I would treat this as a staged entry rather than a binary catalyst trade because
 - Private-equity sponsors selling down their stakes and creating an overhang.
 - Buybacks not being authorized despite the expiry of the RMT restrictions.
 - Higher-for-longer leverage or weaker FCF conversion.
+- Nuclear projects being delayed, cancelled or subject to budget, regulatory or execution risk.
+- Nuclear contract wins not translating into attractive incremental margins or cash flow.
 
 ## What This Case Demonstrates
 
@@ -153,5 +175,9 @@ The investment case does not require a buyback to work, but a well-priced repurc
 - [Amentum Q3 FY2026 results — backlog, cash flow and debt](https://www.sec.gov/Archives/edgar/data/2011286/000162828026055294/exhibit991-august102026.htm)
 - [Amentum 2026 Proxy — major shareholders](https://www.sec.gov/Archives/edgar/data/2011286/000110465925123111/tm2523471-2_def14a.htm)
 - [Amentum Q3 FY2026 earnings call transcript — capital-allocation discussion](https://www.fool.com/earnings/call-transcripts/2026/08/19/amentum-amtm-q3-2026-earnings-call-transcript/)
+- [Amentum — Netherlands nuclear program contract](https://www.amentum.com/news/amentum-led-consortium-wins-207-million-contract-from-dutch-government-for-new-nuclear-program/)
+- [Amentum — UK SMR owner's engineer contract](https://www.amentum.com/news/amentum-led-joint-venture-secures-406-million-contract-as-owners-engineer-for-uks-first-small-modular-reactors/)
+- [Amentum — Q3 FY2026 results / global nuclear bookings](https://ir.amentum.com/news/news-details/2026/Amentum-Reports-Third-Quarter-Fiscal-Year-2026-Results/default.aspx)
+- [Amentum — Sellafield preferred supplier selection](https://ir.amentum.com/news/news-details/2026/Amentum-Joint-Venture-Secures-Preferred-Position-for-Major-UK-Nuclear-Contract/default.aspx)
 
 > Prospective entry level and valuation outputs are personal research assumptions. This case study is for professional portfolio purposes and is not investment advice.

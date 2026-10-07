@@ -2,6 +2,21 @@
 
 This is a recruiter-friendly snapshot of the public model rebuilt from my personal workbook.
 
+## Current Market Snapshot — October 2026
+
+| Metric | Value |
+|---|---:|
+| Share price (Oct. 6 close) | **$22.73** |
+| Quarterly dividend | **$0.46** |
+| Annualized dividend | **$1.84** |
+| Dividend yield | **8.1%** |
+| 2026 AFFO guidance midpoint | **~$2.46/share** |
+| Annualized contractual rent | **$3.312bn** |
+| Loan/securities principal balance | **$3.030bn** |
+| Total debt | **$17.218bn** |
+| Cash | **$0.288bn** |
+| Common shares + partnership units | **~1.114bn** |
+
 ## Selected Financials
 
 | Metric | 2022 | 2023 | 2024 | 2025 | 2026E |
@@ -16,9 +31,52 @@ This is a recruiter-friendly snapshot of the public model rebuilt from my person
 | Book Value / Share | 24.93 | 24.86 | 25.33 | 26.16 | 27.06 |
 | Diluted Shares (bn) | 0.880 | 1.016 | 1.048 | 1.063 | 1.090 |
 
-## Valuation Framework
+## Current NAV
 
-The public model cross-checks three methods:
+Using the Q2 2026 annualized contractual rent of **$3.312bn** and a **7.0% cap rate**:
+
+**Property value = $3.312bn / 7.0% ≈ $47.3bn**
+
+Then:
+
+**$47.3bn property value  
++ $3.030bn loans/securities at principal  
++ $0.288bn cash  
++ $0.148bn land  
++ $0.023bn real estate under development  
+− $17.218bn total debt  
+≈ $33.6bn equity NAV**
+
+Dividing by approximately **1.114bn common-equivalent shares/units**:
+
+**NAV ≈ $30.1/share**
+
+At $22.73, that implies approximately **33% upside**.
+
+## Current Sum-of-the-Parts
+
+The latest rent roll consists of approximately **$3.255bn of gaming rent** and **$57.5m of other experiential rent**.
+
+For an illustrative SOTP:
+
+| Segment | Annualized Rent | Cap Rate |
+|---|---:|---:|
+| Las Vegas Strip gaming | ~$1.530bn | 6.75% |
+| Regional gaming | ~$1.692bn | 7.50% |
+| International gaming | ~$0.033bn | 8.00% |
+| Other experiential | ~$0.058bn | 8.00% |
+
+The gaming geographic split is based on VICI's reported annualized rent mix: **47% Las Vegas Strip, 52% Regional and 1% International**.
+
+I then add the **$3.030bn loan/securities portfolio at principal value**, cash, land and development assets, and subtract total debt.
+
+**Estimated SOTP equity value ≈ $29.3/share**
+
+At $22.73, that implies approximately **29% upside**.
+
+The cap-rate assumptions are intentionally conservative relative to the quality of the Strip assets and are anchored by recent VICI transactions: Golden Entertainment closed at a **7.5% acquisition cap rate**, while Gamehost was acquired at approximately **8.0%**.
+
+## Other Valuation Cross-Checks
 
 ### P/AFFO
 2026E AFFO/share × target multiple
@@ -45,11 +103,13 @@ Using **0.9x P/Book**:
 
 For a REIT, no single metric captures the whole picture.
 
+- **NAV** converts the contractual rent stream into an estimated property value.
+- **SOTP** allows different assets to be valued at different capitalization rates.
 - **P/AFFO** focuses on recurring cash generation.
 - **EV/EBITDA** incorporates the financing structure.
-- **P/Book** provides an asset-value cross-check.
+- **P/Book** provides an accounting asset-value cross-check.
 
-The purpose is not to average multiples mechanically, but to understand which assumptions drive the range and whether the methods tell a coherent story.
+The purpose is not to average multiples mechanically, but to understand which assumptions drive the valuation range and whether the methods tell a coherent story.
 
 ## What I Monitor
 
@@ -60,4 +120,4 @@ The purpose is not to average multiples mechanically, but to understand which as
 - Acquisition economics
 - Implied valuation relative to cash flow and asset value
 
-> Figures above are taken from the simplified public version of my personal model and are presented for portfolio demonstration only.
+> Current valuation uses the latest available Q2 2026 reported balance sheet and rent roll because Q3 2026 results are scheduled for release later in October 2026. Figures and assumptions are presented for portfolio demonstration only.

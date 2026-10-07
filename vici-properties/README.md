@@ -70,9 +70,9 @@ To compare the valuation methods on the same basis, I use the **$22.73 current s
 |---|---|---:|---:|---:|---:|
 | **NAV** | 7.0% cap rate | **$30.10** | **+32.4%** | **+8.1%** | **~+40.5%** |
 | **SOTP** | Segment-specific cap rates | **$29.30** | **+28.9%** | **+8.1%** | **~+37.0%** |
-| **P/AFFO** | 11.0x 2026E AFFO/share | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
-| **EV/EBITDA** | 12.0x 2026E EBITDA | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
-| **P/Book** | 0.9x 2026E book value/share | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
+| **P/AFFO** | **~$2.41 2026E AFFO/share × 11.0x** | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
+| **EV/EBITDA** | **$3.456bn 2026E EBITDA × 12.0x − $16.8bn net debt; / 1.090bn diluted shares** | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
+| **P/Book** | **$27.06 2026E book value/share × 0.9x** | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
 
 \*Illustrative one-year framework: **price return to the implied valuation + current 8.1% dividend yield**, assuming the annual dividend remains **$1.84/share**. The methods are cross-checks, not targets to be averaged mechanically.
 

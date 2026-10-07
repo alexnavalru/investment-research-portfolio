@@ -1,0 +1,273 @@
+# JD.com (JD) — Cash-Rich Core Business Funding New-Business Optionality
+
+**Case type:** Fundamental Value / China Consumer / New-Business Optionality  
+**Status:** Watchlist; original entry zone identified around **$20–$25 per ADS**  
+**Reference price:** approximately **$26.50 per ADR on October 6, 2026**  
+**Primary skills:** segment analysis, normalized earnings, balance-sheet valuation, capital allocation, China consumer policy, optionality analysis
+
+## Executive Summary
+
+JD.com is a cash-generative retail and logistics platform whose consolidated margins and profits have been temporarily depressed by aggressive investment in **New Businesses**, particularly food delivery, Jingxi and overseas expansion.
+
+The thesis is not simply that JD is "cheap because it is Chinese." It is that the current valuation appears to discount a large amount of execution risk while giving limited credit to:
+
+- a profitable core retail and logistics franchise;
+- an unusually cash-rich balance sheet;
+- actual shareholder returns through dividends and buybacks;
+- improving losses in New Businesses;
+- international expansion;
+- automation and AI capabilities;
+- and the possibility that today's investment-heavy businesses eventually become less dilutive or profitable.
+
+A key distinction is that **New Businesses are depressing margins and earnings more than they are depressing consolidated revenue growth**. The Q2 2026 revenue slowdown was driven mainly by a difficult comparison in electronics and home appliances, while New Businesses remained an investment burden on profitability.
+
+## 1. The Balance Sheet Is Central to the Thesis
+
+At June 30, 2026, JD reported:
+
+- **RMB89.1bn** cash and cash equivalents;
+- **RMB13.4bn** restricted cash;
+- **RMB132.6bn** short-term investments.
+
+That is approximately **RMB235.1bn of cash, restricted cash and short-term investments**.
+
+Against this, JD had approximately **RMB69.9bn** of short- and long-term financial debt and senior notes, implying roughly **RMB165bn of net financial cash** before leases and other adjustments.
+
+My more conservative internal model uses approximately **RMB152bn of net cash** against a market capitalization around **RMB250bn**, meaning net cash alone represents roughly **60% of market value**.
+
+This is important because the investment case is not solely dependent on a high terminal multiple.
+
+Not all cash should be treated as immediately distributable: JD is a working-capital-intensive retailer, continues to invest aggressively and is pursuing strategic acquisitions. I therefore do not value every RMB of cash at one-for-one distributable value.
+
+## 2. Unlike a Pure "Cash Hoard" Thesis, JD Is Returning Capital
+
+The balance sheet would be much less interesting if management never returned capital.
+
+JD has demonstrated that it is willing to do so.
+
+In **2025**, the company:
+
+- repurchased approximately **US$3.0bn** of shares;
+- retired approximately **6.3% of the year-end 2024 share count**;
+- paid / declared approximately **US$1.4bn** of annual dividend.
+
+For 2025, the Board approved an annual dividend of **US$1.00 per ADS**.
+
+In **H1 2026**, JD repurchased another **US$1.0bn**, equal to approximately **2.5% of the year-end 2025 ordinary shares outstanding**.
+
+At an ADR price around $26.50, the $1 annual dividend alone is roughly a **3.8% yield**.
+
+The company could theoretically return capital even faster given the balance sheet, but the existing buyback and dividend record is already meaningful and reduces the risk that the cash remains permanently trapped on the balance sheet.
+
+## 3. Core Earnings Power Is Much Stronger Than Consolidated Profit Suggests
+
+The most important analytical point is the difference between the core business and the New Businesses investment cycle.
+
+In H1 2026:
+
+- **JD Retail operating profit:** RMB28.4bn;
+- **JD Logistics operating profit:** RMB3.3bn;
+- combined core operating profit: approximately **RMB31.7bn** in six months.
+
+Annualized mechanically, that is above **RMB60bn** of operating profit before New Businesses and corporate/unallocated items — close to the normalized core earning power used in my model.
+
+At the same time, **New Businesses lost RMB20.2bn in H1 2026**.
+
+This creates the key valuation question:
+
+> What would JD's consolidated earnings look like if New Businesses stopped consuming RMB tens of billions of annual operating profit?
+
+The thesis does not require every new initiative to become highly profitable. It only requires the current level of losses to become materially less dilutive over time.
+
+## 4. Q2 2026 Shows the New-Business Investment Cycle Beginning to Normalize
+
+There is now evidence that the peak investment intensity may be passing.
+
+New Businesses' operating loss was:
+
+- **RMB14.8bn in Q2 2025**;
+- **RMB10.35bn in Q1 2026**;
+- **RMB9.85bn in Q2 2026**.
+
+Management said Q2 Food Delivery investment narrowed significantly year over year due to **better operating efficiency and revenue diversification**.
+
+Marketing expense also fell materially year over year as JD optimized promotional spending on new initiatives.
+
+This does not mean the problem is solved. New Businesses still consumed approximately **RMB20bn of operating profit in H1 2026**, which is enormous relative to group earnings.
+
+For the thesis, the direction matters:
+
+**large losses → improving unit economics / lower investment intensity → less consolidated margin dilution**
+
+## 5. The Core Retail Slowdown Is Real, but Partly a High-Base / Subsidy Effect
+
+JD's Q2 2026 consolidated revenue fell **2.9% YoY**, the first quarterly decline in more than a decade.
+
+The main pressure came from electronics and home appliances:
+
+- Q2 electronics and home appliance revenue: **-11.8% YoY**;
+- general merchandise: **+5.6% YoY**;
+- marketplace and marketing revenues: **+8.3% YoY**.
+
+The comparison is important.
+
+China's 2025 trade-in program was unusually generous. For many home-appliance categories, the subsidy reached **20% of purchase price for top-efficiency products, up to RMB2,000 per item**, and covered a broader category set.
+
+The 2026 national framework still supports consumption, but it is narrower and less generous for major appliances: **15% subsidy**, generally capped at **RMB1,500**, across six nationally standardized appliance categories.
+
+Therefore, part of JD's electronics slowdown reflects a **normalization from a subsidy-boosted 2025 base**, not necessarily a structural collapse in its competitive position.
+
+That said, the macro risk remains real: Chinese discretionary consumption is still soft, and JD is exposed to consumer confidence, housing-related wealth effects and competitive pricing.
+
+## 6. Margin Resilience in the Core Is Encouraging
+
+Despite weaker top-line momentum, JD Retail profitability held up well.
+
+In Q2 2026:
+
+- JD Retail revenue declined **4.7% YoY**;
+- operating profit was approximately **RMB13.5bn**;
+- operating margin improved to **4.6% from 4.5%**.
+
+For H1 2026, JD Retail's operating margin improved to **5.0% from 4.7%**.
+
+JD Logistics also continued to scale, with H1 revenue increasing **26.5% YoY** and operating margin improving to **2.6% from 2.1%**.
+
+This is important because the bearish interpretation would be that subsidy normalization exposes weak economics in the core. So far, the core margin data do not support that conclusion.
+
+## 7. Free Cash Flow and Valuation
+
+JD reported **RMB31.4bn of trailing-twelve-month free cash flow** through June 2026.
+
+That is broadly consistent with the approximately **RMB30bn 2026 FCF** used in my internal valuation framework.
+
+Using a market capitalization around **RMB250bn**, the stock trades at roughly:
+
+- **~8x market cap / FCF** on a ~RMB30–31bn cash-flow base;
+- with approximately **60% of market capitalization represented by conservative model net cash**.
+
+My model also assumes continued share-count reduction from repurchases.
+
+The attraction is therefore not that JD requires an aggressive multiple to work. The market is already assigning a low value to the operating business after adjusting for financial liquidity.
+
+## 8. Founder Alignment — With an Important Governance Caveat
+
+**Richard Qiangdong Liu** remains JD.com's founder and Chairman.
+
+The latest founder ownership filing shows approximately **12.5% economic ownership** and approximately **71.8% of total voting power** through JD's dual-class structure.
+
+That is a significant personal economic stake and gives the founder very strong control over the company.
+
+I do **not** state that the majority of his personal net worth is invested in JD because public filings do not establish that fact.
+
+The alignment is therefore meaningful, but it comes with a governance trade-off:
+
+**large economic ownership + founder control**
+
+can align incentives, but minority shareholders have limited ability to influence strategic decisions if they disagree with management.
+
+## 9. Automation and AI Optionality
+
+JD's logistics infrastructure is already a competitive asset. Automation and AI create additional optionality to improve fulfillment efficiency and expand that infrastructure into external services.
+
+Examples at Q2 2026 include:
+
+- **thousands of autonomous delivery vehicles** operating regularly across more than 20 Chinese provinces;
+- night-time autonomous-delivery routes in Shenzhen;
+- JD's proprietary **JoyAI** models being used across retail, procurement and customer-facing applications;
+- **JoyInside** partnerships with nearly 200 brands;
+- connected JoyInside devices more than tripling from the prior 11.11 promotion;
+- an AI-powered procurement assistant in JD Industrials.
+
+R&D expense increased **37.7% YoY in Q2 2026**, so this optionality is not free. The key question is whether the technology spend produces lower fulfillment costs, stronger customer retention, advertising monetization or new high-return businesses.
+
+## 10. New Businesses Create Multiple Sources of Optionality
+
+The New Businesses segment includes or supports:
+
+- JD Food Delivery;
+- Jingxi;
+- JD Property;
+- Joybuy / overseas retail;
+- other new consumer and service initiatives.
+
+The strategic logic behind Food Delivery is especially relevant.
+
+Management has repeatedly highlighted cross-sell effects: a higher-frequency delivery relationship can increase user engagement and create additional purchases across JD Retail.
+
+I do not assume Food Delivery will automatically reach Meituan-like historical margins. Competition in Chinese local commerce can destroy unit economics for long periods when platforms subsidize customers and merchants aggressively.
+
+The more conservative thesis is simply that **reducing current losses can unlock large incremental consolidated earnings even without heroic steady-state margins**.
+
+## 11. European Expansion and CECONOMY
+
+JD is also expanding overseas through **Joybuy** and its planned acquisition of **CECONOMY**, the parent of MediaMarkt and Saturn.
+
+The strategic appeal is clear:
+
+**European retail footprint + JD procurement / technology + logistics infrastructure**
+
+However, the CECONOMY acquisition had **not yet closed as of October 7, 2026**. European regulatory approval remained pending, with the European Commission decision expected by early November.
+
+I therefore treat CECONOMY as both:
+
+- a potential avenue for international scale and supply-chain synergies; and
+- an important capital-allocation and execution risk.
+
+## Position / Entry Framework
+
+The original thesis identified approximately **$20–$25 per ADR** as the preferred accumulation range.
+
+At approximately **$26.50**, the stock is now close enough to that range that the thesis deserves active monitoring, but the valuation is not the only variable.
+
+The next major check is whether:
+
+1. New Businesses losses continue falling;
+2. JD Retail margins remain resilient despite weaker appliance subsidies;
+3. buybacks continue after the remaining authorization is used;
+4. CECONOMY is completed on sensible terms;
+5. cash remains available for shareholder returns rather than being consumed by low-return expansion.
+
+## Key Risks
+
+- A renewed food-delivery subsidy war.
+- New Businesses continuing to destroy significant value rather than becoming less dilutive.
+- China consumer weakness lasting longer than expected.
+- Further reduction or expiration of government consumption subsidies.
+- JD Retail losing share while maintaining margins through unsustainable cost cuts.
+- Poor capital allocation, including overpaying for international acquisitions.
+- CECONOMY integration and regulatory risk.
+- Structural China / ADR / VIE / geopolitical valuation discount.
+- Founder voting control limiting minority shareholder influence.
+- Treating too much cash as "excess" when significant liquidity is required for working capital and strategic investment.
+- Buybacks slowing materially after the current authorization is exhausted.
+
+## What This Case Demonstrates
+
+This case is fundamentally about **separating temporary investment drag from normalized earning power**.
+
+The framework is:
+
+**profitable core Retail + Logistics**
+**+ very large net cash position**
+**+ dividends and buybacks**
+**– New Businesses losses**
+**+ optionality from loss normalization, AI, automation and international expansion**
+**= potentially mispriced consolidated equity**
+
+The strongest version of the thesis does not require JD Food Delivery, AI or Europe to become spectacular successes. It requires the market to be over-discounting the current earnings contraction while the core remains profitable and the balance sheet continues to protect downside.
+
+**Supporting research:** [JD.com Model Snapshot](./MODEL_SNAPSHOT.md)
+
+### Sources
+
+- [JD.com — Q2 and H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
+- [JD.com — FY2025 results, dividend and repurchases](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-fourth-quarter-and-full-year-2025-results-and)
+- [JD.com — Management / Richard Qiangdong Liu](https://ir.jd.com/management)
+- [SEC — Richard Qiangdong Liu ownership filing](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
+- [China State Council — 2025 appliance trade-in subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
+- [China NDRC — 2026 appliance and digital-product subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
+- [Reuters — JD Q2 2026 revenue / high-base electronics comparison](https://www.reuters.com/business/retail-consumer/chinas-jdcom-beats-quarterly-revenue-estimates-2026-08-13/)
+- [Reuters — CECONOMY regulatory review, October 2026](https://www.reuters.com/business/retail-consumer/jdcom-set-win-eu-approval-ceconomy-deal-source-says-2026-10-02/)
+
+> This case study is personal research for professional portfolio purposes and is not investment advice. China-related equities carry governance, regulatory, geopolitical and market-structure risks that are not captured by valuation multiples alone.

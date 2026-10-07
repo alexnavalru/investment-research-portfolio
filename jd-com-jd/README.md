@@ -167,11 +167,16 @@ New Businesses currently reduce group profitability significantly: H1 2026 opera
 
 This produces three simple scenarios:
 
-| Scenario | Total Value / ADR |
-|---|---:|
-| **Current New Businesses drag persists** | **~$29.1** |
-| **New Businesses losses fall by 50%** | **~$38.1** |
-| **New Businesses reach break-even** | **~$47.0** |
+| Concept | Current drag persists | Losses fall 50% | New Businesses break-even |
+|---|---:|---:|---:|
+| Conservative NAV | **RMB225.7bn** | **RMB225.7bn** | **RMB225.7bn** |
+| Residual core EBIT | **RMB49.5bn** | **RMB49.5bn** | **RMB49.5bn** |
+| New Businesses annual drag | **(RMB40.4bn)** | **(RMB20.2bn)** | **RMB0bn** |
+| Net EBIT valued | **RMB9.1bn** | **RMB29.3bn** | **RMB49.5bn** |
+| Applied multiple | **4.0x** | **4.0x** | **4.0x** |
+| Operating SOTP | **RMB36.2bn** | **RMB117.0bn** | **RMB197.9bn** |
+| **Total equity value = NAV + SOTP** | **RMB261.9bn** | **RMB342.7bn** | **RMB423.6bn** |
+| **Implied value / ADR** | **~$29.1** | **~$38.1** | **~$47.0** |
 
 The break-even case still assigns **zero positive value** to Food Delivery, Jingxi, Joybuy and the rest of New Businesses; they simply stop destroying value.
 

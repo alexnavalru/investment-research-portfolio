@@ -85,6 +85,18 @@ At a model market cap around RMB250bn:
 
 **P / FCF ≈ 8.3x**
 
+Using the same RMB30bn FCF as a direct equity-valuation cross-check:
+
+| P / FCF | Implied Equity Value | Implied Value / ADR |
+|---|---:|---:|
+| **8x** | **RMB240bn** | **~$26.6** |
+| **10x** | **RMB300bn** | **~$33.3** |
+| **12x** | **RMB360bn** | **~$39.9** |
+
+The current FCF base is **depressed by heavy New Businesses investment**, so these values should be viewed as conservative cross-checks rather than normalized upside cases. If New Businesses losses continue to fall, the same multiples would support higher ADR values.
+
+This FCF method is separate from the NAV + SOTP framework and is **not added on top of it**, avoiding double counting.
+
 This is before giving explicit credit to the large net-cash position.
 
 ## Shareholder Returns

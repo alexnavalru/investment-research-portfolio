@@ -78,40 +78,24 @@ The cap-rate assumptions are intentionally conservative relative to the quality 
 
 ## Total Return Potential
 
-I use the **$22.73 current share price** and the **8.1% current dividend yield** across all methods so the return potential is directly comparable. NAV and SOTP are the primary asset-based valuation methods; the remaining methods are supporting cross-checks.
+I separate the valuation into **primary asset-based methods** and **supporting valuation cross-checks**. All return figures use the **$22.73 current share price** and the **8.1% current dividend yield**.
 
-| Valuation Method | Key Assumption | Implied Price | Price Upside / (Downside) | Current Dividend Yield | Illustrative Total Return* |
+### Primary Valuation — NAV & SOTP
+
+| Method | Key Assumption | Implied Price | Price Upside | Dividend Yield | Illustrative Total Return* |
 |---|---|---:|---:|---:|---:|
 | **NAV** | 7.0% cap rate | **$30.10** | **+32.4%** | **+8.1%** | **~+40.5%** |
 | **SOTP** | Segment-specific cap rates | **$29.30** | **+28.9%** | **+8.1%** | **~+37.0%** |
-| **P/AFFO** | **~$2.41 2026E AFFO/share × 11.0x** | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
-| **EV/EBITDA** | **$3.456bn 2026E EBITDA × 12.0x − $16.8bn net debt; / 1.090bn diluted shares** | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
-| **P/Book** | **$27.06 2026E book value/share × 0.9x** | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
 
-\*Illustrative one-year framework: **price return to the implied valuation + current dividend yield**, assuming the annual dividend remains **$1.84/share**. These methods are valuation cross-checks and should not be averaged mechanically.
+### Other Valuation Cross-Checks
 
-## Other Valuation Cross-Checks
+| Method | 2026E Input & Assumption | Implied Price | Price Upside / (Downside) | Dividend Yield | Illustrative Total Return* |
+|---|---|---:|---:|---:|---:|
+| **P/AFFO** | **$2.41 AFFO/share × 11.0x** | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
+| **EV/EBITDA** | **$3.456bn EBITDA × 12.0x − $16.8bn net debt; / 1.090bn diluted shares** | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
+| **P/Book** | **$27.06 book value/share × 0.9x** | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
 
-### P/AFFO
-2026E AFFO/share × target multiple
-
-Using a target multiple of **11.0x**:
-
-**$2.41 × 11.0x ≈ $26.54/share**
-
-### EV/EBITDA
-2026E EBITDA × target multiple – net debt, divided by diluted shares
-
-Using **12.0x EV/EBITDA**:
-
-**(3.456 × 12.0 – 16.8) / 1.090 ≈ $22.63/share**
-
-### P/Book
-2026E book value/share × target multiple
-
-Using **0.9x P/Book**:
-
-**$27.06 × 0.9 ≈ $24.35/share**
+\*Illustrative one-year framework: **price return to the implied valuation + current 8.1% dividend yield**, assuming the annual dividend remains **$1.84/share**. NAV and SOTP are the primary valuation methods; the remaining approaches are cross-checks and should not be averaged mechanically.
 
 ## Why I Use Multiple Cross-Checks
 

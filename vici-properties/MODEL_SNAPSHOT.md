@@ -51,7 +51,11 @@ Dividing by approximately **1.114bn common-equivalent shares/units**:
 
 **NAV ≈ $30.1/share**
 
-At $22.73, that implies approximately **33% upside**.
+At $22.73, that implies approximately **32.4% price upside**.
+
+At the current annualized dividend of **$1.84/share**, the dividend yield at the $30.1 NAV value would still be approximately **6.1%**.
+
+If the NAV value were reached over roughly one year and the dividend remained at $1.84, the illustrative total return would be approximately **40.5%** from today's price.
 
 ## Current Sum-of-the-Parts
 
@@ -72,9 +76,24 @@ I then add the **$3.030bn loan/securities portfolio at principal value**, cash, 
 
 **Estimated SOTP equity value ≈ $29.3/share**
 
-At $22.73, that implies approximately **29% upside**.
+At $22.73, that implies approximately **28.9% price upside**.
+
+At the current annualized dividend of **$1.84/share**, the dividend yield at the $29.3 SOTP value would still be approximately **6.3%**.
+
+If the SOTP value were reached over roughly one year and the dividend remained at $1.84, the illustrative total return would be approximately **37.0%** from today's price.
 
 The cap-rate assumptions are intentionally conservative relative to the quality of the Strip assets and are anchored by recent VICI transactions: Golden Entertainment closed at a **7.5% acquisition cap rate**, while Gamehost was acquired at approximately **8.0%**.
+
+## Dividend Yield at Valuation Targets
+
+| Valuation Reference | Price | Dividend Yield at Target | Price Upside vs $22.73 | Illustrative 1-Year Total Return* |
+|---|---:|---:|---:|---:|
+| **NAV** | **$30.1** | **6.1%** | **32.4%** | **40.5%** |
+| **SOTP** | **$29.3** | **6.3%** | **28.9%** | **37.0%** |
+
+\*Assumes the target is reached over approximately one year and the annual dividend remains **$1.84/share**. The total-return figures are illustrative, not forecasts.
+
+The key point is that the expected return is not purely dependent on price re-rating. VICI currently pays an approximately **8.1% dividend yield**, and even at my fair-value estimates the yield would remain around **6%+**.
 
 ## Other Valuation Cross-Checks
 

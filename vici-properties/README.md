@@ -1,7 +1,7 @@
 # VICI Properties — REIT Fundamental Analysis & Valuation
 
 **Case type:** Fundamental Equity Research / REIT  
-**Primary skills:** AFFO, leverage, capital allocation, per-share analysis, P/AFFO, EV/EBITDA, P/Book
+**Primary skills:** AFFO, leverage, capital allocation, per-share analysis, P/AFFO, NAV, SOTP, EV/EBITDA
 
 ## Objective
 
@@ -15,6 +15,51 @@ For a REIT, the analytical focus shifts toward:
 - dilution and per-share compounding;
 - valuation relative to recurring cash flow and asset value.
 
+## Current Valuation Snapshot — October 2026
+
+VICI closed at approximately **$22.73/share on October 6, 2026**. The latest quarterly dividend is **$0.46/share**, or **$1.84 annualized**, implying a current dividend yield of approximately **8.1%**.
+
+Using the latest reported portfolio and capital structure from Q2 2026:
+
+- Annualized contractual real-estate rent: **$3.312bn**
+- Annualized income from loans and securities: **$285.7m**
+- Loan and securities principal balance: **$3.030bn**
+- Total debt: **$17.218bn**
+- Cash: **$288m**
+- Common shares + third-party partnership units: approximately **1.114bn**
+
+### NAV Approach
+
+Using a **7.0% capitalization rate** on the current annualized real-estate rent:
+
+**Real-estate value = $3.312bn / 7.0% ≈ $47.3bn**
+
+Adding the loan and securities portfolio at principal value, cash, land and development assets, then subtracting total debt produces an estimated equity NAV of approximately:
+
+**NAV ≈ $30.1/share**
+
+This represents roughly **33% upside** from $22.73.
+
+### Sum-of-the-Parts Approach
+
+For a more granular SOTP, I separate the rental portfolio by asset type/geography and apply different illustrative cap rates:
+
+- Las Vegas Strip gaming rent: **6.75% cap rate**
+- Regional gaming rent: **7.5% cap rate**
+- International gaming rent: **8.0% cap rate**
+- Other experiential rent: **8.0% cap rate**
+- Loans and securities: valued at **principal balance**
+
+These assumptions reflect the higher quality and scarcity of the Las Vegas Strip portfolio while remaining broadly consistent with recent VICI gaming acquisitions completed around **7.5%–8.0% cap rates**.
+
+The resulting estimated equity value is approximately:
+
+**SOTP ≈ $29.3/share**
+
+This represents roughly **29% upside** from $22.73.
+
+> Q3 2026 results have not yet been released, so the NAV and SOTP use the latest available Q2 2026 balance sheet and rent roll, combined with the October 6, 2026 share price.
+
 ## Public Model Snapshot
 
 I rebuilt the core outputs from my personal Excel workbook into a clean public snapshot that can be reviewed directly in GitHub:
@@ -27,7 +72,7 @@ The model focuses on:
 - AFFO and AFFO/share;
 - net debt / EBITDA;
 - share dilution and per-share compounding;
-- P/AFFO, EV/EBITDA and P/Book valuation cross-checks.
+- P/AFFO, NAV, SOTP, EV/EBITDA and P/Book valuation cross-checks.
 
 ## Key Questions
 
@@ -41,20 +86,29 @@ Net debt / EBITDA is tracked directly to assess whether growth is being financed
 
 ### 3. Is the dividend supported by recurring cash flow?
 
-The model looks at dividend capacity in the context of AFFO rather than using accounting earnings alone.
+At the current annualized dividend of **$1.84/share**, VICI offers an approximately **8.1% dividend yield** at a $22.73 share price. I evaluate that yield in the context of AFFO coverage rather than accounting earnings alone.
 
 ### 4. What valuation framework is appropriate?
 
-I use three cross-checks:
+I use several cross-checks:
 
 - **P/AFFO**
+- **NAV**
+- **Sum-of-the-Parts**
 - **EV/EBITDA**
 - **P/Book**
 
-No single multiple is treated as the answer. The point is to understand what each method implies and whether they tell a consistent story.
+No single method is treated as the answer. The point is to understand what each method implies and whether they tell a consistent story.
 
 ## What This Case Demonstrates
 
 The VICI case is intended to show a more traditional modeling process than the Lionsgate special situation. It demonstrates my ability to work through historical financials, identify the right sector-specific metric, forecast per-share economics and connect operating assumptions to valuation.
 
-> The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded.
+### Sources
+
+- [VICI Q2 2026 Supplemental Financial Information](https://investors.viciproperties.com/static-files/4bd1c7f3-8a07-4af9-ae2d-b8da7d7ba208)
+- [VICI September 2026 dividend announcement](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-increases-regular-quarterly-dividend-2)
+- [Golden Entertainment transaction overview — 7.5% acquisition cap rate](https://investors.viciproperties.com/static-files/0fb2943a-42fe-48b2-8a8e-7661051d2440)
+- [Gamehost transaction overview — 8.0% acquisition cap rate](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-announces-sale-leaseback-canadian-portfolio)
+
+> The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded. Valuation assumptions are illustrative and do not constitute investment advice.

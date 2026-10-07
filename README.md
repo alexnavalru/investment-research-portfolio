@@ -34,6 +34,28 @@ A review of an investment initiated around $66/share in December 2025. The post-
 
 **Skills demonstrated:** FCF reconstruction, capital-structure analysis, valuation, error analysis, process improvement.
 
+
+### 5. [PayPal (PYPL) — Turnaround, Cash Flow & Capital Allocation](./paypal-pypl/README.md)
+A turnaround thesis built around strong free-cash-flow generation, a robust balance sheet, aggressive buybacks and a low valuation. The case also tracks the management transition from Alex Chriss to Enrique Lores and the 2026 strategic reorganization.
+
+**Supporting research:** [PayPal Model Snapshot](./paypal-pypl/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** FCF analysis, capital allocation, buyback economics, management assessment, balance-sheet analysis.
+
+### 6. [The Cigna Group (CI) — Managed-Care Dislocation & Portfolio Reshaping](./cigna-ci/README.md)
+A sector-dislocation thesis initiated during the managed-care selloff. The analysis focuses on Cigna's different business mix, maintained earnings guidance, reduced Medicare exposure, Evernorth economics and valuation.
+
+**Supporting research:** [Cigna Model Snapshot](./cigna-ci/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** insurance economics, medical-cost analysis, segment mix, guidance analysis, valuation.
+
+### 7. [Comcast (CMCSA) — Spin-Off Thesis & Thesis Evolution](./comcast-cmcsa/README.md)
+An evolving special-situation case. The original thesis combined low valuation, strong FCF, buybacks, dividends and the Versant spin-off. After the expected re-rating failed to materialize, the case was updated for weaker operating trends, paused buybacks and the larger NBCUniversal / Sky separation.
+
+**Supporting research:** [Comcast Model Snapshot](./comcast-cmcsa/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** FCF analysis, spin-offs, conglomerate analysis, capital allocation, thesis monitoring, error analysis.
+
 ## Research Approach
 
 My default process is:

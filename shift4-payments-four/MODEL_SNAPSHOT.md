@@ -61,7 +61,16 @@ This does not erase the original analytical mistake. It shows why valuation is d
 
 ### Founder Purchases
 
-Founder Jared Isaacman disclosed multiple open-market purchases in 2026 totaling approximately **728,564 shares** for about **$31.6m**, at a weighted-average price around **$43.4/share**.
+Founder Jared Isaacman disclosed four open-market purchase episodes in 2026:
+
+| Date | Shares Purchased | Approx. Weighted Price |
+|---|---:|---:|
+| **Feb. 26–27** | **296,237** | **~$46.11 combined** |
+| **Mar. 2** | **45,693** | **~$43.83** |
+| **Mar. 10** | **43,827** | **~$45.75** |
+| **May 11–12** | **388,500** | **~$41.04 combined** |
+
+In total, he purchased approximately **774,257 shares for about $33.6m**, at a weighted-average price of roughly **$43.4/share**.
 
 Isaacman is currently NASA Administrator and remains a major Shift4 shareholder. I treat the purchases as an alignment signal, not as a substitute for fundamental analysis.
 
@@ -97,7 +106,8 @@ At a prospective **$30/share** entry level, I would want a wider margin of safet
 
 - [NASA — Jared Isaacman](https://www.nasa.gov/people/jared-isaacman/)
 - [SEC Form 4 — February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
-- [SEC Form 4 — March 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X03/ownership.xml)
+- [SEC Form 4 — March 2, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1805608/000119312526089784/xslF345X03/ownership.xml)
+- [SEC Form 4 — March 10, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X05/ownership.xml)
 - [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
 - [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
 - [Shift4 FY2025 10-K — Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)

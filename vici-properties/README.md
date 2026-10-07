@@ -133,7 +133,9 @@ I separate the valuation into **NAV / SOTP methods** and **other valuation cross
 
 ## Tenant Concentration & Rent Coverage Risk
 
-VICI's rent stream is highly concentrated in a small number of large gaming tenants. In this section, I assess **tenant solvency by measuring how many times each operator's EBITDAR covers its rent obligations**. Put simply, a **2.5x coverage ratio means the tenant generates $2.50 of EBITDAR for every $1.00 of rent it has to pay**.
+VICI's rent stream is highly concentrated in a small number of large gaming tenants. In this section, I assess **tenant solvency by measuring how many times each operator's EBITDAR covers its rent obligations**.
+
+**EBITDAR** means **Earnings Before Interest, Taxes, Depreciation, Amortization and Rent** — essentially operating earnings before rent expense. It is useful here because it shows the earnings generated before the tenant pays its lease obligations. Put simply, a **2.5x coverage ratio means the tenant generates $2.50 of EBITDAR for every $1.00 of rent it has to pay**.
 
 This matters because the value of VICI's long-term leases ultimately depends on the tenants remaining able to service those contractual rent obligations through the cycle.
 

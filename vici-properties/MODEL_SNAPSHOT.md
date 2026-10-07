@@ -78,9 +78,9 @@ The cap-rate assumptions are intentionally conservative relative to the quality 
 
 ## Total Return Potential
 
-I separate the valuation into **primary asset-based methods** and **supporting valuation cross-checks**. All return figures use the **$22.73 current share price** and the **8.1% current dividend yield**.
+I separate the valuation into **NAV / SOTP methods** and **other valuation cross-checks**. All return figures use the **$22.73 current share price** and the **8.1% current dividend yield**.
 
-### Primary Valuation — NAV & SOTP
+### NAV & SOTP Valuation
 
 | Method | Key Assumption | Implied Price | Price Upside | Dividend Yield | Illustrative Total Return* |
 |---|---|---:|---:|---:|---:|
@@ -97,7 +97,7 @@ I separate the valuation into **primary asset-based methods** and **supporting v
 
 **2026E inputs used:** AFFO/share **$2.41**; EBITDA **$3.456bn**; net debt **$16.8bn**; diluted shares **1.090bn**; book value/share **$27.06**.
 
-\*Illustrative one-year framework: **price return to the implied valuation + current 8.1% dividend yield**, assuming the annual dividend remains **$1.84/share**. NAV and SOTP are the primary valuation methods; the remaining approaches are cross-checks and should not be averaged mechanically.
+\*Illustrative one-year framework: **price return to the implied valuation + current 8.1% dividend yield**, assuming the annual dividend remains **$1.84/share**. NAV, SOTP and the multiple-based approaches provide different valuation perspectives and should not be averaged mechanically.
 
 ## Tenant Concentration & Rent Coverage Risk
 

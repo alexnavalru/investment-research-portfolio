@@ -32,9 +32,9 @@ At June 30, 2026, JD reported:
 
 That is approximately **RMB235.1bn of cash, restricted cash and short-term investments**.
 
-Against this, JD had approximately **RMB69.9bn** of short- and long-term financial debt and senior notes, implying roughly **RMB165bn of net financial cash** before leases and other adjustments.
+For valuation, however, I **exclude the RMB13.4bn of restricted cash entirely** because it is not freely available for shareholder returns, acquisitions or ordinary capital allocation. Unrestricted cash plus short-term investments are therefore approximately **RMB221.7bn**.
 
-My more conservative internal model uses approximately **RMB152bn of net cash** against a market capitalization around **RMB250bn**, meaning net cash alone represents roughly **60% of market value**.
+Against approximately **RMB69.9bn** of short- and long-term financial debt and senior notes, this produces roughly **RMB151.8bn of unrestricted net financial cash** before leases and other adjustments — around **61% of the model market capitalization**.
 
 This is important because the investment case is not solely dependent on a high terminal multiple.
 
@@ -157,11 +157,15 @@ I separate **separable-asset NAV** from the value of the operating business to a
 
 My conservative NAV includes excess cash, JD's listed stakes in **JD Health, JD Logistics and JD Industrials**, plus conservative values for JD Technology, Home Credit, JD Property and other financial investments. After haircuts and reserving capital for working capital / future investment, I estimate:
 
-**Conservative separable NAV: ~RMB225.7bn, or ~$25.1 per ADR.**
+**Conservative separable NAV: ~RMB212.3bn, or ~$23.6 per ADR.**
+
+This revised NAV **does not include restricted cash**.
 
 This NAV deliberately excludes the value of JD's residual operating franchise.
 
-I then value the residual JD Retail core separately. After removing the operating contribution of subsidiaries already included in NAV, residual core EBIT is approximately **RMB49.5bn annualized**. I apply only **4x EV/EBIT**.
+I then value the residual JD Retail core separately. After removing the operating contribution of subsidiaries already included in NAV, residual core EBIT is approximately **RMB49.5bn annualized**.
+
+I use **4x EV/EBIT as a deliberately conservative base multiple**, not because I believe 4x represents JD Retail's normalized fair multiple. A reasonable conservative sensitivity range is **4x–6x EV/EBIT**. I anchor the headline valuation at 4x to maintain a wide margin of safety; any multiple re-rating toward 5x–6x would increase the implied ADR value materially.
 
 New Businesses currently reduce group profitability significantly: H1 2026 operating loss was **RMB20.2bn**, or roughly **RMB40.4bn annualized** at the current run rate.
 
@@ -169,18 +173,26 @@ This produces three simple scenarios:
 
 | Concept | Current drag persists | Losses fall 50% | New Businesses break-even |
 |---|---:|---:|---:|
-| Conservative NAV | **RMB225.7bn** | **RMB225.7bn** | **RMB225.7bn** |
+| Conservative NAV | **RMB212.3bn** | **RMB212.3bn** | **RMB212.3bn** |
 | Residual core EBIT | **RMB49.5bn** | **RMB49.5bn** | **RMB49.5bn** |
 | New Businesses annual drag | **(RMB40.4bn)** | **(RMB20.2bn)** | **RMB0bn** |
 | Net EBIT valued | **RMB9.1bn** | **RMB29.3bn** | **RMB49.5bn** |
 | Applied multiple | **4.0x** | **4.0x** | **4.0x** |
 | Operating SOTP | **RMB36.2bn** | **RMB117.0bn** | **RMB197.9bn** |
-| **Total equity value = NAV + SOTP** | **RMB261.9bn** | **RMB342.7bn** | **RMB423.6bn** |
-| **Implied value / ADR** | **~$29.1** | **~$38.1** | **~$47.0** |
+| **Total equity value = NAV + SOTP** | **RMB248.5bn** | **RMB329.3bn** | **RMB410.2bn** |
+| **Implied value / ADR** | **~$27.6** | **~$36.5** | **~$45.5** |
 
 The break-even case still assigns **zero positive value** to Food Delivery, Jingxi, Joybuy and the rest of New Businesses; they simply stop destroying value.
 
-My personal medium-term target remains **above $35 per ADR**. On this framework, JD does not need New Businesses to become profitable to justify that target — current losses only need to fall by roughly one third.
+Because **4x is intentionally conservative**, I also monitor the effect of a 4x–6x range:
+
+| EV / EBIT | Current drag persists | Losses fall 50% | New Businesses break-even |
+|---|---:|---:|---:|
+| **4x** | **~$27.6** | **~$36.5** | **~$45.5** |
+| **5x** | **~$28.6** | **~$39.8** | **~$51.0** |
+| **6x** | **~$29.6** | **~$43.0** | **~$56.5** |
+
+My personal medium-term target remains **above $35 per ADR**. At the deliberately conservative 4x multiple, JD still does not need New Businesses to become profitable to justify that target: the annualized New Businesses drag could remain around **RMB23.7bn**, versus roughly RMB40.4bn currently.
 
 ## 9. Founder Alignment — With an Important Governance Caveat
 
@@ -252,7 +264,7 @@ The original thesis identified approximately **$20–$25 per ADR** as the prefer
 
 At approximately **$26.50**, the stock is now close enough to that range that the thesis deserves active monitoring, but the valuation is not the only variable.
 
-My personal medium-term valuation objective is **above $35 per ADR**. This is below the conservative SOTP output of approximately **$36.8 per ADR** and materially below the ~$40–$43 range produced by 4.5x–5.0x Retail EV/EBIT scenarios.
+My personal medium-term valuation objective is **above $35 per ADR**. This is supported even by a conservative 4x framework if New Businesses losses partially normalize, while a multiple re-rating toward **5x–6x EV/EBIT** would increase fair value materially.
 
 The next major check is whether:
 

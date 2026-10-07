@@ -24,14 +24,16 @@ The reported Q2 2026 balance sheet is even more liquid before conservative adjus
 | Restricted cash | 13.4 |
 | Short-term investments | 132.6 |
 | Total liquid balance | **235.1** |
+| Less: restricted cash excluded from valuation | **(13.4)** |
+| Unrestricted liquid balance | **221.7** |
 | Short-term debt | 3.5 |
 | Current senior notes | 13.6 |
 | Long-term debt | 36.2 |
 | Non-current senior notes | 16.6 |
 | Financial debt & notes | **69.9** |
-| Approx. net financial cash | **165.2** |
+| **Unrestricted net financial cash** | **151.8** |
 
-Not all of this is distributable excess cash. The model therefore uses a more conservative net-cash figure for valuation.
+I exclude restricted cash from the valuation because it is not freely available for ordinary capital allocation or shareholder returns.
 
 ## Core vs New Businesses — H1 2026
 
@@ -179,11 +181,11 @@ JD Property is deliberately valued far below its **RMB121.5bn AUM**, because ass
 | Other equity investees | **10.1** |
 | JD Property | **10.0** |
 | Marketable securities / other investments | **19.2** |
-| **Total conservative separable NAV** | **~225.7** |
+| **Total conservative separable NAV** | **~212.3** |
 
 At ~2.688bn ordinary shares, 2 ordinary shares per ADR and 1 CNY ≈ $0.14915:
 
-**NAV ≈ $25.1 per ADR**
+**NAV ≈ $23.6 per ADR**
 
 Again, this **does not include the value of the residual operating JD Retail franchise**. It is only the conservative net value of separable assets and investments.
 
@@ -225,27 +227,39 @@ The current-drag case is an intentionally extreme stress test. The break-even ca
 
 | Scenario | NAV | Operating SOTP | Total Equity Value | Value / ADR |
 |---|---:|---:|---:|---:|
-| **Current drag persists** | 225.7 | 36.2 | **RMB261.9bn** | **~$29.1** |
-| **50% drag remains** | 225.7 | 117.0 | **RMB342.7bn** | **~$38.1** |
-| **New Businesses break-even** | 225.7 | 197.9 | **RMB423.6bn** | **~$47.0** |
+| **Current drag persists** | 212.3 | 36.2 | **RMB248.5bn** | **~$27.6** |
+| **50% drag remains** | 212.3 | 117.0 | **RMB329.3bn** | **~$36.5** |
+| **New Businesses break-even** | 212.3 | 197.9 | **RMB410.2bn** | **~$45.5** |
 
 Against a reference price around **$26.50**, these imply approximately:
 
-- current-drag stress case: **~10% upside**
-- half-drag case: **~44% upside**
-- break-even case: **~77% upside**
+- current-drag stress case: **~4% upside**
+- half-drag case: **~38% upside**
+- break-even case: **~72% upside**
 
 ### Why the >$35 target does not require a heroic New Businesses outcome
 
 A $35 ADR corresponds to total equity value of roughly **RMB315bn** on the same share count and FX.
 
-After subtracting the conservative RMB225.7bn NAV, the operating businesses only need to justify about **RMB90bn**.
+After subtracting the conservative RMB212.3bn NAV, the operating businesses only need to justify about **RMB90bn**.
 
 At 4x EBIT, that requires approximately **RMB22–23bn of net operating EBIT**, meaning New Businesses could still be losing roughly **RMB27bn annually**.
 
 In other words, the current annualized New Businesses loss only needs to decline by roughly **one third** for the model to support a value around $35 per ADR.
 
 This is why **>$35 per ADR** remains my medium-term target rather than using the much higher full break-even value as the base case.
+
+## EV / EBIT Multiple Sensitivity
+
+The headline SOTP uses **4x EV/EBIT deliberately as a conservative anchor**. I do not view 4x as JD Retail's normalized fair multiple. A conservative sensitivity range of **4x–6x** is useful to show how much upside exists if the market applies a less punitive valuation.
+
+| EV / EBIT | Current drag persists | Losses fall 50% | New Businesses break-even |
+|---|---:|---:|---:|
+| **4x** | **~$27.6** | **~$36.5** | **~$45.5** |
+| **5x** | **~$28.6** | **~$39.8** | **~$51.0** |
+| **6x** | **~$29.6** | **~$43.0** | **~$56.5** |
+
+The purpose of keeping **4x** as the headline case is to preserve a wide margin of safety. Any re-rating toward 5x–6x materially increases the implied ADR value.
 
 ## Internal Model Valuation Context
 

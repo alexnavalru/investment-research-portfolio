@@ -34,6 +34,8 @@ Comcast completed the Versant separation in January 2026.
 
 The expected re-rating did not materialize.
 
+An important comparability point is that **part of the apparent decline in Comcast's 2026 reported financials is mechanical and comes from Versant no longer being consolidated after the January 2026 spin-off**, rather than from deterioration in the remaining business alone. In Q2 2026, Comcast reported revenue down 1.2% and Adjusted EBITDA down 13.4% year over year, but on a pro forma basis reflecting the Versant separation and the sale of Sky Germany, revenue increased 4.7% while Adjusted EBITDA declined 5.3%. I therefore separate **perimeter change** from **underlying operating weakness** when reviewing the 2026 numbers.
+
 The main reasons were:
 
 - broadband and connectivity trends weakened;

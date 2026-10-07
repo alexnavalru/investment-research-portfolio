@@ -78,12 +78,17 @@ The cap-rate assumptions are intentionally conservative relative to the quality 
 
 ## Total Return Potential
 
-| Valuation Reference | Target Price | Price Upside vs $22.73 | Current Dividend Yield | Illustrative Total Return* |
-|---|---:|---:|---:|---:|
-| **NAV** | **$30.1** | **32.4%** | **8.1%** | **~40.5%** |
-| **SOTP** | **$29.3** | **28.9%** | **8.1%** | **~37.0%** |
+I use the **$22.73 current share price** and the **8.1% current dividend yield** across all methods so the return potential is directly comparable. NAV and SOTP are the primary asset-based valuation methods; the remaining methods are supporting cross-checks.
 
-\*Illustrative one-year framework assuming the target is reached over approximately one year and the annual dividend remains **$1.84/share**.
+| Valuation Method | Key Assumption | Implied Price | Price Upside / (Downside) | Current Dividend Yield | Illustrative Total Return* |
+|---|---|---:|---:|---:|---:|
+| **NAV** | 7.0% cap rate | **$30.10** | **+32.4%** | **+8.1%** | **~+40.5%** |
+| **SOTP** | Segment-specific cap rates | **$29.30** | **+28.9%** | **+8.1%** | **~+37.0%** |
+| **P/AFFO** | 11.0x 2026E AFFO/share | **$26.54** | **+16.8%** | **+8.1%** | **~+24.9%** |
+| **EV/EBITDA** | 12.0x 2026E EBITDA | **$22.63** | **-0.4%** | **+8.1%** | **~+7.7%** |
+| **P/Book** | 0.9x 2026E book value/share | **$24.35** | **+7.1%** | **+8.1%** | **~+15.2%** |
+
+\*Illustrative one-year framework: **price return to the implied valuation + current dividend yield**, assuming the annual dividend remains **$1.84/share**. These methods are valuation cross-checks and should not be averaged mechanically.
 
 ## Other Valuation Cross-Checks
 

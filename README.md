@@ -72,6 +72,14 @@ A bearish cyclical thesis focused on the difference between **peak 2026 cash gen
 
 **Skills demonstrated:** commodity-cycle analysis, refining economics, normalized FCF, accounting adjustments, scenario valuation, bearish thesis construction.
 
+
+### 10. [JD.com (JD) — Cash-Rich Core Business Funding New-Business Optionality](./jd-com-jd/README.md)
+A China consumer / technology thesis built around a profitable Retail + Logistics core, a net-cash position representing roughly 60% of market capitalization in my conservative model, meaningful dividends and buybacks, and the possibility that current New Businesses losses normalize. The case also examines subsidy-driven high-base effects in electronics, automation / AI optionality and international expansion.
+
+**Supporting research:** [JD.com Model Snapshot](./jd-com-jd/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** segment analysis, normalized earnings, balance-sheet valuation, capital allocation, China consumer policy, optionality analysis.
+
 ## Research Approach
 
 My default process is:

@@ -38,13 +38,9 @@ Adding the loan and securities portfolio at principal value, cash, land and deve
 
 **NAV ≈ $30.1/share**
 
-This represents roughly **32.4% price upside** from $22.73. At the current **$1.84 annualized dividend**, the dividend yield would still be approximately **6.1% at the $30.1 NAV value**.
+At $22.73, that implies approximately **32.4% price upside + 8.1% current dividend yield = ~40.5% total return potential**, assuming the annual dividend remains at **$1.84/share** over an approximately one-year holding period.
 
-If the shares reached $30.1 over approximately one year and the dividend remained at $1.84, the illustrative total return from today's $22.73 price would be approximately **40.5%**:
-
-**32.4% price appreciation + 8.1% current dividend yield ≈ 40.5% total return**
-
-This highlights that the investment case is not based only on multiple / NAV re-rating; investors are also paid a substantial cash yield while waiting.
+This highlights that the investment case is not based only on NAV re-rating; investors are also paid a substantial cash yield while waiting.
 
 ### Sum-of-the-Parts Approach
 
@@ -62,11 +58,7 @@ The resulting estimated equity value is approximately:
 
 **SOTP ≈ $29.3/share**
 
-This represents roughly **28.9% price upside** from $22.73. At the current **$1.84 annualized dividend**, the dividend yield would still be approximately **6.3% at the $29.3 SOTP value**.
-
-If the shares reached $29.3 over approximately one year and the dividend remained at $1.84, the illustrative total return from today's $22.73 price would be approximately **37.0%**:
-
-**28.9% price appreciation + 8.1% current dividend yield ≈ 37.0% total return**
+At $22.73, that implies approximately **28.9% price upside + 8.1% current dividend yield = ~37.0% total return potential**, assuming the annual dividend remains at **$1.84/share** over an approximately one-year holding period.
 
 > Q3 2026 results have not yet been released, so the NAV and SOTP use the latest available Q2 2026 balance sheet and rent roll, combined with the October 6, 2026 share price.
 
@@ -96,7 +88,7 @@ Net debt / EBITDA is tracked directly to assess whether growth is being financed
 
 ### 3. Is the dividend supported by recurring cash flow?
 
-At the current annualized dividend of **$1.84/share**, VICI offers an approximately **8.1% dividend yield** at a $22.73 share price. Even at my estimated fair-value range, the yield remains attractive: approximately **6.1% at $30.1/share** and **6.3% at $29.3/share**. I evaluate that yield in the context of AFFO coverage rather than accounting earnings alone.
+At the current annualized dividend of **$1.84/share**, VICI offers an approximately **8.1% dividend yield** at a $22.73 share price. I treat that yield as an important part of the expected return while waiting for a potential re-rating, and evaluate its sustainability through AFFO coverage rather than accounting earnings alone.
 
 ### 4. What valuation framework is appropriate?
 

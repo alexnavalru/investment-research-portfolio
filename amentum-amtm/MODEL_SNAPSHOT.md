@@ -34,6 +34,16 @@ Approximate 2026E valuation on the model:
 
 The valuation methods cluster in the low-to-mid $20s. My personal thesis target is **above $25/share**, with capital-allocation upside not treated as guaranteed.
 
+## Current Return Bridge
+
+Using the **October 6, 2026 close of $18.77/share**:
+
+| Target | Price Return | Dividend Contribution | Total Return |
+|---|---:|---:|---:|
+| **$25** | **+33.2%** | **0%** | **+33.2%** |
+
+Amentum does not currently pay a dividend. Since the thesis target is **above $25**, the table represents a minimum threshold rather than a precise target.
+
 ## Deleveraging
 
 Amentum's Q3 FY2026 results showed:

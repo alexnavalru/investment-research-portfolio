@@ -1,7 +1,8 @@
-# The Cigna Group (CI) | Active thesis
+# The Cigna Group (CI) — Managed-Care Dislocation
 
 **Case type:** Sector Dislocation / Fundamental Value / Portfolio Reshaping  
-**Status:** Active thesis  
+**Status:** Active thesis
+**Target price:** not formally set
 **Primary skills:** insurance economics, medical-cost analysis, segment mix, guidance analysis, capital allocation, valuation
 
 ## Executive Summary

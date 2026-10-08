@@ -11,9 +11,13 @@ The core opportunity came from the separation of Lionsgate Studios from Starz. B
 
 That pricing relationship implied that the market was assigning a **negative value to Starz**.
 
-The situation created a potential relative-value structure: long the holding company and short the separately listed studio in order to isolate the residual value of Starz. The spin-off acted as the corporate catalyst that could force the market to price the two assets independently.
+There were two different ways to invest in the dislocation. A hedged trade could go **long Old Lionsgate and short the separately listed studio**, isolating the implied residual value of Starz. Alternatively, an investor could buy **Old Lionsgate before the separation** and retain exposure to both businesses once they traded independently. **I chose the second approach**, because I liked Starz's exceptionally low implied valuation but also wanted the studio's film and M&A upside.
 
-## Trade Construction: Isolating Starz
+For Lionsgate Studios, my upside case included potential interest from strategic acquirers, a promising theatrical slate (particularly the then-upcoming Michael Jackson biopic, *Michael*), and Steven Mnuchin's significant investment through Liberty 77. These were possible catalysts, not guaranteed outcomes. The spin-off would make each business easier to value on its own merits.
+
+## Two Ways to Trade the Spin-Off
+
+### Route 1: Long Old Lionsgate, short the listed studio (Starz-only exposure)
 
 Before the separation, both **Old Lionsgate (LGF.B)** and **Legacy Lionsgate Studios (LION)** traded publicly. Old Lionsgate economically contained the studio interest plus Starz, while LION provided a separately quoted market value for the studio. For Old Lionsgate Class B shareholders, the separation ultimately delivered **one New Lionsgate share and one Starz share before Starz's 15-for-1 reverse split**.
 
@@ -35,7 +39,22 @@ My normalized cash-flow bridge was approximately **$140m of unlevered FCF before
 
 The terminology matters: Starz now defines **unlevered FCF as equity FCF plus cash interest and taxes**, so the correct bridge is approximately **$140m unlevered → ~$100m equity/levered FCF**, not the reverse. These are normalized thesis figures rather than reported FY2025 free cash flow, which was heavily affected by content-payment timing and separation-related items. As a later cross-check on the underlying cash-generation capacity, standalone Starz guided to **$80m–$120m of 2026 unlevered FCF**.
 
-*The ~$7.8 / ~$7.4 figures are approximate market levels used to explain the trade construction, not synchronized official closing prices.*
+*The ~$7.8 / ~$7.4 figures are approximate market levels used to explain the trade construction, not synchronized official closing prices. A practical hedge also had to allow for the exact exchange ratio, share classes, financing costs, short borrow availability and any changes in the spread.*
+
+### Route 2: Buy Old Lionsgate before the spin-off (my approach)
+
+I preferred **a long position in Old Lionsgate ahead of the separation**, rather than hedging away the studio with a short. The residual market value attributed to Starz appeared small relative to the value of the whole group, so I was not paying much incremental value for a business that I believed could generate meaningful cash flow. But the much larger reason not to hedge was that I also wanted to own Lionsgate Studios.
+
+My reasons for keeping exposure to both sides were:
+
+- **Starz:** The small residual valuation offered a potentially attractive risk/reward if normalized equity FCF was even close to my estimates. I did not need Starz to be a great business for its implied valuation to look wrong.
+- **Lionsgate Studios and possible M&A:** Once separated, an independent studio with an established film and television library could attract greater attention from strategic buyers. A takeover was a plausible upside scenario, not something I assumed would happen.
+- **The film slate:** I saw scope for new releases to improve profitability and sentiment. In particular, the Michael Jackson biopic, *Michael*, looked like a potentially significant theatrical event at the time of the original investment. Its performance was uncertain and a film hit alone would not guarantee a lasting re-rating.
+- **Steven Mnuchin / Liberty 77:** His growing economic exposure to Lionsgate made the studio more interesting to me as a shareholder-alignment and strategic-optionalities signal. It did not establish that a bid was coming or that he possessed information unavailable to the market.
+
+For **Old Lionsgate Class B shares**, the separation ultimately produced exposure to **one share of New Lionsgate and one pre-reverse-split share of Starz** for each old share. By buying Old Lionsgate before the spin-off, an investor could therefore keep both businesses rather than isolate only Starz. **My actual exposure was implemented through options**, with the applicable contract terms and corporate-action adjustments determining the precise exposure and settlement, rather than through a textbook cash-equity long/short pair.
+
+This distinction is central to the case: **the Starz spread helped establish the margin of safety, but I deliberately kept the studio's upside instead of hedging it out.**
 
 ## Variant Perception
 
@@ -112,11 +131,11 @@ The separation mattered because it:
 
 ## Position Construction
 
-The cleanest theoretical structure was long the holding company and short the standalone studio.
+The **long Old Lionsgate / short Legacy Lionsgate Studios** pair was a possible way to express a **Starz-only** valuation view. It was **not the trade I executed**.
 
-Because the opportunity became clear relatively late and available capital was limited, the actual implementation used options. Initially, only short-dated options were available. After the separation, longer-dated Lionsgate Studios calls became available and were used to obtain exposure with a longer thesis horizon.
+I built **long exposure to Old Lionsgate before the spin-off** because I was interested in owning both sides of the separation: an extremely cheap Starz and a studio with potential upside from a more focused listing, new releases such as *Michael*, possible M&A and Steven Mnuchin's investment. Given the timing and capital available, I used options to implement that long exposure. Initially, only short-dated contracts were available; after the separation, longer-dated Lionsgate Studios calls became available and I used them to maintain exposure with a longer thesis horizon.
 
-A later long-dated call position was initiated when Lionsgate Studios traded around **$6** and exited around **$11.50**. The approximately **5x** return on that specific option position is less important than the process: valuation, catalyst, instrument selection and timing all had to align.
+A later long-dated call position was initiated when Lionsgate Studios traded around **$6** and exited around **$11.50**. The approximately **5x** return on that specific option position is less important than the process: recognizing multiple possible trade structures, choosing the one that fit my thesis and managing the interaction between valuation, catalyst and option timing.
 
 ## Key Risks
 
@@ -139,6 +158,8 @@ The research process used public filings, earnings calls, management commentary,
 ### Sources
 
 - [Lionsgate — separation announcement and strategic rationale](https://investors.lionsgate.com/news-events/news/news-details/2025/Lions-Gate-Entertainment-Corp--Separates-its-Studio-and-STARZ-Businesses-into-Two-Independent-Publicly-Traded-Companies/default.aspx)
+- [Lionsgate Studios 10-Q — separation terms and Class B distribution](https://www.sec.gov/Archives/edgar/data/2052959/000205295925000018/lion-20250630.htm)
+- [Lionsgate — fiscal Q1 2027 film results, including Michael (subsequent outcome)](https://investors.lionsgate.com/news-events/news/news-details/2026/LIONSGATE-REPORTS-RESULTS-FOR-FIRST-QUARTER-FISCAL-2027/default.aspx)
 - [Starz FY2025 carve-out financial statements — cash flow, interest and separation disclosures](https://www.sec.gov/Archives/edgar/data/929351/000092935125000038/starz-20250331.htm)
 - [Starz 2026 Proxy — $80m–$120m unlevered FCF outlook and definition](https://www.sec.gov/Archives/edgar/data/929351/000092935126000021/starz-20260402.htm)
 - [Lionsgate / Screaming Eagle transaction FAQ — strategic optionality](https://www.sec.gov/Archives/edgar/data/929351/000119312523301842/d640032dex993.htm)

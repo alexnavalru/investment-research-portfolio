@@ -1,7 +1,8 @@
-# UnitedHealth Group (UNH) | Closed thesis
+# UnitedHealth Group (UNH) — Medical-Cost Normalization
 
 **Case type:** Contrarian Fundamental / Temporary Dislocation / Turnaround  
-**Status:** Closed thesis  
+**Status:** Closed thesis
+**Target price:** historical thesis target **$400–$450/share by 2027**
 **Research period:** May–July 2025  
 **Primary skills:** insurance economics, normalized earnings, management assessment, regulatory analysis, scenario valuation, long-dated options
 

@@ -10,10 +10,12 @@ Repsol's early-2026 guidance assumed **$60–65/bbl Brent**, **$3.5–4/MMBtu He
 |---|---:|---:|
 | Brent ($/bbl) | $60–65 (central $65) | **~$91.2** |
 | Henry Hub ($/MMBtu) | $3.5–4 (central $4.0) | **~$4.0** |
-| Refining Margin Indicator ($/bbl) | $6.5–7.5 (central $6.5) | Quarterly indicator inputs below |
-| Additional refining premium ($/bbl) | ~$1.4–1.5 | Quarterly premium inputs below |
+| Refining Margin Indicator ($/bbl) | $6.5–7.5 (central $6.5) | **~$23.2** |
+| Additional refining premium ($/bbl) | ~$1.4–1.5 | **~$8.4** |
 | Full refining margin, **before** haircut ($/bbl) | ~$7.9–9.0 | **~$31.7** |
 | **Haircut-adjusted sensitivity proxy ($/bbl)** | **$8.6 internal model base** | **~$29.5** |
+
+The **~$23.2/bbl indicator and ~$8.4/bbl premium** are the four-quarter arithmetic averages of my 2026 model (including Q3 and Q4 estimates). They are not actual FY2026 reported averages.
 
 The **indicator + premium** is the full economic refining margin, but I use a separate **haircut-adjusted cash-flow sensitivity proxy** in the workbook:
 

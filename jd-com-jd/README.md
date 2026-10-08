@@ -1,7 +1,7 @@
-# JD.com (JD) — Cash-Rich Core Business Funding New-Business Optionality
+# JD.com (JD) | Watchlist — Entry $20–25
 
 **Case type:** Fundamental Value / China Consumer / New-Business Optionality  
-**Status:** Watchlist; original entry zone identified around **$20–$25 per ADS**  
+**Status:** Watchlist; preferred entry zone around **$20–$25 per ADR**  
 **Reference price:** approximately **$26.50 per ADR on October 6, 2026**  
 **Personal medium-term target:** **above $35 per ADR**  
 **Primary skills:** segment analysis, normalized earnings, balance-sheet valuation, NAV, SOTP, capital allocation, China consumer policy, optionality analysis

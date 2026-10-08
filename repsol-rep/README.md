@@ -26,8 +26,6 @@ Using the **October 6, 2026 close of €28.76/share** and Repsol's **€1.051/sh
 
 **Price return: -23.5% | Dividend contribution: +3.7% | Illustrative total return: ~-19.9%**
 
-Because my normalized thesis value is **below €22**, €22 is the upper threshold rather than a precise final downside target. A further fall below €22 would increase the price decline. This illustrative total-return bridge shows the impact for an equity holder; short sellers would instead face dividend-payment obligations, borrowing costs and other trading expenses.
-
 ## Why the Current Earnings Level Looks Cyclically Elevated
 
 Repsol benefits from several parts of the energy value chain:

@@ -100,13 +100,9 @@ The important follow-up is that neither investor has made a material economic ex
 - **Mark H. Rachesky / MHR:** approximately **37.91m shares**, or **12.7%**;
 - **Liberty 77 Capital:** approximately **37.55m shares**, or **12.6%**.
 
-MHR did complete a 2026 continuation-fund transaction that moved shares among affiliated vehicles, so it would be inaccurate to say there were literally no reportable dispositions. Economically, however, the latest ownership disclosures show that MHR and Liberty 77 remained two of the largest shareholders rather than materially reducing exposure.
+Although MHR moved shares between affiliated vehicles in a 2026 continuation-fund transaction, **MHR and Liberty 77 remained major shareholders** after the spin-off. I viewed their continued exposure, particularly Steven Mnuchin's investment through Liberty 77, as a positive alignment signal, not proof of a future takeover or inside information.
 
-I treat that as **supportive evidence, not proof, of continued conviction**. Large shareholders can have many reasons for holding or restructuring positions, but the fact that both remained heavily exposed after the spin-off is consistent with the idea that they continued to see strategic or fundamental value.
-
-I did **not** treat Mnuchin's involvement as evidence of inside information or as proof that a sale would happen. Instead, I viewed it as an additional qualitative signal: a sophisticated investor with deep finance, entertainment and regulatory experience was committing meaningful capital while the company was restructuring to create two cleaner standalone assets.
-
-The M&A angle was also supported independently by the company. Lionsgate management said the transaction would **increase strategic optionality for both STARZ and the studio business**, and described the separation as a way to create standalone companies capable of pursuing their own strategic and financial priorities. In my original research, I therefore considered a **full sale of Lionsgate Studios** to another strategic buyer as a plausible upside scenario after the separation.
+Lionsgate management also highlighted the **strategic optionality created by the separation**. A potential sale of Lionsgate Studios was therefore an upside catalyst in my original thesis, not a base-case assumption.
 
 ### Trump Administration Scenario
 

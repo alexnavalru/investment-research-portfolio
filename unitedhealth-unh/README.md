@@ -1,6 +1,7 @@
-# UnitedHealth Group (UNH) — Crisis-Driven Fundamental Thesis
+# UnitedHealth Group (UNH) | Closed thesis
 
 **Case type:** Contrarian Fundamental / Temporary Dislocation / Turnaround  
+**Status:** Closed thesis  
 **Research period:** May–July 2025  
 **Primary skills:** insurance economics, normalized earnings, management assessment, regulatory analysis, scenario valuation, long-dated options
 

@@ -1,8 +1,8 @@
-# Shift4 Payments (FOUR) — Investment Post-Mortem & Current Reassessment
+# Shift4 Payments (FOUR) | Watchlist — Re-entry around $30
 
 **Case type:** Investment Post-Mortem / Payments / Watchlist Reassessment  
 **Original entry:** approximately **$66/share in December 2025**  
-**Current status:** back on the watchlist; preferred re-entry around **$30/share**  
+**Status:** Watchlist; preferred re-entry around **$30/share**  
 **Primary skills:** FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
 
 ## Why I Include a Losing Investment

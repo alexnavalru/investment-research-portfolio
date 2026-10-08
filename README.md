@@ -12,7 +12,7 @@ This repository contains selected examples of my investment research. The object
 
 ### 1. [Lionsgate / Starz: Spin-Off Special Situation](./lionsgate-starz/README.md)
 **Status:** Closed thesis · **Target:** N/A
-A catalyst-driven special situation built around the separation of Lionsgate Studios and Starz. The case focuses on implied valuation, sum-of-the-parts logic, precedent transactions, trade construction and timing risk.
+A spin-off special situation with two possible trades: a long Old Lionsgate / short separately listed studio pair to isolate the cheap implied value of Starz, or a long position in Old Lionsgate before the separation to keep both businesses. I chose the second route. Starz appeared to be a small and undervalued part of the package, while the studio offered upside from potential M&A, major film releases such as *Michael*, and investor interest from Steven Mnuchin / Liberty 77.
 
 **Skills demonstrated:** spin-offs, SOTP, precedent transactions, catalyst analysis, long/short thinking, options.
 

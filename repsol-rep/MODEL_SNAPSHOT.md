@@ -83,17 +83,17 @@ Using approximately **€1.9/share** of normalized FCF:
 | 11x P/FCF | **~€21/share** |
 | 12x P/FCF | **~€23/share** |
 
-My normalized thesis value is therefore **below €24/share**.
+My normalized thesis target is **below €22/share**, anchored around the 10x–11x FCF cases (~€19–€21/share). The 12x result (~€23/share) is retained as a higher-multiple sensitivity, not part of my target range.
 
 Using the **October 6, 2026 close of €28.76/share** and the **€1.051/share total cash dividend paid in 2026**:
 
 | Reference | Price Return | Dividend Contribution* | Illustrative Total Return* |
 |---|---:|---:|---:|
-| **€24/share** | **-16.6%** | **+3.7%** | **~-12.9%** |
+| **€22/share** | **-23.5%** | **+3.7%** | **~-19.9%** |
 
 \*Illustrative one-year bridge using the 2026 cash dividend as the dividend reference.
 
-This is not a precise target. It is a way to avoid capitalizing peak-cycle FCF as if it were permanent.
+This is an illustrative scenario at the upper threshold of my below-€22 target, not a precise final target. The dividend-inclusive bridge illustrates the equity-holder return; a short position would instead have to account for dividends owed, borrow fees and other costs. The purpose is to avoid capitalizing peak-cycle FCF as if it were permanent.
 
 ## Official Sensitivities
 

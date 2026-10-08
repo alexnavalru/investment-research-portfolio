@@ -29,7 +29,11 @@ So the basic relative-value construction was:
 
 The exact hedge ratio depended on the transaction mechanics and share-class treatment, but the economic point was simple: the market was assigning only a very small residual equity value to Starz. The **$0.4 pre-split residual** corresponds to roughly **$6 per Starz share after the 15-for-1 reverse split**.
 
-Against that residual valuation, my normalized cash-flow estimate for Starz was around **$100m**, putting the implied equity valuation at roughly **~1x normalized FCF**. I treat the $100m figure as a **normalized thesis estimate**, not as reported FY2025 free cash flow: the carve-out cash-flow statement was heavily affected by content-payment timing and separation-related items. As a later cross-check on the underlying cash-generation capacity, standalone Starz guided to **$80m–$120m of 2026 unlevered FCF**.
+The residual pricing also implied an equity value for Starz of only about **$100m**: roughly **$0.4 per pre-split share**, or about **$6 per share after the 15-for-1 reverse split**.
+
+My normalized cash-flow bridge was approximately **$140m of unlevered FCF before financing costs**. Starz paid roughly **$42m of cash interest** in FY2025 and very little cash tax, which brought the normalized **equity / levered FCF** estimate to approximately **$100m**. On that basis, the market was effectively valuing Starz at around **~1x normalized equity FCF**.
+
+The terminology matters: Starz now defines **unlevered FCF as equity FCF plus cash interest and taxes**, so the correct bridge is approximately **$140m unlevered → ~$100m equity/levered FCF**, not the reverse. These are normalized thesis figures rather than reported FY2025 free cash flow, which was heavily affected by content-payment timing and separation-related items. As a later cross-check on the underlying cash-generation capacity, standalone Starz guided to **$80m–$120m of 2026 unlevered FCF**.
 
 *The ~$7.8 / ~$7.4 figures are approximate market levels used to explain the trade construction, not synchronized official closing prices.*
 

@@ -1,8 +1,8 @@
-# Comcast (CMCSA) — Spin-Off Value
+# Comcast (CMCSA): Spin-Off Value
 
 **Case type:** Spin-Off / Mature Cash Generator / Thesis Evolution  
 **Status:** Active thesis
-**Target price:** not formally set
+**Target price:** N/A
 **Primary skills:** FCF analysis, capital allocation, conglomerate analysis, catalyst assessment, thesis monitoring, error analysis
 
 ## Executive Summary

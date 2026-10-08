@@ -133,7 +133,11 @@ The **long Old Lionsgate / short Legacy Lionsgate Studios** pair was a possible 
 
 I built **long exposure to Old Lionsgate in April 2025 at around $6.10/share, before the spin-off**, because I was interested in owning both sides of the separation: an extremely cheap Starz and a studio with potential upside from a more focused listing, new releases such as *Michael*, possible M&A and Steven Mnuchin's investment. In August 2025, I added more exposure at around **$5.80/share**, this time **only to Lionsgate Studios** rather than the combined Old Lionsgate exposure. Given the timing and capital available, I used options to implement long exposure. Initially, only short-dated contracts were available; after the separation, longer-dated Lionsgate Studios calls became available and I used them to maintain exposure with a longer thesis horizon.
 
-A later long-dated call position was initiated when Lionsgate Studios traded around **$6** and exited around **$11.50**. The approximately **5x** return on that specific option position is less important than the process: recognizing multiple possible trade structures, choosing the one that fit my thesis and managing the interaction between valuation, catalyst and option timing.
+A later long-dated call position was initiated when Lionsgate Studios traded around **$6**. I sold the position when the underlying stock was around **$11.50**, achieving approximately **5x** on that option trade.
+
+### Exit Lesson: Scale Out Rather Than Sell Everything at Once
+
+In hindsight, **I was conservative in my valuation and exit decision**. I built exposure over time, but I did not apply the same discipline when selling. The lesson is to **exit progressively, just as I build a position progressively**, unless I have unusually high conviction that the stock has reached fair value or the thesis has fundamentally changed. Selling in stages would allow me to secure part of the gains while preserving exposure to further upside from film releases, strategic transactions or a continued re-rating. The point is to improve the decision process, not to imply that subsequent price movements could have been predicted.
 
 ## Key Risks
 

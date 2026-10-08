@@ -232,25 +232,15 @@ can align incentives, but minority shareholders have limited ability to influenc
 
 ## 10. China, VIE & Disclosure Discount
 
-I do **not** assume JD should converge to the valuation multiples of comparable U.S. consumer or technology companies. Part of the discount is structural: investors are taking **China country risk, VIE risk, governance risk and a somewhat lighter foreign-private-issuer disclosure regime** in addition to ordinary operating risk.
+JD deserves a structural discount versus comparable U.S. companies because investors face additional **China regulatory risk, VIE/legal-structure risk, geopolitical/ADR risk and lower disclosure transparency**.
 
-The main issues are:
+JD is a Cayman holding company that relies partly on contractual VIE arrangements in China, while as a foreign private issuer its U.S. disclosure requirements are lighter than those of a domestic U.S. company. One example is executive compensation: JD discloses aggregate cash compensation for directors and executives, but not a full individual cash-pay breakdown for CEO **Sandy Ran Xu**. I did not find a separate mainland-China filing that provides that missing detail.
 
-- **PRC regulatory / legal risk.** JD's own annual report notes that mainland Chinese laws and regulations can evolve quickly and that government actions in areas such as internet platforms, data, cybersecurity, anti-monopoly and offshore listings can materially affect the business.
-- **VIE structure.** Investors in JD's ADSs and ordinary shares own equity in a **Cayman Islands holding company**, not direct equity in the consolidated Chinese VIEs. JD itself states that the contractual arrangements may be less effective than direct ownership and have not been tested in mainland Chinese courts.
-- **ADR / HFCAA / geopolitical risk.** PCAOB inspection access to mainland China and Hong Kong was restored in 2022, and JD was not subsequently identified under the HFCAA for the following years. This means delisting is **not my base case today**. However, if the PCAOB again lost full inspection access and JD were identified for two consecutive years, U.S. trading could again be prohibited.
-- **Foreign-private-issuer disclosure.** JD is not required to file U.S.-style **10-Qs or 8-Ks** and is exempt from certain proxy and Regulation FD requirements. JD still publishes quarterly results and furnishes material releases on Form 6-K, but its own 20-F states that required disclosure can be **less extensive and less timely** than for a U.S. domestic issuer.
-- **Executive-compensation transparency is a useful example.** In the 2025 annual report JD disclosed approximately **RMB247m of aggregate cash compensation for directors and executive officers as a group**, but it did **not** provide Sandy Ran Xu's individual cash salary, bonus and total compensation in the way a U.S. domestic proxy typically would. The filing does disclose individual equity awards, including grants to Xu, so I view this as **lower individual compensation transparency rather than an absence of disclosure**.
-
-I also checked whether a separate mainland-China annual report provided more detail. JD's Chinese-language investor-relations page points to the same English annual report, and the company states that its **Hong Kong annual report contains substantially the same information as the Form 20-F**. I therefore did not find a separate public filing that provides a full individual CEO cash-compensation breakdown.
-
-This should not be overstated. JD prepares audited financial statements under **U.S. GAAP**, files a full annual report with the SEC and Hong Kong Stock Exchange, publishes quarterly operating results and is currently subject to PCAOB-accessible audit oversight. The issue is not that the financial statements should automatically be treated as unreliable because JD is Chinese; rather, investors reasonably demand a **higher risk premium** for the legal structure, regulatory uncertainty, concentrated control and some governance/disclosure differences.
+This does **not** mean JD's accounts should be treated as unreliable: it reports under U.S. GAAP, files with the SEC and Hong Kong Stock Exchange and remains subject to PCAOB-accessible audit oversight. I therefore treat this mainly as a **higher required risk premium**, not as a reason to discard the financials.
 
 ### Valuation Implication
 
-Because of these risks, I would **not** build the thesis around JD eventually receiving a U.S.-peer multiple. The **4x-6x EV/EBIT range** I use for the residual operating business is deliberately conservative and partly reflects this structural country/governance discount.
-
-A re-rating is possible if regulation, governance and capital allocation remain benign, but the core thesis should work **without assuming the China discount disappears**.
+My **4x–6x EV/EBIT range** for the residual operating business partly reflects this China/governance discount. The thesis should work **without assuming JD ever reaches U.S.-peer multiples**.
 
 ## 11. Automation and AI Optionality
 

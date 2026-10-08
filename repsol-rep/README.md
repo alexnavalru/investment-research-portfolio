@@ -50,10 +50,12 @@ My model uses the following **full-year 2026 averages**:
 |---|---:|---:|
 | Brent ($/bbl) | $60–65 (central $65) | **~$91.2** |
 | Henry Hub ($/MMBtu) | $3.5–4.0 (central $4.0) | **~$4.0** |
-| Refining Margin Indicator ($/bbl) | $6.5–7.5 (central $6.5) | Quarterly values shown below |
-| Budgeted refining premium ($/bbl) | ~$1.4–1.5 | Quarterly values shown below |
+| Refining Margin Indicator ($/bbl) | $6.5–7.5 (central $6.5) | **~$23.2** |
+| Budgeted refining premium ($/bbl) | ~$1.4–1.5 | **~$8.4** |
 | Full refining margin, before haircut ($/bbl) | ~$7.9–9.0 (indicator + premium) | **~$31.7** |
 | **Haircut-adjusted refining sensitivity proxy ($/bbl)** | **$8.6 internal model base** | **~$29.5** |
+
+The **~$23.2 indicator and ~$8.4 premium** are simple averages of the four quarterly model inputs shown below (including assumed Q3 and Q4 values), not final reported full-year averages.
 
 **How I estimate refining CFFO:** Repsol reports a **Refining Margin Indicator** and a **premium** on top. The full economic margin equals indicator + premium, but I do **not** assume that an incremental dollar of premium translates into exactly the same cash flow as an incremental dollar of the indicator. Premium drivers include discounted heavy crude, crude and product mix, kerosene yield and pricing, HVO / SAF and other biofuels, logistics optimization, and trading or temporary market opportunities. Because their CFFO conversion is heterogeneous, I haircut the premium before applying a single simplifying refining sensitivity:
 

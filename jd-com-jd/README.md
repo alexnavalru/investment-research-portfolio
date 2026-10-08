@@ -1,9 +1,10 @@
 # JD.com (JD) — Cash-Rich Core, New-Business Drag
 
 **Case type:** Fundamental Value / China Consumer / New-Business Optionality  
-**Status:** Watchlist; preferred entry zone around **$20–$25 per ADR**
+**Status:** Active thesis  
+**Target price:** **above $35 per ADR**  
+**Position initiated:** October 2026 at **$25.78 per ADR**  
 **Reference price:** approximately **$26.50 per ADR on October 6, 2026**  
-**Target price:** **above $35 per ADR**
 **Primary skills:** segment analysis, normalized earnings, balance-sheet valuation, NAV, SOTP, capital allocation, China consumer policy, optionality analysis
 
 ## Executive Summary
@@ -290,7 +291,7 @@ I therefore treat CECONOMY as both:
 
 The original thesis identified approximately **$20–$25 per ADR** as the preferred accumulation range.
 
-At approximately **$26.50**, the stock is now close enough to that range that the thesis deserves active monitoring, but the valuation is not the only variable.
+I opened a position in **October 2026 at $25.78 per ADR**, slightly above that original preferred accumulation range. At approximately **$26.50** as a subsequent model reference price, the valuation remains attractive to me, but it is not the only variable.
 
 My personal medium-term valuation objective is **above $35 per ADR**. This is supported even by a conservative 4x framework if New Businesses losses partially normalize, while a multiple re-rating toward **5x–6x EV/EBIT** would increase fair value materially.
 

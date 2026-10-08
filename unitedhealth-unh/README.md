@@ -1,8 +1,9 @@
 # UnitedHealth Group (UNH): Restructuring & Medical-Cost Normalization
 
 **Case type:** Contrarian Fundamental / Temporary Dislocation / Turnaround  
-**Status:** Closed thesis
-**Target price:** historical thesis target **$400–$450/share by 2027**
+**Status:** Closed thesis  
+**Target price:** historical thesis target **$400–$450/share by 2027**  
+**Position initiated:** July 2025 at approximately **$270/share**  
 **Research period:** May–July 2025  
 **Primary skills:** insurance economics, normalized earnings, management assessment, regulatory analysis, scenario valuation, long-dated options
 
@@ -140,7 +141,7 @@ The working model cross-checked a 2027 value in roughly the **low-$400s** under 
 
 ## Position Construction
 
-Because the thesis depended on a multi-year normalization rather than a specific quarterly catalyst, I preferred **long-dated call options** rather than short-duration contracts.
+I initiated the position in **July 2025 when UNH traded around $270/share**. Because the thesis depended on a multi-year normalization rather than a specific quarterly catalyst, I preferred **long-dated call options** rather than short-duration contracts.
 
 One structure analyzed in the original work was a **December 2027 $290 call** when the shares were around the high-$200s.
 

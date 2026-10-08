@@ -1,4 +1,4 @@
-# UnitedHealth Group (UNH) — Medical-Cost Normalization
+# UnitedHealth Group (UNH): Restructuring & Medical-Cost Normalization
 
 **Case type:** Contrarian Fundamental / Temporary Dislocation / Turnaround  
 **Status:** Closed thesis

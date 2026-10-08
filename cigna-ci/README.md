@@ -1,8 +1,9 @@
 # The Cigna Group (CI): Sector Sell-Off, Limited Government Exposure
 
 **Case type:** Sector Dislocation / Fundamental Value / Portfolio Reshaping  
-**Status:** Active thesis
-**Target price:** above **$300/share**
+**Status:** Active thesis  
+**Target price:** above **$300/share**  
+**Position initiated:** October 2025 at **$248.00/share**  
 **Primary skills:** insurance economics, medical-cost analysis, segment mix, guidance analysis, capital allocation, valuation
 
 ## Executive Summary
@@ -65,7 +66,7 @@ The low valuation provided a margin of safety if earnings merely remained resili
 
 ## Position Construction
 
-The initial position was opened at approximately **$248/share**.
+The initial position was opened in **October 2025 at approximately $248/share**.
 
 The setup was a classic sector-dislocation thesis:
 

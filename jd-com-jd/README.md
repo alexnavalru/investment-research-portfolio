@@ -230,7 +230,29 @@ The alignment is therefore meaningful, but it comes with a governance trade-off:
 
 can align incentives, but minority shareholders have limited ability to influence strategic decisions if they disagree with management.
 
-## 10. Automation and AI Optionality
+## 10. China, VIE & Disclosure Discount
+
+I do **not** assume JD should converge to the valuation multiples of comparable U.S. consumer or technology companies. Part of the discount is structural: investors are taking **China country risk, VIE risk, governance risk and a somewhat lighter foreign-private-issuer disclosure regime** in addition to ordinary operating risk.
+
+The main issues are:
+
+- **PRC regulatory / legal risk.** JD's own annual report notes that mainland Chinese laws and regulations can evolve quickly and that government actions in areas such as internet platforms, data, cybersecurity, anti-monopoly and offshore listings can materially affect the business.
+- **VIE structure.** Investors in JD's ADSs and ordinary shares own equity in a **Cayman Islands holding company**, not direct equity in the consolidated Chinese VIEs. JD itself states that the contractual arrangements may be less effective than direct ownership and have not been tested in mainland Chinese courts.
+- **ADR / HFCAA / geopolitical risk.** PCAOB inspection access to mainland China and Hong Kong was restored in 2022, and JD was not subsequently identified under the HFCAA for the following years. This means delisting is **not my base case today**. However, if the PCAOB again lost full inspection access and JD were identified for two consecutive years, U.S. trading could again be prohibited.
+- **Foreign-private-issuer disclosure.** JD is not required to file U.S.-style **10-Qs or 8-Ks** and is exempt from certain proxy and Regulation FD requirements. JD still publishes quarterly results and furnishes material releases on Form 6-K, but its own 20-F states that required disclosure can be **less extensive and less timely** than for a U.S. domestic issuer.
+- **Executive-compensation transparency is a useful example.** In the 2025 annual report JD disclosed approximately **RMB247m of aggregate cash compensation for directors and executive officers as a group**, but it did **not** provide Sandy Ran Xu's individual cash salary, bonus and total compensation in the way a U.S. domestic proxy typically would. The filing does disclose individual equity awards, including grants to Xu, so I view this as **lower individual compensation transparency rather than an absence of disclosure**.
+
+I also checked whether a separate mainland-China annual report provided more detail. JD's Chinese-language investor-relations page points to the same English annual report, and the company states that its **Hong Kong annual report contains substantially the same information as the Form 20-F**. I therefore did not find a separate public filing that provides a full individual CEO cash-compensation breakdown.
+
+This should not be overstated. JD prepares audited financial statements under **U.S. GAAP**, files a full annual report with the SEC and Hong Kong Stock Exchange, publishes quarterly operating results and is currently subject to PCAOB-accessible audit oversight. The issue is not that the financial statements should automatically be treated as unreliable because JD is Chinese; rather, investors reasonably demand a **higher risk premium** for the legal structure, regulatory uncertainty, concentrated control and some governance/disclosure differences.
+
+### Valuation Implication
+
+Because of these risks, I would **not** build the thesis around JD eventually receiving a U.S.-peer multiple. The **4x-6x EV/EBIT range** I use for the residual operating business is deliberately conservative and partly reflects this structural country/governance discount.
+
+A re-rating is possible if regulation, governance and capital allocation remain benign, but the core thesis should work **without assuming the China discount disappears**.
+
+## 11. Automation and AI Optionality
 
 JD's logistics infrastructure is already a competitive asset. Automation and AI create additional optionality to improve fulfillment efficiency and expand that infrastructure into external services.
 
@@ -245,7 +267,7 @@ Examples at Q2 2026 include:
 
 R&D expense increased **37.7% YoY in Q2 2026**, so this optionality is not free. The key question is whether the technology spend produces lower fulfillment costs, stronger customer retention, advertising monetization or new high-return businesses.
 
-## 11. New Businesses Create Multiple Sources of Optionality
+## 12. New Businesses Create Multiple Sources of Optionality
 
 The New Businesses segment includes or supports:
 
@@ -263,7 +285,7 @@ I do not assume Food Delivery will automatically reach Meituan-like historical m
 
 The more conservative thesis is simply that **reducing current losses can unlock large incremental consolidated earnings even without heroic steady-state margins**.
 
-## 12. European Expansion and CECONOMY
+## 13. European Expansion and CECONOMY
 
 JD is also expanding overseas through **Joybuy** and its planned acquisition of **CECONOMY**, the parent of MediaMarkt and Saturn.
 
@@ -303,7 +325,9 @@ The next major check is whether:
 - JD Retail losing share while maintaining margins through unsustainable cost cuts.
 - Poor capital allocation, including overpaying for international acquisitions.
 - CECONOMY integration and regulatory risk.
-- Structural China / ADR / VIE / geopolitical valuation discount.
+- PRC regulatory / legal intervention and uncertainty around the VIE structure.
+- Foreign-private-issuer disclosure differences and lower individual executive-compensation transparency than a typical U.S. domestic issuer.
+- ADR / HFCAA / U.S.-China geopolitical risk, even though PCAOB inspection access is currently available.
 - Founder voting control limiting minority shareholder influence.
 - Treating too much cash as "excess" when significant liquidity is required for working capital and strategic investment.
 - Buybacks slowing materially after the current authorization is exhausted.
@@ -329,6 +353,8 @@ The strongest version of the thesis does not require JD Food Delivery, AI or Eur
 
 - [JD.com — Q2 and H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
 - [JD.com — FY2025 results, dividend and repurchases](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-fourth-quarter-and-full-year-2025-results-and)
+- [JD.com — 2025 Annual Report / Form 20-F](https://ir.jd.com/static-files/274126f2-bb00-4590-b8d6-0863ba1e387b)
+- [JD.com — Hong Kong annual report notice; substantially the same information as the Form 20-F](https://ir.jd.com/node/12146/pdf)
 - [JD.com — Management / Richard Qiangdong Liu](https://ir.jd.com/management)
 - [SEC — Richard Qiangdong Liu ownership filing](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
 - [China State Council — 2025 appliance trade-in subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)

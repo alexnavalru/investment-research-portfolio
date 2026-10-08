@@ -93,7 +93,7 @@ A watchlist idea built around low valuation, rapid deleveraging, a growing backl
 
 
 ### 9. [Repsol (REP) — Peak-Cycle FCF Bear Case](./repsol-rep/README.md)
-**Status:** Short watchlist · **Entry:** ~**€30/share** · **Target:** **below €24/share**
+**Status:** Short watchlist · **Entry:** ~**€30/share** · **Target:** **below €22/share**
 
 A bearish cyclical thesis with a **preferred short entry around €30/share**, focused on the difference between **peak 2026 cash generation and normalized mid-cycle earnings**. Repsol is a stronger company than in prior cycles, with better capital allocation and shareholder returns, but current oil and especially refining economics are far above the company's own strategic assumptions. The case tests whether an optically low ~5x current FCF multiple remains cheap once the cycle is normalized.
 

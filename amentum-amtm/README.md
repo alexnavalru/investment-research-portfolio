@@ -1,7 +1,7 @@
-# Amentum (AMTM) — Deleveraging, Capital Allocation & Post-RMT Catalyst
+# Amentum (AMTM) | Watchlist — Entry around $18
 
 **Case type:** Watchlist / Deleveraging / Capital Allocation Catalyst  
-**Status:** No position yet; prospective entry around **$18/share**  
+**Status:** Watchlist; prospective entry around **$18/share**  
 **Primary skills:** leverage analysis, FCF valuation, backlog analysis, capital allocation, special-situation/tax-structure analysis
 
 ## Executive Summary

@@ -1,8 +1,10 @@
 # Comcast (CMCSA): Spin-Off Value
 
 **Case type:** Spin-Off / Mature Cash Generator / Thesis Evolution  
-**Status:** Active thesis
-**Target price:** N/A
+**Status:** Active thesis  
+**Target price:** N/A  
+**Position initiated:** June 2025  
+**Average purchase price:** approximately **$29/share**  
 **Primary skills:** FCF analysis, capital allocation, conglomerate analysis, catalyst assessment, thesis monitoring, error analysis
 
 ## Executive Summary
@@ -73,7 +75,7 @@ The dividend remains an important part of the capital-allocation framework, but 
 
 ## Position Construction
 
-Average entry price: approximately **$29/share**.
+I began buying in **June 2025**. After purchases over time, my **average entry price** was approximately **$29/share** (not the price of the first purchase).
 
 The position is now best understood as an **evolving special situation**, not the same thesis that existed before Versant.
 

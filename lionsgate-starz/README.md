@@ -1,6 +1,7 @@
-# Lionsgate / Starz — Spin-Off & Special Situation
+# Lionsgate / Starz | Closed thesis
 
 **Case type:** Special Situation / Spin-Off  
+**Status:** Closed thesis  
 **Primary skills:** SOTP valuation, precedent transactions, catalyst analysis, insider/ownership analysis, regulatory scenario analysis, trade construction, downside and timing risk
 
 ## Executive Summary

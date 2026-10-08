@@ -1,6 +1,7 @@
-# VICI Properties — REIT Fundamental Analysis & Valuation
+# VICI Properties (VICI) | Active thesis
 
 **Case type:** Fundamental Equity Research / REIT  
+**Status:** Active thesis  
 **Primary skills:** AFFO, leverage, capital allocation, per-share analysis, P/AFFO, NAV, SOTP, EV/EBITDA
 
 ## Objective

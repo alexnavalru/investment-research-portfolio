@@ -1,6 +1,7 @@
-# Comcast (CMCSA) — Spin-Off Thesis & Thesis Evolution
+# Comcast (CMCSA) | Active thesis
 
 **Case type:** Spin-Off / Mature Cash Generator / Thesis Evolution  
+**Status:** Active thesis  
 **Primary skills:** FCF analysis, capital allocation, conglomerate analysis, catalyst assessment, thesis monitoring, error analysis
 
 ## Executive Summary

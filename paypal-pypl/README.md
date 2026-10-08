@@ -1,6 +1,7 @@
-# PayPal (PYPL) — Turnaround, Cash Flow & Capital Allocation
+# PayPal (PYPL) | Active thesis
 
 **Case type:** Turnaround / Quality-at-a-Discount / Capital Allocation  
+**Status:** Active thesis  
 **Primary skills:** free-cash-flow analysis, management assessment, balance-sheet analysis, buyback economics, scenario valuation, position construction
 
 ## Executive Summary

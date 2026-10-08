@@ -11,7 +11,7 @@ This repository contains selected examples of my investment research. The object
 **Status guide:** Active thesis = ongoing research/current thesis; Closed thesis = historical case; Watchlist = thesis I would consider only around the stated entry level.
 
 ### 1. [Lionsgate / Starz: Spin-Off Special Situation](./lionsgate-starz/README.md)
-**Status:** Closed thesis · **Target:** N/A — historical case
+**Status:** Closed thesis · **Target:** N/A
 A catalyst-driven special situation built around the separation of Lionsgate Studios and Starz. The case focuses on implied valuation, sum-of-the-parts logic, precedent transactions, trade construction and timing risk.
 
 **Skills demonstrated:** spin-offs, SOTP, precedent transactions, catalyst analysis, long/short thinking, options.

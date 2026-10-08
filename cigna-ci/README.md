@@ -1,15 +1,15 @@
-# The Cigna Group (CI) — Managed-Care Dislocation
+# The Cigna Group (CI): Sector Sell-Off, Limited Government Exposure
 
 **Case type:** Sector Dislocation / Fundamental Value / Portfolio Reshaping  
 **Status:** Active thesis
-**Target price:** not formally set
+**Target price:** above **$300/share**
 **Primary skills:** insurance economics, medical-cost analysis, segment mix, guidance analysis, capital allocation, valuation
 
 ## Executive Summary
 
 I initiated a position in Cigna at approximately **$248/share** during a broad selloff in U.S. managed-care stocks.
 
-The sector was being repriced because of higher medical utilization, rising medical costs and problems concentrated in government-linked insurance programs. My thesis was that the market was extrapolating those problems too broadly across Cigna despite important differences in its business mix and strategic direction.
+The sector was being repriced because of higher medical utilization, rising medical costs and problems concentrated in government-linked insurance programs. Cigna fell sharply with the group even though its own earnings outlook had not broken. My thesis was that the market was extrapolating sector problems too broadly onto a company with materially lower direct exposure to government insurance risk and a business mix increasingly centered on commercial/employer health and Evernorth.
 
 The key observation was that **Cigna had not experienced the same fundamental reset implied by the share-price decline**. In 2025 the company repeatedly maintained or raised its earnings outlook even while sector sentiment deteriorated.
 

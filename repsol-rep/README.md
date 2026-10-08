@@ -2,7 +2,7 @@
 
 **Case type:** Bearish / Cyclical Normalization / Commodity & Refining-Margin Mean Reversion  
 **Status:** Short watchlist; preferred entry around **€30/share**  
-**Target price:** **below €24/share**  
+**Target price:** **below €22/share**  
 **Reference price:** approximately **€29–€30/share** in early October 2026  
 **Primary skills:** commodity-cycle analysis, refining economics, normalized FCF, accounting adjustments, scenario valuation, catalyst/risk analysis
 
@@ -18,15 +18,15 @@ At roughly **€29–€30/share**, my current high-energy-price scenario produc
 
 I do not view that multiple as genuinely cheap because the denominator is unusually elevated.
 
-My normalized valuation is **below €24/share**.
+My normalized valuation target is **below €22/share**.
 
 ### Current Return Bridge
 
-Using the **October 6, 2026 close of €28.76/share** and Repsol's **€1.051/share total cash dividend paid in 2026** (~**3.7%** of the October 6 share price), an illustrative move to **€24/share** would imply:
+Using the **October 6, 2026 close of €28.76/share** and Repsol's **€1.051/share total cash dividend paid in 2026** (~**3.7%** of the October 6 share price), an illustrative move to **€22/share** would imply:
 
-**Price return: -16.6% | Dividend contribution: +3.7% | Illustrative total return: ~-12.9%**
+**Price return: -23.5% | Dividend contribution: +3.7% | Illustrative total return: ~-19.9%**
 
-Because my normalized thesis value is **below €24**, €24 is the upper end of the bear-case valuation rather than the final downside target. If the share price fell below €24, the negative price contribution would be larger.
+Because my normalized thesis value is **below €22**, €22 is the upper threshold rather than a precise final downside target. A further fall below €22 would increase the price decline. This illustrative total-return bridge shows the impact for an equity holder; short sellers would instead face dividend-payment obligations, borrowing costs and other trading expenses.
 
 ## Why the Current Earnings Level Looks Cyclically Elevated
 
@@ -188,9 +188,9 @@ my internal normalized cash-flow framework is much closer to:
 
 Applying roughly **10x–12x normalized FCF/share** produces a valuation range of approximately:
 
-**€19–€23/share**
+**€19–€21/share as the preferred 10x–11x normalized-FCF range**; the approximately €23/share value at 12x is an upside valuation sensitivity, outside my below-€22 bear-case target.
 
-This is the main reason my normalized fair-value estimate is **below €24/share**.
+This is the main reason my normalized fair-value target is **below €22/share**. The model still displays 12x FCF as a higher-multiple sensitivity rather than as part of the target range.
 
 The exact number is less important than the framework: a low multiple on peak earnings is not the same thing as a low valuation on normalized earnings.
 

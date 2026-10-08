@@ -1,8 +1,8 @@
 # VICI Properties (VICI) — High Yield, Tenant Credit
 
 **Case type:** Fundamental Equity Research / REIT  
-**Status:** Active thesis
-**Target price:** approximately **$29–$30/share** based on NAV/SOTP
+**Status:** Active thesis  
+**Target price:** approximately **$29–$30/share** based on NAV/SOTP  
 **Primary skills:** AFFO, leverage, capital allocation, per-share analysis, P/AFFO, NAV, SOTP, EV/EBITDA
 
 ## Objective

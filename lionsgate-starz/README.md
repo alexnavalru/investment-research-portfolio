@@ -1,8 +1,8 @@
-# Lionsgate / Starz — Spin-Off Mispricing
+# Lionsgate / Starz: Spin-Off Special Situation
 
 **Case type:** Special Situation / Spin-Off  
 **Status:** Closed thesis
-**Target price:** N/A — closed historical case
+**Target price:** N/A
 **Primary skills:** SOTP valuation, precedent transactions, catalyst analysis, insider/ownership analysis, regulatory scenario analysis, trade construction, downside and timing risk
 
 ## Executive Summary
@@ -11,7 +11,27 @@ The core opportunity came from the separation of Lionsgate Studios from Starz. B
 
 That pricing relationship implied that the market was assigning a **negative value to Starz**.
 
-The situation created a potential relative-value structure: long the holding company and short the standalone studio in order to isolate Starz exposure at an implied negative price. The spin-off acted as the corporate catalyst that could force the market to price the two assets independently.
+The situation created a potential relative-value structure: long the holding company and short the separately listed studio in order to isolate the residual value of Starz. The spin-off acted as the corporate catalyst that could force the market to price the two assets independently.
+
+## Trade Construction: Isolating Starz
+
+Before the separation, both **Old Lionsgate (LGF.B)** and **Legacy Lionsgate Studios (LION)** traded publicly. Old Lionsgate economically contained the studio interest plus Starz, while LION provided a separately quoted market value for the studio. For Old Lionsgate Class B shareholders, the separation ultimately delivered **one New Lionsgate share and one Starz share before Starz's 15-for-1 reverse split**.
+
+At points, the spread between the two securities became extremely small. A representative shorthand from my original work was:
+
+- **Old Lionsgate:** about **$7.8/share**
+- **Legacy Lionsgate Studios:** about **$7.4/share**
+- **Residual value implied for Starz:** about **$0.4 per pre-split share**
+
+So the basic relative-value construction was:
+
+**long Old Lionsgate + short Legacy Lionsgate Studios = isolate the residual Starz value**
+
+The exact hedge ratio depended on the transaction mechanics and share-class treatment, but the economic point was simple: the market was assigning only a very small residual equity value to Starz. The **$0.4 pre-split residual** corresponds to roughly **$6 per Starz share after the 15-for-1 reverse split**.
+
+Against that residual valuation, my normalized cash-flow estimate for Starz was around **$100m**, putting the implied equity valuation at roughly **~1x normalized FCF**. I treat the $100m figure as a **normalized thesis estimate**, not as reported FY2025 free cash flow: the carve-out cash-flow statement was heavily affected by content-payment timing and separation-related items. As a later cross-check on the underlying cash-generation capacity, standalone Starz guided to **$80m–$120m of 2026 unlevered FCF**.
+
+*The ~$7.8 / ~$7.4 figures are approximate market levels used to explain the trade construction, not synchronized official closing prices.*
 
 ## Variant Perception
 
@@ -21,7 +41,7 @@ At the time of the analysis:
 
 - Lionsgate Studios generated approximately **$450m of EBITDA** and traded around **10x–11x EBITDA**.
 - Relevant studio precedent transactions had occurred at materially higher multiples.
-- Starz generated approximately **$1.4bn of revenue**, **$200m of EBITDA** and about **$100m of levered FCF**, while its implied market value was extremely low.
+- Starz generated approximately **$1.4bn of revenue** and around **$200m of EBITDA**. My normalized cash-flow estimate was roughly **$100m**, while the residual market value implied by the pre-spin spread was extremely low.
 - The separation increased strategic optionality because the studio could be evaluated independently in a future M&A scenario.
 
 ## Valuation Framework
@@ -115,6 +135,8 @@ The research process used public filings, earnings calls, management commentary,
 ### Sources
 
 - [Lionsgate — separation announcement and strategic rationale](https://investors.lionsgate.com/news-events/news/news-details/2025/Lions-Gate-Entertainment-Corp--Separates-its-Studio-and-STARZ-Businesses-into-Two-Independent-Publicly-Traded-Companies/default.aspx)
+- [Starz FY2025 carve-out financial statements — cash flow, interest and separation disclosures](https://www.sec.gov/Archives/edgar/data/929351/000092935125000038/starz-20250331.htm)
+- [Starz 2026 Proxy — $80m–$120m unlevered FCF outlook and definition](https://www.sec.gov/Archives/edgar/data/929351/000092935126000021/starz-20260402.htm)
 - [Lionsgate / Screaming Eagle transaction FAQ — strategic optionality](https://www.sec.gov/Archives/edgar/data/929351/000119312523301842/d640032dex993.htm)
 - [SEC Schedule 13D — Liberty 77 ownership, January 2024](https://www.sec.gov/Archives/edgar/data/929351/000095014224000180/eh240439180_13da1-lgf.htm)
 - [Lionsgate 10-K/A — Liberty 77 at 12.6% of Class A voting shares](https://www.sec.gov/Archives/edgar/data/929351/000119312524187548/d858515d10ka.htm)

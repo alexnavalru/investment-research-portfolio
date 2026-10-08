@@ -10,7 +10,7 @@ This repository contains selected examples of my investment research. The object
 
 **Status guide:** Active thesis = ongoing research/current thesis; Closed thesis = historical case; Watchlist = thesis I would consider only around the stated entry level.
 
-### 1. [Lionsgate / Starz — Spin-Off Mispricing](./lionsgate-starz/README.md)
+### 1. [Lionsgate / Starz: Spin-Off Special Situation](./lionsgate-starz/README.md)
 **Status:** Closed thesis · **Target:** N/A — historical case
 A catalyst-driven special situation built around the separation of Lionsgate Studios and Starz. The case focuses on implied valuation, sum-of-the-parts logic, precedent transactions, trade construction and timing risk.
 
@@ -24,7 +24,7 @@ A REIT research case focused on AFFO, leverage, per-share economics, capital all
 
 **Skills demonstrated:** REIT accounting, AFFO, leverage analysis, financial modeling, valuation.
 
-### 3. [UnitedHealth Group (UNH) — Medical-Cost Normalization](./unitedhealth-unh/README.md)
+### 3. [UnitedHealth Group (UNH): Restructuring & Medical-Cost Normalization](./unitedhealth-unh/README.md)
 **Status:** Closed thesis · **Historical target:** **$400–$450/share by 2027**
 A contrarian large-cap thesis developed during the 2025 collapse. The case focuses on separating a severe pricing and medical-cost mismatch from permanent franchise impairment, evaluating the return of former CEO Stephen Hemsley, regulatory risk and a multi-year normalization path.
 
@@ -41,24 +41,24 @@ A post-mortem of an investment initiated around $66/share in December 2025, now 
 **Skills demonstrated:** FCF reconstruction, capital-structure analysis, insider/ownership analysis, valuation, error analysis, process improvement.
 
 
-### 5. [PayPal (PYPL) — Cash Flow & Buybacks](./paypal-pypl/README.md)
-**Status:** Active thesis · **Target:** not formally set
+### 5. [PayPal (PYPL): Cash Flow & Buybacks](./paypal-pypl/README.md)
+**Status:** Active thesis · **Target:** **above $70/share**
 A turnaround thesis built around strong free-cash-flow generation, a robust balance sheet, aggressive buybacks and a low valuation. The case also tracks the management transition from Alex Chriss to Enrique Lores and the 2026 strategic reorganization.
 
 **Supporting research:** [PayPal Model Snapshot](./paypal-pypl/MODEL_SNAPSHOT.md)
 
 **Skills demonstrated:** FCF analysis, capital allocation, buyback economics, management assessment, balance-sheet analysis.
 
-### 6. [The Cigna Group (CI) — Managed-Care Dislocation](./cigna-ci/README.md)
-**Status:** Active thesis · **Target:** not formally set
-A sector-dislocation thesis initiated during the managed-care selloff. The analysis focuses on Cigna's different business mix, maintained earnings guidance, reduced Medicare exposure, Evernorth economics and valuation.
+### 6. [The Cigna Group (CI): Sector Sell-Off, Limited Government Exposure](./cigna-ci/README.md)
+**Status:** Active thesis · **Target:** **above $300/share**
+A sector-dislocation thesis initiated during the managed-care selloff. The stock fell with peers as medical-cost pressure and problems in government-linked insurance drove the sector lower, even though Cigna's own earnings outlook had not broken. The analysis focuses on its much lower Medicare exposure, commercial/employer mix, Evernorth economics and valuation.
 
 **Supporting research:** [Cigna Model Snapshot](./cigna-ci/MODEL_SNAPSHOT.md)
 
 **Skills demonstrated:** insurance economics, medical-cost analysis, segment mix, guidance analysis, valuation.
 
-### 7. [Comcast (CMCSA) — Spin-Off Value](./comcast-cmcsa/README.md)
-**Status:** Active thesis · **Target:** not formally set
+### 7. [Comcast (CMCSA): Spin-Off Value](./comcast-cmcsa/README.md)
+**Status:** Active thesis · **Target:** N/A
 An evolving special-situation case. The original thesis combined low valuation, strong FCF, buybacks, dividends and the Versant spin-off. After the expected re-rating failed to materialize, the case was updated for weaker operating trends, paused buybacks and the larger NBCUniversal / Sky separation.
 
 **Supporting research:** [Comcast Model Snapshot](./comcast-cmcsa/MODEL_SNAPSHOT.md)

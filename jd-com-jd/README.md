@@ -238,10 +238,6 @@ JD is a Cayman holding company that relies partly on contractual VIE arrangement
 
 This does **not** mean JD's accounts should be treated as unreliable: it reports under U.S. GAAP, files with the SEC and Hong Kong Stock Exchange and remains subject to PCAOB-accessible audit oversight. I therefore treat this mainly as a **higher required risk premium**, not as a reason to discard the financials.
 
-### Valuation Implication
-
-My **4x–6x EV/EBIT range** for the residual operating business partly reflects this China/governance discount. The thesis should work **without assuming JD ever reaches U.S.-peer multiples**.
-
 ## 11. Automation and AI Optionality
 
 JD's logistics infrastructure is already a competitive asset. Automation and AI create additional optionality to improve fulfillment efficiency and expand that infrastructure into external services.

@@ -2,34 +2,40 @@
 
 This page summarizes selected outputs from my internal Repsol model. The purpose is to distinguish **2026 peak-cycle cash generation** from a more normalized mid-cycle earnings base.
 
-## Macro Assumptions
+## Macro Assumptions: Company vs. Internal Model
 
-### Repsol 2026 planning framework
+Repsol's early-2026 guidance assumed **$60–65/bbl Brent**, **$3.5–4/MMBtu Henry Hub**, and a **$6.5–7.5/bbl Refining Margin Indicator**. Management cited an additional **~$1.4/bbl budgeted refining premium**, roughly **$1.4–1.5/bbl** in my planning range. The March 2026 strategy update's central case was **$65 Brent, $4 Henry Hub, and $6.5/bbl Refining Margin Indicator**.
 
-| Variable | Planning assumption |
-|---|---:|
-| Brent | **$60–65/bbl** |
-| Henry Hub | **$3.5–4.0/MMBtu** |
-| Refining Margin Indicator | **$6.5–7.5/bbl** |
-| Strategic central Brent assumption | **$65/bbl** |
-| Strategic central refining margin | **$6.5/bbl** |
+| Variable | Repsol's 2026 planning framework | My full-year 2026 scenario |
+|---|---:|---:|
+| Brent ($/bbl) | $60–65 (central $65) | **~$91.2** |
+| Henry Hub ($/MMBtu) | $3.5–4 (central $4.0) | **~$4.0** |
+| Refining Margin Indicator ($/bbl) | $6.5–7.5 (central $6.5) | Not separately estimated in this spreadsheet |
+| Additional refining premium ($/bbl) | ~$1.4–1.5 | Included in all-in margin |
+| **Total economic refining margin ($/bbl)** | **~$7.9–9.0** (internal base **$8.6**) | **~$29.5** |
 
-The March 2026 strategic update later formalized a central 2026 case of **$65 Brent, $4 Henry Hub and $6.5 refining margin**.
+The indicator is **not interchangeable** with the total economic margin. The company's official refining sensitivity applies to the **indicator**, not automatically to the total economic margin including premium.
 
-## 2026 Current / High-Price Scenario
+### Quarterly values used in my spreadsheet
 
-My model uses a much stronger commodity environment for 2026.
+| Assumption | Q1 | Q2 | Q3 model | Q4 model | Full-year model average |
+|---|---:|---:|---:|---:|---:|
+| Brent ($/bbl) | 81.1 | 103.8 | 90.0 | 90.0 | **~91.2** |
+| Henry Hub ($/MMBtu) | 5.1 | 2.9 | 4.0 | 4.0 | **~4.0** |
+| Total economic refining margin ($/bbl) | 15.2 | 21.5 | 40.8 | 40.8 | **~29.5** |
 
-Selected assumptions / observations:
+*The Q3 and Q4 figures above are assumptions in my spreadsheet, not reported Q3 and Q4 results. Repsol's October 6 provisional Q3 trading statement disclosed $97 Brent, $3.0 Henry Hub and a $36.2/bbl Refining Margin Indicator; the last metric is not the same as the all-in economic margin I model.*
 
-| Variable | Internal 2026 scenario |
-|---|---:|
-| Brent average assumption | **~$91/bbl** |
-| Henry Hub | **~$4/MMBtu** |
-| Refining Margin Indicator | **~$19/bbl** |
-| Additional refining premium | modeled separately |
+### Macro impact on CFFO: model sensitivity, not company guidance
 
-The refining premium is modeled separately because it reflects a mixture of crude discounts, jet fuel, biofuels, trading, logistics and optimization. I do not assume every $1 of premium has exactly the same CFFO sensitivity as the official refining-margin indicator.
+| Driver | Internal model base | 2026 modeled average | Modeled incremental CFFO |
+|---|---:|---:|---:|
+| Brent | $65.0/bbl | ~$91.2/bbl | **~€656m** |
+| Henry Hub | $4.0/MMBtu | ~$4.0/MMBtu | **~€0m** |
+| Total economic refining margin | $8.6/bbl | ~$29.5/bbl | **~€4,184m** |
+| **Total** | | | **~€4,839m** |
+
+These are the outputs in my screenshot (component amounts rounded; total from unrounded inputs). The workbook uses **€250m per $10 Brent**, **€130m per $0.5 Henry Hub**, and **€200m per $1 refining margin**. The published 2026–2028 Brent sensitivity is **€285m per $10**, not €250m. The published refining sensitivity applies to the **Refining Margin Indicator for Spanish industrial complexes**; applying it to all-in margin including premium is only a simplifying scenario assumption. Consequently **~€4.84bn is a directional, linear uplift**, not reported CFFO, not Repsol's own earnings forecast, and not an exact bridge to the adjusted CFFO in my valuation model.
 
 ## Cash-Flow Scenarios
 
@@ -76,7 +82,7 @@ Repsol's 2026–2028 sensitivity framework estimates approximately:
 - **±€200m CFFO** for each **±$1/bbl refining-margin indicator**;
 - **±€50m CFFO** for each **±1% USD appreciation vs EUR**.
 
-The refining sensitivity is especially important because the difference between a ~$19/bbl model environment and a ~$6.5–7.5/bbl normalized range is very large.
+The **~$29.5/bbl all-in economic margin** in my high-price scenario is far above the **~$8.6/bbl all-in planning base**. However, the premium component must be separated from the official refining-margin indicator before using company sensitivities as a precise forecast.
 
 ## Cash-Flow Accounting Adjustment
 
@@ -107,6 +113,9 @@ This is exactly the environment in which a cyclical company can look cheapest on
 ### Public Sources
 
 - [Repsol 2026–2028 assumptions and sensitivities](https://www.repsol.com/en/accionistas-inversores/informacion-economica-financiera/index.cshtml)
+- [Repsol FY2025 earnings-call transcript: budgeted refining premium](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/resultados/2025/4t/transcripcion-webcast-4t25.pdf)
+- [Repsol Q1 2026 presentation: 2026 outlook and sensitivities](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori30042026-presentation-on-results-first-quarter-2026.pdf)
+- [Repsol Q3 2026 trading statement: provisional market data](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori06102026-trading-statement-3q26.pdf)
 - [Repsol FY2025 results / reporting model](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/rif/2026/rif19022026-press-release-results-year-2025.pdf)
 - [Repsol Q2 2026 results](https://www.repsol.com/en/shareholders-and-investors/financial-information/quarterly-results/index.cshtml)
 

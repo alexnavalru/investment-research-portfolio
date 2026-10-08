@@ -1,7 +1,8 @@
-# Lionsgate / Starz | Closed thesis
+# Lionsgate / Starz — Spin-Off Mispricing
 
 **Case type:** Special Situation / Spin-Off  
-**Status:** Closed thesis  
+**Status:** Closed thesis
+**Target price:** N/A — closed historical case
 **Primary skills:** SOTP valuation, precedent transactions, catalyst analysis, insider/ownership analysis, regulatory scenario analysis, trade construction, downside and timing risk
 
 ## Executive Summary

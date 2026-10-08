@@ -14,12 +14,14 @@ This repository contains selected examples of my investment research. The object
 **Status:** Closed thesis · **Target:** N/A  
 **Position initiated:** April 2025 at approximately **$6.10/share** (Old Lionsgate)  
 **Additional purchase:** August 2025 at approximately **$5.80/share** (Lionsgate Studios only)
+
 A spin-off special situation with two possible trades: a long Old Lionsgate / short separately listed studio pair to isolate the cheap implied value of Starz, or a long position in Old Lionsgate before the separation to keep both businesses. I chose the second route. Starz appeared to be a small and undervalued part of the package, while the studio offered upside from potential M&A, major film releases such as *Michael*, and investor interest from Steven Mnuchin / Liberty 77.
 
 **Skills demonstrated:** spin-offs, SOTP, precedent transactions, catalyst analysis, long/short thinking, options.
 
 ### 2. [VICI Properties (VICI) — High Yield, Tenant Credit](./vici-properties/README.md)
 **Status:** Active thesis · **Target:** ~**$29–$30/share**
+
 A REIT research case focused on AFFO, leverage, per-share economics, capital allocation and valuation using P/AFFO, EV/EBITDA and P/Book cross-checks.
 
 **Supporting research:** [VICI Model Snapshot](./vici-properties/MODEL_SNAPSHOT.md)
@@ -29,6 +31,7 @@ A REIT research case focused on AFFO, leverage, per-share economics, capital all
 ### 3. [UnitedHealth Group (UNH): Restructuring & Medical-Cost Normalization](./unitedhealth-unh/README.md)
 **Status:** Closed thesis · **Historical target:** **$400–$450/share by 2027**  
 **Position initiated:** July 2025 at approximately **$270/share**
+
 A contrarian large-cap thesis developed during the 2025 collapse. The case focuses on separating a severe pricing and medical-cost mismatch from permanent franchise impairment, evaluating the return of former CEO Stephen Hemsley, regulatory risk and a multi-year normalization path.
 
 **Supporting research:** [UNH Valuation Snapshot](./unitedhealth-unh/MODEL_SNAPSHOT.md)
@@ -38,6 +41,7 @@ A contrarian large-cap thesis developed during the 2025 collapse. The case focus
 ### 4. [Shift4 Payments (FOUR) — FCF Post-Mortem & Re-entry](./shift4-payments-four/README.md)
 **Status:** Watchlist · **Re-entry:** ~**$30/share** · **Target:** not formally set  
 **Historical position initiated:** December 2025 at **$66.23/share**
+
 A post-mortem of an investment initiated around $66.23/share in December 2025, now combined with a fresh watchlist reassessment after the subsequent valuation compression. The current framework focuses on FCF available to common shareholders, leverage, capital structure, founder alignment, valuation discipline and the added margin/tourism risk from the Global Blue acquisition. Founder Jared Isaacman's 2026 open-market purchases are included as a qualitative signal, while my preferred re-entry level is around $30/share.
 
 **Supporting research:** [FOUR Model Snapshot](./shift4-payments-four/MODEL_SNAPSHOT.md)
@@ -49,6 +53,7 @@ A post-mortem of an investment initiated around $66.23/share in December 2025, n
 **Status:** Active thesis · **Target:** **above $70/share**  
 **Position initiated:** April 2025 at **$60.00/share**  
 **Additional purchase:** February 2026 at **$40.33/share**
+
 A turnaround thesis built around strong free-cash-flow generation, a robust balance sheet, aggressive buybacks and a low valuation. The case also tracks the management transition from Alex Chriss to Enrique Lores and the 2026 strategic reorganization.
 
 **Supporting research:** [PayPal Model Snapshot](./paypal-pypl/MODEL_SNAPSHOT.md)
@@ -58,6 +63,7 @@ A turnaround thesis built around strong free-cash-flow generation, a robust bala
 ### 6. [The Cigna Group (CI): Sector Sell-Off, Limited Government Exposure](./cigna-ci/README.md)
 **Status:** Active thesis · **Target:** **above $300/share**  
 **Position initiated:** October 2025 at **$248.00/share**
+
 A sector-dislocation thesis initiated during the managed-care selloff. The stock fell with peers as medical-cost pressure and problems in government-linked insurance drove the sector lower, even though Cigna's own earnings outlook had not broken. The analysis focuses on its much lower Medicare exposure, commercial/employer mix, Evernorth economics and valuation.
 
 **Supporting research:** [Cigna Model Snapshot](./cigna-ci/MODEL_SNAPSHOT.md)
@@ -68,6 +74,7 @@ A sector-dislocation thesis initiated during the managed-care selloff. The stock
 **Status:** Active thesis · **Target:** N/A  
 **Position initiated:** June 2025  
 **Average purchase price:** approximately **$29/share**
+
 An evolving special-situation case. The original thesis combined low valuation, strong FCF, buybacks, dividends and the Versant spin-off. After the expected re-rating failed to materialize, the case was updated for weaker operating trends, paused buybacks and the larger NBCUniversal / Sky separation.
 
 **Supporting research:** [Comcast Model Snapshot](./comcast-cmcsa/MODEL_SNAPSHOT.md)
@@ -77,6 +84,7 @@ An evolving special-situation case. The original thesis combined low valuation, 
 
 ### 8. [Amentum (AMTM) — Deleveraging & Capital Allocation](./amentum-amtm/README.md)
 **Status:** Watchlist · **Entry:** ~**$18/share** · **Target:** **above $25/share**
+
 A watchlist idea built around low valuation, rapid deleveraging, a growing backlog, nuclear-energy growth optionality and the expiry of the two-year Reverse Morris Trust tax restrictions. The key optionality is a broader capital-allocation set — including potential share repurchases — now that leverage has reached management's target range.
 
 **Supporting research:** [Amentum Model Snapshot](./amentum-amtm/MODEL_SNAPSHOT.md)
@@ -86,6 +94,7 @@ A watchlist idea built around low valuation, rapid deleveraging, a growing backl
 
 ### 9. [Repsol (REP) — Peak-Cycle FCF Bear Case](./repsol-rep/README.md)
 **Status:** Short watchlist · **Entry:** ~**€30/share** · **Target:** **below €24/share**
+
 A bearish cyclical thesis with a **preferred short entry around €30/share**, focused on the difference between **peak 2026 cash generation and normalized mid-cycle earnings**. Repsol is a stronger company than in prior cycles, with better capital allocation and shareholder returns, but current oil and especially refining economics are far above the company's own strategic assumptions. The case tests whether an optically low ~5x current FCF multiple remains cheap once the cycle is normalized.
 
 **Supporting research:** [Repsol Bear-Case Model Snapshot](./repsol-rep/MODEL_SNAPSHOT.md)
@@ -96,6 +105,7 @@ A bearish cyclical thesis with a **preferred short entry around €30/share**, f
 ### 10. [JD.com (JD) — Cash-Rich Core, New-Business Drag](./jd-com-jd/README.md)
 **Status:** Active thesis · **Target:** **above $35/ADR**  
 **Position initiated:** October 2026 at **$25.78/ADR**
+
 A China consumer / technology thesis built around a profitable Retail + Logistics core, a net-cash position representing roughly 60% of market capitalization in my conservative model, meaningful dividends and buybacks, and the possibility that current New Businesses losses normalize. The case also examines subsidy-driven high-base effects in electronics, automation / AI optionality and international expansion.
 
 **Supporting research:** [JD.com Model Snapshot](./jd-com-jd/MODEL_SNAPSHOT.md)

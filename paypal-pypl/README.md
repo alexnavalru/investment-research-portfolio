@@ -1,15 +1,17 @@
 # PayPal (PYPL): Cash Flow & Buybacks
 
 **Case type:** Turnaround / Quality-at-a-Discount / Capital Allocation  
-**Status:** Active thesis
-**Target price:** above **$70/share**
+**Status:** Active thesis  
+**Target price:** above **$70/share**  
+**Position initiated:** April 2025 at **$60.00/share**  
+**Additional purchase:** February 2026 at **$40.33/share**  
 **Primary skills:** free-cash-flow analysis, management assessment, balance-sheet analysis, buyback economics, scenario valuation, position construction
 
 ## Executive Summary
 
 The PayPal thesis began as a turnaround case under **Alex Chriss**, who was brought in to simplify the business, improve execution and refocus the company on profitable growth. The central attraction, however, was not a heroic revenue-growth assumption. It was the combination of **strong free-cash-flow generation, a robust balance sheet, a depressed valuation and aggressive capital returns**.
 
-I built exposure around **$60/share** and added again around **$42.50**, treating the lower price as an opportunity to increase exposure while the underlying cash-generation thesis remained intact.
+I built exposure around **$60/share** and added again around **$40.33**, treating the lower price as an opportunity to increase exposure while the underlying cash-generation thesis remained intact.
 
 In early 2026, the leadership thesis changed materially. PayPal's board replaced Alex Chriss with **Enrique Lores**, effective March 2026. The board explicitly said that progress had been made under Chriss but that the pace of change and execution had not met expectations. Lores then announced a broader strategic reorganization into three operating businesses designed to simplify decision-making and accelerate execution.
 
@@ -53,7 +55,7 @@ I therefore treat the leadership change as a **new execution phase**, rather tha
 
 ## Position Construction
 
-Personal exposure was built in stages, initially around **$60/share** and later around **$42.50**.
+Personal exposure was built in stages, initially around **$60/share** in April 2025 and later around **$40.33/share** in February 2026.
 
 The position was based on a multi-year thesis rather than a near-term earnings trade. The key variables were:
 

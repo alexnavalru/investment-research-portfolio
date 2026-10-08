@@ -50,21 +50,36 @@ My model uses the following **full-year 2026 averages**:
 |---|---:|---:|
 | Brent ($/bbl) | $60–65 (central $65) | **~$91.2** |
 | Henry Hub ($/MMBtu) | $3.5–4.0 (central $4.0) | **~$4.0** |
-| Refining Margin Indicator ($/bbl) | $6.5–7.5 (central $6.5) | Not isolated in my total-margin spreadsheet |
-| Budgeted refining premium ($/bbl) | ~$1.4–1.5 | Included in total margin |
-| **Total economic refining margin ($/bbl)** | **~$7.9–9.0** (model base **$8.6**) | **~$29.5** |
+| Refining Margin Indicator ($/bbl) | $6.5–7.5 (central $6.5) | Quarterly values shown below |
+| Budgeted refining premium ($/bbl) | ~$1.4–1.5 | Quarterly values shown below |
+| Full refining margin, before haircut ($/bbl) | ~$7.9–9.0 (indicator + premium) | **~$31.7** |
+| **Haircut-adjusted refining sensitivity proxy ($/bbl)** | **$8.6 internal model base** | **~$29.5** |
 
-This comparison matters because my forecast is not simply assuming a higher oil price: **the largest source of cash-flow upside comes from refining margins far above normal planning levels**.
+**How I estimate refining CFFO:** Repsol reports a **Refining Margin Indicator** and a **premium** on top. The full economic margin equals indicator + premium, but I do **not** assume that an incremental dollar of premium translates into exactly the same cash flow as an incremental dollar of the indicator. Premium drivers include discounted heavy crude, crude and product mix, kerosene yield and pricing, HVO / SAF and other biofuels, logistics optimization, and trading or temporary market opportunities. Because their CFFO conversion is heterogeneous, I haircut the premium before applying a single simplifying refining sensitivity:
 
-#### My 2026 quarterly inputs
+**Haircut-adjusted proxy = Refining Margin Indicator + 0.75 × Refining Premium.**
 
-| Variable | Q1 | Q2 | Q3 model | Q4 model | FY2026 model average |
+**0.75 means retaining 75% of the premium, or a 25% haircut.** A 50% haircut would use **0.50**, not 0.75; the 25% haircut is the one actually used in my spreadsheet. This is an **analytical proxy**, not Repsol's published all-in economic margin or an official conversion coefficient. I keep **$8.6/bbl** as my existing conservative *internal comparison base*, so the uplift calculation is a model stress test rather than a fully like-for-like reconstruction of management's indicator-plus-premium case.
+
+#### My 2026 quarterly inputs and premium adjustment
+
+| Input ($/bbl) | Q1 2026 | Q2 2026 | Q3 model | Q4 model |
+|---|---:|---:|---:|---:|
+| **Refining Margin Indicator** | 10.9 | 14.0 | 34.0 | 34.0 |
+| **Reported / assumed premium** | 5.7 | ~10.0 | 9.0 | 9.0 |
+| Full indicator + premium | 16.6 | ~24.0 | 43.0 | 43.0 |
+| **Modeled indicator + 0.75 × premium** | **15.2** | **21.5** | **40.8** | **40.8** |
+
+For example, **Q1 = 10.9 + (5.7 × 0.75) = $15.175/bbl**, displayed as **$15.2/bbl**. Similarly, Q2 is **14 + (10 × 0.75) = $21.5/bbl** and each modeled H2 quarter is **34 + (9 × 0.75) = $40.75/bbl**, displayed as **$40.8/bbl**. The resulting full-year effective proxy averages approximately **$29.5/bbl**.
+
+The **Q1 $10.9 indicator / $5.7 premium** and **Q2 $14 indicator / ~$10 premium** came from Repsol's actual quarterly reporting and earnings calls. During its **July 2026 Q2 earnings call**, management described a *then-current July* indicator around **$34/bbl plus a ~$9/bbl premium**. I extrapolated that July snapshot through **Q3 and Q4** for my deliberately strong-energy scenario; this is **my assumption**, not an official Q3/Q4 forecast. Management also suggested that, even with full reopening of Hormuz, the **full-year unadjusted** refining margin could remain above **$20–21/bbl**, supported by structural tightness, product spreads and biofuels. That comment supports elevated 2026 margins but does **not** validate my particular **$40.8/bbl H2 adjusted proxy**.
+
+| Other input | Q1 | Q2 | Q3 model | Q4 model | FY2026 model average |
 |---|---:|---:|---:|---:|---:|
 | Brent ($/bbl) | 81.1 | 103.8 | 90.0 | 90.0 | **~91.2** |
 | Henry Hub ($/MMBtu) | 5.1 | 2.9 | 4.0 | 4.0 | **~4.0** |
-| Total economic refining margin ($/bbl) | 15.2 | 21.5 | 40.8 | 40.8 | **~29.5** |
 
-*These are my spreadsheet inputs, not a table of reported Repsol financial results. Q3 and Q4 are scenario inputs. Repsol's October 6 provisional Q3 trading statement instead reports $97.0 Brent, $3.0 Henry Hub and a **$36.2/bbl refining-margin indicator**; the last figure is not directly comparable with my **total** economic margin, which includes a premium.*
+*Q3 and Q4 above are model assumptions. Repsol's October 6 provisional Q3 trading statement instead reports $97.0 Brent, $3.0 Henry Hub and a **$36.2/bbl Refining Margin Indicator**. This reported Q3 indicator differs from my July-based assumption of $34, and is not equivalent to the haircut-adjusted proxy.*
 
 #### Estimated CFFO uplift from the macro scenario
 
@@ -74,10 +89,12 @@ My spreadsheet applies its own base values and linear sensitivities to the full-
 |---|---:|---:|---:|
 | Brent | $65.0/bbl | ~$91.2/bbl | **~€656m** |
 | Henry Hub | $4.0/MMBtu | ~$4.0/MMBtu | **~€0m** |
-| Total economic refining margin | $8.6/bbl | ~$29.5/bbl | **~€4,184m** |
+| Haircut-adjusted refining proxy | $8.6/bbl internal base | ~$29.5/bbl | **~€4,184m** |
 | **Total modeled uplift** | | | **~€4,839m** |
 
-For the calculation I used **€250m of annual CFFO per $10/bbl Brent**, **€130m per $0.5/MMBtu Henry Hub**, and **€200m per $1/bbl refining margin**. The line items are rounded; the total comes from the model's unrounded quarterly calculations. Repsol's *published* 2026–2028 sensitivity for Brent is **€285m per $10/bbl**, not the €250m used in my sheet. More importantly, Repsol's refining sensitivity is for the **Refining Margin Indicator at its Spanish industrial complexes**, not necessarily for each extra dollar of the **all-in economic margin** including premium.
+For the calculation I used **€250m of annual CFFO per $10/bbl Brent**, **€130m per $0.5/MMBtu Henry Hub**, and **€200m per $1/bbl of the haircut-adjusted refining proxy**. The line items are rounded; the total comes from the model's unrounded quarterly calculations. Repsol's *published* 2026–2028 sensitivity for Brent is **€285m per $10/bbl**, not the €250m used in my sheet. More importantly, Repsol's refining sensitivity is for the **Refining Margin Indicator at its Spanish industrial complexes**, not necessarily for each extra dollar of the **all-in economic margin** including premium.
+
+**Henry Hub hedging:** Repsol stated at its March 2026 Capital Markets Day that approximately **50% of its U.S. gas production** was hedged for 2026 with a **collar near $3.2–3.3/MMBtu (floor) and $5.2–5.3/MMBtu (cap)**. This covers U.S. production, **not 50% of all group gas production**. My workbook's additional hedge adjustment is only about **+€11m CFFO and +€13m EBIT**. Given its small size relative to the macro scenario, I keep the **Henry Hub CFFO uplift rounded to €0m** in the headline sensitivity table instead of presenting a false level of precision. The +€11m/+€13m are **my estimates**, not published guidance.
 
 The **~€4.84bn** is therefore a **directional gross sensitivity estimate, not company guidance** and not a directly additive forecast of reported CFFO. Repsol originally guided to **€5.5–6.0bn CFFO** under its lower energy assumptions; my separate adjusted cash-flow model estimates roughly **€10.2bn of CFFO** in the high-price case after its own accounting and perimeter adjustments. The difference between those values should not be interpreted as a precise reconciliation.
 
@@ -101,7 +118,7 @@ This matters because simply annualizing a crisis-period refining margin can dram
 
 Official sensitivity is also material: Repsol estimates that each **$1/bbl change in refining margin** changes annual CFFO by roughly **€200m** for its Spanish industrial complexes.
 
-My scenario assumes a **~$29.5/bbl all-in economic margin**, compared with a **~$8.6/bbl all-in planning baseline**. That gap highlights the scale of the potential normalization, although the company's **€200m/bbl sensitivity applies to its refining-margin indicator**, not automatically to the premium component.
+My scenario uses a **~$29.5/bbl haircut-adjusted sensitivity proxy**, compared against an **$8.6/bbl internal planning base**. The full unhaircutted average margin would instead be around **$31.7/bbl**. The large gap illustrates normalization risk, but Repsol's **€200m/bbl official CFFO sensitivity applies to its Refining Margin Indicator**, not automatically to the premium or my synthetic proxy.
 
 ## Oil Prices: Strong Current Cash Flow, Weak Normalization Signal
 
@@ -230,6 +247,9 @@ The core analytical framework is:
 - [Repsol — 2026–2028 macro assumptions and sensitivities](https://www.repsol.com/en/accionistas-inversores/informacion-economica-financiera/index.cshtml)
 - [Repsol — FY2025 earnings-call transcript, including ~$1.4/bbl budgeted refining premium](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/resultados/2025/4t/transcripcion-webcast-4t25.pdf)
 - [Repsol — April 2026 presentation: 2026 guidance and official macro sensitivities](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori30042026-presentation-on-results-first-quarter-2026.pdf)
+- [Repsol — Q1 2026 results call: $5.7/bbl refining premium](https://uk.investing.com/news/stock-market-news/earnings-call-transcript-repsols-q1-2026-earnings-rise-amid-strong-industrial-gains-93CH-4640994)
+- [Repsol — Q2 2026 earnings call: $10/bbl Q2 premium, $34 + $9/bbl July reference and refining outlook](https://earningsapi.io/transcripts/repsol-s-a_rep_earnings_call_transcript_2026-07-23)
+- [Repsol — March 2026 Capital Markets Day transcript: U.S. gas hedging collar](https://www.repsol.com/content/dam/repsol-corporate/es/conocenos/documentos-conocenos/transcripcion-webcast-capital-markets-day.pdf)
 - [Repsol — provisional Q3 2026 trading statement, October 6](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori06102026-trading-statement-3q26.pdf)
 - [Repsol — Capital Markets Day 2026–2028](https://www.repsol.com/en/press-room/press-releases/2026/repsol-invest-10-billion-euros-2028-more-than-half-spain-portugal/index.cshtml)
 - [Repsol — Q2 2026 results](https://www.repsol.com/en/shareholders-and-investors/financial-information/quarterly-results/index.cshtml)

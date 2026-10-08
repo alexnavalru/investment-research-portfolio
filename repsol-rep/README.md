@@ -1,7 +1,8 @@
-# Repsol (REP) | Short watchlist — Entry around €30
+# Repsol (REP) — Peak-Cycle FCF Bear Case
 
 **Case type:** Bearish / Cyclical Normalization / Commodity & Refining-Margin Mean Reversion  
-**Status:** Short watchlist; preferred entry around **€30/share**  
+**Status:** Short watchlist; preferred entry around **€30/share**
+**Target price:** **below €24/share**
 **Reference price:** approximately **€29–€30/share** in early October 2026  
 **Primary skills:** commodity-cycle analysis, refining economics, normalized FCF, accounting adjustments, scenario valuation, catalyst/risk analysis
 

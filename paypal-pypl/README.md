@@ -1,8 +1,8 @@
-# PayPal (PYPL) — Cash Flow & Buybacks
+# PayPal (PYPL): Cash Flow & Buybacks
 
 **Case type:** Turnaround / Quality-at-a-Discount / Capital Allocation  
 **Status:** Active thesis
-**Target price:** not formally set
+**Target price:** above **$70/share**
 **Primary skills:** free-cash-flow analysis, management assessment, balance-sheet analysis, buyback economics, scenario valuation, position construction
 
 ## Executive Summary

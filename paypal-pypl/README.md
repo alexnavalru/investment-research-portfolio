@@ -107,18 +107,18 @@ This case demonstrates how I separate **business growth from per-share value cre
 
 ### Sources
 
-- [PayPal — Enrique Lores appointed CEO](https://about.pypl.com/news-details/2026/PayPal-Appoints-Enrique-Lores-as-Chief-Executive-Officer-and-David-W--Dorman-as-Independent-Board-Chair/default.aspx)
-- [PayPal — Strategic reorganization, April 2026](https://about.pypl.com/news-details/2026/PayPal-Announces-Strategic-Reorganization-to-Accelerate-Growth/default.aspx)
-- [PayPal — Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm)
-- [PayPal — Q3 2025 dividend announcement and capital returns](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000194/pypl3q-25earningsrelease.htm)
-- [Reuters, 28 Aug 2026 — Stripe/Advent pursuit abandoned](https://www.reuters.com/business/paypal-shares-fall-after-report-advent-stripe-consortium-abandons-takeover-2026-08-28/)
-- [Bloomberg, 28 Aug 2026 — Consortium ends pursuit](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
+- [PayPal - Enrique Lores appointed CEO](https://about.pypl.com/news-details/2026/PayPal-Appoints-Enrique-Lores-as-Chief-Executive-Officer-and-David-W--Dorman-as-Independent-Board-Chair/default.aspx)
+- [PayPal - Strategic reorganization, April 2026](https://about.pypl.com/news-details/2026/PayPal-Announces-Strategic-Reorganization-to-Accelerate-Growth/default.aspx)
+- [PayPal - Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm)
+- [PayPal - Q3 2025 dividend announcement and capital returns](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000194/pypl3q-25earningsrelease.htm)
+- [Reuters, 28 Aug 2026 - Stripe/Advent pursuit abandoned](https://www.reuters.com/business/paypal-shares-fall-after-report-advent-stripe-consortium-abandons-takeover-2026-08-28/)
+- [Bloomberg, 28 Aug 2026 - Consortium ends pursuit](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
 - [PayPal CEO offer letter (SEC, Exhibit 10.1)](https://www.sec.gov/Archives/edgar/data/1633917/000119312526035860/d68718dex101.htm)
-- [PayPal 2026 Proxy — CEO pay and ownership guidelines](https://www.sec.gov/Archives/edgar/data/1633917/000119312526145735/d45512dars.pdf)
+- [PayPal 2026 Proxy - CEO pay and ownership guidelines](https://www.sec.gov/Archives/edgar/data/1633917/000119312526145735/d45512dars.pdf)
 - [PayPal CEO time-based RSUs (Form 4, March 2026)](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000038/xslF345X05/edgardoc.xml)
-- [PayPal and OpenAI — agentic commerce](https://about.pypl.com/news-details/2025/OpenAI-and-PayPal-Team-Up-to-Power-Instant-Checkout-and-Agentic-Commerce-in-ChatGPT/default.aspx)
-- [PayPal / Cymbio — agentic commerce strategy](https://about.pypl.com/news-details/2026/PayPal-to-Acquire-Cymbio-Accelerating-Agentic-Commerce-Capabilities/default.aspx)
-- [PayPal World — global wallet network](https://about.pypl.com/news-details/2025/Introducing-PayPal-World-a-global-platform-connecting-the-worlds-largest-payment-systems-and-digital-wallets-starting-with-interoperability-to-PayPal-and-Venmo/default.aspx)
-- [PayPal World — live China QR experience (Aug 2026)](https://newsroom.paypal-corp.com/2026-08-11-PayPal-World-Enables-US-Travelers-to-Pay-Like-a-Local-at-Weixin-Pay-Merchants-Across-China)
+- [PayPal and OpenAI - agentic commerce](https://about.pypl.com/news-details/2025/OpenAI-and-PayPal-Team-Up-to-Power-Instant-Checkout-and-Agentic-Commerce-in-ChatGPT/default.aspx)
+- [PayPal / Cymbio - agentic commerce strategy](https://about.pypl.com/news-details/2026/PayPal-to-Acquire-Cymbio-Accelerating-Agentic-Commerce-Capabilities/default.aspx)
+- [PayPal World - global wallet network](https://about.pypl.com/news-details/2025/Introducing-PayPal-World-a-global-platform-connecting-the-worlds-largest-payment-systems-and-digital-wallets-starting-with-interoperability-to-PayPal-and-Venmo/default.aspx)
+- [PayPal World - live China QR experience (Aug 2026)](https://newsroom.paypal-corp.com/2026-08-11-PayPal-World-Enables-US-Travelers-to-Pay-Like-a-Local-at-Weixin-Pay-Merchants-Across-China)
 
 > Personal entry prices are approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.

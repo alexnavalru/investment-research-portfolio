@@ -64,6 +64,16 @@ I therefore treat the leadership change as a **new execution phase**, rather tha
 - **Special PSU stock-price hurdles:** **$68.13** (100% of target), **$100** (175%) and **$125** (250%), using a 60-calendar-day average during years three to five. **In a change of control before year five**, the contractual **transaction price** instead determines how many of these units are *earned*, including interpolation between thresholds. *Earned does not mean automatically vested or paid:* continued service through year five or applicable double-trigger rules can still matter. Executive shareholding guidelines require **6× base salary ($8.7m)** within five years and retention of **25% of net vested shares** until the requirement is met.
 - **Change-in-control nuance:** PayPal generally uses **double-trigger** protection: a sale by itself does not automatically pay the CEO the approximately **$8.7m** cash severance or accelerate all equity. That cash payment is contingent on qualifying termination within the prescribed change-in-control period; performance-based awards and their eventual settlement remain subject to their governing agreements. Hypothetical gross CEO exit outcomes calculated at $60.50 / $70 / $80 should therefore not be mistaken for automatic proceeds from the transaction.
 
+**Illustrative CEO economics in a hypothetical sale, not company guidance** (user scenario; gross pre-tax, 2026 ordinary PSUs at target, all eligible equity assumed to vest upon a *qualifying* change-in-control termination, and $8.70m conditional cash severance):
+
+| Sale price | Special price-linked PSUs earned | Indicative gross value if CEO exits under qualifying double-trigger conditions |
+|---|---:|---:|
+| $60.50 | 0 | **$101.57m** |
+| $70.00 | ~613,033 | **$159.06m** |
+| $80.00 | ~751,204 | **$191.60m** |
+
+These modeled amounts should **not** be read as Lores's immediate proceeds simply because PayPal is sold: if he remains in office, much of the equity generally stays subject to vesting and the $8.70m severance is not triggered. The final amount also depends on the award agreements, achievement of ordinary PSU metrics, transaction structure, employment outcome and taxes.
+
 **Investment implication:** a prospective bidder might recognize franchise value not reflected in public trading multiples, and price-linked CEO incentives help align management and shareholders. Nevertheless, execution of the cash-flow turnaround remains the fundamental investment case; M&A is **unmodeled upside optionality**.
 
 ### 6. Agentic Commerce: Additional Upside, Not in Base Valuation

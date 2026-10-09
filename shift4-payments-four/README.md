@@ -1,4 +1,4 @@
-# Shift4 Payments (FOUR) — FCF Post-Mortem & Re-entry
+# Shift4 Payments (FOUR) - FCF Post-Mortem & Re-entry
 
 **Case type:** Investment Post-Mortem / Payments / Watchlist Reassessment  
 **Status:** Watchlist; preferred re-entry around **$30/share**  
@@ -100,7 +100,7 @@ The second concern is cyclicality. Global Blue's Tax-Free Shopping activity is e
 
 Shift4 already reduced the midpoint of its 2026 revenue guidance by roughly **200 bps** in Q2 because of travel disruption affecting tax-free shopping. That specific revision was primarily linked to the Middle East conflict, not China. Separately, however, I view weakness in Chinese luxury demand as another risk to monitor because Global Blue is tied to cross-border luxury shopping.
 
-The broader luxury environment has weakened materially in 2026. Hermès shares fell sharply after reporting that buying in China had not rebounded, while LVMH — owner of Louis Vuitton — has also suffered from weak Chinese demand and a broader luxury downturn. I therefore treat **China / luxury-sector weakness as an external demand risk**, not as a confirmed explanation for Shift4's current results.
+The broader luxury environment has weakened materially in 2026. Hermès shares fell sharply after reporting that buying in China had not rebounded, while LVMH - owner of Louis Vuitton - has also suffered from weak Chinese demand and a broader luxury downturn. I therefore treat **China / luxury-sector weakness as an external demand risk**, not as a confirmed explanation for Shift4's current results.
 
 This creates an important tension in the thesis:
 
@@ -134,13 +134,13 @@ A good investment process should be able to explain:
 
 ### Sources
 
-- [NASA — Jared Isaacman biography](https://www.nasa.gov/people/jared-isaacman/)
-- [SEC Form 4 — February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
-- [SEC Form 4 — March 2, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1805608/000119312526089784/xslF345X03/ownership.xml)
-- [SEC Form 4 — March 10, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X05/ownership.xml)
-- [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
+- [NASA - Jared Isaacman biography](https://www.nasa.gov/people/jared-isaacman/)
+- [SEC Form 4 - February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
+- [SEC Form 4 - March 2, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1805608/000119312526089784/xslF345X03/ownership.xml)
+- [SEC Form 4 - March 10, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X05/ownership.xml)
+- [SEC Form 4 - May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
 - [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
-- [Shift4 FY2025 10-K — Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)
-- [Shift4 Q4 2025 shareholder letter — Global Blue margin profile](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000006/0001794669-26-000006.pdf)
+- [Shift4 FY2025 10-K - Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)
+- [Shift4 Q4 2025 shareholder letter - Global Blue margin profile](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000006/0001794669-26-000006.pdf)
 
 > This case study is personal research for professional portfolio purposes and is not investment advice.

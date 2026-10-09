@@ -19,6 +19,87 @@
 
 **Warning:** Historical FY2024 Class A/Class B did not exist; the FY2024 denominator is an *illustrative* IPO-equivalent denominator, not GAAP historical EPS. FY2025 shares are **year-end**, not GAAP weighted-average shares. Subsidiary NCI in historical income statements is not the same as legacy continuing members' post-IPO Class B/LLC ownership. RSUs excluded from the indicative 2027 valuation denominator; sensitivity required.
 
+## Detailed historical backlog, customer mix, location and debt schedule — through H1 2026
+
+All values in USD millions unless noted. FY2023–FY2025 mix/backlog from historical reports and the investor's screenshots; **H1 2026 from the SEC Form 10-Q**, whose period ends June 30, 2026. The October Allied acquisition does **not** appear in H1 2026 backlog or revenue.
+
+### Backlog and RPO
+
+| Metric | 2023 YE | 2024 YE | 2025 YE | June 2026 |
+|---|---:|---:|---:|---:|
+| Signed contracts | 284 | 351 | 530 | **701** |
+| Signed / backlog | 70.8% | 68.6% | 77.7% | **80.9%** |
+| Letters of intent / issued contracts | 117 | 161 | 152 | **165** |
+| LOI/issued / backlog | 29.2% | 31.4% | 22.3% | **19.1%** |
+| **Total backlog** | **401** | **512** | **682** | **866** |
+| RPO (remaining performance obligations) | 205 | 276 | 516.765 | **619.649** |
+| Backlog less RPO | 196 | 236 | 165.235 | **246.351** |
+
+H1 2026 movement: $682m opening + $578m awards/changes – $394m recognized = **$866m** closing. FY2026 June 30 signed contracts 701/866 = 80.95%; LOI and issued 165/866 = 19.05%. Est. $734m–$812m to recognize from existing backlog over following twelve months. RPO $556.5m over 12 months plus $63m months 13–18. Customer cancellations are possible.
+
+| Backlog by client / contract class | 2023 YE | 2024 YE | 2025 YE |
+|---|---:|---:|---:|
+| Private: lump sum | 395 | 479 | 600 |
+| Private: fixed unit price | 0 | 20 | 45 |
+| **Private total** | **395 (99%)** | **499 (97%)** | **645 (95%)** |
+| Public: fixed unit price | 6 | 13 | 37 |
+| **Public total** | **6 (1%)** | **13 (3%)** | **37 (5%)** |
+
+H1 2026 private/public **backlog** by detailed contract type was not separately disclosed in the 10-Q, so no invented value.
+
+### Revenue mix
+
+| Contract/customer metric | 2023 | 2024 | 2025 | H1 2026 |
+|---|---:|---:|---:|---:|
+| Fixed-price contracts | 96% | 99% | **99%** | **99%** |
+| Time & materials / cost plus | 4% | 1% | **1%** | **1%** |
+| Private-sector customers | 98% | 97% | **95%** | **91%** |
+| Public-sector customers | 2% | 3% | **5%** | **9%** |
+
+**2025 end-market revenue:** residential **66%**, commercial/industrial/retail **23%**, municipal/state **5%**, materials/paving **6%**. No verified equivalent detailed end-market H1 2026 % mix, although management reported growing commercial/industrial, manufacturing, retail distribution and mission-critical business.
+
+| Operating market (NOT individual customers) | FY2025 revenue (USD m) | Correct FY2025 share | H1 2026 qualitative status |
+|---|---:|---:|---|
+| Raleigh, North Carolina | 330 | **~72.4%** | Fully turnkey; >40% Q2 organic growth |
+| Charlotte + surrounding South Carolina | 94 | **~20.6%** | Purcell/Red Clay; Piedmont Pipe May 2026; >40% Q2 market growth |
+| Greensboro/Triad, North Carolina | 32 | **~7.0%** | Page acquisition and organic expansion |
+| Atlanta / North Georgia | 0 in FY2025 group | n/a | **New H1 2026 market** via ALGC Feb 18; Allied paving added Oct 1 |
+| **Total, FY2025** | **456** | **100%** | Company did not give a dollar-by-city H1 2026 revenue bridge |
+
+**Correcting the submitted spreadsheet:** its 2025 percentages 84%, 24% and 8% totaled 116%; the correct FY2025 denominator is ~$456m, thus 330/456=72.4%, 94/456=20.6%, 32/456=7.0%. **2025 FY data must not be relabeled as H1 2026**, and customer concentration is distinct from regional revenue.
+
+### Q2 2026 financial debt and liquidity
+
+| Line item | USD m |
+|---|---:|
+| Truist SOFR term loan (6.25% effective, June 2026) | 195.000 |
+| First American / other SOFR note (6.14% effective) | 1.042 |
+| Fixed 3.74% equipment loan | 1.362 |
+| Three zero-coupon equipment loans | 2.050 |
+| Seller note (5%) | 0.046 |
+| **Total notes face principal** | **199.500** |
+| Finance leases (4.83% weighted discount rate) | 7.505 |
+| **Total incl. finance leases** | **207.005** |
+| Cash June 30, 2026 | **339.092** |
+| **Net cash including finance leases** | **+132.087** |
+| Operating lease liabilities (kept separately) | 23.074 |
+
+Legal floating note principal **$196m** and fixed notes **$3.5m**; $59.25m SOFR receive-floating/pay-fixed swap makes roughly **$70.2m (~34%) effectively fixed including finance leases** and **$136.8m (~66%) effectively floating**. A rough blended effective financing cost is **6.1%**, but exact coupons differ. Q2 revolver commitment was $75m and undrawn.
+
+**Q2 notes-only maturity schedule (USD m):** 2026 remainder **5.453**, 2027 **12.227**, 2028 **15.943**, 2029 **15.956**, 2030 **149.278**, 2031+ **0.642** = **199.500m**. **Historical as at June 30:** the September 2026 credit-facility amendment subsequently moved the relevant credit-facility maturity to 2031.
+
+**June 2026 Class A secondary/follow-on:** 4.6m **new** shares at $73; gross ~$335.8m, net **$318.4m**, $33m of proceeds applied to debt repayment, balance for capex/M&A/operations. Do not confuse public equity proceeds with generated operating cash.
+
+**September 2026 facility:** total committed **$550m** ($200m term, $100m revolver, $250m delayed draw), **not total debt outstanding**. Net leverage covenant generally max **2.5x**, FCCR min **1.25x**. The financing expansion replaces the old debt schedule where applicable.
+
+### Asphalt production operating optionality
+
+Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; **400 tons/hour nameplate capacity**. Initially for internal site/paving works, reducing supplier reliance, preserving margin and optimizing schedules. Management has **owned land + zoning and air permits for a second plant** but had not ordered equipment nor completed site plan as of August Q2 call; wants **one to two quarters** of operating learning at first plant to determine capacity/configuration and timing. **Third-party asphalt sales are a prospective upside, not proven revenue nor included in baseline projections.**
+
+**Personal investing position:** **No position as of October 9, 2026**. **Preferred initiation/entry price: around $20/share**, distinct from the **>$30/share valuation objective**. Zero-net-debt scenario, 48.479855m A+B shares, $20 price yields ~$969.6m EV and **~5.01x FY2027 base-case adjusted EBITDA** ($193.4m). Buying at $20 is contingent on fundamentals and financing discipline, not a standing execution order.
+
+**Sources:** [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm); [FY2025 annual report](https://investors.cardinalinfrastructuregroup.com/static-files/61b9594f-da9f-4a10-80f5-9f7d0f7c66d3); [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/); [Asphalt plant](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-announces-completion-first-asphalt); [June equity offering](https://www.prnewswire.com/news-releases/cardinal-infrastructure-group-announces-closing-of-upsized-public-offering-of-class-a-common-stock-and-full-exercise-of-underwriters-option-to-purchase-additional-shares-302811997.html); [September credit amendment](https://www.sec.gov/Archives/edgar/data/2079999/000119312526389363/cdnl-ex10_1.htm).
+
 ## Acquisition bridge for 2027
 
 - **ALGC:** approximately **$16.8m** 2026 first-half pro forma revenue not booked before its February 18 closing.

@@ -1,4 +1,4 @@
-# Comcast (CMCSA) — Model Snapshot
+# Comcast (CMCSA) - Model Snapshot
 
 This page summarizes the evolution of my internal Comcast model and the assumptions behind the original thesis.
 

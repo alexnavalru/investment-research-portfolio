@@ -1,4 +1,4 @@
-# VICI Properties (VICI) — High Yield, Tenant Credit
+# VICI Properties (VICI) - High Yield, Tenant Credit
 
 **Case type:** Fundamental Equity Research / REIT  
 **Status:** Active thesis  
@@ -63,7 +63,7 @@ In dollar terms, leasing revenue was approximately **$3.421bn / $3.597bn / $3.67
 
 For this analysis I classify VICI's **lease-financing receivable income as leasing revenue**, consistent with the company's annual-report presentation. Some sale-leaseback transactions are accounted for as financing receivables under GAAP even though the underlying economics are contractual property rent.
 
-## Current Valuation Snapshot — October 2026
+## Current Valuation Snapshot - October 2026
 
 VICI closed at approximately **$22.73/share on October 6, 2026**. The latest quarterly dividend is **$0.46/share**, or **$1.84 annualized**, implying a current dividend yield of approximately **8.1%**.
 
@@ -137,7 +137,7 @@ I separate the valuation into **NAV / SOTP methods** and **other valuation cross
 
 VICI's rent stream is highly concentrated in a small number of large gaming tenants. In this section, I assess **tenant solvency by measuring how many times each operator's EBITDAR covers its rent obligations**.
 
-**EBITDAR** means **Earnings Before Interest, Taxes, Depreciation, Amortization and Rent** — essentially operating earnings before rent expense. It is useful here because it shows the earnings generated before the tenant pays its lease obligations. Put simply, a **2.5x coverage ratio means the tenant generates $2.50 of EBITDAR for every $1.00 of rent it has to pay**.
+**EBITDAR** means **Earnings Before Interest, Taxes, Depreciation, Amortization and Rent** - essentially operating earnings before rent expense. It is useful here because it shows the earnings generated before the tenant pays its lease obligations. Put simply, a **2.5x coverage ratio means the tenant generates $2.50 of EBITDAR for every $1.00 of rent it has to pay**.
 
 This matters because the value of VICI's long-term leases ultimately depends on the tenants remaining able to service those contractual rent obligations through the cycle.
 
@@ -202,7 +202,7 @@ Hard Rock has the same disclosure limitation. The guarantors of VICI's leases ar
 
 The tenant-concentration risk is real, but the three largest tenants studied still show **total corporate rent coverage around 2.5x–3.0x** on the latest available / estimated figures. I would monitor the **direction of coverage**, not just the absolute level: Caesars and MGM have both seen gradual compression, while Venetian remains around the high-2x range.
 
-### Ownership-Change / Privatization Risk — Caesars & MGM
+### Ownership-Change / Privatization Risk - Caesars & MGM
 
 The ownership structure of VICI's two largest tenants is also changing or has recently been under review, which creates an additional layer of credit-monitoring risk.
 
@@ -213,7 +213,7 @@ For VICI, I view this as **two-sided**:
 - **Negative / uncertainty:** public financial transparency would likely decline once Caesars is private, making independent monitoring of leverage, liquidity and rent coverage more difficult. The acquisition also uses a combination of Fertitta equity, assumed Caesars debt and new committed debt financing, so I would not automatically assume the transaction improves Caesars' credit profile.
 - **Potential positive:** Fertitta brings a large private hospitality/gaming platform, operating expertise and committed equity capital. That could provide additional strategic and liquidity support to Caesars. However, I do **not** treat Fertitta's balance sheet as an automatic guarantee of VICI's rent unless explicit contractual support or guarantees are in place. VICI's real protection remains the lease structure, parent guarantees, master leases and financial covenants.
 
-**MGM:** on June 1, 2026, **People Incorporated (formerly IAC)** — already MGM's largest shareholder — proposed to acquire the remaining MGM shares for **$48.30/share in cash** and take MGM private. That proposal was **withdrawn on September 23, 2026**, and MGM's board stated that it remained committed to operating as a standalone company. One day later, Reuters reported, citing the Wall Street Journal, that **MGM was discussing a potential bid to acquire People Incorporated instead**. That reverse transaction has not been formally announced by either company, so I treat it only as a reported strategic possibility.
+**MGM:** on June 1, 2026, **People Incorporated (formerly IAC)** - already MGM's largest shareholder - proposed to acquire the remaining MGM shares for **$48.30/share in cash** and take MGM private. That proposal was **withdrawn on September 23, 2026**, and MGM's board stated that it remained committed to operating as a standalone company. One day later, Reuters reported, citing the Wall Street Journal, that **MGM was discussing a potential bid to acquire People Incorporated instead**. That reverse transaction has not been formally announced by either company, so I treat it only as a reported strategic possibility.
 
 Therefore, there is **no active MGM privatization proposal at present**, but the episode highlights material ownership and capital-allocation uncertainty around VICI's second-largest tenant.
 
@@ -247,14 +247,14 @@ The VICI case is intended to show a more traditional modeling process than the L
 - [VICI Q2 2026 Form 10-Q](https://investors.viciproperties.com/static-files/9ccc5e77-6ffd-459a-a966-e825b6e791ae)
 - [VICI Q2 2026 Supplemental Financial Information](https://investors.viciproperties.com/static-files/4bd1c7f3-8a07-4af9-ae2d-b8da7d7ba208)
 - [VICI September 2026 dividend announcement](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-increases-regular-quarterly-dividend-2)
-- [Golden Entertainment transaction overview — 7.5% acquisition cap rate](https://investors.viciproperties.com/static-files/0fb2943a-42fe-48b2-8a8e-7661051d2440)
-- [Gamehost transaction overview — 8.0% acquisition cap rate](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-announces-sale-leaseback-canadian-portfolio)
-- [Caesars — definitive agreement to be acquired by Fertitta Entertainment](https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-enters-agreement-be-acquired-fertitta)
-- [SEC — Caesars shareholder approval of Fertitta merger](https://www.sec.gov/Archives/edgar/data/1590895/000119312526398606/d743488d8k.htm)
-- [SEC — FTC Second Request on Caesars / Fertitta transaction](https://www.sec.gov/Archives/edgar/data/1590895/000119312526393853/d242276d8k.htm)
-- [MGM — June 2026 People Incorporated acquisition proposal](https://investors.mgmresorts.com/2026-06-01-MGM-Resorts-International-Confirms-Receipt-of-Acquisition-Proposal-from-People-Incorporated)
-- [MGM — People Incorporated withdraws acquisition proposal](https://investors.mgmresorts.com/2026-09-23-MGM-Resorts-Internationals-Board-of-Directors-Confirms-Commitment-to-Execution-of-MGM-Resorts-Strategy-as-a-Standalone-Company)
-- [Reuters — MGM discussing potential bid for People Incorporated, September 2026](https://www.reuters.com/business/mgm-discusses-bid-barry-dillers-people-inc-wsj-reports-2026-09-24/)
-- [SEC — MGM Master Lease reporting and covenant protections](https://www.sec.gov/Archives/edgar/data/1705696/000170569623000035/mgmgrand_mandalaybayleasef.htm)
+- [Golden Entertainment transaction overview - 7.5% acquisition cap rate](https://investors.viciproperties.com/static-files/0fb2943a-42fe-48b2-8a8e-7661051d2440)
+- [Gamehost transaction overview - 8.0% acquisition cap rate](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-announces-sale-leaseback-canadian-portfolio)
+- [Caesars - definitive agreement to be acquired by Fertitta Entertainment](https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-enters-agreement-be-acquired-fertitta)
+- [SEC - Caesars shareholder approval of Fertitta merger](https://www.sec.gov/Archives/edgar/data/1590895/000119312526398606/d743488d8k.htm)
+- [SEC - FTC Second Request on Caesars / Fertitta transaction](https://www.sec.gov/Archives/edgar/data/1590895/000119312526393853/d242276d8k.htm)
+- [MGM - June 2026 People Incorporated acquisition proposal](https://investors.mgmresorts.com/2026-06-01-MGM-Resorts-International-Confirms-Receipt-of-Acquisition-Proposal-from-People-Incorporated)
+- [MGM - People Incorporated withdraws acquisition proposal](https://investors.mgmresorts.com/2026-09-23-MGM-Resorts-Internationals-Board-of-Directors-Confirms-Commitment-to-Execution-of-MGM-Resorts-Strategy-as-a-Standalone-Company)
+- [Reuters - MGM discussing potential bid for People Incorporated, September 2026](https://www.reuters.com/business/mgm-discusses-bid-barry-dillers-people-inc-wsj-reports-2026-09-24/)
+- [SEC - MGM Master Lease reporting and covenant protections](https://www.sec.gov/Archives/edgar/data/1705696/000170569623000035/mgmgrand_mandalaybayleasef.htm)
 
 > The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded. Valuation assumptions are illustrative and do not constitute investment advice.

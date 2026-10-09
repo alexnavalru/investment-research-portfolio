@@ -19,34 +19,23 @@ Cardinal is a vertically integrated civil site-development and infrastructure co
 4. **Management alignment:** Disclosed open-market insider purchases total **289,518 Class A shares for about $10.68m** across December 2025–August 2026. These are **personal purchases, not corporate share buybacks**. Founder/CEO Jeremy Spivey and other operating executives also retain substantial Class B/LLC economic interests.
 5. **Valuation:** At a last completed close of **$25.06** and **48.479855m** economically outstanding A+B-equivalent shares after Allied, fully converted market cap is about **$1.215bn**. Assuming **zero future net cash/debt** and ignoring separately identified TRA value and lease valuation adjustments, this is about **6.3x base-case FY2027 adjusted EBITDA**. At **$30/share**, the base-case EV/EBITDA is about **7.5x**. A higher target requires underwriting execution and a defensible multiple, not simply extrapolating historical growth.
 
-## Backlog quality and contract mix — updated through H1 2026
+## Backlog quality and customer exposure — updated through H1 2026
 
-Amounts in USD millions. FY2023–FY2025 figures are historical, from the company's annual filings and investor model; H1 2026 comes from the June 30 Form 10-Q. **June 30 data do not include the October 1 Allied acquisition.**
-
-| Backlog stage / metric | FY2023 year-end | FY2024 year-end | FY2025 year-end | H1 2026 / June 30 |
+| Backlog quality (% of total) | FY2023 | FY2024 | FY2025 | H1 2026 |
 |---|---:|---:|---:|---:|
-| Executed / signed contracts | 284 | 351 | 530 | **701** |
-| Signed contracts as % backlog | 70.8% | 68.6% | 77.7% | **80.9%** |
-| Letters of intent and issued-but-not-signed contracts | 117 | 161 | 152 | **165** |
-| Less-committed pipeline as % backlog | 29.2% | 31.4% | 22.3% | **19.1%** |
-| **Total reported backlog** | **401** | **512** | **682** | **866** |
-| Remaining performance obligations (RPO, rounded) | 205 | 276 | 517 | **619.6** |
-| Backlog less RPO (rounded) | 196 | 236 | 165 | **246.4** |
+| **Signed / executed contracts** | 70.8% | 68.6% | 77.7% | **80.9%** |
+| Letters of intent / issued but unsigned | 29.2% | 31.4% | 22.3% | **19.1%** |
 
-Backlog grew **26.98% vs December 2025** and **34.68% year-on-year (vs June 2025: $643m)**. In H1 2026, **$578m new awards and contract adjustments** less **$394m contract revenue recognized** took backlog from $682m to $866m. Of the $866m, management expected **$734m–$812m** to convert to revenue over the following 12 months. Under ASC 606, RPO is **not** equal to commercial backlog; Cardinal's definition includes signed contracts not yet started and certain non-executed commitments, whereas RPO tracks performance remaining on projects already underway. **Customer cancellation rights limit the certainty of backlog.** [Source: Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm).
+**Total backlog rose from $682m at FY2025 year-end to $866m at June 30, 2026 (+27.0%)**, or **+34.7% year-on-year** versus $643m at June 2025. Remaining performance obligations (RPO) were **$619.6m** at H1 2026. Cardinal expected **$734m–$812m** of backlog to become revenue within the next 12 months, but cancellation rights and project timing remain risks. RPO is a narrower GAAP performance measure than management's backlog definition.
 
-### Backlog by customer sector and pricing model (FY2023–FY2025)
+### Backlog by private versus public sector
 
-| Backlog by contract/customer sector (USD m) | FY2023 | FY2024 | FY2025 |
-|---|---:|---:|---:|
-| Private sector — lump sum | 395 | 479 | **600** |
-| Private sector — fixed unit price | 0 | 20 | **45** |
-| **Private sector total** | **395 (99%)** | **499 (97%)** | **645 (95%)** |
-| Public sector — fixed unit price | 6 | 13 | **37** |
-| **Public sector total** | **6 (1%)** | **13 (3%)** | **37 (5%)** |
-| **Total backlog** | **401** | **512** | **682** |
+| Backlog mix (% of total) | FY2023 | FY2024 | FY2025 | H1 2026 |
+|---|---:|---:|---:|---:|
+| **Private sector** | 99.0% | 97.0% | 95.0% | **Not disclosed** |
+| Public sector | 1.0% | 3.0% | 5.0% | **Not disclosed** |
 
-A matching detailed public/private/lump-sum breakdown **was not disclosed for H1 2026** in the June 10-Q; the $866m backlog should not be allocated using assumed historical proportions.
+**H1 2026 backlog split between private and public projects was not disclosed.** The reported **91.0% private / 9.0% public** is the split of **recognized revenue**, not backlog; do not substitute it in the backlog table.
 
 ## Customers, revenue mix and geographic expansion
 
@@ -61,15 +50,33 @@ A matching detailed public/private/lump-sum breakdown **was not disclosed for H1
 
 **Interpretation:** a higher public share reflects diversification, but a roughly 99% fixed-price exposure makes project estimating, labor, materials and weather key sources of margin risk. Fixed price is **not** the same as competitively bid: the company also reports ~97% *negotiated* revenue from customer relationships.
 
-| Geographic market | FY2025 estimated revenue, USD m | % of FY2025 $456.0m | Expansion and H1 2026 status |
-|---|---:|---:|---|
-| Raleigh / Triangle, North Carolina | ~330 | **~72.4%** | Fully integrated / turnkey; >40% organic growth in Q2, according to management |
-| Charlotte, North Carolina, including nearby South Carolina | ~94 | **~20.6%** | Purcell and Red Clay added in 2025; Piedmont Pipe acquired May 2026 to add wet-utility density; management described >40% market growth in Q2 |
-| Greensboro / Triad, North Carolina | ~32 | **~7.0%** | Expanded with Page & Associates in 2025; earlier phase of vertical integration; ongoing H1 2026 contracts and market-share gains |
-| **Atlanta / North Georgia** | **Not in FY2025 group** | **—** | **New operating market in 2026** via ALGC acquisition in February; Allied Paving joined October 1 (outside H1). Strong project momentum, weather-related Q2 disruptions |
-| **FY2025 group total** | **~456** | **100%** | **No official dollar-by-city H1 2026 disclosure; do not invent percentages.** |
+| Geographic market | FY2025 revenue mix | H1 2026 revenue mix |
+|---|---:|---:|
+| **Raleigh** | **72.4%** | **Not disclosed** |
+| **Charlotte** | **20.6%** | **Not disclosed** |
+| **Greensboro** | **7.0%** | **Not disclosed** |
+| **Atlanta / North Georgia** | — (entered 2026) | **Not disclosed** |
 
-**Model reconciliation:** The user-provided spreadsheet screenshot showed Raleigh $330m / 84%, Charlotte $94m / 24%, Greensboro $32m / 8% for 2025, but **84%+24%+8%=116%**, inconsistent with FY2025 group revenue of $456m. The dollar amounts sum correctly (~$456m), so this update **recalculates percentages using FY2025 revenue**: approximately **72.4% / 20.6% / 7.0%**. These are **regions/operating markets**, not the identity of individual customers. Atlanta / North Georgia appears from H1 2026 onwards; **individual FY2026 revenue per city was not separately disclosed**. Potential future markets mentioned by management include Wilmington (NC), Columbia/Charleston/Greenville (SC), Savannah (GA), Knoxville and Nashville (TN); these are opportunities, **not confirmed current revenue regions**.
+**Expansion plans:** Cardinal is building on its original Raleigh operations and its more recent Charlotte, Greensboro and Atlanta markets. Additional potential markets identified by management are **Wilmington (NC), Columbia, Charleston and Greenville (SC), Savannah (GA), and Knoxville and Nashville (TN)**. These are expansion opportunities, **not yet confirmed revenue locations**. H1 2026 includes ALGC in Atlanta beginning in February; Allied joined the group in October, after H1.
+
+
+## Q2 2026 financial update — rapid growth, temporary margin pressure
+
+Cardinal's Q2 2026 revenue rose **114.0%** to **$226.9m**, including **64.0% organic growth**. Adjusted EBITDA increased **42.8%** to **$28.1m** from **$19.7m**, **but its margin declined**. This is a margin problem, not an absolute contraction in gross profit or EBITDA.
+
+| Profitability / revenue | Q2 2025 | Q2 2026 | H1 2025 | H1 2026 |
+|---|---:|---:|---:|---:|
+| GAAP gross margin | 13.9% | **10.8%** | 13.1% | **12.5%** |
+| Adjusted gross margin | 21.3% | **15.9%** | 20.8% | **17.8%** |
+| Adjusted EBITDA margin | 18.6% | **12.4%** | 18.2% | **13.9%** |
+
+**What hurt margins:**
+1. **Subcontractors and rented machinery:** in newer markets, Cardinal does not yet have enough crews and specialized equipment to self-perform full turnkey jobs. Hiring subcontractors and renting equipment raises costs.
+2. **Different project mix:** larger commercial/industrial projects require different scheduling and labor allocation from residential developments. While the company adapted, some crews were underutilized. These are execution/deployment inefficiencies, not just unfavorable product pricing.
+3. **Bad weather in Georgia:** delays at **ALGC** pushed back higher-margin project activity.
+4. **Corporate overhead:** G&A rose as Cardinal built the infrastructure needed to operate and scale as a public company, further weighing on adjusted EBITDA margin.
+
+Management expects better project scheduling, greater internal capabilities and the delayed high-margin work to help margins recover, but **recovery is not yet proven**. H1 2026 revenue was **$394.4m**, adjusted EBITDA **$54.9m** and the 2026 full-year guidance remains **$880m–$900m revenue / 16.0%–18.0% adjusted EBITDA margin**. [Q2 2026 company results](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-reports-second-quarter-2026) · [Q2 2026 earnings-call transcript](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 
 ## Asphalt plant strategy — owned materials and third-party sales
 
@@ -81,12 +88,11 @@ A **second asphalt plant** is contemplated: management said the **land was alrea
 
 **The company has an Up-C share structure.** Public **Class A** shares own LLC units indirectly through listed PubCo. Continuing pre-IPO owners hold operating **LLC Units plus paired voting Class B** shares, exchangeable generally 1:1 for Class A. The **Class B share itself has voting but not direct cash-distribution rights**; the **paired LLC unit carries the economic interest**. Counting both the Class B vote and its LLC unit as separate economic shares would double-count the same stake. PubCo consolidates 100% operations and recognizes unconverted LLC owners as noncontrolling interests.
 
-| Ownership units | Dec. 31, 2025 | June 30, 2026 | Post-Allied pro forma* |
+| Economic units (rounded) | Dec. 31, 2025 | June 30, 2026 | Post-Allied pro forma* |
 |---|---:|---:|---:|
-| Class A / PubCo LLC units | 14,947,318 (39.0%) | **20,238,610 (42.63%)** | ~21,245,406 |
-| Legacy/continuing LLC units + paired Class B | 23,387,813 (61.0%) | **27,234,449 (57.37%)** | ~27,234,449 before later exchanges |
-| **Economic share equivalents (A+B/LLC)** | **38,335,131** | **47,473,059** | **48,479,855*** |
-
+| Class A / PubCo LLC units | 14.9M (**39.0%**) | **20.2M (42.6%)** | ~21.2M (~43.8%) |
+| Continuing LLC units + paired Class B | 23.4M (**61.0%**) | **27.2M (57.4%)** | ~27.2M (~56.2%) |
+| **Total economic share equivalents** | **38.3M (100.0%)** | **47.5M (100.0%)** | **48.5M (100.0%)** |
 *Allied generated **1,006,796 newly issued Class A shares** effective October 1. The third column is a **pro forma illustration based on June 30 balances, prior to interim 1:1 exchanges, RSUs and other potential events**, not a certified October 9 share register. B-for-A conversions do not by themselves change the fully converted number.
 
 **June 2026 equity follow-on:** **4,600,000 new Class A** sold at **$73/share**, **~$335.8m gross and $318.4m net proceeds**. Cardinal applied **$33m** to repay existing credit-facility borrowings and retained the remainder for M&A, equipment, working capital and other corporate purposes. It **diluted existing fully converted owners** while adding cash and balance-sheet flexibility. The unusually strong June 30 cash position should not automatically be capitalized as recurring FCF.
@@ -138,8 +144,6 @@ A **second asphalt plant** is contemplated: management said the **land was alrea
 | **FY2027 adjusted EBITDA** | **178.7** | **193.4** | **208.8** |
 | **EV / EBITDA at $25.06/share, zero net debt** | **6.80x** | **6.28x** | **5.82x** |
 | **EV / EBITDA at $30/share, zero net debt** | **8.14x** | **7.52x** | **6.97x** |
-
-**Revenue bridge (base case):** $890.0m + ($890.0m × 15%) + ~$16.8m ALGC + ~$3.1m Piedmont + ($90m estimated Allied consolidated revenue in FY2027 – $28m assumed in FY2026) = **~$1,105.3m**, rounded to **$1,105m**. Allied's $90m is a model judgment that discounts its standalone revenue for intercompany eliminations; the $28m FY2026 contribution is an assumption used in this research model, not a guaranteed outcome. The 15% organic rate is a simplification applied to FY2026 group revenue and should be recalibrated when FY2026 closes.
 
 **EV mechanics:** $25.06 × 48.479855m = **$1,214.9m**; $30 × 48.479855m = **$1,454.4m**. We assume zero *future* net financial debt solely for comparison; this is not a claim that the company currently has no bank debt or that equipment/operating leases are immaterial. This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
 

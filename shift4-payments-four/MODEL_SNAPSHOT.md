@@ -1,4 +1,4 @@
-# Shift4 Payments (FOUR) — Post-Mortem Model Snapshot
+# Shift4 Payments (FOUR) - Post-Mortem Model Snapshot
 
 This snapshot reconstructs the valuation framework I now use to review the investment.
 
@@ -104,12 +104,12 @@ At a prospective **$30/share** entry level, I would want a wider margin of safet
 
 ### Additional Sources
 
-- [NASA — Jared Isaacman](https://www.nasa.gov/people/jared-isaacman/)
-- [SEC Form 4 — February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
-- [SEC Form 4 — March 2, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1805608/000119312526089784/xslF345X03/ownership.xml)
-- [SEC Form 4 — March 10, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X05/ownership.xml)
-- [SEC Form 4 — May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
+- [NASA - Jared Isaacman](https://www.nasa.gov/people/jared-isaacman/)
+- [SEC Form 4 - February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
+- [SEC Form 4 - March 2, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1805608/000119312526089784/xslF345X03/ownership.xml)
+- [SEC Form 4 - March 10, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X05/ownership.xml)
+- [SEC Form 4 - May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
 - [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
-- [Shift4 FY2025 10-K — Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)
+- [Shift4 FY2025 10-K - Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)
 
 > Figures above are taken from the simplified public version of my personal model and are presented for portfolio demonstration only.

@@ -1,4 +1,4 @@
-# The Cigna Group (CI) — Model Snapshot
+# The Cigna Group (CI) - Model Snapshot
 
 This page summarizes selected outputs from my internal Excel model.
 

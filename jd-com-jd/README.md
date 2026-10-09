@@ -1,4 +1,4 @@
-# JD.com (JD) — Cash-Rich Core, New-Business Drag
+# JD.com (JD) - Cash-Rich Core, New-Business Drag
 
 **Case type:** Fundamental Value / China Consumer / New-Business Optionality  
 **Status:** Active thesis  
@@ -35,7 +35,7 @@ That is approximately **RMB235.1bn of cash, restricted cash and short-term inves
 
 For valuation, however, I **exclude the RMB13.4bn of restricted cash entirely** because it is not freely available for shareholder returns, acquisitions or ordinary capital allocation. Unrestricted cash plus short-term investments are therefore approximately **RMB221.7bn**.
 
-Against approximately **RMB69.9bn** of short- and long-term financial debt and senior notes, this produces roughly **RMB151.8bn of unrestricted net financial cash** before leases and other adjustments — around **61% of the model market capitalization**.
+Against approximately **RMB69.9bn** of short- and long-term financial debt and senior notes, this produces roughly **RMB151.8bn of unrestricted net financial cash** before leases and other adjustments - around **61% of the model market capitalization**.
 
 This is important because the investment case is not solely dependent on a high terminal multiple.
 
@@ -71,7 +71,7 @@ In H1 2026:
 - **JD Logistics operating profit:** RMB3.3bn;
 - combined core operating profit: approximately **RMB31.7bn** in six months.
 
-Annualized mechanically, that is above **RMB60bn** of operating profit before New Businesses and corporate/unallocated items — close to the normalized core earning power used in my model.
+Annualized mechanically, that is above **RMB60bn** of operating profit before New Businesses and corporate/unallocated items - close to the normalized core earning power used in my model.
 
 At the same time, **New Businesses lost RMB20.2bn in H1 2026**.
 
@@ -164,7 +164,7 @@ My model also assumes continued share-count reduction from repurchases.
 
 The attraction is therefore not that JD requires an aggressive multiple to work. The market is already assigning a low value to the operating business after adjusting for financial liquidity.
 
-## 8. Valuation — Conservative NAV + Penalized SOTP
+## 8. Valuation - Conservative NAV + Penalized SOTP
 
 I separate **separable-asset NAV** from the value of the operating business to avoid double counting.
 
@@ -215,7 +215,7 @@ Using the **$26.50 ADR reference price** and the latest **$1.00 annual dividend 
 
 Because my target is **above $35**, this is a minimum threshold. The dividend contribution assumes the $1.00 annual dividend is maintained over an approximately one-year holding period.
 
-## 9. Founder Alignment — With an Important Governance Caveat
+## 9. Founder Alignment - With an Important Governance Caveat
 
 **Richard Qiangdong Liu** remains JD.com's founder and Chairman.
 
@@ -338,18 +338,18 @@ The strongest version of the thesis does not require JD Food Delivery, AI or Eur
 
 ### Sources
 
-- [JD.com — Q2 and H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
-- [JD.com — FY2025 results, dividend and repurchases](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-fourth-quarter-and-full-year-2025-results-and)
-- [JD.com — 2025 Annual Report / Form 20-F](https://ir.jd.com/static-files/274126f2-bb00-4590-b8d6-0863ba1e387b)
-- [JD.com — Hong Kong annual report notice; substantially the same information as the Form 20-F](https://ir.jd.com/node/12146/pdf)
-- [JD.com — Management / Richard Qiangdong Liu](https://ir.jd.com/management)
-- [SEC — Richard Qiangdong Liu ownership filing](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
-- [China State Council — 2025 appliance trade-in subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
-- [China NDRC — 2026 appliance and digital-product subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
-- [Reuters — JD Q2 2026 revenue / high-base electronics comparison](https://www.reuters.com/business/retail-consumer/chinas-jdcom-beats-quarterly-revenue-estimates-2026-08-13/)
-- [Reuters — CECONOMY regulatory review, October 2026](https://www.reuters.com/business/retail-consumer/jdcom-set-win-eu-approval-ceconomy-deal-source-says-2026-10-02/)
-- [JD Logistics — current market valuation reference](https://stockanalysis.com/quote/hkg/2618/statistics/)
-- [JD Health — current market valuation reference](https://stockanalysis.com/quote/hkg/6618/statistics/)
-- [JD Health 2025 Annual Report — JD.com ownership / listed subsidiaries](https://manager.wisdomir.com/files/586/2026/0424/20260424171501_75649801_en.pdf)
+- [JD.com - Q2 and H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
+- [JD.com - FY2025 results, dividend and repurchases](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-fourth-quarter-and-full-year-2025-results-and)
+- [JD.com - 2025 Annual Report / Form 20-F](https://ir.jd.com/static-files/274126f2-bb00-4590-b8d6-0863ba1e387b)
+- [JD.com - Hong Kong annual report notice; substantially the same information as the Form 20-F](https://ir.jd.com/node/12146/pdf)
+- [JD.com - Management / Richard Qiangdong Liu](https://ir.jd.com/management)
+- [SEC - Richard Qiangdong Liu ownership filing](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
+- [China State Council - 2025 appliance trade-in subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
+- [China NDRC - 2026 appliance and digital-product subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
+- [Reuters - JD Q2 2026 revenue / high-base electronics comparison](https://www.reuters.com/business/retail-consumer/chinas-jdcom-beats-quarterly-revenue-estimates-2026-08-13/)
+- [Reuters - CECONOMY regulatory review, October 2026](https://www.reuters.com/business/retail-consumer/jdcom-set-win-eu-approval-ceconomy-deal-source-says-2026-10-02/)
+- [JD Logistics - current market valuation reference](https://stockanalysis.com/quote/hkg/2618/statistics/)
+- [JD Health - current market valuation reference](https://stockanalysis.com/quote/hkg/6618/statistics/)
+- [JD Health 2025 Annual Report - JD.com ownership / listed subsidiaries](https://manager.wisdomir.com/files/586/2026/0424/20260424171501_75649801_en.pdf)
 
 > This case study is personal research for professional portfolio purposes and is not investment advice. China-related equities carry governance, regulatory, geopolitical and market-structure risks that are not captured by valuation multiples alone.

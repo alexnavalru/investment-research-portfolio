@@ -1,4 +1,4 @@
-# Amentum (AMTM) — Deleveraging & Capital Allocation
+# Amentum (AMTM) - Deleveraging & Capital Allocation
 
 **Case type:** Watchlist / Deleveraging / Capital Allocation Catalyst  
 **Status:** Watchlist; prospective entry around **$18/share**  
@@ -80,7 +80,7 @@ At Q3 FY2026:
 - quarterly book-to-bill was **1.1x**;
 - trailing-twelve-month book-to-bill was **1.3x**.
 
-The backlog is not equivalent to guaranteed revenue — it contains unfunded work and contract options — but it provides evidence that the business continues to win work even while reported revenue is affected by contract transitions, divestitures and selected exits from low-return programs.
+The backlog is not equivalent to guaranteed revenue - it contains unfunded work and contract options - but it provides evidence that the business continues to win work even while reported revenue is affected by contract transitions, divestitures and selected exits from low-return programs.
 
 ## Nuclear Energy Exposure: A Long-Term Growth Option
 
@@ -180,14 +180,14 @@ The investment case does not require a buyback to work, but a well-priced repurc
 
 ### Sources
 
-- [Amentum FY2025 10-K — Reverse Morris Trust / tax matters restrictions](https://www.sec.gov/Archives/edgar/data/2011286/000162828025053993/amtm-20251003.htm)
-- [Amentum Q3 FY2026 results — backlog, cash flow and debt](https://www.sec.gov/Archives/edgar/data/2011286/000162828026055294/exhibit991-august102026.htm)
-- [Amentum 2026 Proxy — major shareholders](https://www.sec.gov/Archives/edgar/data/2011286/000110465925123111/tm2523471-2_def14a.htm)
-- [Amentum Q3 FY2026 earnings call transcript — capital-allocation discussion](https://www.fool.com/earnings/call-transcripts/2026/08/19/amentum-amtm-q3-2026-earnings-call-transcript/)
-- [Amentum — Netherlands nuclear program contract](https://www.amentum.com/news/amentum-led-consortium-wins-207-million-contract-from-dutch-government-for-new-nuclear-program/)
-- [Amentum — UK SMR owner's engineer contract](https://www.amentum.com/news/amentum-led-joint-venture-secures-406-million-contract-as-owners-engineer-for-uks-first-small-modular-reactors/)
-- [Amentum — Q3 FY2026 results / global nuclear bookings](https://ir.amentum.com/news/news-details/2026/Amentum-Reports-Third-Quarter-Fiscal-Year-2026-Results/default.aspx)
-- [Amentum — Sellafield preferred supplier selection](https://ir.amentum.com/news/news-details/2026/Amentum-Joint-Venture-Secures-Preferred-Position-for-Major-UK-Nuclear-Contract/default.aspx)
-- [AMTM historical price / dividend status — October 6, 2026](https://stockanalysis.com/stocks/amtm/)
+- [Amentum FY2025 10-K - Reverse Morris Trust / tax matters restrictions](https://www.sec.gov/Archives/edgar/data/2011286/000162828025053993/amtm-20251003.htm)
+- [Amentum Q3 FY2026 results - backlog, cash flow and debt](https://www.sec.gov/Archives/edgar/data/2011286/000162828026055294/exhibit991-august102026.htm)
+- [Amentum 2026 Proxy - major shareholders](https://www.sec.gov/Archives/edgar/data/2011286/000110465925123111/tm2523471-2_def14a.htm)
+- [Amentum Q3 FY2026 earnings call transcript - capital-allocation discussion](https://www.fool.com/earnings/call-transcripts/2026/08/19/amentum-amtm-q3-2026-earnings-call-transcript/)
+- [Amentum - Netherlands nuclear program contract](https://www.amentum.com/news/amentum-led-consortium-wins-207-million-contract-from-dutch-government-for-new-nuclear-program/)
+- [Amentum - UK SMR owner's engineer contract](https://www.amentum.com/news/amentum-led-joint-venture-secures-406-million-contract-as-owners-engineer-for-uks-first-small-modular-reactors/)
+- [Amentum - Q3 FY2026 results / global nuclear bookings](https://ir.amentum.com/news/news-details/2026/Amentum-Reports-Third-Quarter-Fiscal-Year-2026-Results/default.aspx)
+- [Amentum - Sellafield preferred supplier selection](https://ir.amentum.com/news/news-details/2026/Amentum-Joint-Venture-Secures-Preferred-Position-for-Major-UK-Nuclear-Contract/default.aspx)
+- [AMTM historical price / dividend status - October 6, 2026](https://stockanalysis.com/stocks/amtm/)
 
 > Prospective entry level and valuation outputs are personal research assumptions. This case study is for professional portfolio purposes and is not investment advice.

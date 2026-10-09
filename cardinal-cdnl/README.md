@@ -1,4 +1,4 @@
-# Cardinal Infrastructure Group (NASDAQ: CDNL) — Acquisition-Led Civil Infrastructure Platform
+# Cardinal Infrastructure Group (NASDAQ: CDNL) - Acquisition-Led Civil Infrastructure Platform
 
 **Status:** Watchlist / active research; **no position**  
 **Preferred entry price:** **around $20 per share** (not an outstanding order)  
@@ -59,7 +59,7 @@ Disclosed open-market purchases through August 2026 sum to **289,518 Class A sha
 
 Other large continuing owner: **Erik West ~12.6%**. Benjamin and Anthony Wood jointly control **a single 2.1M-unit Diamond Interests block** (50% each); it must **not** be counted twice. Ownership estimates use last disclosed holdings plus known buys, not a verified live October cap table.
 
-## Operating KPIs — backlog, customers and geography
+## Operating KPIs - backlog, customers and geography
 
 ### Backlog composition and growth
 
@@ -70,7 +70,7 @@ Other large continuing owner: **Erik West ~12.6%**. Benjamin and Anthony Wood jo
 | Private-sector backlog (%) | 99.0% | 97.0% | 95.0% | **Not disclosed** |
 | Public-sector backlog (%) | 1.0% | 3.0% | 5.0% | **Not disclosed** |
 | **Total backlog (USD m)** | **401** | **512** | **682** | **866** |
-| **Growth vs preceding year-end** | — | **+27.7%** | **+33.2%** | **+27.0% YTD** |
+| **Growth vs preceding year-end** | N/A | **+27.7%** | **+33.2%** | **+27.0% YTD** |
 
 *H1 2026 growth is vs December 2025, **not** year-on-year; backlog was **+34.7%** versus H1 2025 (~$643m). H1 2026 **private/public revenue** was 91%/9%, but the **private/public backlog split was not disclosed**.*
 
@@ -95,15 +95,15 @@ FY2025 end markets: **66% residential**, **23% commercial/industrial/retail**, *
 | Raleigh | **72.4%** |
 | Charlotte | **20.6%** |
 | Greensboro | **7.0%** |
-| Atlanta / North Georgia | **— (entered in 2026)** |
+| Atlanta / North Georgia | **N/A (entered in 2026)** |
 
 Atlanta became part of Cardinal's footprint with **ALGC in February 2026**, then Allied in October. **Management's potential future markets:** Wilmington (North Carolina); Columbia, Charleston and Greenville (South Carolina); Savannah (Georgia); and Knoxville and Nashville (Tennessee). These are ambitions, not confirmed revenue streams.
 
-### Asphalt production — potential self-performance upside
+### Asphalt production - potential self-performance upside
 
 The first asphalt plant near Raleigh, finished in June 2026 with **400 tons/hour nameplate capacity**, initially supports Cardinal's own paving projects, improving procurement control and potentially margins. A **second plant is contemplated**, with land and certain permits obtained; management wants **one or two quarters of operating experience** before finalizing its specification. It could eventually also **sell asphalt to third-party customers**; those potential sales are **not included in our forecast**.
 
-## Q2 2026 financial update — rapid growth, temporary margin pressure
+## Q2 2026 financial update - rapid growth, temporary margin pressure
 
 Cardinal's Q2 2026 revenue rose **114.0%** to **$226.9m**, including **64.0% organic growth**. Adjusted EBITDA increased **42.8%** to **$28.1m** from **$19.7m**, **but its margin declined**. This is a margin problem, not an absolute contraction in gross profit or EBITDA.
 
@@ -123,7 +123,7 @@ Management expects better project scheduling, greater internal capabilities and 
 
 ## FY2026 estimates and valuation methodology
 
-**Management guidance:** 2026 revenue **$880m–$900m**, adjusted EBITDA margin **16.0%–18.0%**. The **midpoint case** assumes **$890m revenue and 17.0% adjusted EBITDA margin ($151.3m)**. For normalized earnings, **my—not management's—additional assumptions** are **$45.0m annual depreciation and amortization (D&A)** and **$11.0m net interest**, informed by H1 actual D&A of ~$20.9m and net interest ~$5.7m. The higher full-year D&A allows for post-acquisition amortization; future debt draws could change interest expense. Use the **22.78%** normal corporate tax rate illustrated in the 2025 10-K, while separately valuing incremental net TRA cash flows.
+**Management guidance:** 2026 revenue **$880m–$900m**, adjusted EBITDA margin **16.0%–18.0%**. The **midpoint case** assumes **$890m revenue and 17.0% adjusted EBITDA margin ($151.3m)**. For normalized earnings, **my-not management's-additional assumptions** are **$45.0m annual depreciation and amortization (D&A)** and **$11.0m net interest**, informed by H1 actual D&A of ~$20.9m and net interest ~$5.7m. The higher full-year D&A allows for post-acquisition amortization; future debt draws could change interest expense. Use the **22.78%** normal corporate tax rate illustrated in the 2025 10-K, while separately valuing incremental net TRA cash flows.
 
 | FY2026 midpoint earnings bridge | **Method 1: Fully converted (preferred)** | **Method 2: current Up-C** |
 |---|---:|---:|
@@ -132,7 +132,7 @@ Management expects better project scheduling, greater internal capabilities and 
 | Less: D&A (estimate) | ($45.0m) | ($45.0m) |
 | Less: net interest (estimate) | ($11.0m) | ($11.0m) |
 | **Consolidated adjusted pretax income** | **$95.3m** | **$95.3m** |
-| Less: LLC holder share of pretax profit | **—** | **($53.5m)** |
+| Less: LLC holder share of pretax profit | **N/A** | **($53.5m)** |
 | **Tax base for PubCo** | **$95.3m** | **$41.8m** |
 | Normalized tax at 22.78% | ($21.7m) | ($9.5m) |
 | **Normalized adjusted earnings attributable to denominator** | **$73.6m** | **$32.2m** |
@@ -145,7 +145,7 @@ Management expects better project scheduling, greater internal capabilities and 
 
 **TRA in valuation:** add the **present value of extra tax savings Cardinal retains** and deduct the present value of related obligations **only if absent from the forecast cash taxes**; do **not** add the 2025 illustrated $0.83/share to 2026 EPS.
 
-## FY2027 scenarios — existing acquisitions fully annualized
+## FY2027 scenarios - existing acquisitions fully annualized
 
 2026 starting point: **$890m revenue** (midpoint of management's $880–900m guidance). Forecasts assume **no new acquisitions** after Allied and **net cash/debt = $0** in FY2027. Full economic equity denominator is **48.479855m A+B-equivalent shares**, **before additional RSU dilution**.
 
@@ -179,8 +179,8 @@ Management expects better project scheduling, greater internal capabilities and 
 - [FY2025 Form 10-K: historic financials, Up-C, shares and TRA](https://www.sec.gov/Archives/edgar/data/2079999/000119312526120014/cdnl-20251231.htm)
 - [Q2 2026 results, backlog and FY2026 guidance](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-reports-second-quarter-2026)
 - [Allied acquisition closing and intercompany revenue clarification](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-announces-closing-allied)
-- [Allied acquisition consideration and shares issued — October 1 SEC 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm)
-- [SEC proxy — ownership as of April 9, 2026](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm)
+- [Allied acquisition consideration and shares issued - October 1 SEC 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm)
+- [SEC proxy - ownership as of April 9, 2026](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm)
 - [Reference stock-price history, Oct. 8, 2026](https://stockanalysis.com/stocks/cdnl/history/)
 
 **Research note:** The financial figures are reconstructed from company reports and our preceding modeling discussion. The separately referenced Excel workbook was not retrievable in the current connected files, so the document does **not** claim to have audited or directly imported workbook values. All FY2027 scenarios, incremental contributions and the $0 net-debt normalization are analyst assumptions, not official guidance.

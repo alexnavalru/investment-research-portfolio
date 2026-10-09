@@ -19,46 +19,89 @@ Cardinal is a vertically integrated civil site-development and infrastructure co
 4. **Management alignment:** Disclosed open-market insider purchases total **289,518 Class A shares for about $10.68m** across December 2025–August 2026. These are **personal purchases, not corporate share buybacks**. Founder/CEO Jeremy Spivey and other operating executives also retain substantial Class B/LLC economic interests.
 5. **Valuation:** At a last completed close of **$25.06** and **48.479855m** economically outstanding A+B-equivalent shares after Allied, fully converted market cap is about **$1.215bn**. Assuming **zero future net cash/debt** and ignoring separately identified TRA value and lease valuation adjustments, this is about **6.3x base-case FY2027 adjusted EBITDA**. At **$30/share**, the base-case EV/EBITDA is about **7.5x**. A higher target requires underwriting execution and a defensible multiple, not simply extrapolating historical growth.
 
-## Backlog quality and customer exposure — updated through H1 2026
+## Share structure, financial backing and TRA
 
-| Backlog quality (% of total) | FY2023 | FY2024 | FY2025 | H1 2026 |
+Cardinal uses an **Up-C** structure: listed **Class A** stock owns a portion of the operating company, while continuing legacy owners hold **LLC units paired with Class B voting shares**. Each paired Class B/LLC interest is **one economic share equivalent**, exchangeable for one Class A; **do not double count them**. Public investors and legacy LLC owners share the underlying operating business.
+
+| Ownership (economic units) | FY2025 year-end | H1 2026 | Post-Allied pro forma* |
+|---|---:|---:|---:|
+| Class A / PubCo | **14.9M (39.0%)** | **20.2M (42.6%)** | ~21.2M (43.8%) |
+| Legacy LLC + paired Class B | **23.4M (61.0%)** | **27.2M (57.4%)** | ~27.2M (56.2%) |
+| **Total equivalent shares** | **38.3M (100.0%)** | **47.5M (100.0%)** | **48.5M (100.0%)** |
+
+*The final column adds the **1.0M** Class A shares issued for Allied on October 1 to June 30 ownership; excludes subsequent A/B exchanges and other equity dilution. The precise FY2026 weighted-average diluted count differs.*
+
+**TRA, simply explained:** When legacy LLC holders exchange their units for Class A stock, Cardinal may receive new tax deductions. **Cardinal pays those holders 85% of the resulting eligible tax savings and retains 15%.** Both valuation approaches include previously created TRA obligations; only a scenario with additional exchanges generates additional step-up deductions/payments. **FY2024: no TRA.** The 2025 Form 10-K's illustrative full-conversion scenario implies **$31.8m of cumulative, undiscounted net tax benefits (about $0.83 per FY2025 economic share)**. That is **not annual EPS**, nor a $0.83 immediate addition to share value. Value these cash flows on a discounted basis without double counting.
+
+### Capital raise and balance sheet
+
+In June 2026 Cardinal sold **4.6M new Class A shares at $73**, raising **$318.4m net**; it used **$33m to repay bank borrowings** and kept the balance for M&A, equipment and working capital. This improved liquidity but diluted prior holders.
+
+At **June 30, 2026**: **$339.1m cash**; **$199.5m note principal** plus **$7.5m finance lease liabilities**, or **$207.0m total financial debt** and **$132.1m net cash** (excluding separate operating leases). The largest note was a **$195.0m Truist term loan**, effective interest about **6.25%**. An interest rate swap protected some of the variable-rate exposure, leaving approximately **34.0% effectively fixed / 66.0% floating** including finance leases.
+
+Subsequently, the **September 2026 credit facility** expanded commitments to **$550m** ($200m term loan, $100m revolver, $250m delayed draw), maturing in 2031. **Commitments are not the same as drawn debt.** Main financial covenants include net leverage **≤2.50x** and fixed-charge coverage **≥1.25x**. The **zero-net-debt FY2027 valuation assumption** reflects possible future acquisitions and is **not** a statement of current borrowings.
+
+### Insider purchases and alignment
+
+Disclosed open-market purchases through August 2026 sum to **289,518 Class A shares costing around $10.68m**; they are **personal insider investments, not company share repurchases**.
+
+| Insider (role) | Shares bought | Amount invested | Estimated economic ownership |
+|---|---:|---:|---:|
+| Jeremy Spivey (CEO/chairman) | 83,350 | $3.20m | **~17.2%** |
+| Benjamin Wood (COO) | 45,700 | $2.04m | Part-owner of shared Diamond LLC block |
+| Anthony Wood (director / ALGC president) | 51,400 | $2.02m | Part-owner of same Diamond LLC block |
+| Richard M. Lee (director) | 56,725 | $1.73m | ~0.1% |
+| Ivy Zelman (director) | 21,843 | $0.80m | <0.1% |
+| Richard B. Wimmer (director) | 17,500 | $0.50m | <0.1% |
+| Mike Rowe (CFO) | 7,000 | $0.26m | ~4.2% |
+| Tiffany Gidley (general counsel) | 6,000 | $0.13m | <0.1% |
+| **TOTAL** | **289,518** | **~$10.68m** | **Overlapping beneficial ownership excluded** |
+
+Other large continuing owner: **Erik West ~12.6%**. Benjamin and Anthony Wood jointly control **a single 2.1M-unit Diamond Interests block** (50% each); it must **not** be counted twice. Ownership estimates use last disclosed holdings plus known buys, not a verified live October cap table.
+
+## Operating KPIs — backlog, customers and geography
+
+### Backlog composition and growth
+
+| Backlog metric | FY2023 | FY2024 | FY2025 | H1 2026 |
 |---|---:|---:|---:|---:|
-| **Signed / executed contracts** | 70.8% | 68.6% | 77.7% | **80.9%** |
-| Letters of intent / issued but unsigned | 29.2% | 31.4% | 22.3% | **19.1%** |
+| Signed / executed contracts (% backlog) | 70.8% | 68.6% | 77.7% | **80.9%** |
+| Letters of intent / unsigned (%) | 29.2% | 31.4% | 22.3% | **19.1%** |
+| Private-sector backlog (%) | 99.0% | 97.0% | 95.0% | **Not disclosed** |
+| Public-sector backlog (%) | 1.0% | 3.0% | 5.0% | **Not disclosed** |
+| **Total backlog (USD m)** | **401** | **512** | **682** | **866** |
+| **Growth vs preceding year-end** | — | **+27.7%** | **+33.2%** | **+27.0% YTD** |
 
-**Total backlog rose from $682m at FY2025 year-end to $866m at June 30, 2026 (+27.0%)**, or **+34.7% year-on-year** versus $643m at June 2025. Remaining performance obligations (RPO) were **$619.6m** at H1 2026. Cardinal expected **$734m–$812m** of backlog to become revenue within the next 12 months, but cancellation rights and project timing remain risks. RPO is a narrower GAAP performance measure than management's backlog definition.
+*H1 2026 growth is vs December 2025, **not** year-on-year; backlog was **+34.7%** versus H1 2025 (~$643m). H1 2026 **private/public revenue** was 91%/9%, but the **private/public backlog split was not disclosed**.*
 
-### Backlog by private versus public sector
+**RPO:** Remaining performance obligations were **$619.6m** at June 30, compared with **$516.8m** at FY2025 year-end. Management expects **$734m–$812m** of backlog to convert to revenue over the following twelve months; signed contracts and RPO are not guarantees of project delivery, timing or profitability.
 
-| Backlog mix (% of total) | FY2023 | FY2024 | FY2025 | H1 2026 |
+### Revenue composition
+
+| Revenue mix | FY2023 | FY2024 | FY2025 | H1 2026 |
 |---|---:|---:|---:|---:|
-| **Private sector** | 99.0% | 97.0% | 95.0% | **Not disclosed** |
-| Public sector | 1.0% | 3.0% | 5.0% | **Not disclosed** |
+| Fixed-price contracts | 96% | 99% | 99% | **99%** |
+| Time & materials / cost plus | 4% | 1% | 1% | **1%** |
+| Private-sector revenue | 98% | 97% | 95% | **91%** |
+| Public-sector revenue | 2% | 3% | 5% | **9%** |
+| **Total revenue (USD m)** | **247.9** | **315.2** | **456.0** | **394.4** |
 
-**H1 2026 backlog split between private and public projects was not disclosed.** The reported **91.0% private / 9.0% public** is the split of **recognized revenue**, not backlog; do not substitute it in the backlog table.
+FY2025 end markets: **66% residential**, **23% commercial/industrial/retail**, **5% municipal/state**, **6% paving/materials**. Revenue is heavily fixed-price, so estimates for labor, materials and project scheduling are critical. **The end-market percentage split for H1 2026 was not disclosed.**
 
-## Customers, revenue mix and geographic expansion
+### Geographic markets
 
-**End markets (FY2025 revenue):** residential **66%**; commercial/industrial/retail **23%**; municipal/state **5%**; materials/paving **6%**. This is a **FY2025 mix**, not a reported H1 2026 split. During H1 2026 the company described expanding commercial/industrial, retail distribution, manufacturing and mission-critical/data-center work while retaining residential demand; exact updated percentages by end market were **not reported**.
+| Market | FY2025 group revenue mix |
+|---|---:|
+| Raleigh | **72.4%** |
+| Charlotte | **20.6%** |
+| Greensboro | **7.0%** |
+| Atlanta / North Georgia | **— (entered in 2026)** |
 
-| Contract / customer split | FY2023 | FY2024 | FY2025 | H1 2026 |
-|---|---:|---:|---:|---:|
-| Fixed-price revenue contracts | 96% | 99% | **99%** | **99%** |
-| Time-and-materials / cost-plus contracts | 4% | 1% | **1%** | **1%** |
-| Private-sector revenue | 98% | 97% | **95%** | **91%** |
-| Public-sector revenue | 2% | 3% | **5%** | **9%** |
+Atlanta became part of Cardinal's footprint with **ALGC in February 2026**, then Allied in October. **Management's potential future markets:** Wilmington (North Carolina); Columbia, Charleston and Greenville (South Carolina); Savannah (Georgia); and Knoxville and Nashville (Tennessee). These are ambitions, not confirmed revenue streams.
 
-**Interpretation:** a higher public share reflects diversification, but a roughly 99% fixed-price exposure makes project estimating, labor, materials and weather key sources of margin risk. Fixed price is **not** the same as competitively bid: the company also reports ~97% *negotiated* revenue from customer relationships.
+### Asphalt production — potential self-performance upside
 
-| Geographic market | FY2025 revenue mix | H1 2026 revenue mix |
-|---|---:|---:|
-| **Raleigh** | **72.4%** | **Not disclosed** |
-| **Charlotte** | **20.6%** | **Not disclosed** |
-| **Greensboro** | **7.0%** | **Not disclosed** |
-| **Atlanta / North Georgia** | — (entered 2026) | **Not disclosed** |
-
-**Expansion plans:** Cardinal is building on its original Raleigh operations and its more recent Charlotte, Greensboro and Atlanta markets. Additional potential markets identified by management are **Wilmington (NC), Columbia, Charleston and Greenville (SC), Savannah (GA), and Knoxville and Nashville (TN)**. These are expansion opportunities, **not yet confirmed revenue locations**. H1 2026 includes ALGC in Atlanta beginning in February; Allied joined the group in October, after H1.
-
+The first asphalt plant near Raleigh, finished in June 2026 with **400 tons/hour nameplate capacity**, initially supports Cardinal's own paving projects, improving procurement control and potentially margins. A **second plant is contemplated**, with land and certain permits obtained; management wants **one or two quarters of operating experience** before finalizing its specification. It could eventually also **sell asphalt to third-party customers**; those potential sales are **not included in our forecast**.
 
 ## Q2 2026 financial update — rapid growth, temporary margin pressure
 
@@ -78,56 +121,31 @@ Cardinal's Q2 2026 revenue rose **114.0%** to **$226.9m**, including **64.0% org
 
 Management expects better project scheduling, greater internal capabilities and the delayed high-margin work to help margins recover, but **recovery is not yet proven**. H1 2026 revenue was **$394.4m**, adjusted EBITDA **$54.9m** and the 2026 full-year guidance remains **$880m–$900m revenue / 16.0%–18.0% adjusted EBITDA margin**. [Q2 2026 company results](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-reports-second-quarter-2026) · [Q2 2026 earnings-call transcript](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 
-## Asphalt plant strategy — owned materials and third-party sales
+## FY2026 estimates and valuation methodology
 
-On **June 30, 2026**, Cardinal announced completion of its **first asphalt mixing/processing plant near Raleigh** under its Aviator Paving operation, with **400 tons/hour nominal hot-mix capacity**. The plant was being ramped in Q2, initially supplying its **own paving projects**, replacing outside suppliers, reducing transport / scheduling dependencies, improving mix control and capturing production economics within the group. It can indirectly lift revenue by enabling more projects and shorter execution cycles.
+**Management guidance:** 2026 revenue **$880m–$900m**, adjusted EBITDA margin **16.0%–18.0%**. The **midpoint case** assumes **$890m revenue and 17.0% adjusted EBITDA margin ($151.3m)**. For normalized earnings, **my—not management's—additional assumptions** are **$45.0m annual depreciation and amortization (D&A)** and **$11.0m net interest**, informed by H1 actual D&A of ~$20.9m and net interest ~$5.7m. The higher full-year D&A allows for post-acquisition amortization; future debt draws could change interest expense. Use the **22.78%** normal corporate tax rate illustrated in the 2025 10-K, while separately valuing incremental net TRA cash flows.
 
-A **second asphalt plant** is contemplated: management said the **land was already owned and zoning / air-quality approvals obtained**, but **site-plan/construction approvals and equipment ordering were not complete** at the Q2 call. The company wants **one to two quarters of operating experience at the first plant before deciding the second plant's size/configuration and timing**. The second plant could supply Aviator's local projects and **sell surplus asphalt to third parties**, a possible external revenue stream **not included in management's forecast or our core FY2027 scenarios**. No construction launch date or confirmed third-party asphalt sales should be assumed. [Plant announcement](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-announces-completion-first-asphalt) · [Q2 earnings-call transcript](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
+| FY2026 midpoint earnings bridge | **Method 1: Fully converted (preferred)** | **Method 2: current Up-C** |
+|---|---:|---:|
+| Revenue | $890.0m | $890.0m |
+| Consolidated adjusted EBITDA (17.0% margin) | $151.3m | $151.3m |
+| Less: D&A (estimate) | ($45.0m) | ($45.0m) |
+| Less: net interest (estimate) | ($11.0m) | ($11.0m) |
+| **Consolidated adjusted pretax income** | **$95.3m** | **$95.3m** |
+| Less: LLC holder share of pretax profit | **—** | **($53.5m)** |
+| **Tax base for PubCo** | **$95.3m** | **$41.8m** |
+| Normalized tax at 22.78% | ($21.7m) | ($9.5m) |
+| **Normalized adjusted earnings attributable to denominator** | **$73.6m** | **$32.2m** |
+| Share denominator (year-end post-Allied pro forma) | **48.5M A + LLC/B equivalents** | **21.2M Class A** |
+| **Indicative normalized FY2026 EPS** | **~$1.52** | **~$1.52** |
 
-## Share capital, follow-on equity raise and Q2 2026 net cash
+**How they differ:** Method 1 values **all of Cardinal's operating profit** and divides it by **all economic Class A + exchangeable LLC/Class B equivalents**. **It does not subtract those LLC holders as minorities again.** Method 2 excludes the continuing LLC holders' proportionate pretax profit and divides only by Class A. The apparent EPS equivalence is a consequence of **proportional ownership and equal assumed tax rates**, **not** a guarantee that reported GAAP diluted EPS matches either number.
 
-**The company has an Up-C share structure.** Public **Class A** shares own LLC units indirectly through listed PubCo. Continuing pre-IPO owners hold operating **LLC Units plus paired voting Class B** shares, exchangeable generally 1:1 for Class A. The **Class B share itself has voting but not direct cash-distribution rights**; the **paired LLC unit carries the economic interest**. Counting both the Class B vote and its LLC unit as separate economic shares would double-count the same stake. PubCo consolidates 100% operations and recognizes unconverted LLC owners as noncontrolling interests.
+**Chosen method: Method 1 (fully converted).** For a full-company EV/EBITDA multiple or a per-share valuation, all consolidated EBITDA and all economic ownership units must be represented consistently. The two methods normalize to the same illustrative EPS here. **Actual FY2026 reported diluted EPS, weighted-average shares, SBC/RSU dilution and cash taxes will differ.** On guidance extremes (16.0% × $880m to 18.0% × $900m), keeping the illustrative D&A/interest/share assumptions fixed gives **~$1.35–$1.69 normalized EPS**.
 
-| Economic units (rounded) | Dec. 31, 2025 | June 30, 2026 | Post-Allied pro forma* |
-|---|---:|---:|---:|
-| Class A / PubCo LLC units | 14.9M (**39.0%**) | **20.2M (42.6%)** | ~21.2M (~43.8%) |
-| Continuing LLC units + paired Class B | 23.4M (**61.0%**) | **27.2M (57.4%)** | ~27.2M (~56.2%) |
-| **Total economic share equivalents** | **38.3M (100.0%)** | **47.5M (100.0%)** | **48.5M (100.0%)** |
-*Allied generated **1,006,796 newly issued Class A shares** effective October 1. The third column is a **pro forma illustration based on June 30 balances, prior to interim 1:1 exchanges, RSUs and other potential events**, not a certified October 9 share register. B-for-A conversions do not by themselves change the fully converted number.
+**TRA in valuation:** add the **present value of extra tax savings Cardinal retains** and deduct the present value of related obligations **only if absent from the forecast cash taxes**; do **not** add the 2025 illustrated $0.83/share to 2026 EPS.
 
-**June 2026 equity follow-on:** **4,600,000 new Class A** sold at **$73/share**, **~$335.8m gross and $318.4m net proceeds**. Cardinal applied **$33m** to repay existing credit-facility borrowings and retained the remainder for M&A, equipment, working capital and other corporate purposes. It **diluted existing fully converted owners** while adding cash and balance-sheet flexibility. The unusually strong June 30 cash position should not automatically be capitalized as recurring FCF.
-
-| June 30, 2026 balance sheet | USD m |
-|---|---:|
-| Cash and equivalents | **339.092** |
-| Notes payable — face principal | **199.500** |
-| Finance lease liabilities | **7.505** |
-| **Financial debt incl. finance leases** | **207.005** |
-| **Net cash incl. finance lease liabilities** | **+132.087** |
-| Operating lease liabilities (separate) | 23.074 |
-
-**The thesis's 2027 zero-net-debt assumption is a scenario, not the actual Q2 balance sheet.** The ~$132m net cash at June 30 precedes the October Allied closing (cash consideration), any further capital investment or M&A financing.
-
-## Debt structure and financing — June 2026 versus September 2026 refinancing
-
-| Instrument (at June 30, 2026) | Principal, USD m | Rate / maturities at that date |
-|---|---:|---|
-| Truist senior secured term loan | **195.000** | SOFR + 2.375% at Q2; **6.25% effective**, old final October 2030 |
-| First American loan | 1.042 | Variable, **6.14% effective**, maturity January 2031 |
-| Equipment note | 1.362 | Fixed **3.74%**, June 2030 |
-| Three further equipment notes | 2.050 | Contractual **0% interest**, amortizing to June 2030 |
-| Seller notes | 0.046 | Fixed **5%**, to July 2027 |
-| **Total note principal** | **199.500** | |
-| Finance leases (separate liabilities) | **7.505** | Discount rate **4.83% weighted average** |
-| **Total incl. finance leases** | **207.005** | Approx. **6.1% blended estimate**, not one exact contractual coupon |
-
-**Interest-rate exposure:** excluding leases, approximately **$196.0m was floating** and **$3.5m fixed** contractually. Cardinal had a **$59.25m notional receive-SOFR/pay-fixed 3.80% swap**, which economically hedged part of the floating Truist debt. Counting leases and the hedged portion produces approximately **$70.2m effectively fixed (~34%)** and **$136.8m effectively floating (~66%)** against $207.0m financial debt. **The swap does not turn the underlying floating loan into fixed debt legally**; it offsets cash-rate movements on the hedged portion.
-
-**Q2 disclosed maturities — NOTES ONLY, excluding finance leases** (USD m): H2 2026 **5.453**; 2027 **12.227**; 2028 **15.943**; 2029 **15.956**; 2030 **149.278**; after 2030 **0.642**. The large 2030 bullet was the schedule **as of June 30**, before the subsequent financing agreement changed the credit-facility maturities.
-
-**Subsequent September 2026 facility expansion:** the amended facility comprises **$200m term-loan commitments, $100m revolving commitments and $250m delayed-draw term-loan commitments**, totaling **$550m of commitments** with a **September 2031 maturity**. These are **funding commitments, not $550m of outstanding debt**; the $250m delayed-draw commitment was not an already disbursed cash balance. Ordinary covenant headroom is **net leverage ≤2.50x** and **fixed-charge coverage ≥1.25x**, with exceptions and acquisition conditions. The September documentation supersedes the old 2030 debt schedule to the extent relevant to the amended facility. [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [September credit amendment](https://www.sec.gov/Archives/edgar/data/2079999/000119312526389363/cdnl-ex10_1.htm).
-
-## FY2027 scenario analysis (USD millions unless stated)
+## FY2027 scenarios — existing acquisitions fully annualized
 
 2026 starting point: **$890m revenue** (midpoint of management's $880–900m guidance). Forecasts assume **no new acquisitions** after Allied and **net cash/debt = $0** in FY2027. Full economic equity denominator is **48.479855m A+B-equivalent shares**, **before additional RSU dilution**.
 
@@ -146,47 +164,6 @@ A **second asphalt plant** is contemplated: management said the **land was alrea
 | **EV / EBITDA at $30/share, zero net debt** | **8.14x** | **7.52x** | **6.97x** |
 
 **EV mechanics:** $25.06 × 48.479855m = **$1,214.9m**; $30 × 48.479855m = **$1,454.4m**. We assume zero *future* net financial debt solely for comparison; this is not a claim that the company currently has no bank debt or that equipment/operating leases are immaterial. This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
-
-## Insider purchases and ownership
-
-Purchases are consolidated from the user's SEC Form 4 research summary (Dec. 11, 2025–Aug. 17, 2026), cross-checked against the company's [April 2026 ownership proxy](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm) and representative [Form 4 for the CEO](https://www.sec.gov/Archives/edgar/data/2092830/000121390026090854/xslF345X03/ownership.xml). **Ownership is a best-effort estimate using last publicly reported holdings plus identified purchases, not a verified live register as of October 9.** Economic stakes are divided by the pro forma 48.479855m total.
-
-| Insider (role) | Open-market Class A shares bought | Approx. purchase outlay | Last disclosed holdings + known purchases (economic shares) | Approx. equity stake |
-|---|---:|---:|---:|---:|
-| Jeremy Spivey (founder, CEO/chairman) | 83,350 | $3.20m | ~8,344,742 (8,261,392 Class B equivalent + 83,350 A) | **~17.2%** |
-| Benjamin Wood (COO) | 45,700 | $2.04m | 45,700 A + beneficial interest in the **same** 2,093,031 Diamond LLC units | Indirect interest shared; **50% look-through ~$1.047m units** |
-| Anthony Wood (director / ALGC president) | 51,400 | $2.02m | 51,400 A + beneficial interest in the **same** 2,093,031 Diamond LLC units | Indirect interest shared; **50% look-through ~$1.047m units** |
-| Richard M. Lee (director) | 56,725 | $1.73m | ~56,725 A plus any vested RSUs | ~0.12% |
-| Ivy Zelman (director) | 21,843 | $0.80m | ~21,843 A plus any vested RSUs | ~0.05% |
-| Richard B. Wimmer (director) | 17,500 | $0.503m | ~17,500 A plus any vested RSUs | ~0.04% |
-| Mike Rowe (CFO) | 7,000 | $0.256m | ~2,045,003 (2,038,003 B equivalent + 7,000 A) | ~4.22% |
-| Tiffany Gidley (general counsel) | 6,000 | $0.126m | ~6,000 A | ~0.01% |
-| **Purchases, eight insiders** | **289,518** | **~$10.68m** | **Do not sum overlapping beneficial ownership** | — |
-
-**Other significant insider:** Erik West (COO, Cardinal Civil Contracting) disclosed ~**6,114,009 LLC/Class B economic units**, ~**12.6%** of the updated fully converted denominator, but is **not included in the above $10.68m open-market purchase total**. Benjamin and Anthony Wood are both 50% members of **Diamond Interests Group LLC**, which owns **one** 2,093,031-unit block; attributing 2,093,031 units to each separately would double count economic ownership. The April proxy's Class A-equivalent disclosure and corresponding Class B shares also must not be added together.
-
-## How we value the Up-C company
-
-**Preferred method — 1. Fully converted economic earnings.**
-
-- Start with **100% consolidated adjusted EBITDA**; subtract **100% D&A** and **100% net interest expense**.
-- Normalize taxes at **22.78% on the full adjusted pre-tax amount** as a simplifying fully converted C-corporation scenario. Cardinal uses 22.78% in its illustrative conversion calculation in the FY2025 Form 10-K, **not** as a guarantee of its cash tax rate.
-- Do **not** subtract the earnings of continuing LLC/Class B owners when their economic share equivalents are already in the denominator. Divide by **Class A + one share-equivalent per LLC/Class B unit + dilutive RSUs**. A paired Class B share and its LLC unit are *one* economic claim, **not two separate shares**.
-- Remove any genuine subsidiary-level outside minority claims *not* represented by these LLC units if material and not already reflected in adjusted earnings.
-
-**Alternative method — 2. Current Up-C / public Class A slice.**
-
-- Start from the same consolidated adjusted pre-tax earnings; allocate a proportion to outside LLC owners as noncontrolling income, then tax only PubCo's attributable share at normalized rates. Divide by Class A plus applicable dilutive RSUs.
-- It delivers the same simplified EPS only if pretax economics and tax treatment are proportional; actual GAAP taxes, subsidiary NCI, and movements in ownership can break that equality.
-- **Cardinal's reported EPS is GAAP rather than this bespoke adjusted EPS**: basic EPS uses actual income attributable to PubCo/Class A; diluted EPS may add back LLC minority income and include exchangeable LLC units when conversion is dilutive.
-
-**TRA — separate tax-cash-flow valuation adjustment in BOTH methods.**
-
-Exchanging legacy LLC units for Class A can step up the tax basis of certain assets and lead to deductible amortization. Under Cardinal's Tax Receivable Agreement, legacy holders are entitled to **85% of specified realized tax savings** and PubCo keeps the other **15%**. To avoid double-counting, model **present value of the incremental tax shields minus present value of associated TRA payments** *only when those cash flows have not already been captured in operating cash taxes or EV/equity adjustments*.
-
-The FY2025 10-K's **illustrative** complete exchange (assumed $24.18 share price and 22.78% tax rate) projected **$212.311m potential DTA less $180.464m potential TRA = $31.847m net undiscounted**, or **$0.831 per FY2025 fully converted equivalent share (38.335m)**. **This is NOT annual EPS, NOT present value, and NOT necessarily incremental to the actual Up-C structure; it unfolds over future years.** In the **current Up-C** method no *new* conversion-based TRA arises from units left unexchanged, **but existing TRA remains**: the company reported a **$39.424m TRA liability** at FY2025 year end alongside **$46.081m total DTA** (which also includes non-TRA tax assets). **FY2024 had no TRA**; the arrangement began with the December 2025 IPO. The accounting DTA and TRA must not be blindly netted as if all assets were TRA-related.
-
-**Quality-of-earnings caution:** Adjusted EBITDA excludes selected expenses, including stock-based compensation, which is economically dilutive. A thorough valuation also models actual CAPEX, equipment replacement, working capital, acquisition integration and cash flow, rather than treating adjusted EBITDA as distributable profit.
 
 ## Risks and what would disprove the thesis
 
@@ -209,3 +186,4 @@ The FY2025 10-K's **illustrative** complete exchange (assumed $24.18 share price
 **Research note:** The financial figures are reconstructed from company reports and our preceding modeling discussion. The separately referenced Excel workbook was not retrievable in the current connected files, so the document does **not** claim to have audited or directly imported workbook values. All FY2027 scenarios, incremental contributions and the $0 net-debt normalization are analyst assumptions, not official guidance.
 
 > Independent personal research for educational and professional use; not investment advice.
+

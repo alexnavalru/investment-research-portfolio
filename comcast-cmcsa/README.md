@@ -11,7 +11,7 @@
 
 My original Comcast thesis was built around a mature but highly cash-generative company trading at a low valuation.
 
-The initial catalyst was the separation of **Versant**, which contained a portfolio of declining cable-network assets. My view was that removing those slower-growth assets could make the remaining Comcast easier to value and allow stronger businesses — broadband, wireless, studios, streaming and theme parks — to receive more appropriate market attention.
+The initial catalyst was the separation of **Versant**, which contained a portfolio of declining cable-network assets. My view was that removing those slower-growth assets could make the remaining Comcast easier to value and allow stronger businesses - broadband, wireless, studios, streaming and theme parks - to receive more appropriate market attention.
 
 The thesis also relied on Comcast's historically strong shareholder returns through **large buybacks and dividends**.
 
@@ -109,9 +109,9 @@ The value of the research is not that every catalyst works. It is the process of
 
 ### Sources
 
-- [Comcast — Versant separation completed, January 2026](https://www.cmcsa.com/news-releases/news-release-details/comcast-announces-completion-separation-versant-media-group-inc)
-- [Comcast — Q2 2026 results](https://www.cmcsa.com/node/45906)
-- [Comcast — NBCUniversal / Sky separation announcement](https://corporate.comcast.com/press/releases/comcast-announces-plans-to-separate-media-and-technology-businesses-into-two-leading-public-companies)
-- [Comcast — Q2 2026 Form 10-Q](https://www.cmcsa.com/static-files/e6dfd783-4c1a-49ad-bd33-892f8b3c59d5)
+- [Comcast - Versant separation completed, January 2026](https://www.cmcsa.com/news-releases/news-release-details/comcast-announces-completion-separation-versant-media-group-inc)
+- [Comcast - Q2 2026 results](https://www.cmcsa.com/node/45906)
+- [Comcast - NBCUniversal / Sky separation announcement](https://corporate.comcast.com/press/releases/comcast-announces-plans-to-separate-media-and-technology-businesses-into-two-leading-public-companies)
+- [Comcast - Q2 2026 Form 10-Q](https://www.cmcsa.com/static-files/e6dfd783-4c1a-49ad-bd33-892f8b3c59d5)
 
 > Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.

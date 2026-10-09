@@ -1,4 +1,4 @@
-# PayPal (PYPL) — Model Snapshot
+# PayPal (PYPL) - Model Snapshot
 
 This page summarizes selected figures from my internal Excel model. It is intended to show the structure of the analysis rather than reproduce the full workbook.
 

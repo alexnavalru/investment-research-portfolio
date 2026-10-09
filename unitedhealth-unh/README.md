@@ -107,7 +107,7 @@ This was an area where different issues needed to be separated carefully.
 
 Before the 2025 selloff, the U.S. Senate had already investigated delays and denials of post-acute care in Medicare Advantage, including practices at UnitedHealthcare.
 
-The December 2024 killing of **Brian Thompson, CEO of UnitedHealthcare — the insurance division, not UnitedHealth Group itself —** then intensified public and political scrutiny of health insurers and claims-management practices.
+The December 2024 killing of **Brian Thompson, CEO of UnitedHealthcare - the insurance division, not UnitedHealth Group itself -** then intensified public and political scrutiny of health insurers and claims-management practices.
 
 This created an additional uncertainty premium around the stock.
 
@@ -180,14 +180,14 @@ This case demonstrates how I approached a large-cap company experiencing a rapid
 
 ### Sources
 
-- [UnitedHealth — Q1 2025 results and revised guidance](https://www.unitedhealthgroup.com/newsroom/2025/2025-04-17-uhg-reports-first-quarter-results-and-revises-full-year-guidance.html)
-- [UnitedHealth — May 13, 2025 leadership transition](https://www.unitedhealthgroup.com/newsroom/2025/2025-05-13-uhg-announces-leadership-transition.html)
-- [UnitedHealth — Q2 2025 management remarks](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/UNH-Q2-2025-Remarks.pdf)
-- [UnitedHealth — 2024 Form 10-K](https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm)
-- [SEC Form 4 — Stephen Hemsley open-market purchase](https://www.sec.gov/Archives/edgar/data/1180162/000073176625000145/xslF345X03/wk-form4_1747433498.xml)
-- [SEC Form 4 — John Rex open-market purchase](https://www.sec.gov/Archives/edgar/data/731766/000073176625000146/xslF345X05/wk-form4_1747433501.xml)
-- [U.S. Senate — 2024 Medicare Advantage investigation](https://www.hsgac.senate.gov/subcommittees/investigations/library/files/psi-majority-staff-report-medicare-advantage/)
-- [UnitedHealth — response to DOJ investigation](https://www.unitedhealthgroup.com/newsroom/2025/2025-07-24-uhg-responds-to-doj-investigation.html)
-- [CMS — 2026 Medicare Advantage payment update](https://www.cms.gov/newsroom/press-releases/cms-finalizes-2026-payment-policy-updates-medicare-advantage-part-d-programs)
+- [UnitedHealth - Q1 2025 results and revised guidance](https://www.unitedhealthgroup.com/newsroom/2025/2025-04-17-uhg-reports-first-quarter-results-and-revises-full-year-guidance.html)
+- [UnitedHealth - May 13, 2025 leadership transition](https://www.unitedhealthgroup.com/newsroom/2025/2025-05-13-uhg-announces-leadership-transition.html)
+- [UnitedHealth - Q2 2025 management remarks](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/UNH-Q2-2025-Remarks.pdf)
+- [UnitedHealth - 2024 Form 10-K](https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm)
+- [SEC Form 4 - Stephen Hemsley open-market purchase](https://www.sec.gov/Archives/edgar/data/1180162/000073176625000145/xslF345X03/wk-form4_1747433498.xml)
+- [SEC Form 4 - John Rex open-market purchase](https://www.sec.gov/Archives/edgar/data/731766/000073176625000146/xslF345X05/wk-form4_1747433501.xml)
+- [U.S. Senate - 2024 Medicare Advantage investigation](https://www.hsgac.senate.gov/subcommittees/investigations/library/files/psi-majority-staff-report-medicare-advantage/)
+- [UnitedHealth - response to DOJ investigation](https://www.unitedhealthgroup.com/newsroom/2025/2025-07-24-uhg-responds-to-doj-investigation.html)
+- [CMS - 2026 Medicare Advantage payment update](https://www.cms.gov/newsroom/press-releases/cms-finalizes-2026-payment-policy-updates-medicare-advantage-part-d-programs)
 
 > This is personal research prepared for professional portfolio purposes. The trade outcome is unaudited and is not presented as investment advice or audited investment performance.

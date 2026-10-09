@@ -23,29 +23,21 @@
 
 All values in USD millions unless noted. FY2023–FY2025 mix/backlog from historical reports and the investor's screenshots; **H1 2026 from the SEC Form 10-Q**, whose period ends June 30, 2026. The October Allied acquisition does **not** appear in H1 2026 backlog or revenue.
 
-### Backlog and RPO
+### Backlog quality and sector mix (percentages only)
 
-| Metric | 2023 YE | 2024 YE | 2025 YE | June 2026 |
+| Backlog quality | FY2023 | FY2024 | FY2025 | H1 2026 |
 |---|---:|---:|---:|---:|
-| Signed contracts | 284 | 351 | 530 | **701** |
-| Signed / backlog | 70.8% | 68.6% | 77.7% | **80.9%** |
-| Letters of intent / issued contracts | 117 | 161 | 152 | **165** |
-| LOI/issued / backlog | 29.2% | 31.4% | 22.3% | **19.1%** |
-| **Total backlog** | **401** | **512** | **682** | **866** |
-| RPO (remaining performance obligations) | 205 | 276 | 516.765 | **619.649** |
-| Backlog less RPO | 196 | 236 | 165.235 | **246.351** |
+| Signed contracts | 70.8% | 68.6% | 77.7% | **80.9%** |
+| Letters of intent / pending signature | 29.2% | 31.4% | 22.3% | **19.1%** |
 
-H1 2026 movement: $682m opening + $578m awards/changes – $394m recognized = **$866m** closing. FY2026 June 30 signed contracts 701/866 = 80.95%; LOI and issued 165/866 = 19.05%. Est. $734m–$812m to recognize from existing backlog over following twelve months. RPO $556.5m over 12 months plus $63m months 13–18. Customer cancellations are possible.
+**Backlog $866m and RPO $619.6m at June 30, 2026; backlog +27.0% vs FY2025 and +34.7% vs June 2025.**
 
-| Backlog by client / contract class | 2023 YE | 2024 YE | 2025 YE |
-|---|---:|---:|---:|
-| Private: lump sum | 395 | 479 | 600 |
-| Private: fixed unit price | 0 | 20 | 45 |
-| **Private total** | **395 (99%)** | **499 (97%)** | **645 (95%)** |
-| Public: fixed unit price | 6 | 13 | 37 |
-| **Public total** | **6 (1%)** | **13 (3%)** | **37 (5%)** |
+| Backlog by customer sector | FY2023 | FY2024 | FY2025 | H1 2026 |
+|---|---:|---:|---:|---:|
+| Private | 99.0% | 97.0% | 95.0% | **Not disclosed** |
+| Public | 1.0% | 3.0% | 5.0% | **Not disclosed** |
 
-H1 2026 private/public **backlog** by detailed contract type was not separately disclosed in the 10-Q, so no invented value.
+**H1 2026 backlog split between private and public projects was not disclosed.** The reported **91.0% private / 9.0% public** is the split of **recognized revenue**, not backlog; do not substitute it in the backlog table.
 
 ### Revenue mix
 
@@ -58,15 +50,32 @@ H1 2026 private/public **backlog** by detailed contract type was not separately 
 
 **2025 end-market revenue:** residential **66%**, commercial/industrial/retail **23%**, municipal/state **5%**, materials/paving **6%**. No verified equivalent detailed end-market H1 2026 % mix, although management reported growing commercial/industrial, manufacturing, retail distribution and mission-critical business.
 
-| Operating market (NOT individual customers) | FY2025 revenue (USD m) | Correct FY2025 share | H1 2026 qualitative status |
-|---|---:|---:|---|
-| Raleigh, North Carolina | 330 | **~72.4%** | Fully turnkey; >40% Q2 organic growth |
-| Charlotte + surrounding South Carolina | 94 | **~20.6%** | Purcell/Red Clay; Piedmont Pipe May 2026; >40% Q2 market growth |
-| Greensboro/Triad, North Carolina | 32 | **~7.0%** | Page acquisition and organic expansion |
-| Atlanta / North Georgia | 0 in FY2025 group | n/a | **New H1 2026 market** via ALGC Feb 18; Allied paving added Oct 1 |
-| **Total, FY2025** | **456** | **100%** | Company did not give a dollar-by-city H1 2026 revenue bridge |
+| Geographic market | FY2025 revenue mix | H1 2026 revenue mix |
+|---|---:|---:|
+| Raleigh | **72.4%** | Not disclosed |
+| Charlotte | **20.6%** | Not disclosed |
+| Greensboro | **7.0%** | Not disclosed |
+| Atlanta / North Georgia | Not consolidated in FY2025 | Not disclosed |
 
-**Correcting the submitted spreadsheet:** its 2025 percentages 84%, 24% and 8% totaled 116%; the correct FY2025 denominator is ~$456m, thus 330/456=72.4%, 94/456=20.6%, 32/456=7.0%. **2025 FY data must not be relabeled as H1 2026**, and customer concentration is distinct from regional revenue.
+**Expansion intentions:** Wilmington (NC); Columbia, Charleston and Greenville (SC); Savannah (GA); Knoxville and Nashville (TN). These are potential markets, not verified revenue. Atlanta entered the group through ALGC in February 2026 and was expanded after H1 with Allied.
+
+## Q2 2026 financial update — rapid growth, temporary margin pressure
+
+Cardinal's Q2 2026 revenue rose **114.0%** to **$226.9m**, including **64.0% organic growth**. Adjusted EBITDA increased **42.8%** to **$28.1m** from **$19.7m**, **but its margin declined**. This is a margin problem, not an absolute contraction in gross profit or EBITDA.
+
+| Profitability / revenue | Q2 2025 | Q2 2026 | H1 2025 | H1 2026 |
+|---|---:|---:|---:|---:|
+| GAAP gross margin | 13.9% | **10.8%** | 13.1% | **12.5%** |
+| Adjusted gross margin | 21.3% | **15.9%** | 20.8% | **17.8%** |
+| Adjusted EBITDA margin | 18.6% | **12.4%** | 18.2% | **13.9%** |
+
+**What hurt margins:**
+1. **Subcontractors and rented machinery:** in newer markets, Cardinal does not yet have enough crews and specialized equipment to self-perform full turnkey jobs. Hiring subcontractors and renting equipment raises costs.
+2. **Different project mix:** larger commercial/industrial projects require different scheduling and labor allocation from residential developments. While the company adapted, some crews were underutilized. These are execution/deployment inefficiencies, not just unfavorable product pricing.
+3. **Bad weather in Georgia:** delays at **ALGC** pushed back higher-margin project activity.
+4. **Corporate overhead:** G&A rose as Cardinal built the infrastructure needed to operate and scale as a public company, further weighing on adjusted EBITDA margin.
+
+Management expects better project scheduling, greater internal capabilities and the delayed high-margin work to help margins recover, but **recovery is not yet proven**. H1 2026 revenue was **$394.4m**, adjusted EBITDA **$54.9m** and the 2026 full-year guidance remains **$880m–$900m revenue / 16.0%–18.0% adjusted EBITDA margin**. [Q2 2026 company results](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-reports-second-quarter-2026) · [Q2 2026 earnings-call transcript](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 
 ### Q2 2026 financial debt and liquidity
 

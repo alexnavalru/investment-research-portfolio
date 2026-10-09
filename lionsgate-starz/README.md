@@ -79,7 +79,7 @@ Using approximately **16x EBITDA** on roughly **$450m of EBITDA** implied an ent
 
 ### Starz
 
-Starz was a structurally weaker business operating in a challenged television environment, so I did not assign it a premium multiple. The key point was that the market appeared to be pricing it near zero — and at times effectively below zero — despite positive EBITDA and cash flow.
+Starz was a structurally weaker business operating in a challenged television environment, so I did not assign it a premium multiple. The key point was that the market appeared to be pricing it near zero - and at times effectively below zero - despite positive EBITDA and cash flow.
 
 ## Strategic Optionality: Steven Mnuchin, Liberty 77 and a Potential Sale
 
@@ -159,19 +159,19 @@ The research process used public filings, earnings calls, management commentary,
 
 ### Sources
 
-- [Lionsgate — separation announcement and strategic rationale](https://investors.lionsgate.com/news-events/news/news-details/2025/Lions-Gate-Entertainment-Corp--Separates-its-Studio-and-STARZ-Businesses-into-Two-Independent-Publicly-Traded-Companies/default.aspx)
-- [Lionsgate Studios 10-Q — separation terms and Class B distribution](https://www.sec.gov/Archives/edgar/data/2052959/000205295925000018/lion-20250630.htm)
-- [Lionsgate — fiscal Q1 2027 film results, including Michael (subsequent outcome)](https://investors.lionsgate.com/news-events/news/news-details/2026/LIONSGATE-REPORTS-RESULTS-FOR-FIRST-QUARTER-FISCAL-2027/default.aspx)
-- [Starz FY2025 carve-out financial statements — cash flow, interest and separation disclosures](https://www.sec.gov/Archives/edgar/data/929351/000092935125000038/starz-20250331.htm)
-- [Starz 2026 Proxy — $80m–$120m unlevered FCF outlook and definition](https://www.sec.gov/Archives/edgar/data/929351/000092935126000021/starz-20260402.htm)
-- [Lionsgate / Screaming Eagle transaction FAQ — strategic optionality](https://www.sec.gov/Archives/edgar/data/929351/000119312523301842/d640032dex993.htm)
-- [SEC Schedule 13D — Liberty 77 ownership, January 2024](https://www.sec.gov/Archives/edgar/data/929351/000095014224000180/eh240439180_13da1-lgf.htm)
-- [Lionsgate 10-K/A — Liberty 77 at 12.6% of Class A voting shares](https://www.sec.gov/Archives/edgar/data/929351/000119312524187548/d858515d10ka.htm)
-- [Lionsgate ownership filing — Liberty 77 at approximately 13% post-separation](https://www.sec.gov/Archives/edgar/data/2052959/000119312525173603/d812719d424b3.htm)
-- [Lionsgate 2026 Proxy — Rachesky/MHR and Liberty 77 remain major shareholders](https://www.sec.gov/Archives/edgar/data/2052959/000119312526321010/d105125ddef14a.htm)
-- [MHR Schedule 13D/A — July 2026 continuation-fund transaction](https://www.sec.gov/Archives/edgar/data/2052959/000119312526299128/xslSCHEDULE_13D_X02/primary_doc.xml)
-- [Liberty 77 Schedule 13D/A — January 2026 ownership](https://www.sec.gov/Archives/edgar/data/2052959/000095014226000238/xslSCHEDULE_13D_X01/primary_doc.xml)
-- [U.S. Treasury — Steven T. Mnuchin, 77th Treasury Secretary, 2017–2021](https://home.treasury.gov/about/history/prior-secretaries/steven-t-mnuchin-2017-2021)
-- [DOJ — 2023 Merger Guidelines retained in 2025](https://www.justice.gov/atr/media/1389861/dl)
+- [Lionsgate - separation announcement and strategic rationale](https://investors.lionsgate.com/news-events/news/news-details/2025/Lions-Gate-Entertainment-Corp--Separates-its-Studio-and-STARZ-Businesses-into-Two-Independent-Publicly-Traded-Companies/default.aspx)
+- [Lionsgate Studios 10-Q - separation terms and Class B distribution](https://www.sec.gov/Archives/edgar/data/2052959/000205295925000018/lion-20250630.htm)
+- [Lionsgate - fiscal Q1 2027 film results, including Michael (subsequent outcome)](https://investors.lionsgate.com/news-events/news/news-details/2026/LIONSGATE-REPORTS-RESULTS-FOR-FIRST-QUARTER-FISCAL-2027/default.aspx)
+- [Starz FY2025 carve-out financial statements - cash flow, interest and separation disclosures](https://www.sec.gov/Archives/edgar/data/929351/000092935125000038/starz-20250331.htm)
+- [Starz 2026 Proxy - $80m–$120m unlevered FCF outlook and definition](https://www.sec.gov/Archives/edgar/data/929351/000092935126000021/starz-20260402.htm)
+- [Lionsgate / Screaming Eagle transaction FAQ - strategic optionality](https://www.sec.gov/Archives/edgar/data/929351/000119312523301842/d640032dex993.htm)
+- [SEC Schedule 13D - Liberty 77 ownership, January 2024](https://www.sec.gov/Archives/edgar/data/929351/000095014224000180/eh240439180_13da1-lgf.htm)
+- [Lionsgate 10-K/A - Liberty 77 at 12.6% of Class A voting shares](https://www.sec.gov/Archives/edgar/data/929351/000119312524187548/d858515d10ka.htm)
+- [Lionsgate ownership filing - Liberty 77 at approximately 13% post-separation](https://www.sec.gov/Archives/edgar/data/2052959/000119312525173603/d812719d424b3.htm)
+- [Lionsgate 2026 Proxy - Rachesky/MHR and Liberty 77 remain major shareholders](https://www.sec.gov/Archives/edgar/data/2052959/000119312526321010/d105125ddef14a.htm)
+- [MHR Schedule 13D/A - July 2026 continuation-fund transaction](https://www.sec.gov/Archives/edgar/data/2052959/000119312526299128/xslSCHEDULE_13D_X02/primary_doc.xml)
+- [Liberty 77 Schedule 13D/A - January 2026 ownership](https://www.sec.gov/Archives/edgar/data/2052959/000095014226000238/xslSCHEDULE_13D_X01/primary_doc.xml)
+- [U.S. Treasury - Steven T. Mnuchin, 77th Treasury Secretary, 2017–2021](https://home.treasury.gov/about/history/prior-secretaries/steven-t-mnuchin-2017-2021)
+- [DOJ - 2023 Merger Guidelines retained in 2025](https://www.justice.gov/atr/media/1389861/dl)
 
 > This case study is personal research for professional portfolio purposes and is not investment advice. The regulatory/M&A scenario was an investment hypothesis, not evidence that any government official would influence a transaction.

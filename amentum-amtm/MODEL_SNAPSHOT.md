@@ -1,4 +1,4 @@
-# Amentum (AMTM) — Model Snapshot
+# Amentum (AMTM) - Model Snapshot
 
 This page summarizes selected outputs from my internal Amentum Excel model.
 
@@ -92,7 +92,7 @@ The expiry does not itself create a buyback. It removes one structural obstacle 
 
 ## Illustrative Buyback Scenario
 
-My model includes a scenario — not company guidance — where Amentum deploys approximately **$200m** toward repurchases at an average price around **$22/share**.
+My model includes a scenario - not company guidance - where Amentum deploys approximately **$200m** toward repurchases at an average price around **$22/share**.
 
 That would retire roughly **9.1m shares gross** before considering stock-option dilution. After an illustrative dilution offset, the model assumes a net share reduction of roughly **7.5m shares**.
 

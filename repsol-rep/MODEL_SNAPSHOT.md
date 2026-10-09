@@ -1,4 +1,4 @@
-# Repsol (REP) — Bear-Case Model Snapshot
+# Repsol (REP) - Bear-Case Model Snapshot
 
 This page summarizes selected outputs from my internal Repsol model. The purpose is to distinguish **2026 peak-cycle cash generation** from a more normalized mid-cycle earnings base.
 

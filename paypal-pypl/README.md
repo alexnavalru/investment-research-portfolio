@@ -69,8 +69,6 @@ I therefore treat the leadership change as a **new execution phase**, rather tha
 
 *Conditional gross scenarios, **not** automatic proceeds upon a sale. PayPal's change-in-control protections generally require a qualifying termination (**double trigger**); actual vesting, payout and PSU results may differ.*
 
-**Investment implication:** a renewed takeover is **additional upside optionality**, not part of the core FCF-and-buybacks thesis.
-
 ### 6. Agentic Commerce: Additional Upside, Not in Base Valuation
 
 PayPal is positioning its merchant network, wallet, identity, fraud protection and checkout rails for shopping initiated by **AI agents** rather than traditional browsing. **Agent Ready** enables merchant checkout on AI-driven surfaces, while **Store Sync** helps merchants make product catalogs discoverable and orders actionable across AI ecosystems. Announced partnerships include **OpenAI/ChatGPT**, and its agreement to acquire **Cymbio** strengthens catalog distribution and order orchestration; PayPal has also described integrations with Microsoft Copilot and Perplexity.

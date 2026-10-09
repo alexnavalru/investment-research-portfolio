@@ -1,4 +1,4 @@
-# UnitedHealth Group (UNH) — Valuation Snapshot
+# UnitedHealth Group (UNH) - Valuation Snapshot
 
 This snapshot summarizes the valuation framework used in the 2025 thesis.
 

@@ -2,62 +2,56 @@
 
 **Companion thesis:** [Read thesis](./README.md). Amounts USD millions unless specified.
 
-## Historical and outlook inputs
+## Historical and FY2026 context
 
-| Item | FY2024 historical | FY2025 historical | FY2026E (official midpoint where available) |
-|---|---:|---:|---:|
-| Revenue | 315.188 | 456.045 | **890.0** midpoint (guidance 880–900) |
-| Adjusted EBITDA | 56.538 | 81.466 | **151.3** indicative @17%; guidance margin 16–18% |
-| Adjusted EBITDA margin | 17.94% | 17.86% | 16.0–18.0% |
-| D&A | 18.664 | 32.375 | Model separately |
-| Net interest expense | 4.828 | 6.826 | Model separately |
-| Adjusted pretax income (EBITDA-D&A-interest) | 33.046 | 42.266 | Model separately |
-| Normalized taxes @22.78% | 7.528 | 9.628 | Only on adjusted taxable profits |
-| Adjusted fully converted net earnings | 25.518 | 32.638 | Model separately |
-| A+B units (m) | 36.607 **hypothetical IPO pro forma** | 38.335 **FY2025 year-end** | 47.473 June 30; 48.480 post-Allied pro forma |
-| Indicative normalized fully converted EPS | $0.697 | $0.851 | Model with matched denominator |
+| Metric / USD m except EPS | FY2023 | FY2024 | FY2025 | H1 2026 | FY2026E midpoint |
+|---|---:|---:|---:|---:|---:|
+| **Revenue** | **247.9** | **315.2** | **456.0** | **394.4** | **890.0** |
+| Adjusted EBITDA | — | 56.5 | 81.5 | **54.9** | **151.3** |
+| Adjusted EBITDA margin | — | 17.9% | 17.9% | **13.9%** | **17.0%** |
+| D&A | — | 18.7 | 32.4 | **20.9** | **45.0 estimated** |
+| Net interest expense | — | 4.8 | 6.8 | **5.7** | **11.0 estimated** |
+| Economic A+B share-equivalents (year-end/pro forma) | — | 36.6M (hypothetical) | 38.3M | 47.5M | **48.5M post-Allied** |
 
-**Warning:** Historical FY2024 Class A/Class B did not exist; the FY2024 denominator is an *illustrative* IPO-equivalent denominator, not GAAP historical EPS. FY2025 shares are **year-end**, not GAAP weighted-average shares. Subsidiary NCI in historical income statements is not the same as legacy continuing members' post-IPO Class B/LLC ownership. RSUs excluded from the indicative 2027 valuation denominator; sensitivity required.
+**Important:** FY2024's ~36.6M is a hypothetical IPO-equivalent economic denominator, **not an actual historical Class A/B share count**. FY2026 D&A and net interest are analyst estimates, not company guidance. FY2026 guidance is **$880m–$900m revenues and 16.0%–18.0% adjusted EBITDA margin**.
 
-## Detailed historical backlog, customer mix, location and debt schedule — through H1 2026
+## Backlog and contracts
 
-All values in USD millions unless noted. FY2023–FY2025 mix/backlog from historical reports and the investor's screenshots; **H1 2026 from the SEC Form 10-Q**, whose period ends June 30, 2026. The October Allied acquisition does **not** appear in H1 2026 backlog or revenue.
-
-### Backlog quality and sector mix (percentages only)
-
-| Backlog quality | FY2023 | FY2024 | FY2025 | H1 2026 |
+| Metric | FY2023 | FY2024 | FY2025 | H1 2026 |
 |---|---:|---:|---:|---:|
-| Signed contracts | 70.8% | 68.6% | 77.7% | **80.9%** |
-| Letters of intent / pending signature | 29.2% | 31.4% | 22.3% | **19.1%** |
+| Signed contracts (%) | 70.8% | 68.6% | 77.7% | **80.9%** |
+| Issued / unsigned letters of intent (%) | 29.2% | 31.4% | 22.3% | **19.1%** |
+| Private-sector backlog (%) | 99.0% | 97.0% | 95.0% | **Not disclosed** |
+| Public-sector backlog (%) | 1.0% | 3.0% | 5.0% | **Not disclosed** |
+| **Total backlog (USD m)** | **401** | **512** | **682** | **866** |
+| **Growth vs preceding year-end** | — | **+27.7%** | **+33.2%** | **+27.0% YTD** |
 
-**Backlog $866m and RPO $619.6m at June 30, 2026; backlog +27.0% vs FY2025 and +34.7% vs June 2025.**
+At June 30, 2026, **RPO was $619.6m**. H1 backlog rose **34.7%** versus June 2025 (different comparison from year-end growth). A 91% / 9% private/public H1 2026 split refers to **revenue**, **not** backlog.
 
-| Backlog by customer sector | FY2023 | FY2024 | FY2025 | H1 2026 |
+| Revenue contract/customer mix | FY2023 | FY2024 | FY2025 | H1 2026 |
 |---|---:|---:|---:|---:|
-| Private | 99.0% | 97.0% | 95.0% | **Not disclosed** |
-| Public | 1.0% | 3.0% | 5.0% | **Not disclosed** |
+| Fixed-price contracts | 96% | 99% | 99% | **99%** |
+| Time and materials / cost plus | 4% | 1% | 1% | **1%** |
+| Private-sector revenue | 98% | 97% | 95% | **91%** |
+| Public-sector revenue | 2% | 3% | 5% | **9%** |
+| **Revenue (USD m)** | **247.9** | **315.2** | **456.0** | **394.4** |
 
-**H1 2026 backlog split between private and public projects was not disclosed.** The reported **91.0% private / 9.0% public** is the split of **recognized revenue**, not backlog; do not substitute it in the backlog table.
+**FY2025 end market mix:** residential 66%; commercial/industrial/retail 23%; municipal/state 5%; materials/paving 6%. H1 2026 end-market percentage mix was not reported.
 
-### Revenue mix
+### Geography and expansion
 
-| Contract/customer metric | 2023 | 2024 | 2025 | H1 2026 |
-|---|---:|---:|---:|---:|
-| Fixed-price contracts | 96% | 99% | **99%** | **99%** |
-| Time & materials / cost plus | 4% | 1% | **1%** | **1%** |
-| Private-sector customers | 98% | 97% | **95%** | **91%** |
-| Public-sector customers | 2% | 3% | **5%** | **9%** |
+| Geographic market | FY2025 revenue mix |
+|---|---:|
+| Raleigh | **72.4%** |
+| Charlotte | **20.6%** |
+| Greensboro | **7.0%** |
+| Atlanta / North Georgia | — (entered 2026) |
 
-**2025 end-market revenue:** residential **66%**, commercial/industrial/retail **23%**, municipal/state **5%**, materials/paving **6%**. No verified equivalent detailed end-market H1 2026 % mix, although management reported growing commercial/industrial, manufacturing, retail distribution and mission-critical business.
+Potential expansion markets stated by management: **Wilmington (NC); Columbia, Charleston, Greenville (SC); Savannah (GA); Knoxville and Nashville (TN)**. ALGC entered Atlanta in February 2026, Allied closed October. City-level H1 revenue percentages were **not disclosed**.
 
-| Geographic market | FY2025 revenue mix | H1 2026 revenue mix |
-|---|---:|---:|
-| Raleigh | **72.4%** | Not disclosed |
-| Charlotte | **20.6%** | Not disclosed |
-| Greensboro | **7.0%** | Not disclosed |
-| Atlanta / North Georgia | Not consolidated in FY2025 | Not disclosed |
+### Asphalt supply chain
 
-**Expansion intentions:** Wilmington (NC); Columbia, Charleston and Greenville (SC); Savannah (GA); Knoxville and Nashville (TN). These are potential markets, not verified revenue. Atlanta entered the group through ALGC in February 2026 and was expanded after H1 with Allied.
+First plant near Raleigh completed June 2026, **400 tons/hour nameplate capacity**. Internal asphalt supplies may improve economics by replacing purchases from outsiders and shortening projects. Second plant contemplated but detailed plans not finalized; management wants **one to two quarters' experience** with the first. Third-party asphalt sales are potential upside, not current revenue in our model.
 
 ## Q2 2026 financial update — rapid growth, temporary margin pressure
 
@@ -109,6 +103,25 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 **Sources:** [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm); [FY2025 annual report](https://investors.cardinalinfrastructuregroup.com/static-files/61b9594f-da9f-4a10-80f5-9f7d0f7c66d3); [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/); [Asphalt plant](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-announces-completion-first-asphalt); [June equity offering](https://www.prnewswire.com/news-releases/cardinal-infrastructure-group-announces-closing-of-upsized-public-offering-of-class-a-common-stock-and-full-exercise-of-underwriters-option-to-purchase-additional-shares-302811997.html); [September credit amendment](https://www.sec.gov/Archives/edgar/data/2079999/000119312526389363/cdnl-ex10_1.htm).
 
+## FY2026 normalized earnings — two valuation methods
+
+**Research assumptions:** midpoint **$890.0m** revenue, **17.0% adjusted EBITDA margin ($151.3m)**, **$45m full-year D&A**, **$11m net interest**, **22.78% normalized corporate tax**. Full-year D&A and interest are forecasts; share denominators reflect **48.5M fully converted post-Allied economic units**, not FY2026 GAAP weighted-average diluted shares.
+
+| FY2026 normalized scenario | **Method 1 — Fully converted (preferred)** | **Method 2 — Current Up-C** |
+|---|---:|---:|
+| Adjusted EBITDA | $151.3m | $151.3m |
+| D&A | ($45.0m) | ($45.0m) |
+| Net interest | ($11.0m) | ($11.0m) |
+| **Adjusted consolidated pretax profit** | **$95.3m** | **$95.3m** |
+| Less LLC holders' pretax share | — | ($53.5m) |
+| Tax base (22.78%) | $95.3m | $41.8m |
+| Taxes | ($21.7m) | ($9.5m) |
+| **Adjusted normalized net income** | **$73.6m** | **$32.2m** |
+| Economic share denominator | **48.5M A+B/LLC** | **21.2M A only** |
+| **Adjusted normalized EPS (estimate)** | **~$1.52** | **~$1.52** |
+
+**Use Method 1:** include all operating pretax earnings, apply normalized tax on the whole entity and divide by **all Class A + one economic share-equivalent per paired LLC/Class B holding**, plus material RSU dilution if applicable. In Method 2, remove continuing holders' pretax share and calculate EPS for Class A. They match in this simplified proportional assumption; their GAAP outcomes can differ. With unchanged D&A/interest/denominator and FY2026 guidance extremes, indicative **$1.35–$1.69 EPS**. The TRA's net discounted cash benefits/obligations must be addressed separately and not mechanically added to EPS.
+
 ## Acquisition bridge for 2027
 
 - **ALGC:** approximately **$16.8m** 2026 first-half pro forma revenue not booked before its February 18 closing.
@@ -148,27 +161,11 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 Ownership pro forma to October 9 from last SEC beneficial ownership disclosures + purchases: Spivey **~8.345m economic shares/~17.2%**; Erik West **~6.114m/~12.6%**, no included purchase; Rowe **~2.045m/~4.2%**; Diamond Interests Group LLC **2.093m/~4.3% of company**, beneficially attributed to BOTH Benjamin and Anthony Wood, who each hold a 50% interest in that same LLC block, plus their individual Class A buying. The Wood block must be **counted once** in any insider total. Approximate own Class A positions from known transactions: Lee 56,725; Ivy 21,843; Wimmer 17,500; Gidley 6,000. Figures are **estimated snapshots**, not proof of no intervening transfers or RSU vesting.
 
-## Valuation methods and TRA
+## Tax Receivable Agreement (TRA) — quick explanation
 
-### Method 1 — preferred: full economic share equivalents
+When old LLC owners convert their units into Class A, the company can receive extra future tax deductions. **Former owners get 85% of the eligible cash tax savings, Cardinal retains 15%.** Earlier TRA obligations **already exist** in the current Up-C structure; fresh conversions create additional tax benefits/payments. No TRA existed in FY2024.
 
-`Normalized adj. EPS = (adjusted EBITDA – D&A – net interest) × (1 – 22.78%) / (Class A + Class B/LLC equivalents + incremental dilutive equity)`.
-
-Treat exchangeable B/LLC as **one** economic interest. Do not deduct post-IPO continuing holder NCI from the numerator when its equivalent units sit in the denominator. Any independent subsidiary-level NCI needs its own consistent adjustment. We prefer this approach when applying a market multiple to the **100% consolidated EBITDA**.
-
-### Method 2 — current PubCo Class A slice
-
-`Normalized PubCo EPS = [adjusted consolidated pretax income – pretax share attributable to noncontrolling LLC interests – normalized PubCo tax] / (Class A + incremental dilutive equity)`.
-
-Under stylized proportional pretax allocation and uniform 22.78% tax rates, Method 2 and 1 normalize to the **same EPS**, though actual GAAP reported EPS can differ.
-
-### TRA / tax rate note
-
-- **FY2024:** no TRA; introduced with the December 2025 IPO.
-- **FY2025:** recognized TRA liability **$39.424m** and total deferred tax assets **$46.081m** (includes assets *unrelated* to TRA).
-- **FY2025 10-K all-LLC-exchange illustration:** **$212.311m DTA – $180.464m TRA = $31.847m** total potential net *undiscounted* tax benefit. Divided by **38.335m FY2025 fully converted shares = $0.831/share spread over future years**; **not EPS, not NPV and not automatically incremental to current equity valuation**.
-- **Method 1:** assumes full economic conversion to A; separately forecast **PV(net tax deduction benefit less associated 85% TRA payments)** where they are not already included in valuation. Illustrative full exchange differs from simple economic *share count* inclusion—full conversion is an additional tax assumption.
-- **Method 2:** no new TRA arises on *unexchanged* LLC units under a no-future-conversion assumption, **but existing TRA and related tax deductions continue**. Both methods have a TRA component.
+The 2025 10-K's illustrative full exchange shows **$212.3m potential tax benefits less $180.5m related TRA payments = $31.8m cumulative net benefits**, equal to **~$0.83 per 2025 A+B equivalent share over future years before discounting**. **This is not annual EPS or immediate stock-price upside**. Include only the present value of net fiscal cash flows not already embedded in the valuation.
 
 ## Capital allocation and risks
 

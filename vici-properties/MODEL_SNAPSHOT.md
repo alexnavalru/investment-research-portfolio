@@ -1,4 +1,4 @@
-# VICI Properties — Model Snapshot
+# VICI Properties - Model Snapshot
 
 This is a recruiter-friendly snapshot of the public model rebuilt from my personal workbook.
 
@@ -48,7 +48,7 @@ In dollar terms, leasing revenue was approximately **$3.421bn / $3.597bn / $3.67
 
 For this analysis I classify VICI's **lease-financing receivable income as leasing revenue**, consistent with the company's annual-report presentation. Some sale-leaseback transactions are accounted for as financing receivables under GAAP even though the underlying economics are contractual property rent.
 
-## Current Market Snapshot — October 2026
+## Current Market Snapshot - October 2026
 
 | Metric | Value |
 |---|---:|
@@ -149,7 +149,7 @@ I separate the valuation into **NAV / SOTP methods** and **other valuation cross
 
 VICI's rent stream is highly concentrated in a small number of large gaming tenants. In this section, I assess **tenant solvency by measuring how many times each operator's EBITDAR covers its rent obligations**.
 
-**EBITDAR** means **Earnings Before Interest, Taxes, Depreciation, Amortization and Rent** — essentially operating earnings before rent expense. It is useful here because it shows the earnings generated before the tenant pays its lease obligations. Put simply, a **2.5x coverage ratio means the tenant generates $2.50 of EBITDAR for every $1.00 of rent it has to pay**.
+**EBITDAR** means **Earnings Before Interest, Taxes, Depreciation, Amortization and Rent** - essentially operating earnings before rent expense. It is useful here because it shows the earnings generated before the tenant pays its lease obligations. Put simply, a **2.5x coverage ratio means the tenant generates $2.50 of EBITDAR for every $1.00 of rent it has to pay**.
 
 This matters because the value of VICI's long-term leases ultimately depends on the tenants remaining able to service those contractual rent obligations through the cycle.
 

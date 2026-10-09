@@ -1,4 +1,4 @@
-# Alejandro Naval — Investment Research Portfolio
+# Alejandro Naval - Investment Research Portfolio
 
 **Fundamental Equity Research | Special Situations | Financial Modeling**
 
@@ -19,7 +19,7 @@ A spin-off special situation with two possible trades: a long Old Lionsgate / sh
 
 **Skills demonstrated:** spin-offs, SOTP, precedent transactions, catalyst analysis, long/short thinking, options.
 
-### 2. [VICI Properties (VICI) — High Yield, Tenant Credit](./vici-properties/README.md)
+### 2. [VICI Properties (VICI) - High Yield, Tenant Credit](./vici-properties/README.md)
 **Status:** Active thesis · **Target:** ~**$29–$30/share**
 
 A REIT research case focused on AFFO, leverage, per-share economics, capital allocation and valuation using P/AFFO, EV/EBITDA and P/Book cross-checks.
@@ -38,7 +38,7 @@ A contrarian large-cap thesis developed during the 2025 collapse. The case focus
 
 **Skills demonstrated:** insurance economics, management assessment, normalized earnings, regulatory analysis, scenario valuation, long-dated options.
 
-### 4. [Shift4 Payments (FOUR) — FCF Post-Mortem & Re-entry](./shift4-payments-four/README.md)
+### 4. [Shift4 Payments (FOUR) - FCF Post-Mortem & Re-entry](./shift4-payments-four/README.md)
 **Status:** Watchlist · **Re-entry:** ~**$30/share** · **Target:** not formally set  
 **Historical position initiated:** December 2025 at **$66.23/share**
 
@@ -82,17 +82,17 @@ An evolving special-situation case. The original thesis combined low valuation, 
 **Skills demonstrated:** FCF analysis, spin-offs, conglomerate analysis, capital allocation, thesis monitoring, error analysis.
 
 
-### 8. [Amentum (AMTM) — Deleveraging & Capital Allocation](./amentum-amtm/README.md)
+### 8. [Amentum (AMTM) - Deleveraging & Capital Allocation](./amentum-amtm/README.md)
 **Status:** Watchlist · **Entry:** ~**$18/share** · **Target:** **above $25/share**
 
-A watchlist idea built around low valuation, rapid deleveraging, a growing backlog, nuclear-energy growth optionality and the expiry of the two-year Reverse Morris Trust tax restrictions. The key optionality is a broader capital-allocation set — including potential share repurchases — now that leverage has reached management's target range.
+A watchlist idea built around low valuation, rapid deleveraging, a growing backlog, nuclear-energy growth optionality and the expiry of the two-year Reverse Morris Trust tax restrictions. The key optionality is a broader capital-allocation set - including potential share repurchases - now that leverage has reached management's target range.
 
 **Supporting research:** [Amentum Model Snapshot](./amentum-amtm/MODEL_SNAPSHOT.md)
 
 **Skills demonstrated:** leverage analysis, FCF valuation, backlog analysis, capital allocation, special-situation/tax-structure analysis.
 
 
-### 9. [Repsol (REP) — Peak-Cycle FCF Bear Case](./repsol-rep/README.md)
+### 9. [Repsol (REP) - Peak-Cycle FCF Bear Case](./repsol-rep/README.md)
 **Status:** Short watchlist · **Entry:** ~**€30/share** · **Target:** **below €22/share**
 
 A bearish cyclical thesis with a **preferred short entry around €30/share**, focused on the difference between **peak 2026 cash generation and normalized mid-cycle earnings**. Repsol is a stronger company than in prior cycles, with better capital allocation and shareholder returns, but current oil and especially refining economics are far above the company's own strategic assumptions. The case tests whether an optically low ~5x current FCF multiple remains cheap once the cycle is normalized.
@@ -102,7 +102,7 @@ A bearish cyclical thesis with a **preferred short entry around €30/share**, f
 **Skills demonstrated:** commodity-cycle analysis, refining economics, normalized FCF, accounting adjustments, scenario valuation, bearish thesis construction.
 
 
-### 10. [JD.com (JD) — Cash-Rich Core, New-Business Drag](./jd-com-jd/README.md)
+### 10. [JD.com (JD) - Cash-Rich Core, New-Business Drag](./jd-com-jd/README.md)
 **Status:** Active thesis · **Target:** **above $35/ADR**  
 **Position initiated:** October 2026 at **$25.78/ADR**
 
@@ -112,8 +112,8 @@ A China consumer / technology thesis built around a profitable Retail + Logistic
 
 **Skills demonstrated:** segment analysis, normalized earnings, balance-sheet valuation, capital allocation, China consumer policy, optionality analysis.
 
-### 11. [Cardinal Infrastructure Group (CDNL) — Civil Infrastructure Roll-up](./cardinal-cdnl/README.md)
-**Status:** Watchlist — **no current position** · **Preferred entry:** **around $20/share** · **Valuation target:** **above $30/share**
+### 11. [Cardinal Infrastructure Group (CDNL) - Civil Infrastructure Roll-up](./cardinal-cdnl/README.md)
+**Status:** Watchlist - **no current position** · **Preferred entry:** **around $20/share** · **Valuation target:** **above $30/share**
 
 A Southeastern US civil infrastructure contractor expanding through organic growth and acquisitions. My research focuses on fully converted Up-C valuation, adjusted EBITDA and cash-flow quality, insider alignment and the 2027 revenue/margin opportunity after ALGC, Piedmont Pipe and Allied Paving become full-year contributors. The base case assumes **$1.105bn FY2027 revenue**, **17.5% adjusted EBITDA margin** (~**$193m adjusted EBITDA**) and **zero net debt**; it explicitly models exchangeable LLC units and the tax receivable agreement.
 

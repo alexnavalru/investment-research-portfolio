@@ -1,4 +1,4 @@
-# JD.com (JD) — Model Snapshot
+# JD.com (JD) - Model Snapshot
 
 This page combines selected outputs from my internal Excel model with the latest reported Q2 2026 data.
 
@@ -35,7 +35,7 @@ The reported Q2 2026 balance sheet is even more liquid before conservative adjus
 
 I exclude restricted cash from the valuation because it is not freely available for ordinary capital allocation or shareholder returns.
 
-## Core vs New Businesses — H1 2026
+## Core vs New Businesses - H1 2026
 
 | Segment | Revenue (RMB bn) | Operating Profit / (Loss) (RMB bn) |
 |---|---:|---:|
@@ -142,7 +142,7 @@ These are treated as **optionality**, not embedded aggressively into the base va
 
 I use NAV here only for **separable assets**. I do not include the operating assets required to generate JD Retail earnings and then add an operating multiple on top, because that would double count value.
 
-### Step 1 — Deconsolidated excess cash
+### Step 1 - Deconsolidated excess cash
 
 After excluding **RMB13.4bn of restricted cash**, Q2 2026 unrestricted liquid assets and financial debt imply approximately **RMB151.8bn of unrestricted net financial cash**.
 
@@ -154,7 +154,7 @@ I then reserve **RMB30bn** for working capital, strategic investment and acquisi
 
 **Excess cash credited to NAV: ~RMB62.6bn.**
 
-### Step 2 — Listed subsidiaries / spin-offs
+### Step 2 - Listed subsidiaries / spin-offs
 
 Current market values are converted into RMB and multiplied by JD's ownership. A further **20% haircut** is applied.
 
@@ -166,7 +166,7 @@ Current market values are converted into RMB and multiplied by JD's ownership. A
 
 These stakes are valued separately, so their operating profits are removed from the residual operating SOTP below where necessary.
 
-### Step 3 — Private / financial assets
+### Step 3 - Private / financial assets
 
 | Asset | Conservative treatment | Value |
 |---|---:|---:|
@@ -235,7 +235,7 @@ The model therefore shows three scenarios.
 
 The current-drag case is an intentionally extreme stress test. The break-even case gives New Businesses **zero positive value**; it simply stops penalizing the core.
 
-## Total Equity Value — NAV + Operating SOTP
+## Total Equity Value - NAV + Operating SOTP
 
 | Scenario | NAV | Operating SOTP | Total Equity Value | Value / ADR |
 |---|---:|---:|---:|---:|
@@ -302,9 +302,9 @@ Using the **$26.50 ADR reference price** and a **$1.00 annual dividend per ADS**
 
 - [JD.com Q2 / H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
 - [JD.com FY2025 results / capital returns](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-fourth-quarter-and-full-year-2025-results-and)
-- [SEC — Richard Liu ownership](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
-- [China — 2025 appliance subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
-- [China — 2026 appliance subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
+- [SEC - Richard Liu ownership](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
+- [China - 2025 appliance subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
+- [China - 2026 appliance subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
 - [JD Logistics current valuation](https://stockanalysis.com/quote/hkg/2618/statistics/)
 - [JD Health current valuation](https://stockanalysis.com/quote/hkg/6618/statistics/)
 

@@ -1,4 +1,4 @@
-# Cardinal (CDNL) — Financial Model Snapshot / October 9, 2026
+# Cardinal (CDNL) - Financial Model Snapshot / October 9, 2026
 
 **Companion thesis:** [Read thesis](./README.md). Amounts USD millions unless specified.
 
@@ -7,11 +7,11 @@
 | Metric / USD m except EPS | FY2023 | FY2024 | FY2025 | H1 2026 | FY2026E midpoint |
 |---|---:|---:|---:|---:|---:|
 | **Revenue** | **247.9** | **315.2** | **456.0** | **394.4** | **890.0** |
-| Adjusted EBITDA | — | 56.5 | 81.5 | **54.9** | **151.3** |
-| Adjusted EBITDA margin | — | 17.9% | 17.9% | **13.9%** | **17.0%** |
-| D&A | — | 18.7 | 32.4 | **20.9** | **45.0 estimated** |
-| Net interest expense | — | 4.8 | 6.8 | **5.7** | **11.0 estimated** |
-| Economic A+B share-equivalents (year-end/pro forma) | — | 36.6M (hypothetical) | 38.3M | 47.5M | **48.5M post-Allied** |
+| Adjusted EBITDA | N/A | 56.5 | 81.5 | **54.9** | **151.3** |
+| Adjusted EBITDA margin | N/A | 17.9% | 17.9% | **13.9%** | **17.0%** |
+| D&A | N/A | 18.7 | 32.4 | **20.9** | **45.0 estimated** |
+| Net interest expense | N/A | 4.8 | 6.8 | **5.7** | **11.0 estimated** |
+| Economic A+B share-equivalents (year-end/pro forma) | N/A | 36.6M (hypothetical) | 38.3M | 47.5M | **48.5M post-Allied** |
 
 **Important:** FY2024's ~36.6M is a hypothetical IPO-equivalent economic denominator, **not an actual historical Class A/B share count**. FY2026 D&A and net interest are analyst estimates, not company guidance. FY2026 guidance is **$880m–$900m revenues and 16.0%–18.0% adjusted EBITDA margin**.
 
@@ -24,7 +24,7 @@
 | Private-sector backlog (%) | 99.0% | 97.0% | 95.0% | **Not disclosed** |
 | Public-sector backlog (%) | 1.0% | 3.0% | 5.0% | **Not disclosed** |
 | **Total backlog (USD m)** | **401** | **512** | **682** | **866** |
-| **Growth vs preceding year-end** | — | **+27.7%** | **+33.2%** | **+27.0% YTD** |
+| **Growth vs preceding year-end** | N/A | **+27.7%** | **+33.2%** | **+27.0% YTD** |
 
 At June 30, 2026, **RPO was $619.6m**. H1 backlog rose **34.7%** versus June 2025 (different comparison from year-end growth). A 91% / 9% private/public H1 2026 split refers to **revenue**, **not** backlog.
 
@@ -45,7 +45,7 @@ At June 30, 2026, **RPO was $619.6m**. H1 backlog rose **34.7%** versus June 202
 | Raleigh | **72.4%** |
 | Charlotte | **20.6%** |
 | Greensboro | **7.0%** |
-| Atlanta / North Georgia | — (entered 2026) |
+| Atlanta / North Georgia | N/A (entered 2026) |
 
 Potential expansion markets stated by management: **Wilmington (NC); Columbia, Charleston, Greenville (SC); Savannah (GA); Knoxville and Nashville (TN)**. ALGC entered Atlanta in February 2026, Allied closed October. City-level H1 revenue percentages were **not disclosed**.
 
@@ -53,7 +53,7 @@ Potential expansion markets stated by management: **Wilmington (NC); Columbia, C
 
 First plant near Raleigh completed June 2026, **400 tons/hour nameplate capacity**. Internal asphalt supplies may improve economics by replacing purchases from outsiders and shortening projects. Second plant contemplated but detailed plans not finalized; management wants **one to two quarters' experience** with the first. Third-party asphalt sales are potential upside, not current revenue in our model.
 
-## Q2 2026 financial update — rapid growth, temporary margin pressure
+## Q2 2026 financial update - rapid growth, temporary margin pressure
 
 Cardinal's Q2 2026 revenue rose **114.0%** to **$226.9m**, including **64.0% organic growth**. Adjusted EBITDA increased **42.8%** to **$28.1m** from **$19.7m**, **but its margin declined**. This is a margin problem, not an absolute contraction in gross profit or EBITDA.
 
@@ -103,17 +103,17 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 **Sources:** [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm); [FY2025 annual report](https://investors.cardinalinfrastructuregroup.com/static-files/61b9594f-da9f-4a10-80f5-9f7d0f7c66d3); [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/); [Asphalt plant](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-announces-completion-first-asphalt); [June equity offering](https://www.prnewswire.com/news-releases/cardinal-infrastructure-group-announces-closing-of-upsized-public-offering-of-class-a-common-stock-and-full-exercise-of-underwriters-option-to-purchase-additional-shares-302811997.html); [September credit amendment](https://www.sec.gov/Archives/edgar/data/2079999/000119312526389363/cdnl-ex10_1.htm).
 
-## FY2026 normalized earnings — two valuation methods
+## FY2026 normalized earnings - two valuation methods
 
 **Research assumptions:** midpoint **$890.0m** revenue, **17.0% adjusted EBITDA margin ($151.3m)**, **$45m full-year D&A**, **$11m net interest**, **22.78% normalized corporate tax**. Full-year D&A and interest are forecasts; share denominators reflect **48.5M fully converted post-Allied economic units**, not FY2026 GAAP weighted-average diluted shares.
 
-| FY2026 normalized scenario | **Method 1 — Fully converted (preferred)** | **Method 2 — Current Up-C** |
+| FY2026 normalized scenario | **Method 1 - Fully converted (preferred)** | **Method 2 - Current Up-C** |
 |---|---:|---:|
 | Adjusted EBITDA | $151.3m | $151.3m |
 | D&A | ($45.0m) | ($45.0m) |
 | Net interest | ($11.0m) | ($11.0m) |
 | **Adjusted consolidated pretax profit** | **$95.3m** | **$95.3m** |
-| Less LLC holders' pretax share | — | ($53.5m) |
+| Less LLC holders' pretax share | N/A | ($53.5m) |
 | Tax base (22.78%) | $95.3m | $41.8m |
 | Taxes | ($21.7m) | ($9.5m) |
 | **Adjusted normalized net income** | **$73.6m** | **$32.2m** |
@@ -161,7 +161,7 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 Ownership pro forma to October 9 from last SEC beneficial ownership disclosures + purchases: Spivey **~8.345m economic shares/~17.2%**; Erik West **~6.114m/~12.6%**, no included purchase; Rowe **~2.045m/~4.2%**; Diamond Interests Group LLC **2.093m/~4.3% of company**, beneficially attributed to BOTH Benjamin and Anthony Wood, who each hold a 50% interest in that same LLC block, plus their individual Class A buying. The Wood block must be **counted once** in any insider total. Approximate own Class A positions from known transactions: Lee 56,725; Ivy 21,843; Wimmer 17,500; Gidley 6,000. Figures are **estimated snapshots**, not proof of no intervening transfers or RSU vesting.
 
-## Tax Receivable Agreement (TRA) — quick explanation
+## Tax Receivable Agreement (TRA) - quick explanation
 
 When old LLC owners convert their units into Class A, the company can receive extra future tax deductions. **Former owners get 85% of the eligible cash tax savings, Cardinal retains 15%.** Earlier TRA obligations **already exist** in the current Up-C structure; fresh conversions create additional tax benefits/payments. No TRA existed in FY2024.
 
@@ -176,11 +176,11 @@ The 2025 10-K's illustrative full exchange shows **$212.3m potential tax benefit
 
 ## Official source links
 
-- [FY2025 10-K — SEC](https://www.sec.gov/Archives/edgar/data/2079999/000119312526120014/cdnl-20251231.htm)
-- [Q2 2026 results/guidance — Cardinal](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-reports-second-quarter-2026)
-- [Allied closing Oct 1 — Cardinal](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-announces-closing-allied)
-- [Allied issuance and purchase price — SEC](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm)
-- [2026 ownership proxy — SEC](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm)
-- [Stock history Oct 8 — StockAnalysis](https://stockanalysis.com/stocks/cdnl/history/)
+- [FY2025 10-K - SEC](https://www.sec.gov/Archives/edgar/data/2079999/000119312526120014/cdnl-20251231.htm)
+- [Q2 2026 results/guidance - Cardinal](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-reports-second-quarter-2026)
+- [Allied closing Oct 1 - Cardinal](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-announces-closing-allied)
+- [Allied issuance and purchase price - SEC](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm)
+- [2026 ownership proxy - SEC](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm)
+- [Stock history Oct 8 - StockAnalysis](https://stockanalysis.com/stocks/cdnl/history/)
 
 **Data provenance:** Financial and insider values based on 10-K, 10-Q, SEC filings, user-provided purchase summary and ongoing research. No independently accessible Excel workbook was located during this update; estimates should be reconciled when provided.

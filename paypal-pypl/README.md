@@ -15,7 +15,7 @@ I built exposure around **$60/share** and added again around **$40.33**, treatin
 
 In early 2026, the leadership thesis changed materially. PayPal's board replaced Alex Chriss with **Enrique Lores**, effective March 2026. The board explicitly said that progress had been made under Chriss but that the pace of change and execution had not met expectations. Lores then announced a broader strategic reorganization into three operating businesses designed to simplify decision-making and accelerate execution.
 
-This changed the management layer of the thesis, but not the core valuation argument: PayPal remained a highly cash-generative platform with meaningful capital-allocation optionality.
+This changed the management layer of the thesis, but not the core valuation argument: PayPal remained a highly cash-generative platform with meaningful capital-allocation optionality. **A potential renewed strategic sale, agentic commerce and PayPal World are treated below as additional catalysts, not requirements for the base valuation.**
 
 ## Core Thesis
 
@@ -53,6 +53,31 @@ Lores subsequently reorganized PayPal into three businesses:
 
 I therefore treat the leadership change as a **new execution phase**, rather than rewriting the original thesis after the fact.
 
+### 5. Potential Strategic Sale: Additional M&A Optionality
+
+**Status as of 9 October 2026: no confirmed active offer.** Press reports described a **$60.50/share approach by a Stripe–Advent International consortium** (around $53bn in equity value). Reports also suggested PayPal viewed the price as insufficient and sought a materially higher valuation. In **August 2026**, Bloomberg reported, and Reuters subsequently covered, that the consortium **had abandoned its pursuit**. This provides evidence of strategic interest, **not** an executable floor, a standing bid or a guarantee of a fresh offer. A renewed bid, a different acquirer or a higher negotiated price could crystallize value, but the core **above-$70/share** target does **not** rely on a takeover.
+
+**How this relates to the new CEO.** Enrique Lores moved from independent board chair to CEO on **1 March 2026**, following the board's decision to accelerate the operating turnaround. There is **no demonstrated causal link** showing he was appointed to arrange a sale. His incentives do, however, strongly reward value creation, whether achieved through standalone execution or an eventual corporate transaction:
+
+- **Ordinary annual target compensation:** $1.45m base salary + $2.90m target bonus + $16.50m RSUs + $16.50m performance RSUs = **$37.35m**. His initial hiring-related equity grants total approximately **$89m at grant-date target value**, including $20m make-whole RSUs, $16.5m 2026 RSUs, $16.5m 2026 performance RSUs, $11m advance of 2027 RSUs and $25m exceptional stock-price performance RSUs. These are **grants/targets, not immediate cash proceeds**, and the annual awards already included in that $89m must not be added a second time.
+- **Alignment and ownership (reported/estimated, not freely owned shares):** PayPal's updated 2026 proxy reports **31,934 beneficially owned shares**. March 2026 Form 4 grants total **1,115,619 unvested time-based RSUs**. Including roughly **387,500 ordinary PSUs at target** and **587,168 special PSUs at target** yields about **2.12m potential shares** (roughly 0.24% of the model's 2026E diluted share count); at the stated maximum PSU outcomes, about **3.39m** (roughly 0.38%). At an illustrative $60/share these are **~$127m / ~$203m of contingent gross equity value**, not current beneficial ownership or guaranteed cash.
+- **Special PSU stock-price hurdles:** **$68.13** (100% of target), **$100** (175%) and **$125** (250%), using a 60-calendar-day average during years three to five. **In a change of control before year five**, the contractual **transaction price** instead determines how many of these units are *earned*, including interpolation between thresholds. *Earned does not mean automatically vested or paid:* continued service through year five or applicable double-trigger rules can still matter. Executive shareholding guidelines require **6× base salary ($8.7m)** within five years and retention of **25% of net vested shares** until the requirement is met.
+- **Change-in-control nuance:** PayPal generally uses **double-trigger** protection: a sale by itself does not automatically pay the CEO the approximately **$8.7m** cash severance or accelerate all equity. That cash payment is contingent on qualifying termination within the prescribed change-in-control period; performance-based awards and their eventual settlement remain subject to their governing agreements. Hypothetical gross CEO exit outcomes calculated at $60.50 / $70 / $80 should therefore not be mistaken for automatic proceeds from the transaction.
+
+**Investment implication:** a prospective bidder might recognize franchise value not reflected in public trading multiples, and price-linked CEO incentives help align management and shareholders. Nevertheless, execution of the cash-flow turnaround remains the fundamental investment case; M&A is **unmodeled upside optionality**.
+
+### 6. Agentic Commerce: Additional Upside, Not in Base Valuation
+
+PayPal is positioning its merchant network, wallet, identity, fraud protection and checkout rails for shopping initiated by **AI agents** rather than traditional browsing. **Agent Ready** enables merchant checkout on AI-driven surfaces, while **Store Sync** helps merchants make product catalogs discoverable and orders actionable across AI ecosystems. Announced partnerships include **OpenAI/ChatGPT**, and its agreement to acquire **Cymbio** strengthens catalog distribution and order orchestration; PayPal has also described integrations with Microsoft Copilot and Perplexity.
+
+**Potential catalyst:** incremental merchant reach, checkout conversion and profitable payment volume if agent-driven shopping becomes material, possibly supporting a higher valuation multiple. **Risk:** the market structure, take rate, adoption and unit economics are still uncertain; these prospective benefits are **not separately capitalized in my $70+ core valuation**.
+
+### 7. PayPal World: Cross-Border Wallet Interoperability
+
+**PayPal World** is a network intended to connect PayPal, Venmo and local payment systems/wallets, including **UPI, Mercado Pago and Tenpay/Weixin Pay**. Its goal is to make local-wallet payments work across borders without merchants building individual wallet integrations. This is more than a concept: in **August 2026**, PayPal announced live in-store QR payments for US PayPal customers at participating Weixin Pay merchants in China. The longer-term wallet, country and use-case rollout remains phased.
+
+**Potential catalyst:** expanded merchant acceptance and accessible customer reach, more international purchase/payment volume and stronger network effects as interoperability grows. **Risk:** phased deployment, partners' incentives, regulation, margins and the need to prove **incremental profitable transactions**. As with agentic commerce, **no incremental standalone contribution from PayPal World is built into the core valuation**.
+
 ## Position Construction
 
 Personal exposure was built in stages, initially around **$60/share** in April 2025 and later around **$40.33/share** in February 2026.
@@ -83,5 +108,14 @@ This case demonstrates how I separate **business growth from per-share value cre
 - [PayPal — Strategic reorganization, April 2026](https://about.pypl.com/news-details/2026/PayPal-Announces-Strategic-Reorganization-to-Accelerate-Growth/default.aspx)
 - [PayPal — Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm)
 - [PayPal — Q3 2025 dividend announcement and capital returns](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000194/pypl3q-25earningsrelease.htm)
+- [Reuters, 28 Aug 2026 — Stripe/Advent pursuit abandoned](https://www.reuters.com/business/paypal-shares-fall-after-report-advent-stripe-consortium-abandons-takeover-2026-08-28/)
+- [Bloomberg, 28 Aug 2026 — Consortium ends pursuit](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
+- [PayPal CEO offer letter (SEC, Exhibit 10.1)](https://www.sec.gov/Archives/edgar/data/1633917/000119312526035860/d68718dex101.htm)
+- [PayPal 2026 Proxy — CEO pay and ownership guidelines](https://www.sec.gov/Archives/edgar/data/1633917/000119312526145735/d45512dars.pdf)
+- [PayPal CEO time-based RSUs (Form 4, March 2026)](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000038/xslF345X05/edgardoc.xml)
+- [PayPal and OpenAI — agentic commerce](https://about.pypl.com/news-details/2025/OpenAI-and-PayPal-Team-Up-to-Power-Instant-Checkout-and-Agentic-Commerce-in-ChatGPT/default.aspx)
+- [PayPal / Cymbio — agentic commerce strategy](https://about.pypl.com/news-details/2026/PayPal-to-Acquire-Cymbio-Accelerating-Agentic-Commerce-Capabilities/default.aspx)
+- [PayPal World — global wallet network](https://about.pypl.com/news-details/2025/Introducing-PayPal-World-a-global-platform-connecting-the-worlds-largest-payment-systems-and-digital-wallets-starting-with-interoperability-to-PayPal-and-Venmo/default.aspx)
+- [PayPal World — live China QR experience (Aug 2026)](https://newsroom.paypal-corp.com/2026-08-11-PayPal-World-Enables-US-Travelers-to-Pay-Like-a-Local-at-Weixin-Pay-Merchants-Across-China)
 
 > Personal entry prices are approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.

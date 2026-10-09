@@ -55,26 +55,21 @@ I therefore treat the leadership change as a **new execution phase**, rather tha
 
 ### 5. Potential Strategic Sale: Additional M&A Optionality
 
-**Status as of 9 October 2026: no confirmed active offer.** Press reports described a **$60.50/share approach by a Stripe–Advent International consortium** (around $53bn in equity value). Reports also suggested PayPal viewed the price as insufficient and sought a materially higher valuation. In **August 2026**, Bloomberg reported, and Reuters subsequently covered, that the consortium **had abandoned its pursuit**. This provides evidence of strategic interest, **not** an executable floor, a standing bid or a guarantee of a fresh offer. A renewed bid, a different acquirer or a higher negotiated price could crystallize value, but the core **above-$70/share** target does **not** rely on a takeover.
+**M&A status (October 2026).** A reported **$60.50/share offer from Stripe and Advent** was considered too low, and the consortium reportedly **withdrew in August 2026**. There is **no confirmed active offer**. A future bid at a higher price could unlock value, but my **>$70/share valuation does not depend on a sale**.
 
-**How this relates to the new CEO.** Enrique Lores moved from independent board chair to CEO on **1 March 2026**, following the board's decision to accelerate the operating turnaround. There is **no demonstrated causal link** showing he was appointed to arrange a sale. His incentives do, however, strongly reward value creation, whether achieved through standalone execution or an eventual corporate transaction:
+**CEO alignment.** **Enrique Lores became CEO in March 2026**; there is no evidence his appointment was intended to facilitate a sale. His compensation aligns him with shareholders: **~$37m annual target pay** and **~$89m in initial equity grants** (partly overlapping, **not additive**). He holds **~32k owned shares**, plus conditional awards bringing potential exposure to **~2.1m shares at target / ~3.4m at maximum**. His special PSUs have stock-price hurdles of **$68.13, $100 and $125**; in an acquisition, the deal price determines the units earned, **not an automatic payout**.
 
-- **Ordinary annual target compensation:** $1.45m base salary + $2.90m target bonus + $16.50m RSUs + $16.50m performance RSUs = **$37.35m**. His initial hiring-related equity grants total approximately **$89m at grant-date target value**, including $20m make-whole RSUs, $16.5m 2026 RSUs, $16.5m 2026 performance RSUs, $11m advance of 2027 RSUs and $25m exceptional stock-price performance RSUs. These are **grants/targets, not immediate cash proceeds**, and the annual awards already included in that $89m must not be added a second time.
-- **Alignment and ownership (reported/estimated, not freely owned shares):** PayPal's updated 2026 proxy reports **31,934 beneficially owned shares**. March 2026 Form 4 grants total **1,115,619 unvested time-based RSUs**. Including roughly **387,500 ordinary PSUs at target** and **587,168 special PSUs at target** yields about **2.12m potential shares** (roughly 0.24% of the model's 2026E diluted share count); at the stated maximum PSU outcomes, about **3.39m** (roughly 0.38%). At an illustrative $60/share these are **~$127m / ~$203m of contingent gross equity value**, not current beneficial ownership or guaranteed cash.
-- **Special PSU stock-price hurdles:** **$68.13** (100% of target), **$100** (175%) and **$125** (250%), using a 60-calendar-day average during years three to five. **In a change of control before year five**, the contractual **transaction price** instead determines how many of these units are *earned*, including interpolation between thresholds. *Earned does not mean automatically vested or paid:* continued service through year five or applicable double-trigger rules can still matter. Executive shareholding guidelines require **6× base salary ($8.7m)** within five years and retention of **25% of net vested shares** until the requirement is met.
-- **Change-in-control nuance:** PayPal generally uses **double-trigger** protection: a sale by itself does not automatically pay the CEO the approximately **$8.7m** cash severance or accelerate all equity. That cash payment is contingent on qualifying termination within the prescribed change-in-control period; performance-based awards and their eventual settlement remain subject to their governing agreements. Hypothetical gross CEO exit outcomes calculated at $60.50 / $70 / $80 should therefore not be mistaken for automatic proceeds from the transaction.
+**Illustrative CEO value in a sale** (rounded, pre-tax; assumes eligible equity accelerates and a **qualifying termination** triggers **$8.7m cash severance**):
 
-**Illustrative CEO economics in a hypothetical sale, not company guidance** (user scenario; gross pre-tax, 2026 ordinary PSUs at target, all eligible equity assumed to vest upon a *qualifying* change-in-control termination, and $8.70m conditional cash severance):
-
-| Sale price | Special price-linked PSUs earned | Indicative gross value if CEO exits under qualifying double-trigger conditions |
+| Sale price | Special PSUs earned | CEO value* |
 |---|---:|---:|
-| $60.50 | 0 | **$101.57m** |
-| $70.00 | ~613,033 | **$159.06m** |
-| $80.00 | ~751,204 | **$191.60m** |
+| **$60.50** | 0 | **~$102m** |
+| **$70** | ~610k | **~$159m** |
+| **$80** | ~750k | **~$192m** |
 
-These modeled amounts should **not** be read as Lores's immediate proceeds simply because PayPal is sold: if he remains in office, much of the equity generally stays subject to vesting and the $8.70m severance is not triggered. The final amount also depends on the award agreements, achievement of ordinary PSU metrics, transaction structure, employment outcome and taxes.
+*Conditional gross scenarios, **not** automatic proceeds upon a sale. PayPal's change-in-control protections generally require a qualifying termination (**double trigger**); actual vesting, payout and PSU results may differ.*
 
-**Investment implication:** a prospective bidder might recognize franchise value not reflected in public trading multiples, and price-linked CEO incentives help align management and shareholders. Nevertheless, execution of the cash-flow turnaround remains the fundamental investment case; M&A is **unmodeled upside optionality**.
+**Investment implication:** a renewed takeover is **additional upside optionality**, not part of the core FCF-and-buybacks thesis.
 
 ### 6. Agentic Commerce: Additional Upside, Not in Base Valuation
 

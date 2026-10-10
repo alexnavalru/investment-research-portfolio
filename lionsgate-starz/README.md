@@ -3,8 +3,8 @@
 **Case type:** Special Situation / Spin-Off  
 **Status:** Closed thesis  
 **Target price:** N/A  
-**Position initiated:** April 2025 at approximately **$6.10/share** (Old Lionsgate, pre-spin-off)  
-**Additional purchase:** August 2025 at approximately **$5.80/share** (Lionsgate Studios only)  
+**Position initiated:** April 2025 at approximately **$6/share** (Old Lionsgate, pre-spin-off)  
+**Additional purchase:** August 2025 at approximately **$6/share** (Lionsgate Studios only)  
 **Primary skills:** SOTP valuation, precedent transactions, catalyst analysis, insider/ownership analysis, regulatory scenario analysis, trade construction, downside and timing risk
 
 ## Executive Summary
@@ -45,7 +45,7 @@ The terminology matters: Starz now defines **unlevered FCF as equity FCF plus ca
 
 ### Route 2: Buy Old Lionsgate before the spin-off (my approach)
 
-I initiated my long exposure to **Old Lionsgate in April 2025 at around $6.10/share**, ahead of the separation, rather than hedging away the studio with a short. The residual market value attributed to Starz appeared small relative to the value of the whole group, so I was not paying much incremental value for a business that I believed could generate meaningful cash flow. But the much larger reason not to hedge was that I also wanted to own Lionsgate Studios.
+I initiated my long exposure to **Old Lionsgate in April 2025 at around $6/share**, ahead of the separation, rather than hedging away the studio with a short. The residual market value attributed to Starz appeared small relative to the value of the whole group, so I was not paying much incremental value for a business that I believed could generate meaningful cash flow. But the much larger reason not to hedge was that I also wanted to own Lionsgate Studios.
 
 My reasons for keeping exposure to both sides were:
 
@@ -54,7 +54,7 @@ My reasons for keeping exposure to both sides were:
 - **The film slate:** I saw scope for new releases to improve profitability and sentiment. In particular, the Michael Jackson biopic, *Michael*, looked like a potentially significant theatrical event at the time of the original investment. Its performance was uncertain and a film hit alone would not guarantee a lasting re-rating.
 - **Steven Mnuchin / Liberty 77:** His growing economic exposure to Lionsgate made the studio more interesting to me as a shareholder-alignment signal and a potential indication of strategic optionality. It did not establish that a bid was coming or that he possessed information unavailable to the market.
 
-For **Old Lionsgate Class B shares**, the separation ultimately produced exposure to **one share of New Lionsgate and one pre-reverse-split share of Starz** for each old share. By buying Old Lionsgate before the spin-off, an investor could therefore keep both businesses rather than isolate only Starz. **My actual exposure was implemented through options**, with the applicable contract terms and corporate-action adjustments determining the precise exposure and settlement, rather than through a textbook cash-equity long/short pair. **In August 2025, I added exposure to Lionsgate Studios alone at around $5.80/share**, without making a corresponding additional purchase of Starz.
+For **Old Lionsgate Class B shares**, the separation ultimately produced exposure to **one share of New Lionsgate and one pre-reverse-split share of Starz** for each old share. By buying Old Lionsgate before the spin-off, an investor could therefore keep both businesses rather than isolate only Starz. **My actual exposure was implemented through options**, with the applicable contract terms and corporate-action adjustments determining the precise exposure and settlement, rather than through a textbook cash-equity long/short pair. **In August 2025, I added exposure to Lionsgate Studios alone at around $6/share**, without making a corresponding additional purchase of Starz.
 
 This distinction is central to the case: **the Starz spread helped establish the margin of safety, but I deliberately kept the studio's upside instead of hedging it out.**
 
@@ -131,7 +131,7 @@ The separation mattered because it:
 
 The **long Old Lionsgate / short Legacy Lionsgate Studios** pair was a possible way to express a **Starz-only** valuation view. It was **not the trade I executed**.
 
-I built **long exposure to Old Lionsgate in April 2025 at around $6.10/share, before the spin-off**, because I was interested in owning both sides of the separation: an extremely cheap Starz and a studio with potential upside from a more focused listing, new releases such as *Michael*, possible M&A and Steven Mnuchin's investment. In August 2025, I added more exposure at around **$5.80/share**, this time **only to Lionsgate Studios** rather than the combined Old Lionsgate exposure. Given the timing and capital available, I used options to implement long exposure. Initially, only short-dated contracts were available; after the separation, longer-dated Lionsgate Studios calls became available and I used them to maintain exposure with a longer thesis horizon.
+I built **long exposure to Old Lionsgate in April 2025 at around $6/share, before the spin-off**, because I was interested in owning both sides of the separation: an extremely cheap Starz and a studio with potential upside from a more focused listing, new releases such as *Michael*, possible M&A and Steven Mnuchin's investment. In August 2025, I added more exposure at around **$6/share**, this time **only to Lionsgate Studios** rather than the combined Old Lionsgate exposure. Given the timing and capital available, I used options to implement long exposure. Initially, only short-dated contracts were available; after the separation, longer-dated Lionsgate Studios calls became available and I used them to maintain exposure with a longer thesis horizon.
 
 A later long-dated call position was initiated when Lionsgate Studios traded around **$6**. I sold the position when the underlying stock was around **$11.50**, achieving approximately **5x** on that option trade.
 

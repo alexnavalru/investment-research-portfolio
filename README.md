@@ -12,8 +12,8 @@ This repository contains selected examples of my investment research. The object
 
 ### 1. [Lionsgate / Starz: Spin-Off Special Situation](./lionsgate-starz/README.md)
 **Status:** Closed thesis · **Target:** N/A  
-**Position initiated:** April 2025 at approximately **$6.10/share** (Old Lionsgate)  
-**Additional purchase:** August 2025 at approximately **$5.80/share** (Lionsgate Studios only)
+**Position initiated:** April 2025 at approximately **$6/share** (Old Lionsgate)  
+**Additional purchase:** August 2025 at approximately **$6/share** (Lionsgate Studios only)
 
 A spin-off special situation with two possible trades: a long Old Lionsgate / short separately listed studio pair to isolate the cheap implied value of Starz, or a long position in Old Lionsgate before the separation to keep both businesses. I chose the second route. Starz appeared to be a small and undervalued part of the package, while the studio offered upside from potential M&A, major film releases such as *Michael*, and investor interest from Steven Mnuchin / Liberty 77.
 
@@ -40,9 +40,9 @@ A contrarian large-cap thesis developed during the 2025 collapse. The case focus
 
 ### 4. [Shift4 Payments (FOUR) - FCF Post-Mortem & Re-entry](./shift4-payments-four/README.md)
 **Status:** Watchlist · **Re-entry:** ~**$30/share** · **Target:** not formally set  
-**Historical position initiated:** December 2025 at **$66.23/share**
+**Historical position initiated:** December 2025 at **$66/share**
 
-A post-mortem of an investment initiated around $66.23/share in December 2025, now combined with a fresh watchlist reassessment after the subsequent valuation compression. The current framework focuses on FCF available to common shareholders, leverage, capital structure, founder alignment, valuation discipline and the added margin/tourism risk from the Global Blue acquisition. Founder Jared Isaacman's 2026 open-market purchases are included as a qualitative signal, while my preferred re-entry level is around $30/share.
+A post-mortem of an investment initiated around $66/share in December 2025, now combined with a fresh watchlist reassessment after the subsequent valuation compression. The current framework focuses on FCF available to common shareholders, leverage, capital structure, founder alignment, valuation discipline and the added margin/tourism risk from the Global Blue acquisition. Founder Jared Isaacman's 2026 open-market purchases are included as a qualitative signal, while my preferred re-entry level is around $30/share.
 
 **Supporting research:** [FOUR Model Snapshot](./shift4-payments-four/MODEL_SNAPSHOT.md)
 
@@ -51,8 +51,8 @@ A post-mortem of an investment initiated around $66.23/share in December 2025, n
 
 ### 5. [PayPal (PYPL): Cash Flow & Buybacks](./paypal-pypl/README.md)
 **Status:** Active thesis · **Target:** **above $70/share**  
-**Position initiated:** April 2025 at **$60.00/share**  
-**Additional purchase:** February 2026 at **$40.33/share**
+**Position initiated:** April 2025 at **$60/share**  
+**Additional purchase:** February 2026 at **$40/share**
 
 A turnaround thesis built around strong free-cash-flow generation, a robust balance sheet, aggressive buybacks and a low valuation. The case also tracks the management transition from Alex Chriss to Enrique Lores and the 2026 strategic reorganization.
 
@@ -62,7 +62,7 @@ A turnaround thesis built around strong free-cash-flow generation, a robust bala
 
 ### 6. [The Cigna Group (CI): Sector Sell-Off, Limited Government Exposure](./cigna-ci/README.md)
 **Status:** Active thesis · **Target:** **above $300/share**  
-**Position initiated:** October 2025 at **$248.00/share**
+**Position initiated:** October 2025 at **$248/share**
 
 A sector-dislocation thesis initiated during the managed-care selloff. The stock fell with peers as medical-cost pressure and problems in government-linked insurance drove the sector lower, even though Cigna's own earnings outlook had not broken. The analysis focuses on its much lower Medicare exposure, commercial/employer mix, Evernorth economics and valuation.
 
@@ -104,7 +104,7 @@ A bearish cyclical thesis with a **preferred short entry around €30/share**, f
 
 ### 10. [JD.com (JD) - Cash-Rich Core, New-Business Drag](./jd-com-jd/README.md)
 **Status:** Active thesis · **Target:** **above $35/ADR**  
-**Position initiated:** October 2026 at **$25.78/ADR**
+**Position initiated:** October 2026 at **$26/ADR**
 
 A China consumer / technology thesis built around a profitable Retail + Logistics core, a net-cash position representing roughly 60% of market capitalization in my conservative model, meaningful dividends and buybacks, and the possibility that current New Businesses losses normalize. The case also examines subsidy-driven high-base effects in electronics, automation / AI optionality and international expansion.
 

@@ -167,7 +167,7 @@ Management expects better project scheduling, greater internal capabilities and 
 | **FY2027 adjusted EBITDA** | **178.7** | **193.4** | **208.8** |
 | **EV / EBITDA at $30/share, zero net debt** | **8.14x** | **7.52x** | **6.97x** |
 
-**EV mechanics:** $25.06 × 48.479855m = **$1,214.9m**; $30 × 48.479855m = **$1,454.4m**. We assume zero *future* net financial debt solely for comparison; this is not a claim that the company currently has no bank debt or that equipment/operating leases are immaterial. This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
+**EV mechanics:** $25.06 × 48.479855m = **$1,214.9m**; $30 × 48.479855m = **$1,454.4m**. We assume zero *future* net financial debt solely for comparison; this is not a claim that the company currently has no bank debt or that equipment/operating leases are immaterial. **Given Cardinal's acquisition-led growth strategy, funded through both share issuance and borrowing, the company could eventually carry more debt than cash.** This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
 
 ## Risks and what would disprove the thesis
 

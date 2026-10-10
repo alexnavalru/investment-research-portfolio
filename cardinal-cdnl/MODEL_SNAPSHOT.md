@@ -115,7 +115,7 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 | D&A | ($45.0m) | ($45.0m) |
 | Net interest | ($11.0m) | ($11.0m) |
 | **Adjusted consolidated pretax profit** | **$95.3m** | **$95.3m** |
-| Less LLC holders' pretax share | N/A | ($53.5m) |
+| Less: LLC holder share of pretax profit (56.2%) | N/A | ($53.5m) |
 | Tax base (22.78%) | $95.3m | $41.8m |
 | Taxes | ($21.7m) | ($9.5m) |
 | **Adjusted normalized net income** | **$73.6m** | **$32.2m** |

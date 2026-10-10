@@ -4,7 +4,7 @@
 **Status:** Active thesis  
 **Target price:** above **$70/share**  
 **Position initiated:** April 2025 at **$60/share**  
-**Additional purchase:** February 2026 at **$40/share**  
+**Additional purchase:** February 2026 at approximately **$40/share**  
 **Primary skills:** free-cash-flow analysis, management assessment, balance-sheet analysis, buyback economics, scenario valuation, position construction
 
 ## Executive Summary

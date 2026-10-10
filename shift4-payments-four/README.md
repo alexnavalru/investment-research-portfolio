@@ -3,7 +3,7 @@
 **Case type:** Investment Post-Mortem / Payments / Watchlist Reassessment  
 **Status:** Watchlist; preferred re-entry around **$30/share**  
 **Target price:** not formally set  
-**Historical position initiated:** December 2025 at **$66/share**  
+**Historical position initiated:** December 2025 at approximately **$66/share**  
 **Primary skills:** FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
 
 ## Why I Include a Losing Investment

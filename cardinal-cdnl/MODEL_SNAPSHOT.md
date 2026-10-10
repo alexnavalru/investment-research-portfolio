@@ -105,6 +105,8 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 ## FY2026 normalized earnings - two valuation methods
 
+**Management targets a 20% adjusted EBITDA margin in the long term.** FY2026 guidance is 16.0%-18.0%; our base assumption is 17.0%.
+
 **Research assumptions:** midpoint **$890.0m** revenue, **17.0% adjusted EBITDA margin ($151.3m)**, **$45m full-year D&A**, **$11m net interest**, **22.78% normalized corporate tax**. Full-year D&A and interest are forecasts; share denominators reflect **48.5M fully converted post-Allied economic units**, not FY2026 GAAP weighted-average diluted shares.
 
 | FY2026 normalized scenario | **Method 1 - Fully converted (preferred)** | **Method 2 - Current Up-C** |
@@ -123,6 +125,8 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 **Use Method 1:** include all operating pretax earnings, apply normalized tax on the whole entity and divide by **all Class A + one economic share-equivalent per paired LLC/Class B holding**, plus material RSU dilution if applicable. In Method 2, remove continuing holders' pretax share and calculate EPS for Class A. They match in this simplified proportional assumption; their GAAP outcomes can differ. With unchanged D&A/interest/denominator and FY2026 guidance extremes, indicative **$1.35–$1.69 EPS**. The TRA's net discounted cash benefits/obligations must be addressed separately and not mechanically added to EPS.
 
 ## Acquisition bridge for 2027
+
+**Management long-term adjusted EBITDA margin target: 20%.** FY2027 scenario margins of 17.0% / 17.5% / 18.0% are analyst estimates, deliberately below the long-term target.
 
 - **ALGC:** approximately **$16.8m** 2026 first-half pro forma revenue not booked before its February 18 closing.
 - **Piedmont Pipe:** approximately **$3.1m** 2026 first-half pro forma revenue not booked before May 29 closing.

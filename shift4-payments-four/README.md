@@ -3,7 +3,7 @@
 **Case type:** Investment Post-Mortem / Payments / Watchlist Reassessment  
 **Status:** Watchlist; preferred re-entry around **$30/share**  
 **Target price:** not formally set  
-**Historical position initiated:** December 2025 at approximately **$66/share**  
+**Historical position initiated:** December 2025 at approximately **$66.2/share**  
 **Primary skills:** FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
 
 ## Why I Include a Losing Investment
@@ -39,7 +39,7 @@ This matters because a business can report strong EBITDA growth while the value 
 
 ## Why the Entry Valuation Mattered
 
-At the December 2025 entry price of approximately **$66**, a high-growth thesis left less room for error.
+At the December 2025 entry price of approximately **$66.2**, a high-growth thesis left less room for error.
 
 Once I rebuilt the cash-flow framework, the valuation looked materially more demanding on a common-shareholder FCF basis than the headline growth rates suggested.
 
@@ -62,7 +62,7 @@ The fact that the original investment lost money does not mean the company can n
 
 At materially lower prices, the valuation has compressed enough for me to reassess the name using the stricter FCF-to-common framework developed in the post-mortem.
 
-At roughly **$38.50/share on October 6, 2026**, the stock is materially below my original ~$66 entry. Using my current model:
+At roughly **$38.50/share on October 6, 2026**, the stock is materially below my original ~$66.2 entry. Using my current model:
 
 - 2026E FCF to common is approximately **$2.50/share**;
 - 2027E FCF to common is approximately **$3.75/share**.

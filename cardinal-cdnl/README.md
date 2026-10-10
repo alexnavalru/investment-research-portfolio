@@ -135,7 +135,7 @@ Management expects better project scheduling, greater internal capabilities and 
 | Less: D&A (estimate) | ($45.0m) | ($45.0m) |
 | Less: net interest (estimate) | ($11.0m) | ($11.0m) |
 | **Consolidated adjusted pretax income** | **$95.3m** | **$95.3m** |
-| Less: LLC holder share of pretax profit | **N/A** | **($53.5m)** |
+| Less: LLC holder share of pretax profit (56.2%) | **N/A** | **($53.5m)** |
 | **Tax base for PubCo** | **$95.3m** | **$41.8m** |
 | Normalized tax at 22.78% | ($21.7m) | ($9.5m) |
 | **Normalized adjusted earnings attributable to denominator** | **$73.6m** | **$32.2m** |

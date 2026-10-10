@@ -124,6 +124,8 @@ Management expects better project scheduling, greater internal capabilities and 
 
 ## FY2026 estimates and valuation methodology
 
+**Margin framework:** FY2026 management guidance is **16.0%–18.0% adjusted EBITDA margin**, versus its **20% long-term target**. We assume a **17.0% FY2026 midpoint** and do not assume the long-term target is reached in 2027.
+
 **Management guidance:** 2026 revenue **$880m–$900m**, adjusted EBITDA margin **16.0%–18.0%**. The **midpoint case** assumes **$890m revenue and 17.0% adjusted EBITDA margin ($151.3m)**. For normalized earnings, **my-not management's-additional assumptions** are **$45.0m annual depreciation and amortization (D&A)** and **$11.0m net interest**, informed by H1 actual D&A of ~$20.9m and net interest ~$5.7m. The higher full-year D&A allows for post-acquisition amortization; future debt draws could change interest expense. Use the **22.78%** normal corporate tax rate illustrated in the 2025 10-K, while separately valuing incremental net TRA cash flows.
 
 | FY2026 midpoint earnings bridge | **Method 1: Fully converted (preferred)** | **Method 2: current Up-C** |
@@ -147,6 +149,8 @@ Management expects better project scheduling, greater internal capabilities and 
 **TRA in valuation:** add the **present value of extra tax savings Cardinal retains** and deduct the present value of related obligations **only if absent from the forecast cash taxes**; do **not** add the 2025 illustrated $0.83/share to 2026 EPS.
 
 ## FY2027 scenarios - existing acquisitions fully annualized
+
+**Management's long-term adjusted EBITDA margin target is 20%.** Our FY2027 scenario margins of **17.0% / 17.5% / 18.0%** deliberately remain below that target; it is not management's FY2027 guidance.
 
 2026 starting point: **$890m revenue** (midpoint of management's $880–900m guidance). Forecasts assume **no new acquisitions** after Allied and **net cash/debt = $0** in FY2027. Full economic equity denominator is **48.479855m A+B-equivalent shares**, **before additional RSU dilution**.
 

@@ -175,10 +175,9 @@ Management expects better project scheduling, greater internal capabilities and 
 - **Execution / working capital:** Competitive bidding, weather, construction schedule shifts, contract estimates, customer/project concentration and capital-intensive machinery.
 - **Roll-up / deal economics:** Acquisition price, integration, goodwill, weak returns on capital and intercompany revenue eliminations.
 - **Acquisition-funded share dilution:** Paying for future M&A with newly issued Class A shares (or via future exchanges/RSUs) can **dilute existing owners**. Revenues and EBITDA can rise while **EPS and FCF per economic share stagnate or decline** if acquired earnings do not compensate for the additional share count. Track A + B/LLC equivalents, not Class A alone.
+- **Backlog conversion:** Backlog includes letters of intent and contracts not yet signed, and even signed projects can be delayed, resized or cancelled. **The backlog may not convert into firm orders, completed work or revenue at the expected pace or margins.**
 - **Sector cyclicality:** Residential development, commercial/industrial construction and infrastructure capex can slow when interest rates, financing conditions or the economy weaken. Customers can delay/cancel projects, reduce new orders and pressure pricing and workforce utilization.
-- **Debt headroom:** Under the September 2026 amended facility, net leverage and fixed charge coverage covenants restrict future M&A capacity; lease treatment also matters.
-- **Up-C / TRA accounting:** Public A shares alone are not the entire economic share count. Untested normalized earnings, tax-rate assumptions and TRA valuation can inflate apparent cheapness.
-- **Thesis monitor:** FY2026 exit revenue and order backlog; conversion of Allied's standalone sales into consolidated earnings; FY2027 EBITDA margin vs 17.5% base; cash conversion vs CAPEX; dilution, insider dispositions and acquisition multiples.
+- **Up-C / TRA complexity and takeover risk:** The two-layer share structure and future TRA cash obligations make valuation more complex. **Certain changes of control can accelerate TRA payments**, potentially increasing the cost of an acquisition, deterring bidders or reducing the consideration received by Class A shareholders. Cardinal explicitly warns about these risks in its [FY2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526120014/cdnl-20251231.htm).
 
 ## Primary sources
 

@@ -77,6 +77,20 @@ Other large continuing owner: **Erik West ~12.6%**. Benjamin and Anthony Wood jo
 
 **RPO:** Remaining performance obligations were **$619.6m** at June 30, compared with **$516.8m** at FY2025 year-end. Management expects **$734m–$812m** of backlog to convert to revenue over the following twelve months; signed contracts and RPO are not guarantees of project delivery, timing or profitability.
 
+### Book-to-bill (semiannual)
+
+**Definition:** **Book-to-bill = (new contract awards + contractual adjustments) / revenue recognized from executed work.** It shows whether new backlog additions are outpacing the work already delivered.
+
+| Period | New awards + contract adjustments (USD m) | Executed revenue (USD m) | **Book-to-bill** |
+|---|---:|---:|---:|
+| H1 2024 | 291 | 154 | **1.89x** |
+| H2 2024 | 135 | 161 | **0.84x** |
+| H1 2025 | 319 | 188 | **1.70x** |
+| H2 2025 | 305 | 266 | **1.15x** |
+| **H1 2026** | **578** | **394** | **1.47x** |
+
+**How to read it:** **Above 1.0x**, Cardinal wins or adjusts more work than it executes, so backlog tends to **grow**; **at 1.0x**, backlog tends to stay **stable**; **below 1.0x**, execution exceeds incoming work and backlog tends to **shrink**. H1 2026 at **1.47x** indicates continued backlog growth. It does **not** guarantee the awards will become profitable revenue. H2 2024 is calculated by subtracting H1 from FY2024; other halves are summed from quarterly or H1 disclosures. Amounts are rounded from the user's reported backlog bridge.
+
 ### Revenue composition
 
 | Revenue mix | FY2023 | FY2024 | FY2025 | H1 2026 |

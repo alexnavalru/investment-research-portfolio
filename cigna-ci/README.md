@@ -3,7 +3,7 @@
 **Case type:** Sector Dislocation / Fundamental Value / Portfolio Reshaping  
 **Status:** Active thesis  
 **Target price:** above **$300/share**  
-**Position initiated:** October 2025 at **$248.00/share**  
+**Position initiated:** October 2025 at **$248/share**  
 **Primary skills:** insurance economics, medical-cost analysis, segment mix, guidance analysis, capital allocation, valuation
 
 ## Executive Summary

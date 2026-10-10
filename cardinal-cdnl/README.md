@@ -77,7 +77,7 @@ Other large continuing owner: **Erik West ~12.6%**. Benjamin and Anthony Wood jo
 
 **RPO:** Remaining performance obligations were **$619.6m** at June 30, compared with **$516.8m** at FY2025 year-end. Management expects **$734m–$812m** of backlog to convert to revenue over the following twelve months; signed contracts and RPO are not guarantees of project delivery, timing or profitability.
 
-### Book-to-bill (semiannual)
+### Book-to-bill
 
 **Definition:** **Book-to-bill = (new contract awards + contractual adjustments) / revenue recognized from executed work.** It shows whether new backlog additions are outpacing the work already delivered.
 
@@ -111,7 +111,7 @@ FY2025 end markets: **66% residential**, **23% commercial/industrial/retail**, *
 | Top 5 customers | Not disclosed | **41.0%** | **30.7%** | Not disclosed |
 | Top 10 customers | Not disclosed | **59.0%** | **45.5%** | Not disclosed |
 
-**Takeaway:** Customer concentration **decreased materially in FY2025** as Cardinal diversified, although one customer still accounted for **12.0% of H1 2026 revenue**. The largest disclosed customer was **Pulte Homes in 2024–2025**; the SEC filings identify the 2023 and H1 2026 customer only as **“Customer A”**, without confirming its name. [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526120014/cdnl-20251231.htm) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm).
+Customer concentration **decreased materially in FY2025** as Cardinal diversified, although one customer still accounted for **12.0% of H1 2026 revenue**. The largest disclosed customer was **Pulte Homes in 2024–2025**; the SEC filings identify the 2023 and H1 2026 customer only as **“Customer A”**, without confirming its name. [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526120014/cdnl-20251231.htm) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm).
 
 ### Geographic markets
 

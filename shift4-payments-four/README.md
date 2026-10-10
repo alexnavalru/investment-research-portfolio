@@ -3,7 +3,7 @@
 **Case type:** Investment Post-Mortem / Payments / Watchlist Reassessment  
 **Status:** Watchlist; preferred re-entry around **$30/share**  
 **Target price:** not formally set  
-**Historical position initiated:** December 2025 at **$66.23/share**  
+**Historical position initiated:** December 2025 at **$66/share**  
 **Primary skills:** FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
 
 ## Why I Include a Losing Investment
@@ -39,7 +39,7 @@ This matters because a business can report strong EBITDA growth while the value 
 
 ## Why the Entry Valuation Mattered
 
-At the December 2025 entry price of approximately **$66.23**, a high-growth thesis left less room for error.
+At the December 2025 entry price of approximately **$66**, a high-growth thesis left less room for error.
 
 Once I rebuilt the cash-flow framework, the valuation looked materially more demanding on a common-shareholder FCF basis than the headline growth rates suggested.
 

@@ -89,6 +89,16 @@ Other large continuing owner: **Erik West ~12.6%**. Benjamin and Anthony Wood jo
 
 FY2025 end markets: **66% residential**, **23% commercial/industrial/retail**, **5% municipal/state**, **6% paving/materials**. Revenue is heavily fixed-price, so estimates for labor, materials and project scheduling are critical. **The end-market percentage split for H1 2026 was not disclosed.**
 
+### Customer concentration (% of revenue)
+
+| Customer concentration | FY2023 | FY2024 | FY2025 | H1 2026 |
+|---|---:|---:|---:|---:|
+| Largest customer | **11.0%** | **13.0%** | **9.9%** | **12.0%** |
+| Top 5 customers | Not disclosed | **41.0%** | **30.7%** | Not disclosed |
+| Top 10 customers | Not disclosed | **59.0%** | **45.5%** | Not disclosed |
+
+**Takeaway:** Customer concentration **decreased materially in FY2025** as Cardinal diversified, although one customer still accounted for **12.0% of H1 2026 revenue**. The largest disclosed customer was **Pulte Homes in 2024–2025**; the SEC filings identify the 2023 and H1 2026 customer only as **“Customer A”**, without confirming its name. [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526120014/cdnl-20251231.htm) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm).
+
 ### Geographic markets
 
 | Market | FY2025 group revenue mix |

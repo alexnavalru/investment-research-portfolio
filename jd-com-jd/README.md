@@ -3,7 +3,7 @@
 **Case type:** Fundamental Value / China Consumer / New-Business Optionality  
 **Status:** Active thesis  
 **Target price:** **above $35 per ADR**  
-**Position initiated:** October 2026 at **$26 per ADR**  
+**Position initiated:** October 2026 at approximately **$26 per ADR**  
 **Reference price:** approximately **$26.50 per ADR on October 6, 2026**  
 **Primary skills:** segment analysis, normalized earnings, balance-sheet valuation, NAV, SOTP, capital allocation, China consumer policy, optionality analysis
 

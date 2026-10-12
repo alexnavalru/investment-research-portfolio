@@ -5,18 +5,19 @@
 **Target price:** **above $25/share**  
 **Primary skills:** leverage analysis, FCF valuation, backlog analysis, capital allocation, special-situation/tax-structure analysis
 
-## Executive Summary
+## Business overview
 
-Amentum is currently a **watchlist idea rather than an existing position**.
+Amentum (NYSE: AMTM) is a global engineering and technology services contractor focused on **defense, intelligence, aerospace, nuclear energy and critical infrastructure**. It primarily serves U.S. government agencies (including the Department of Defense and NASA), allied governments and other mission-critical customers through long-term contracts. Today's listed company was formed on **September 27, 2024**, when Legacy Amentum combined with Jacobs' Critical Mission Solutions (CMS) business in a Reverse Morris Trust transaction.
 
-The thesis is built around four elements:
+## Investment thesis and potential catalysts
 
-1. a low valuation relative to normalized earnings and free cash flow;
-2. rapid deleveraging after the 2024 combination with Jacobs' Critical Mission Solutions ("CMS");
-3. a large and growing backlog that provides multi-year revenue visibility; and
-4. a potential change in capital allocation now that the two-year **Reverse Morris Trust ("RMT") tax-restriction period has expired**.
-
-At roughly **$18–$19/share**, my internal model values the business in the mid-$20s under relatively conservative assumptions. My personal medium-term target is **above $25/share**, with upside dependent on execution, continued deleveraging and potentially accretive share repurchases.
+1. **Low valuation and re-rating potential:** Near **$18.50/share**, my FY2026 model implies **~7.9x adjusted earnings, ~8.0x FCF and ~7.1x EV/EBITDA**. The valuation work points toward **more than $25/share** if execution and capital allocation improve; a higher multiple is possible, not assured.
+2. **Substantial backlog:** **$48.2bn of backlog (+8% YoY)** and **1.3x LTM book-to-bill** underpin multi-year demand visibility, despite current revenue pressure from contract transitions and divestitures. Backlog includes unfunded work and options, not guaranteed sales.
+3. **Deleveraging:** Net leverage has fallen to **3.0x**, ahead of management's prior timetable, with **~$3.42bn net debt** at Q3 FY2026. Further deleveraging could reduce interest costs, strengthen EPS and improve balance-sheet flexibility.
+4. **Buyback and capital-allocation catalyst:** The **two-year Reverse Morris Trust tax-related restriction period ended September 27, 2026**, lifting a significant obstacle to repurchases and certain transactions. Management has discussed **buybacks, selective M&A and further debt reduction** with the Board. At today's low multiples, repurchases could be highly accretive, but **none have been assumed or promised**.
+5. **Nuclear growth optionality:** Existing expertise in nuclear engineering, decommissioning and advanced reactors positions Amentum for a possible global investment cycle. Evidence includes a **$207m Dutch nuclear-program contract**, a **$406m UK SMR engineering contract**, and **over $400m of Q3 advanced-nuclear bookings**. This is upside **beyond my base valuation**, not a guaranteed growth rate.
+6. **Significant sponsor ownership:** Private-equity sponsors **Lindsay Goldberg and American Securities own ~36% combined**, with Board representation. Their substantial economic exposure supports alignment, although future sponsor share sales remain a risk.
+7. **FCF per-share upside:** My model projects **~$571m FCF for FY2026** and **~$595m for FY2027**. Stabilizing operations, continued debt reduction and potentially well-priced buybacks could lift **FCF/share and EPS**, even without strong near-term revenue growth.
 
 ### Current Return Bridge
 
@@ -30,22 +31,9 @@ The most important catalyst is not that buybacks are guaranteed. It is that a ma
 
 ## Why the Reverse Morris Trust Matters
 
-The current listed Amentum was created on **September 27, 2024** through the combination of Legacy Amentum with Jacobs' CMS business using a Reverse Morris Trust structure.
+Amentum's merger with Jacobs' CMS closed on **September 27, 2024**. To preserve its intended tax-free treatment, the related tax agreement restricted **share repurchases, certain major mergers/ownership changes and asset disposals** during a **two-year period ending September 27, 2026**, subject to exceptions.
 
-Because the transaction was designed to preserve tax-free treatment, Amentum entered into a tax matters agreement that generally restricted certain actions for **two years following the CMS distribution**.
-
-The restrictions included, subject to specified exceptions or tax-clearance procedures:
-
-- transactions that could result in one or more persons acquiring **50% or more** of Amentum;
-- certain mergers and consolidations;
-- disposal of a material portion of CMS assets or its active business;
-- **redemptions or repurchases of Amentum stock**;
-- actions that could jeopardize continued active conduct of the CMS business; and
-- certain additional ownership changes involving the legacy Amentum sponsor.
-
-The two-year window ended around **September 27, 2026**.
-
-This does **not** mean Amentum must begin repurchasing stock immediately. It means one important tax-related constraint has expired, giving the Board more flexibility to compare buybacks, M&A and further debt reduction on economic merit.
+**That specific restriction period has now ended**, improving the Board's flexibility to consider buybacks, M&A or debt repayment. **It does not guarantee repurchases**, nor does it eliminate all continuing tax-related obligations or transaction risks. [FY2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/2011286/000162828025053993/amtm-20251003.htm).
 
 ## Deleveraging Is Reaching an Inflection Point
 

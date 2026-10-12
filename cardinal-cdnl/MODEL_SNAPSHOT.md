@@ -99,7 +99,7 @@ Legal floating note principal **$196m** and fixed notes **$3.5m**; $59.25m SOFR 
 
 Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; **400 tons/hour nameplate capacity**. Initially for internal site/paving works, reducing supplier reliance, preserving margin and optimizing schedules. Management has **owned land + zoning and air permits for a second plant** but had not ordered equipment nor completed site plan as of August Q2 call; wants **one to two quarters** of operating learning at first plant to determine capacity/configuration and timing. **Third-party asphalt sales are a prospective upside, not proven revenue nor included in baseline projections.**
 
-**Personal investing position:** **No position as of October 9, 2026**. **Preferred initiation/entry price: around $20/share**, distinct from the **>$30/share valuation objective**. Zero-net-debt scenario, 48.479855m A+B shares, $20 price yields ~$969.6m EV and **~5.01x FY2027 base-case adjusted EBITDA** ($193.4m). Buying at $20 is contingent on fundamentals and financing discipline, not a standing execution order.
+**Personal investing position:** **No position as of October 9, 2026**. **Preferred initiation/entry price: around $19/share**, distinct from the **>$30/share valuation objective**. Zero-net-debt scenario, 48.479855m A+B shares, $19 price yields ~$921.1m EV and **~4.76x FY2027 base-case adjusted EBITDA** ($193.4m). Buying at $19 is contingent on fundamentals and financing discipline, not a standing execution order.
 
 **Sources:** [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm); [FY2025 annual report](https://investors.cardinalinfrastructuregroup.com/static-files/61b9594f-da9f-4a10-80f5-9f7d0f7c66d3); [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/); [Asphalt plant](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-announces-completion-first-asphalt); [June equity offering](https://www.prnewswire.com/news-releases/cardinal-infrastructure-group-announces-closing-of-upsized-public-offering-of-class-a-common-stock-and-full-exercise-of-underwriters-option-to-purchase-additional-shares-302811997.html); [September credit amendment](https://www.sec.gov/Archives/edgar/data/2079999/000119312526389363/cdnl-ex10_1.htm).
 
@@ -126,24 +126,26 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 ## Acquisition bridge for 2027
 
-**Management long-term adjusted EBITDA margin target: 20%.** FY2027 scenario margins of 17.0% / 17.5% / 18.0% are analyst estimates, deliberately below the long-term target.
+**Management long-term adjusted EBITDA margin target: 20%.** FY2027 scenario margins of 14.5% / 17.0% / 17.5% / 18.0% are analyst estimates, deliberately below the long-term target.
 
 - **ALGC:** approximately **$16.8m** 2026 first-half pro forma revenue not booked before its February 18 closing.
 - **Piedmont Pipe:** approximately **$3.1m** 2026 first-half pro forma revenue not booked before May 29 closing.
 - **Allied Paving:** acquired October 1, 2026. Standalone roughly **$100m** annual sales; base-case model estimates **$90m** net external/consolidated FY2027 and assumes **$28m** already contributes FY2026, so **+$62m** increment. This estimate discounts intercompany revenue.
-- **Organic growth:** 10%, 15% or 20% applied to FY2026 midpoint revenue (model simplification). No additional M&A assumed.
+- **Organic growth:** 5%, 10%, 15% or 20% applied to FY2026 midpoint revenue (model simplification). No additional M&A assumed.
 
-| Item | Conservative | Base | Optimistic |
-|---|---:|---:|---:|
-| 2026 base revenue | 890.0 | 890.0 | 890.0 |
-| Organic revenue growth | +89.0 | +133.5 | +178.0 |
-| ALGC/Piedmont full-year bridge | +19.8 | +19.8 | +19.8 |
-| Allied incremental bridge | +52.0 | +62.0 | +72.0 |
-| **2027 revenue** | **1,051** | **1,105** | **1,160** |
-| **Adj. EBITDA margin** | **17.0%** | **17.5%** | **18.0%** |
-| **2027 adj. EBITDA** | **178.7** | **193.4** | **208.8** |
-| **EV/EBITDA @ $25.06, net debt = $0** | **6.80x** | **6.28x** | **5.82x** |
-| **EV/EBITDA @ $30.00, net debt = $0** | **8.14x** | **7.52x** | **6.97x** |
+| Item | Bearish | Conservative | Base | Optimistic |
+|---|---:|---:|---:|---:|
+| 2026 base revenue | 890.0 | 890.0 | 890.0 | 890.0 |
+| Organic revenue growth | +44.5 | +89.0 | +133.5 | +178.0 |
+| ALGC/Piedmont full-year bridge | +19.8 | +19.8 | +19.8 | +19.8 |
+| Allied incremental bridge | +42.0 | +52.0 | +62.0 | +72.0 |
+| **2027 revenue** | **996.3** | **1,051** | **1,105** | **1,160** |
+| **Adj. EBITDA margin** | **14.5%** | **17.0%** | **17.5%** | **18.0%** |
+| **2027 adj. EBITDA** | **144.5** | **178.7** | **193.4** | **208.8** |
+| **EV/EBITDA @ $25.06, net debt = $0** | **8.41x** | **6.80x** | **6.28x** | **5.82x** |
+| **EV/EBITDA @ $30.00, net debt = $0** | **10.07x** | **8.14x** | **7.52x** | **6.97x** |
+
+**Bearish case:** 5% organic growth, lower Allied contribution and a 14.5% EBITDA margin under slower demand and delayed recovery.
 
 **Shares for EV =** 20,238,610 Class A + 27,234,449 Class B/LLC units at June 30 = 47,473,059 equivalents; October Allied 1,006,796 new Class A => **48,479,855 equivalents**, ignoring other intervening net issuance, other share-based dilution or buybacks. Exchanges of B/LLC to A do not themselves enlarge the economic denominator. Net debt zero is a **FY2027 scenario assumption**, not current balance sheet data.
 

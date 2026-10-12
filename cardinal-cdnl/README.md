@@ -1,7 +1,7 @@
 # Cardinal Infrastructure Group (CDNL) - Acquisition-Led Civil Infrastructure Platform
 
 **Status:** Watchlist / active research; **no position**  
-**Preferred entry price:** **around $20 per share** (not an outstanding order)  
+**Preferred entry price:** **around $20 per share** 
 **Valuation objective:** **Above $30 per fully converted share**; this is a minimum personal target, not a company forecast.  
 **Reference market price:** **$21.12**, close of October 9, 2026.  
 **Updated:** October 12, 2026  

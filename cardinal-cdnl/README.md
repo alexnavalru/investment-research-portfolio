@@ -1,6 +1,5 @@
 # Cardinal Infrastructure Group (CDNL) - High-Growth Infrastructure Sell-Off & Insider Buying
 
-**Case type:** Contrarian Fundamental / High-Growth Infrastructure / Insider Buying  
 **Status:** Watchlist / active research; **no position**  
 **Preferred entry price:** around **$19/share**  
 **Valuation objective:** above **$30 per fully converted share**  

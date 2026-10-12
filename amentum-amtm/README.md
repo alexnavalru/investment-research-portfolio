@@ -132,6 +132,24 @@ These are model outputs rather than precise price targets.
 
 My own thesis target is **above $25/share**, which assumes the business executes broadly in line with the model and that capital allocation becomes more accretive as leverage falls and the RMT restrictions expire.
 
+## Publicly Traded Comparables
+
+The closest peers are ranked below by **business-model similarity to Amentum**, rather than valuation. Figures are **USD millions**, based on October 9, 2026 closing prices and the latest available financial disclosures. Multiples are approximate analyst calculations.
+
+| Company (ticker) | Market Cap | Enterprise Value | EV / Adj. EBITDA | Adj. EBITDA Margin | Net Debt / EBITDA |
+|---|---:|---:|---:|---:|---:|
+| **Amentum (AMTM)** | **$4,716m** | **$8,132m** | **7.2x** | **8.1%** | **3.0x** |
+| V2X (VVX) | $2,240m | $3,140m | 8.8x | 7.2% | 2.5x |
+| KBR (KBR) | $4,460m | $6,930m | 6.9x | 12.4% | 2.2x |
+| SAIC (SAIC) | $5,640m | $8,220m | 10.9x | 10.4% | 3.4x |
+| Leidos (LDOS) | $15,270m | $21,100m | 8.5x | 13.5% | 2.4x |
+| Parsons (PSN) | $4,810m | $6,190m | 11.7x | 8.3% | 2.6x |
+| CACI (CACI) | $13,500m | $18,690m | 15.9x | 12.3% | 4.4x |
+
+**Peer valuation range:** The four closest peers (**V2X, KBR, SAIC and Leidos**) trade at **6.9x–10.9x adjusted EBITDA**, while the full six-peer universe spans **6.9x–15.9x**. **AMTM's current reference multiple is 7.2x**, placing it near the lower end. A simple average is misleading: CACI commands a substantial premium for a different, more technology-intensive mix.
+
+**Comparability notes:** Figures generally use 2026 adjusted EBITDA guidance or estimates, except **SAIC FY2027E** (fiscal year ending January 2027) and **CACI FY2026 actual** (year ended June 2026). Leidos' 13.5% margin is an analytical approximation rather than explicitly guided EBITDA. Enterprise values use market capitalization and recent net financial debt, with possible differences in lease and minority-interest adjustments across company data sources. Amentum's bridge is approximately **$19.29 × 244.5m shares = $4,716m market cap; plus $3,875m gross debt, less $459m cash = $8,132m EV**. Its **$1,127.5m** midpoint FY2026E adjusted EBITDA gives **~7.2x**. This date-specific comparison is separate from the **$18.50/share** reference used in the original internal model above.
+
 ## Potential Buyback Catalyst
 
 This is the key optionality.

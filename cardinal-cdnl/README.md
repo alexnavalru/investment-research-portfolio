@@ -19,7 +19,7 @@ Cardinal is a vertically integrated civil site-development and infrastructure co
 3. **Asphalt upside:** Its **first asphalt plant** can lift margins and project capacity. **Future third-party sales** and a **possible second plant** offer upside, but neither is guaranteed or modeled. [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 4. **EBITDA margin recovery:** Management still sees **~20%+ adjusted EBITDA margins over time**, versus **16%–18% FY2026 guidance**. Better execution and vertical integration could unlock operating leverage; **FY2027 base assumes only 17.5%**.
 5. **Multiple re-rating:** CDNL trades at **~6.5x FY2026E adjusted EBITDA**, versus **~9x–17x** for the larger peers analyzed below. Demonstrated growth and margin recovery could narrow the discount, though peer differences matter.
-6. **Insider alignment:** Founder/CEO **Jeremy Spivey owns ~17% economically**; other insiders hold significant stakes and have **personally bought ~289,518 shares for $10.68m** through August 2026.
+6. **Insider alignment:** Founder/CEO **Jeremy Spivey has ~25.4% estimated economic-equivalent ownership**; management and the board collectively have **~51.37%** on the reconstructed post-Allied share base, including reported insider purchases through October 12, 2026 (last observed in August). Disclosed open-market buys since the IPO total **289,518 shares (~$10.68m)**, including **241,597 purchased in 2026**. The April proxy contains a Spivey share-count inconsistency; see Ownership below.
 7. **Data centers:** Its **first disclosed project** is ahead of schedule with expanded scope. Today's exposure is early and unquantified; winning more projects could become a meaningful catalyst. [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 8. **Speculative sale or take-private:** CDNL's small size and depressed valuation could attract a buyer or motivate insiders to privatize. **No deal is indicated; both scenarios are unlikely and complicated by the Up-C/TRA structure**, so neither underpins the valuation.
 
@@ -45,25 +45,47 @@ At **June 30, 2026**: **$339.1m cash**; **$199.5m note principal** plus **$7.5m 
 
 Subsequently, the **September 2026 credit facility** expanded commitments to **$550m** ($200m term loan, $100m revolver, $250m delayed draw), maturing in 2031. **Commitments are not the same as drawn debt.** Main financial covenants include net leverage **≤2.50x** and fixed-charge coverage **≥1.25x**. The **zero-net-debt FY2027 valuation assumption** reflects possible future acquisitions and is **not** a statement of current borrowings.
 
+### Ownership (as of October 12, 2026; reconstructed pro forma)
+
+Ownership below **includes the open-market purchases disclosed through October 12, 2026** (latest identified purchases in August). It combines the most recent reported Class A positions with legacy LLC units paired with Class B, counted **once** rather than as both B and potentially exchangeable A shares.
+
+| Director / executive | Reported Class A / RSUs¹ | Paired Class B + LLC units² | Economic equivalents | Economic ownership³ | Voting power (est.)⁴ |
+|---|---:|---:|---:|---:|---:|
+| Jeremy Spivey (CEO/chairman) | 83,350 | 12,229,848 | 12,313,198 | **25.40%** | ~25.40% |
+| Erik West (Cardinal NC COO) | 0 | 6,114,009 | 6,114,009 | **12.61%** | ~12.61% |
+| Mike Rowe (CFO) | 7,000 | 2,038,003 | 2,045,003 | **4.22%** | ~4.22% |
+| Anthony Wood (director / ALGC president) | 51,400 | 2,093,031 | 2,144,431 | **4.42%** | ~4.42% |
+| Benjamin Wood (group COO) | 45,700 | 2,093,031 | 2,138,731 | **4.41%** | ~4.41% |
+| Richard M. Lee (director) | 68,254 | 0 | 68,254 | 0.141% | ~0.14% |
+| Austin J. Shanfelter (director) | 11,529 | 0 | 11,529 | 0.024% | <0.024% |
+| Richard B. Wimmer (director) | 29,349 | 0 | 29,349 | 0.061% | ~0.06% |
+| Ivy Zelman (director) | 32,891 | 0 | 32,891 | 0.068% | ~0.07% |
+| Tiffany Gidley (general counsel) | 6,000 | 0 | 6,000 | 0.012% | ~0.01% |
+| **Total (estimated, no double counting)** | **335,473** | **24,567,922** | **24,903,395** | **51.37%** | **~51.3% (indicative)** |
+
+**Together, the named directors and executives have an estimated 51.37% economic-equivalent ownership in Cardinal**, including disclosed purchases through **October 12, 2026**. This is an analyst reconstruction, **not a company-certified October cap table**, and it should not be read as 51.37% of currently exercisable votes.
+
+¹ The Class A column uses latest reported holdings (SEC Forms 4 and proxy) and **may include unvested RSUs**, which do not yet confer votes. Consequently, reported holdings are not identical to currently issued/voting Class A shares. ² Each legacy LLC unit and its matching Class B voting share constitute **one** economic equivalent, not two. The **4,186,062** ALGC/ Diamond units issued in February 2026 are represented as **2,093,031 attributable to each Wood brother**; the acquisition filing confirms the total of 4,186,062 and the proxy assigns half to each. Do not also add the whole Diamond block. ³ Denominator: **48,479,855** A+B economic equivalents = **47,473,059** reported at June 30, 2026 (unchanged by subsequent A/B exchanges) + **1,006,796** Class A issued for Allied on October 1, before other possible net issuances or RSU dilution. ⁴ Each issued A or B has one vote; the vote estimates omit RSU voting until vesting and should be regarded as approximate.
+
+**Spivey filing discrepancy:** The April proxy's Class B column shows **8,261,392**, while its own accompanying note, voting percentage and his December 2025 Schedule 13G indicate **12,229,848** exchangeable units/related votes. The latter is used in this reconstruction; this discrepancy requires company-level reconciliation. [2026 proxy](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm) · [Spivey Schedule 13G](https://www.sec.gov/Archives/edgar/data/2079999/000121390026017484/xslSCHEDULE_13G_X01/primary_doc.xml) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [ALGC closing 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000121390026018087/ea0277248-8k_cardinal.htm) · [Allied closing 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm).
+
 ### Insider purchases and alignment
 
-Disclosed open-market purchases through August 2026 sum to **289,518 Class A shares costing around $10.68m**; they are **personal insider investments, not company share repurchases**.
+**Open-market buys disclosed since the December 2025 IPO:** **289,518 Class A shares (~$10.68m)**, including **241,597 shares bought in 2026** (May–August). These are personal insider purchases, **not company buybacks**. No insider open-market sales were identified in the Form 4 filings reviewed through **October 12, 2026**; LLC-to-Class A exchanges are **not** sales.
 
-**Insider lock-ups:** Legacy owners could exchange/register shares for resale from **June 9, 2026**; ALGC sellers' equity had a separate **180-day lock-up (to about August 17)**. **339,426 Class B/LLC interests were converted to Class A in June, but conversion is not a sale. No insider sales were identified through October 9** in the Form 4 records reviewed (other holder sales cannot be ruled out). [2026 proxy](https://investors.cardinalinfrastructuregroup.com/node/6986/html) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [Form 4 activity](https://www.form4.ai/insider-trading/cdnl/).
+| Insider | Open-market shares bought (Dec. 2025–Aug. 2026) | Approx. invested |
+|---|---:|---:|
+| Jeremy Spivey | 83,350 | $3.20m |
+| Benjamin Wood | 45,700 | $2.04m |
+| Anthony Wood | 51,400 | $2.02m |
+| Richard M. Lee | 56,725 | $1.73m |
+| Ivy Zelman | 21,843 | $0.80m |
+| Richard B. Wimmer | 17,500 | $0.50m |
+| Mike Rowe | 7,000 | $0.26m |
+| Tiffany Gidley | 6,000 | $0.13m |
+| **Total** | **289,518** | **~$10.68m** |
 
-| Insider (role) | Shares bought | Amount invested | Estimated economic ownership |
-|---|---:|---:|---:|
-| Jeremy Spivey (CEO/chairman) | 83,350 | $3.20m | **~17.2%** |
-| Benjamin Wood (COO) | 45,700 | $2.04m | Part-owner of shared Diamond LLC block |
-| Anthony Wood (director / ALGC president) | 51,400 | $2.02m | Part-owner of same Diamond LLC block |
-| Richard M. Lee (director) | 56,725 | $1.73m | ~0.1% |
-| Ivy Zelman (director) | 21,843 | $0.80m | <0.1% |
-| Richard B. Wimmer (director) | 17,500 | $0.50m | <0.1% |
-| Mike Rowe (CFO) | 7,000 | $0.26m | ~4.2% |
-| Tiffany Gidley (general counsel) | 6,000 | $0.13m | <0.1% |
-| **TOTAL** | **289,518** | **~$10.68m** | **Overlapping beneficial ownership excluded** |
-
-Other large continuing owner: **Erik West ~12.6%**. Benjamin and Anthony Wood jointly control **a single 2.1M-unit Diamond Interests block** (50% each); it must **not** be counted twice. Ownership estimates use last disclosed holdings plus known buys, not a verified live October cap table.
+*Purchases are included in the Ownership table above through the **October 12, 2026** review cutoff (the latest identified buys occurred in August). The purchase figures include **47,921 shares from December 2025**; therefore, do not describe all 289,518 shares as 2026 purchases. Historical IPO redemptions are separate from open-market trades.* [SEC Form 4 activity](https://www.form4.ai/insider-trading/cdnl/) · [August Spivey Form 4](https://www.sec.gov/Archives/edgar/data/2079999/000121390026090854/xslF345X06/ownership.xml) · [August Lee Form 4](https://www.sec.gov/Archives/edgar/data/2079999/000121390026090858/xslF345X03/ownership.xml).
 
 ## Operating KPIs - backlog, customers and geography
 

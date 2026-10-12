@@ -62,7 +62,7 @@ Estimated economic ownership, **including disclosed insider purchases reviewed t
 
 ### Insider purchases and alignment
 
-Insiders bought **289,518 Class A shares (~$10.68m)** in **December 2025 and May–August 2026** (**241,597 shares in 2026**). These were personal open-market purchases, not company buybacks. **No insider open-market sales were identified through October 12, 2026**; LLC-to-Class A exchanges are not sales.
+Insiders bought **289,518 Class A shares (~$10.68m)** in **December 2025 and May–August 2026** (**241,597 shares in 2026**). **No insider open-market sales were identified through October 12, 2026**; LLC-to-Class A exchanges are not sales.
 
 | Insider | Shares bought | Avg. purchase price | Approx. invested |
 |---|---:|---:|---:|

@@ -64,17 +64,17 @@ Estimated economic ownership, **including disclosed insider purchases reviewed t
 
 **Open-market buys disclosed since the December 2025 IPO:** **289,518 Class A shares (~$10.68m)**, including **241,597 shares bought in 2026** (May–August). These are personal insider purchases, **not company buybacks**. No insider open-market sales were identified in the Form 4 filings reviewed through **October 12, 2026**; LLC-to-Class A exchanges are **not** sales.
 
-| Insider | Open-market shares bought (Dec. 2025–Aug. 2026) | Approx. invested |
-|---|---:|---:|
-| Jeremy Spivey | 83,350 | $3.20m |
-| Benjamin Wood | 45,700 | $2.04m |
-| Anthony Wood | 51,400 | $2.02m |
-| Richard M. Lee | 56,725 | $1.73m |
-| Ivy Zelman | 21,843 | $0.80m |
-| Richard B. Wimmer | 17,500 | $0.50m |
-| Mike Rowe | 7,000 | $0.26m |
-| Tiffany Gidley | 6,000 | $0.13m |
-| **Total** | **289,518** | **~$10.68m** |
+| Insider | Open-market shares bought (Dec. 2025–Aug. 2026) | Avg. purchase price | Approx. invested |
+|---|---:|---:|---:|
+| Jeremy Spivey | 83,350 | ~$38.4 | $3.20m |
+| Benjamin Wood | 45,700 | ~$44.6 | $2.04m |
+| Anthony Wood | 51,400 | ~$39.4 | $2.02m |
+| Richard M. Lee | 56,725 | ~$30.5 | $1.73m |
+| Ivy Zelman | 21,843 | ~$36.6 | $0.80m |
+| Richard B. Wimmer | 17,500 | ~$28.8 | $0.50m |
+| Mike Rowe | 7,000 | ~$36.5 | $0.26m |
+| Tiffany Gidley | 6,000 | ~$21.0 | $0.13m |
+| **Total** | **289,518** | **~$36.9** | **~$10.68m** |
 
 *The Ownership estimates include these purchases as reviewed through October 12, 2026.* [SEC Form 4 activity](https://www.form4.ai/insider-trading/cdnl/).
 

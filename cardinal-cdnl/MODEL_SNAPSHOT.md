@@ -149,21 +149,15 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 **EV calculation:** at Oct 8 close $25.06 => $1,214.905m equity value; EV equal to that value **under the zero-net-debt assumption**. At target-floor price $30 => $1,454.396m EV. Incremental debt, cash, non-financial minority claims, lease policy and the net present value of tax arrangements should be treated consistently.
 
-## Ownership / insider buying
+## Ownership / insider buying (reconciled October 12, 2026)
 
-| Insider | Role | Date(s) of buying | Shares bought | Approx. avg. price | Total spent |
-|---|---|---|---:|---:|---:|
-| Jeremy Spivey | CEO/chairman | Aug. 14, 2026 | 83,350 | $38.4 | $3.20m |
-| Benjamin Wood | COO | May 27–Aug. 14, 2026 | 45,700 | $44.6 | $2.04m |
-| Anthony Wood | Director / ALGC president | Aug. 14, 2026 | 51,400 | $39.4 | $2.02m |
-| Richard Lee | Director | Dec. 11, 2025–Aug. 14, 2026 | 56,725 | $30.5 | $1.73m |
-| Ivy Zelman | Director | Dec. 11, 2025–Aug. 14, 2026 | 21,843 | $36.6 | $0.800m |
-| Richard Wimmer | Director | Dec. 11, 2025–Aug. 17, 2026 | 17,500 | $28.8 | $0.503m |
-| Mike Rowe | CFO | Aug. 14, 2026 | 7,000 | $36.5 | $0.256m |
-| Tiffany Gidley | General counsel | Dec. 11, 2025 | 6,000 | $21.0 | $0.126m |
-| **TOTAL** | | | **289,518** | **$36.9** | **$10.68m** |
+**Detailed ownership table and Form 4 activity:** [Ownership and Insider purchases in the CDNL thesis](./README.md#ownership-as-of-october-12-2026-reconstructed-pro-forma).
 
-Ownership pro forma to October 9 from last SEC beneficial ownership disclosures + purchases: Spivey **~8.345m economic shares/~17.2%**; Erik West **~6.114m/~12.6%**, no included purchase; Rowe **~2.045m/~4.2%**; Diamond Interests Group LLC **2.093m/~4.3% of company**, beneficially attributed to BOTH Benjamin and Anthony Wood, who each hold a 50% interest in that same LLC block, plus their individual Class A buying. The Wood block must be **counted once** in any insider total. Approximate own Class A positions from known transactions: Lee 56,725; Ivy 21,843; Wimmer 17,500; Gidley 6,000. Figures are **estimated snapshots**, not proof of no intervening transfers or RSU vesting.
+On the reconstructed **48,479,855 fully exchanged A+B pro forma equivalents** (June 30 total + 1,006,796 Allied-issued Class A shares), directors and executives together hold **24,903,395 reported economic equivalents, or ~51.37%**, inclusive of known open-market insider purchases reviewed through October 12, 2026. This is **an estimate, not a certified October beneficial-ownership filing**; pending RSUs and later capital changes may affect actual economic percentages and votes. Avoid double counting LLC units and their paired Class B shares.
+
+The founder's reconstructed holding is **12,229,848 paired B/LLC units plus 83,350 directly bought Class A (~25.40%)**, not the earlier ~8.345m/~17.2% estimate. The April 2026 proxy inconsistently shows **8,261,392** in one B-share cell versus **12,229,848** in its own footnote and the founder's Schedule 13G; treat this as an unresolved disclosure discrepancy. For ALGC, **4,186,062** LLC/Class B equivalents were issued to Diamond Interests Group; the proxy/Forms 3 attribute **2,093,031 to each of Anthony and Benjamin Wood** (each 50% owner). Count their holdings as two halves of the 4.186m issued block, not as another set of 4.186m each.
+
+**Open-market purchases since IPO:** **289,518 shares (~$10.68m)** across December 2025–August 2026, of which **241,597 shares** were bought during 2026. No insider open-market sales found in Forms 4 reviewed through October 12; 2025 IPO redemptions and 2026 B/LLC-to-A conversions are not open-market sales. [Proxy](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm) · [Spivey Schedule 13G](https://www.sec.gov/Archives/edgar/data/2079999/000121390026017484/xslSCHEDULE_13G_X01/primary_doc.xml) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [Form 4 log](https://www.form4.ai/insider-trading/cdnl/).
 
 ## Tax Receivable Agreement (TRA) - quick explanation
 

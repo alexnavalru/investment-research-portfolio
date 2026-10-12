@@ -3,8 +3,8 @@
 **Status:** Watchlist / active research; **no position**  
 **Preferred entry price:** **around $20 per share** (not an outstanding order)  
 **Valuation objective:** **Above $30 per fully converted share**; this is a minimum personal target, not a company forecast.  
-**Reference market price:** **$25.06**, close of October 8, 2026 (not a live quote).  
-**Updated:** October 9, 2026  
+**Reference market price:** **$21.12**, close of October 9, 2026.  
+**Updated:** October 12, 2026  
 **Model:** [Financial model and ownership snapshot](./MODEL_SNAPSHOT.md)
 
 ## Business overview
@@ -18,7 +18,7 @@ Cardinal is a vertically integrated civil site-development and infrastructure co
 3. **Potential operating leverage:** FY2026 guided adjusted EBITDA margin is **16%–18%**, while the long-term opportunity is toward approximately **20%**, not guaranteed. The thesis does **not** require a 20% margin in FY2027; the base case assumes **17.5%**.
 4. **Data-center catalyst:** Cardinal already has a **data-center contract underway and ahead of schedule**. Management said on the **Q2 2026 call** that the customer has **expanded the project's scope with additional work**. [Q2 2026 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 5. **Management alignment:** Disclosed open-market insider purchases total **289,518 Class A shares for about $10.68m** across December 2025–August 2026. These are **personal purchases, not corporate share buybacks**. Founder/CEO Jeremy Spivey and other operating executives also retain substantial Class B/LLC economic interests.
-6. **Valuation:** At a last completed close of **$25.06** and **48.479855m** economically outstanding A+B-equivalent shares after Allied, fully converted market cap is about **$1.215bn**. Assuming **zero future net cash/debt** and ignoring separately identified TRA value and lease valuation adjustments, this is about **6.3x base-case FY2027 adjusted EBITDA**. At **$30/share**, the base-case EV/EBITDA is about **7.5x**. A higher target requires underwriting execution and a defensible multiple, not simply extrapolating historical growth.
+6. **Valuation:** At the October 9, 2026 closing price of **$21.12** and approximately **48.479855m** A+B/LLC economic equivalents following Allied, fully converted equity market value is **~$1.024bn**. Using June 30 debt/cash, adjusting for Allied's ~$88.9m cash consideration, and including finance leases (but excluding operating leases and separately analyzed tax-related claims), **pro forma EV is ~$981m or ~6.5x FY2026 guidance-midpoint adjusted EBITDA**. Our *separate*, hypothetical **zero-net-debt FY2027** assumption implies **~5.3x** the FY2027 base-case **$193.4m** adjusted EBITDA at the same stock price. At **$30/share**, the FY2027 zero-net-debt multiple is about **7.5x**. None of these multiples includes unannounced acquisitions, and the ~6.5x historical/pro forma EV must not be confused with the zero-net-debt 2027 scenario.
 
 ## Share structure, financial backing and TRA
 
@@ -193,6 +193,57 @@ Management expects better project scheduling, greater internal capabilities and 
 
 **EV mechanics:** $25.06 × 48.479855m = **$1,214.9m**; $30 × 48.479855m = **$1,454.4m**. We assume zero *future* net financial debt solely for comparison. **Given Cardinal's acquisition-led growth strategy, funded through both share issuance and borrowing, the company could eventually carry more debt than cash.** This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
 
+
+## Publicly traded comparables — normalized enterprise value (October 9, 2026)
+
+**Method:** Compare the market value of **the full economic equity** plus financial debt, finance leases and the book-value proxy for any consolidated noncontrolling interests, less cash (and liquid marketable securities where identified). Operating leases are excluded consistently because their rent generally remains a cost in these companies' adjusted EBITDA; their liabilities can be included in a separate lease-adjusted analysis only if the EBITDA denominator is also adjusted. Prices are October 9, 2026 closing prices; underlying balance sheets are principally June 30, adjusted for specifically documented post-quarter capital-structure events. Amounts are approximately **USD millions**, apart from share prices, multiples and percentages.
+
+| Ticker / company | Share price | Fully economic market cap | Adjusted EV | EV / 2026E adj. EBITDA | 2026E adj. EBITDA margin | Net debt / 2026E EBITDA | Organic revenue growth |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **CDNL – Cardinal** | **$21.12** | **$1,024m** | **$981m** | **6.5x** | **17.0%** | **-0.3x** | **+64% (Q2)** |
+| **STRL – Sterling** | $513.00 | ~$15,698m | **~$15,730m** | **17.4x** | **22.2%** | **-0.2x** | **~+50% (Q2)** |
+| **ROAD – Construction Partners** | $86.81 | ~$4,927m | **~$6,636m** | **11.8x** | **15.4%** | **3.0x** | **+8.9% (fiscal Q3)** |
+| **GVA – Granite Construction** | $112.50 | ~$4,998m | **~$6,260m** | **9.1x** | **12.8%** | **1.8x** | **+18% (Construction segment only)** |
+
+**Denominators:** CDNL **$151.3m** (2026 guidance midpoint), STRL **$903.5m**, ROAD **$564m**, GVA **~$688.5m** (midpoint **$5.4bn** revenue × **12.75%** adjusted EBITDA margin). ROAD's fiscal 2026 ends in **September**, unlike the December-year comparables. “Organic” represents the latest comparable operating quarter, and GVA's +18% is **not** a consolidated organic-growth disclosure. EV and leverage are analyst reconstructions using disclosed facts rather than company-issued EV figures. The ROAD bridge does not attempt to pro forma every acquisition completed after its June balance date.
+
+### Why these comparables matter
+
+**STRL — Sterling Infrastructure.** Probably the best operating comparator for Cardinal's longer-term potential: both perform large-scale **site development**. Sterling, however, has far greater exposure to high-value, mission-critical infrastructure such as data centers and advanced manufacturing, as well as greater scale and an established adjusted EBITDA margin around **22.2%**. Its H1 2026 operating cash flow was **$328m**. Cardinal should **not** automatically inherit Sterling's **~17.4x** multiple.
+
+**ROAD — Construction Partners.** Probably the closest comparator for the **M&A and vertical-integration playbook**: regional contractor acquisitions, asphalt plants, paving and civil works across the Sunbelt. ROAD's business is more exposed to **publicly funded highway construction and road maintenance**, which gives it a different demand and project-risk profile from CDNL's private development exposure. ROAD is also substantially more leveraged. Its **~11.8x** multiple offers a possible benchmark **only if** Cardinal demonstrates reliable execution and margins.
+
+**GVA — Granite Construction.** A larger, more diversified and more mature civil-infrastructure and materials platform, with considerable public-sector exposure. Its **~9.1x** multiple is a useful more conservative operating reference, but it requires care: a large June 2026 **convertible-note derivative liability was settled in August**, alongside cash payments, share issuance and an unwind of the related capped call. It must **not** be added on top of the cash/debt/equity consequences of its settlement.
+
+### How I reconstruct CDNL's market cap and EV
+
+**CDNL equity value uses all economic A + B/LLC interests**, not merely publicly quoted A shares. At June 30, the operating-company equivalents were **20,238,610 Class A + 27,234,449 paired Class B/LLC**; Allied's October 1 closing added **1,006,796 Class A shares**. Hence **48,479,855 economic share equivalents** (excluding subsequent unverified movements and future RSUs). B shares and their corresponding LLC interests constitute **one**, not two, economic claims. Because all of those interests are already counted at market value, adding the related Up-C noncontrolling interests a second time would overstate EV.
+
+| CDNL bridge at October 9 close | USD m |
+|---|---:|
+| Class A + B/LLC share equivalents | **48.479855m** |
+| Price per share | **$21.12** |
+| **Market cap = 48.479855m × $21.12** | **1,023.9** |
+| June 30 outstanding financial notes / borrowings | +199.5 |
+| June 30 finance lease liabilities | +7.5 |
+| June 30 cash | -339.1 |
+| Cash paid to acquire Allied (October 1) | +88.9 |
+| **Financial EV pro forma** | **980.7** |
+| Separate legacy TRA liability, June 30 | +47.2 |
+| Separate ALGC contingent TRA/TBA consideration | +12.3 |
+| **Expanded EV sensitivity incl. both tax-linked liabilities** | **1,040.2** |
+| Additional operating-lease liability (optional, with accounting-consistent EBITDA) | +23.1 |
+
+**Interpretation:** CDNL trades at **~6.5x** the **$151.3m** FY2026E adjusted EBITDA guidance-midpoint using the financial EV and **~6.9x** if the recognized **$47.2m TRA** and **$12.3m ALGC contingent TRA/TBA** are added in full. The latter is a **conservative sensitivity, not a universally required debt adjustment**: TRA payments are linked to corresponding tax savings and must be considered together with those benefits. Adding *both* the economic B/LLC units and the book value of the same Up-C minority interests is incorrect. This bridge is **pro forma, not an October 9 reported balance sheet**: it does not forecast other Q3 cash flows, acquired Allied debt/leases, potential additional shares or further deal activity.
+
+**Peer capital-structure checks (to avoid misleading multiples):**
+
+- **STRL:** Approx. **30.6m shares × $513 = $15,698m equity**. June 30 **$283.9m debt - $464.5m cash + $33.2m noncontrolling interests (book-value proxy) = ~$15,730m EV**. Of that cash, around **$157.6m** sat in consolidated construction JVs, so freely available liquidity is less than the headline balance.
+- **ROAD:** Use **both economically equivalent Class A and B**, approximately **56.76m total shares × $86.81 = $4,927m**. June 30 gross borrowing principal was **$1,803.3m** with **$94.5m cash**, producing **~$6,636m EV**. Unlike CDNL, ROAD's B shares are directly economically equivalent to A without a separate Up-C LLC layer.
+- **GVA:** At June 30, Granite recognized a **$630.5m embedded-conversion derivative** for its 3.75% notes. **On August 12 those notes were settled:** Granite paid approximately **$715m cash**, issued **662,383 new shares**, and had received approximately **$148m cash** from closing the associated capped-call hedge. The pre-settlement derivative and notes must therefore **not remain as separate outstanding claims** in an October EV. An indicative pro forma bridge uses **(43.764m June shares + 0.662m new shares) × $112.50 ≈ $4,998m equity**; remaining debt principal **~$1,573.8m**, June cash **$877.1m** adjusted by **-$715m + $148m ≈ $310.1m**, marketable securities **$54.4m**, plus **$52.6m noncontrolling interests (book-value proxy)**: **~$6,260m EV** or **~9.1x EBITDA**. The **$600m 6.375% senior notes were already issued by June**, so do not add them again. The separate **3.25% convertible notes remain outstanding**, with potential premium dilution partly mitigated by capped calls; their principal is included in debt, not counted again as new common shares. This remains a documented-event pro forma estimate, not a completed September balance sheet.
+
+**Sources and check points:** [CDNL Q2 10-Q / shares, financial debt, TRA](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [CDNL Allied closing 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm) · [STRL Q2 10-Q](https://www.sec.gov/Archives/edgar/data/874238/000087423826000103/strl-20260630.htm) · [STRL Q2 guidance](https://www.sec.gov/Archives/edgar/data/874238/000087423826000100/a20260803ex991earningsrele.htm) · [ROAD Q2 calendar / fiscal Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1718227/000162828026054661/road-20260630.htm) · [ROAD FY2026 guidance](https://www.sec.gov/Archives/edgar/data/1718227/000162828026054592/exhibit991_earnings06302026.htm) · [GVA Q2 10-Q / convertible derivative, cash, NCI](https://www.sec.gov/Archives/edgar/data/861459/000086145926000029/gva-20260630.htm) · [GVA August convertible settlement 8-K](https://www.sec.gov/Archives/edgar/data/861459/000086145926000036/gva-20260811.htm) · [GVA FY2026 guidance](https://investor.graniteconstruction.com/news-and-events/press-releases/granite-reports-second-quarter-2026-results) · [October 9 closing prices: CDNL](https://stockanalysis.com/stocks/cdnl/history/), [STRL](https://stockanalysis.com/stocks/strl/history/), [ROAD](https://stockanalysis.com/stocks/road/history/), [GVA](https://stockanalysis.com/stocks/gva/history/).
+
 ## Risks and what would disprove the thesis
 
 - **Margin reset:** FY2026 EBITDA guidance was reset to 16%–18% from the earlier 20%+ outlook as project mix broadened; the FY2027 margin rebound is not assured.
@@ -210,7 +261,7 @@ Management expects better project scheduling, greater internal capabilities and 
 - [Allied acquisition closing and intercompany revenue clarification](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-inc-announces-closing-allied)
 - [Allied acquisition consideration and shares issued - October 1 SEC 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm)
 - [SEC proxy - ownership as of April 9, 2026](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm)
-- [Reference stock-price history, Oct. 8, 2026](https://stockanalysis.com/stocks/cdnl/history/)
+- [Reference stock-price history, Oct. 9, 2026](https://stockanalysis.com/stocks/cdnl/history/)
 
 **Research note:** The financial figures are reconstructed from company reports and our preceding modeling discussion. The separately referenced Excel workbook was not retrievable in the current connected files, so the document does **not** claim to have audited or directly imported workbook values. All FY2027 scenarios, incremental contributions and the $0 net-debt normalization are analyst assumptions, not official guidance.
 

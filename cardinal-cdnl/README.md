@@ -2,7 +2,7 @@
 
 **Case type:** Contrarian Fundamental / High-Growth Infrastructure / Insider Buying  
 **Status:** Watchlist / active research; **no position**  
-**Preferred entry price:** around **$20/share**  
+**Preferred entry price:** around **$19/share**  
 **Valuation objective:** above **$30 per fully converted share**  
 **Reference market price:** **$21.12** (October 9, 2026 close)  
 **Last updated:** October 12, 2026  
@@ -192,22 +192,24 @@ Management expects better project scheduling, greater internal capabilities and 
 
 ## FY2027 scenarios - existing acquisitions fully annualized
 
-**Management's long-term adjusted EBITDA margin target is 20%.** Our FY2027 scenario margins of **17.0% / 17.5% / 18.0%** deliberately remain below that target; it is not management's FY2027 guidance.
+**Management's long-term adjusted EBITDA margin target is 20%.** Our FY2027 scenario margins of **14.5% / 17.0% / 17.5% / 18.0%** deliberately remain below that target; these are analyst assumptions, not management's FY2027 guidance.
 
 2026 starting point: **$890m revenue** (midpoint of management's $880–900m guidance). Forecasts assume **no new acquisitions** after Allied and **net cash/debt = $0** in FY2027. Full economic equity denominator is **48.479855m A+B-equivalent shares**, **before additional RSU dilution**.
 
-| Driver / output | Conservative | Base | Optimistic |
-|---|---:|---:|---:|
-| FY2026 revenue starting point | 890.0 | 890.0 | 890.0 |
-| Organic growth assumption | 10.0% | **15.0%** | 20.0% |
-| Organic growth dollars | +89.0 | +133.5 | +178.0 |
-| ALGC + Piedmont full-year effect | +19.8 | +19.8 | +19.8 |
-| Allied full-year incremental contribution | +52.0 | +62.0 | +72.0 |
-| **FY2027 estimated revenue** | **1,051** | **1,105** | **1,160** |
-| FY2027 revenue growth vs. $890m | +18.1% | **+24.2%** | +30.3% |
-| **Adjusted EBITDA margin assumption** | **17.0%** | **17.5%** | **18.0%** |
-| **FY2027 adjusted EBITDA** | **178.7** | **193.4** | **208.8** |
-| **EV / EBITDA at $30/share, zero net debt** | **8.14x** | **7.52x** | **6.97x** |
+| Driver / output | Bearish | Conservative | Base | Optimistic |
+|---|---:|---:|---:|---:|
+| FY2026 revenue starting point | 890.0 | 890.0 | 890.0 | 890.0 |
+| Organic growth assumption | 5.0% | 10.0% | **15.0%** | 20.0% |
+| Organic growth dollars | +44.5 | +89.0 | +133.5 | +178.0 |
+| ALGC + Piedmont full-year effect | +19.8 | +19.8 | +19.8 | +19.8 |
+| Allied full-year incremental contribution | +42.0 | +52.0 | +62.0 | +72.0 |
+| **FY2027 estimated revenue** | **996.3** | **1,051** | **1,105** | **1,160** |
+| FY2027 revenue growth vs. $890m | +11.9% | +18.1% | **+24.2%** | +30.3% |
+| **Adjusted EBITDA margin assumption** | **14.5%** | **17.0%** | **17.5%** | **18.0%** |
+| **FY2027 adjusted EBITDA** | **144.5** | **178.7** | **193.4** | **208.8** |
+| **EV / EBITDA at $30/share, zero net debt** | **10.07x** | **8.14x** | **7.52x** | **6.97x** |
+
+**Bearish case:** slower organic demand, weaker project execution, delayed margin recovery and a smaller Allied contribution. This is a downside operating scenario, not a business-collapse case.
 
 **EV mechanics:** $25.06 × 48.479855m = **$1,214.9m**; $30 × 48.479855m = **$1,454.4m**. We assume zero *future* net financial debt solely for comparison. **Given Cardinal's acquisition-led growth strategy, funded through both share issuance and borrowing, the company could eventually carry more debt than cash.** This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
 

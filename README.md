@@ -112,10 +112,10 @@ A China consumer / technology thesis built around a profitable Retail + Logistic
 
 **Skills demonstrated:** segment analysis, normalized earnings, balance-sheet valuation, capital allocation, China consumer policy, optionality analysis.
 
-### 11. [Cardinal Infrastructure Group (CDNL) - Civil Infrastructure Roll-up](./cardinal-cdnl/README.md)
+### 11. [Cardinal Infrastructure Group (CDNL) - High-Growth Infrastructure Sell-Off & Insider Buying](./cardinal-cdnl/README.md)
 **Status:** Watchlist - **no current position** · **Preferred entry:** **around $20/share** · **Valuation target:** **above $30/share**
 
-A Southeastern US civil infrastructure contractor expanding through organic growth and acquisitions. My research focuses on fully converted Up-C valuation, adjusted EBITDA and cash-flow quality, insider alignment and the 2027 revenue/margin opportunity after ALGC, Piedmont Pipe and Allied Paving become full-year contributors. The base case assumes **$1.105bn FY2027 revenue**, **17.5% adjusted EBITDA margin** (~**$193m adjusted EBITDA**) and **zero net debt**; it explicitly models exchangeable LLC units and the tax receivable agreement.
+A rapidly growing Southeastern US infrastructure contractor whose shares have fallen sharply despite strong organic growth and substantial disclosed insider buying. My research focuses on fully converted Up-C valuation, adjusted EBITDA and cash-flow quality, insider alignment and the 2027 revenue/margin opportunity after ALGC, Piedmont Pipe and Allied Paving become full-year contributors. The base case assumes **$1.105bn FY2027 revenue**, **17.5% adjusted EBITDA margin** (~**$193m adjusted EBITDA**) and **zero net debt**; it explicitly models exchangeable LLC units and the tax receivable agreement.
 
 **Supporting research:** [CDNL Model Snapshot](./cardinal-cdnl/MODEL_SNAPSHOT.md)
 

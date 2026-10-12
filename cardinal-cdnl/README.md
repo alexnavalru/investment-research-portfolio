@@ -49,14 +49,14 @@ Subsequently, the **September 2026 credit facility** expanded commitments to **$
 
 Estimated economic ownership, **including disclosed insider purchases reviewed through October 12, 2026**:
 
-| Director / executive | Reported Class A / RSUs | Class B + LLC units | Economic equivalents | Ownership | Voting power (est.) |
-|---|---:|---:|---:|---:|---:|
-| Jeremy Spivey (CEO/chairman) | 83,350 | 12,229,848 | 12,313,198 | **25.40%** | ~25.40% |
-| Erik West (Cardinal NC COO) | 0 | 6,114,009 | 6,114,009 | **12.61%** | ~12.61% |
-| Mike Rowe (CFO) | 7,000 | 2,038,003 | 2,045,003 | **4.22%** | ~4.22% |
-| Anthony Wood (director / ALGC president) | 51,400 | 2,093,031 | 2,144,431 | **4.42%** | ~4.42% |
-| Benjamin Wood (group COO) | 45,700 | 2,093,031 | 2,138,731 | **4.41%** | ~4.41% |
-| **Total estimated** | **335,473** | **24,567,922** | **24,903,395** | **51.37%** | **~51.3%** |
+| Director / executive | Reported Class A / RSUs | Class B + LLC units | Economic equivalents | Ownership |
+|---|---:|---:|---:|---:|
+| Jeremy Spivey (CEO/chairman) | 83,350 | 12,229,848 | 12,313,198 | **25.40%** |
+| Erik West (Cardinal NC COO) | 0 | 6,114,009 | 6,114,009 | **12.61%** |
+| Mike Rowe (CFO) | 7,000 | 2,038,003 | 2,045,003 | **4.22%** |
+| Anthony Wood (director / ALGC president) | 51,400 | 2,093,031 | 2,144,431 | **4.42%** |
+| Benjamin Wood (group COO) | 45,700 | 2,093,031 | 2,138,731 | **4.41%** |
+| **Total estimated** | **335,473** | **24,567,922** | **24,903,395** | **51.37%** |
 
 **Management and board collectively own an estimated 51.37%** of CDNL, assuming **~48.5m fully exchanged Class A + B/LLC-equivalent shares** after the October 2026 Allied acquisition share issuance. The total **includes 148,023 reported Class A shares/RSUs held by five other insiders not shown individually**. B/LLC pairs are counted once, and voting power is approximate because unvested RSUs cannot vote. [2026 proxy](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [Allied 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm).
 

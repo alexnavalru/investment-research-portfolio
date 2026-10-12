@@ -1,11 +1,13 @@
-# Cardinal Infrastructure Group (CDNL) - Acquisition-Led Civil Infrastructure Platform
+# Cardinal Infrastructure Group (CDNL) - High-Growth Infrastructure Sell-Off & Insider Buying
 
-**Status:** Watchlist / active research; **no position**  
-**Preferred entry price:** **around $20 per share** 
-**Valuation objective:** **Above $30 per fully converted share**
-**Reference market price:** **$21.12**, close of October 9, 2026.  
-**Updated:** October 12, 2026  
-**Model:** [Financial model and ownership snapshot](./MODEL_SNAPSHOT.md)
+| Investment snapshot | Detail |
+|---|---|
+| **Status** | Watchlist / active research; **no position** |
+| **Preferred entry price** | **Around $20/share** |
+| **Valuation objective** | **Above $30 per fully converted share** |
+| **Reference market price** | **$21.12** (October 9, 2026 close) |
+| **Last updated** | October 12, 2026 |
+| **Model** | [Financial model and ownership snapshot](./MODEL_SNAPSHOT.md) |
 
 ## Business overview
 
@@ -196,8 +198,6 @@ Management expects better project scheduling, greater internal capabilities and 
 
 ## Publicly traded comparables — normalized enterprise value (October 9, 2026)
 
-**Method:** Compare the market value of **the full economic equity** plus financial debt, finance leases and the book-value proxy for any consolidated noncontrolling interests, less cash (and liquid marketable securities where identified). Operating leases are excluded consistently because their rent generally remains a cost in these companies' adjusted EBITDA; their liabilities can be included in a separate lease-adjusted analysis only if the EBITDA denominator is also adjusted. Prices are October 9, 2026 closing prices; underlying balance sheets are principally June 30, adjusted for specifically documented post-quarter capital-structure events. Amounts are approximately **USD millions**, apart from share prices, multiples and percentages.
-
 | Ticker / company | Share price | Fully economic market cap | Adjusted EV | EV / 2026E adj. EBITDA | 2026E adj. EBITDA margin | Net debt / 2026E EBITDA | Organic revenue growth |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | **CDNL – Cardinal** | **$21.12** | **$1,024m** | **$981m** | **6.5x** | **17.0%** | **-0.3x** | **+64% (Q2)** |
@@ -216,8 +216,6 @@ Management expects better project scheduling, greater internal capabilities and 
 **GVA — Granite Construction.** A larger, more diversified and more mature civil-infrastructure and materials platform, with considerable public-sector exposure. Its **~9.1x** multiple is a useful more conservative operating reference, but it requires care: a large June 2026 **convertible-note derivative liability was settled in August**, alongside cash payments, share issuance and an unwind of the related capped call. It must **not** be added on top of the cash/debt/equity consequences of its settlement.
 
 ### How I reconstruct CDNL's market cap and EV
-
-**CDNL equity value uses all economic A + B/LLC interests**, not merely publicly quoted A shares. At June 30, the operating-company equivalents were **20,238,610 Class A + 27,234,449 paired Class B/LLC**; Allied's October 1 closing added **1,006,796 Class A shares**. Hence **48,479,855 economic share equivalents** (excluding subsequent unverified movements and future RSUs). B shares and their corresponding LLC interests constitute **one**, not two, economic claims. Because all of those interests are already counted at market value, adding the related Up-C noncontrolling interests a second time would overstate EV.
 
 | CDNL bridge at October 9 close | USD m |
 |---|---:|
@@ -240,7 +238,7 @@ Management expects better project scheduling, greater internal capabilities and 
 
 - **STRL:** Approx. **30.6m shares × $513 = $15,698m equity**. June 30 **$283.9m debt - $464.5m cash + $33.2m noncontrolling interests (book-value proxy) = ~$15,730m EV**. Of that cash, around **$157.6m** sat in consolidated construction JVs, so freely available liquidity is less than the headline balance.
 - **ROAD:** Use **both economically equivalent Class A and B**, approximately **56.76m total shares × $86.81 = $4,927m**. June 30 gross borrowing principal was **$1,803.3m** with **$94.5m cash**, producing **~$6,636m EV**. Unlike CDNL, ROAD's B shares are directly economically equivalent to A without a separate Up-C LLC layer.
-- **GVA:** At June 30, Granite recognized a **$630.5m embedded-conversion derivative** for its 3.75% notes. **On August 12 those notes were settled:** Granite paid approximately **$715m cash**, issued **662,383 new shares**, and had received approximately **$148m cash** from closing the associated capped-call hedge. The pre-settlement derivative and notes must therefore **not remain as separate outstanding claims** in an October EV. An indicative pro forma bridge uses **(43.764m June shares + 0.662m new shares) × $112.50 ≈ $4,998m equity**; remaining debt principal **~$1,573.8m**, June cash **$877.1m** adjusted by **-$715m + $148m ≈ $310.1m**, marketable securities **$54.4m**, plus **$52.6m noncontrolling interests (book-value proxy)**: **~$6,260m EV** or **~9.1x EBITDA**. The **$600m 6.375% senior notes were already issued by June**, so do not add them again. The separate **3.25% convertible notes remain outstanding**, with potential premium dilution partly mitigated by capped calls; their principal is included in debt, not counted again as new common shares. This remains a documented-event pro forma estimate, not a completed September balance sheet.
+- **GVA:** Granite's **$630.5m June convertible derivative** was extinguished when its 3.75% notes settled in August. The October pro forma valuation accounts for **~$715m cash paid, ~$148m of capped-call proceeds and 662,383 new shares**, rather than counting the settled derivative again. Its separate 3.25% convertible notes remain in outstanding debt. Estimated **EV: ~$6.26bn (~9.1x 2026E EBITDA)**, subject to later balance-sheet updates.
 
 **Sources and check points:** [CDNL Q2 10-Q / shares, financial debt, TRA](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [CDNL Allied closing 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm) · [STRL Q2 10-Q](https://www.sec.gov/Archives/edgar/data/874238/000087423826000103/strl-20260630.htm) · [STRL Q2 guidance](https://www.sec.gov/Archives/edgar/data/874238/000087423826000100/a20260803ex991earningsrele.htm) · [ROAD Q2 calendar / fiscal Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1718227/000162828026054661/road-20260630.htm) · [ROAD FY2026 guidance](https://www.sec.gov/Archives/edgar/data/1718227/000162828026054592/exhibit991_earnings06302026.htm) · [GVA Q2 10-Q / convertible derivative, cash, NCI](https://www.sec.gov/Archives/edgar/data/861459/000086145926000029/gva-20260630.htm) · [GVA August convertible settlement 8-K](https://www.sec.gov/Archives/edgar/data/861459/000086145926000036/gva-20260811.htm) · [GVA FY2026 guidance](https://investor.graniteconstruction.com/news-and-events/press-releases/granite-reports-second-quarter-2026-results) · [October 9 closing prices: CDNL](https://stockanalysis.com/stocks/cdnl/history/), [STRL](https://stockanalysis.com/stocks/strl/history/), [ROAD](https://stockanalysis.com/stocks/road/history/), [GVA](https://stockanalysis.com/stocks/gva/history/).
 

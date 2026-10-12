@@ -136,7 +136,7 @@ The closest peers are ranked below by **business-model similarity to Amentum**, 
 
 **Peer valuation range:** The four closest peers (**V2X, KBR, SAIC and Leidos**) trade at **6.9x–10.9x adjusted EBITDA**, while the full six-peer universe spans **6.9x–15.9x**. **AMTM's current reference multiple is 7.2x**, placing it near the lower end. A simple average is misleading: CACI commands a substantial premium for a different, more technology-intensive mix.
 
-**Comparability notes:** Figures generally use 2026 adjusted EBITDA guidance or estimates, except **SAIC FY2027E** (fiscal year ending January 2027) and **CACI FY2026 actual** (year ended June 2026). Leidos' 13.5% margin is an analytical approximation rather than explicitly guided EBITDA. Enterprise values use market capitalization and recent net financial debt, with possible differences in lease and minority-interest adjustments across company data sources. Amentum's bridge is approximately **$19.29 × 244.5m shares = $4,716m market cap; plus $3,875m gross debt, less $459m cash = $8,132m EV**. Its **$1,127.5m** midpoint FY2026E adjusted EBITDA gives **~7.2x**. This date-specific comparison is separate from the **$18.50/share** reference used in the original internal model above.
+**Calculation basis:** October 9, 2026 share prices and latest reported net debt; **FY2026E adjusted EBITDA** for most peers, **FY2027E for SAIC** and **FY2026 actual for CACI**. Leidos' EBITDA margin is estimated.
 
 ## Potential Buyback Catalyst
 

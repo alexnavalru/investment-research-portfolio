@@ -2,7 +2,7 @@
 
 **Status:** Watchlist / active research; **no position**  
 **Preferred entry price:** **around $20 per share** 
-**Valuation objective:** **Above $30 per fully converted share**; this is a minimum personal target, not a company forecast.  
+**Valuation objective:** **Above $30 per fully converted share**
 **Reference market price:** **$21.12**, close of October 9, 2026.  
 **Updated:** October 12, 2026  
 **Model:** [Financial model and ownership snapshot](./MODEL_SNAPSHOT.md)

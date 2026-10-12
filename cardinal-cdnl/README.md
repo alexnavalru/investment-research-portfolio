@@ -62,9 +62,9 @@ Estimated economic ownership, **including disclosed insider purchases reviewed t
 
 ### Insider purchases and alignment
 
-**Open-market buys disclosed since the December 2025 IPO:** **289,518 Class A shares (~$10.68m)**, including **241,597 shares bought in 2026** (May–August). These are personal insider purchases, **not company buybacks**. No insider open-market sales were identified in the Form 4 filings reviewed through **October 12, 2026**; LLC-to-Class A exchanges are **not** sales.
+Insiders bought **289,518 Class A shares (~$10.68m)** in **December 2025 and May–August 2026** (**241,597 shares in 2026**). These were personal open-market purchases, not company buybacks. **No insider open-market sales were identified through October 12, 2026**; LLC-to-Class A exchanges are not sales.
 
-| Insider | Open-market shares bought (Dec. 2025–Aug. 2026) | Avg. purchase price | Approx. invested |
+| Insider | Shares bought | Avg. purchase price | Approx. invested |
 |---|---:|---:|---:|
 | Jeremy Spivey (CEO / Chairman) | 83,350 | ~$38.4 | $3.20m |
 | Benjamin Wood (COO) | 45,700 | ~$44.6 | $2.04m |

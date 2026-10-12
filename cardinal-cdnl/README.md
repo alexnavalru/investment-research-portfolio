@@ -208,9 +208,7 @@ Management expects better project scheduling, greater internal capabilities and 
 | **FY2027 adjusted EBITDA** | **144.5** | **178.7** | **193.4** | **208.8** |
 | **EV / EBITDA at $30/share, zero net debt** | **10.07x** | **8.14x** | **7.52x** | **6.97x** |
 
-**Bearish case:** slower organic demand, weaker project execution, delayed margin recovery and a smaller Allied contribution. This is a downside operating scenario, not a business-collapse case.
-
-**EV mechanics:** $25.06 × 48.479855m = **$1,214.9m**; $30 × 48.479855m = **$1,454.4m**. We assume zero *future* net financial debt solely for comparison. **Given Cardinal's acquisition-led growth strategy, funded through both share issuance and borrowing, the company could eventually carry more debt than cash.** This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
+**Given Cardinal's acquisition-led growth strategy, funded through both share issuance and borrowing, the company could eventually carry more debt than cash.** This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
 
 
 ## Publicly traded comparables — normalized enterprise value (October 9, 2026)

@@ -19,7 +19,7 @@ Cardinal is a vertically integrated civil site-development and infrastructure co
 3. **Asphalt upside:** Its **first asphalt plant** can lift margins and project capacity. **Future third-party sales** and a **possible second plant** offer upside, but neither is guaranteed or modeled. [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 4. **EBITDA margin recovery:** Management still sees **~20%+ adjusted EBITDA margins over time**, versus **16%–18% FY2026 guidance**. Better execution and vertical integration could unlock operating leverage; **FY2027 base assumes only 17.5%**.
 5. **Multiple re-rating:** CDNL trades at **~6.5x FY2026E adjusted EBITDA**, versus **~9x–17x** for the larger peers analyzed below. Demonstrated growth and margin recovery could narrow the discount, though peer differences matter.
-6. **Insider alignment:** Founder/CEO **Jeremy Spivey has ~25.4% estimated economic-equivalent ownership**; management and the board collectively have **~51.37%** on the reconstructed post-Allied share base, including reported insider purchases through October 12, 2026 (last observed in August). Disclosed open-market buys since the IPO total **289,518 shares (~$10.68m)**, including **241,597 purchased in 2026**. The April proxy contains a Spivey share-count inconsistency; see Ownership below.
+6. **Insider alignment:** Founder/CEO **Jeremy Spivey has ~25.4% estimated economic-equivalent ownership**; management and the board collectively have **~51.37%** on the reconstructed post-Allied share base, including reported insider purchases through October 12, 2026 (last observed in August). Disclosed open-market buys since the IPO total **289,518 shares (~$10.68m)**, including **241,597 purchased in 2026**.
 7. **Data centers:** Its **first disclosed project** is ahead of schedule with expanded scope. Today's exposure is early and unquantified; winning more projects could become a meaningful catalyst. [Q2 call](https://stockanalysis.com/stocks/cdnl/transcripts/666736-q2-2026/).
 8. **Speculative sale or take-private:** CDNL's small size and depressed valuation could attract a buyer or motivate insiders to privatize. **No deal is indicated; both scenarios are unlikely and complicated by the Up-C/TRA structure**, so neither underpins the valuation.
 
@@ -45,29 +45,20 @@ At **June 30, 2026**: **$339.1m cash**; **$199.5m note principal** plus **$7.5m 
 
 Subsequently, the **September 2026 credit facility** expanded commitments to **$550m** ($200m term loan, $100m revolver, $250m delayed draw), maturing in 2031. **Commitments are not the same as drawn debt.** Main financial covenants include net leverage **≤2.50x** and fixed-charge coverage **≥1.25x**. The **zero-net-debt FY2027 valuation assumption** reflects possible future acquisitions and is **not** a statement of current borrowings.
 
-### Ownership (as of October 12, 2026; reconstructed pro forma)
+### Ownership (as of October 12, 2026; pro forma)
 
-Ownership below **includes the open-market purchases disclosed through October 12, 2026** (latest identified purchases in August). It combines the most recent reported Class A positions with legacy LLC units paired with Class B, counted **once** rather than as both B and potentially exchangeable A shares.
+Estimated economic ownership, **including disclosed insider purchases reviewed through October 12, 2026**:
 
-| Director / executive | Reported Class A / RSUs¹ | Paired Class B + LLC units² | Economic equivalents | Economic ownership³ | Voting power (est.)⁴ |
+| Director / executive | Reported Class A / RSUs | Class B + LLC units | Economic equivalents | Ownership | Voting power (est.) |
 |---|---:|---:|---:|---:|---:|
 | Jeremy Spivey (CEO/chairman) | 83,350 | 12,229,848 | 12,313,198 | **25.40%** | ~25.40% |
 | Erik West (Cardinal NC COO) | 0 | 6,114,009 | 6,114,009 | **12.61%** | ~12.61% |
 | Mike Rowe (CFO) | 7,000 | 2,038,003 | 2,045,003 | **4.22%** | ~4.22% |
 | Anthony Wood (director / ALGC president) | 51,400 | 2,093,031 | 2,144,431 | **4.42%** | ~4.42% |
 | Benjamin Wood (group COO) | 45,700 | 2,093,031 | 2,138,731 | **4.41%** | ~4.41% |
-| Richard M. Lee (director) | 68,254 | 0 | 68,254 | 0.141% | ~0.14% |
-| Austin J. Shanfelter (director) | 11,529 | 0 | 11,529 | 0.024% | <0.024% |
-| Richard B. Wimmer (director) | 29,349 | 0 | 29,349 | 0.061% | ~0.06% |
-| Ivy Zelman (director) | 32,891 | 0 | 32,891 | 0.068% | ~0.07% |
-| Tiffany Gidley (general counsel) | 6,000 | 0 | 6,000 | 0.012% | ~0.01% |
-| **Total (estimated, no double counting)** | **335,473** | **24,567,922** | **24,903,395** | **51.37%** | **~51.3% (indicative)** |
+| **Total estimated** | **335,473** | **24,567,922** | **24,903,395** | **51.37%** | **~51.3%** |
 
-**Together, the named directors and executives have an estimated 51.37% economic-equivalent ownership in Cardinal**, including disclosed purchases through **October 12, 2026**. This is an analyst reconstruction, **not a company-certified October cap table**, and it should not be read as 51.37% of currently exercisable votes.
-
-¹ The Class A column uses latest reported holdings (SEC Forms 4 and proxy) and **may include unvested RSUs**, which do not yet confer votes. Consequently, reported holdings are not identical to currently issued/voting Class A shares. ² Each legacy LLC unit and its matching Class B voting share constitute **one** economic equivalent, not two. The **4,186,062** ALGC/ Diamond units issued in February 2026 are represented as **2,093,031 attributable to each Wood brother**; the acquisition filing confirms the total of 4,186,062 and the proxy assigns half to each. Do not also add the whole Diamond block. ³ Denominator: **48,479,855** A+B economic equivalents = **47,473,059** reported at June 30, 2026 (unchanged by subsequent A/B exchanges) + **1,006,796** Class A issued for Allied on October 1, before other possible net issuances or RSU dilution. ⁴ Each issued A or B has one vote; the vote estimates omit RSU voting until vesting and should be regarded as approximate.
-
-**Spivey filing discrepancy:** The April proxy's Class B column shows **8,261,392**, while its own accompanying note, voting percentage and his December 2025 Schedule 13G indicate **12,229,848** exchangeable units/related votes. The latter is used in this reconstruction; this discrepancy requires company-level reconciliation. [2026 proxy](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm) · [Spivey Schedule 13G](https://www.sec.gov/Archives/edgar/data/2079999/000121390026017484/xslSCHEDULE_13G_X01/primary_doc.xml) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [ALGC closing 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000121390026018087/ea0277248-8k_cardinal.htm) · [Allied closing 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm).
+**Management and board collectively own an estimated 51.37%** of CDNL, assuming **~48.5m fully exchanged Class A + B/LLC-equivalent shares** after the October 2026 Allied acquisition share issuance. The total **includes 148,023 reported Class A shares/RSUs held by five other insiders not shown individually**. B/LLC pairs are counted once, and voting power is approximate because unvested RSUs cannot vote. [2026 proxy](https://www.sec.gov/Archives/edgar/data/2079999/000119312526177393/cdnl-20260424.htm) · [H1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/2079999/000119312526345109/cdnl-20260630.htm) · [Allied 8-K](https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm).
 
 ### Insider purchases and alignment
 
@@ -85,7 +76,7 @@ Ownership below **includes the open-market purchases disclosed through October 1
 | Tiffany Gidley | 6,000 | $0.13m |
 | **Total** | **289,518** | **~$10.68m** |
 
-*Purchases are included in the Ownership table above through the **October 12, 2026** review cutoff (the latest identified buys occurred in August). The purchase figures include **47,921 shares from December 2025**; therefore, do not describe all 289,518 shares as 2026 purchases. Historical IPO redemptions are separate from open-market trades.* [SEC Form 4 activity](https://www.form4.ai/insider-trading/cdnl/) · [August Spivey Form 4](https://www.sec.gov/Archives/edgar/data/2079999/000121390026090854/xslF345X06/ownership.xml) · [August Lee Form 4](https://www.sec.gov/Archives/edgar/data/2079999/000121390026090858/xslF345X03/ownership.xml).
+*The Ownership estimates include these purchases as reviewed through October 12, 2026.* [SEC Form 4 activity](https://www.form4.ai/insider-trading/cdnl/).
 
 ## Operating KPIs - backlog, customers and geography
 

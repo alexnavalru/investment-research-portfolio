@@ -178,16 +178,5 @@ This case demonstrates how I approached a large-cap company experiencing a rapid
 
 **earnings shock → identify temporary vs. structural drivers → study management → test industry economics → normalize earnings → value the recovery → choose an instrument with enough duration**
 
-### Sources
-
-- UnitedHealth - Q1 2025 results and revised guidance
-- UnitedHealth - May 13, 2025 leadership transition
-- UnitedHealth - Q2 2025 management remarks
-- UnitedHealth - 2024 Form 10-K
-- SEC Form 4 - Stephen Hemsley open-market purchase
-- SEC Form 4 - John Rex open-market purchase
-- U.S. Senate - 2024 Medicare Advantage investigation
-- UnitedHealth - response to DOJ investigation
-- CMS - 2026 Medicare Advantage payment update
-
 > This is personal research prepared for professional portfolio purposes. The trade outcome is unaudited and is not presented as investment advice or audited investment performance.
+

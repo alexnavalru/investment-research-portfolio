@@ -42,8 +42,8 @@ The company also confirmed that the planned exit from Individual and Family Plan
 
 ### Public Sources
 
-- [FY2025 results / 2026 outlook](https://newsroom.thecignagroup.com/2026-02-05-The-Cigna-Group-Reports-Strong-Fourth-Quarter-and-Full-Year-2025-Results%2C-Establishes-2026-Outlook-and-Increases-Dividend)
-- [Q2 2026 results](https://newsroom.thecignagroup.com/2026-07-30-The-Cigna-Group-Reports-Strong-Second-Quarter-2026-Results,-Raises-2026-Outlook)
-- [Medicare business sale](https://newsroom.thecignagroup.com/the-cigna-group-completes-sale-of-medicare-and-careallies-businesses-to-hcsc)
+- FY2025 results / 2026 outlook
+- Q2 2026 results
+- Medicare business sale
 
 > Model outputs are based on my own assumptions and are not company guidance or investment advice.

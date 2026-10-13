@@ -157,21 +157,5 @@ This case shows how I connect:
 
 The research process used public filings, earnings calls, management commentary, ownership filings, segment financials and precedent transactions.
 
-### Sources
-
-- Lionsgate - separation announcement and strategic rationale
-- Lionsgate Studios 10-Q - separation terms and Class B distribution
-- Lionsgate - fiscal Q1 2027 film results, including Michael (subsequent outcome)
-- Starz FY2025 carve-out financial statements - cash flow, interest and separation disclosures
-- Starz 2026 Proxy - $80m–$120m unlevered FCF outlook and definition
-- Lionsgate / Screaming Eagle transaction FAQ - strategic optionality
-- SEC Schedule 13D - Liberty 77 ownership, January 2024
-- Lionsgate 10-K/A - Liberty 77 at 12.6% of Class A voting shares
-- Lionsgate ownership filing - Liberty 77 at approximately 13% post-separation
-- Lionsgate 2026 Proxy - Rachesky/MHR and Liberty 77 remain major shareholders
-- MHR Schedule 13D/A - July 2026 continuation-fund transaction
-- Liberty 77 Schedule 13D/A - January 2026 ownership
-- U.S. Treasury - Steven T. Mnuchin, 77th Treasury Secretary, 2017–2021
-- DOJ - 2023 Merger Guidelines retained in 2025
-
 > This case study is personal research for professional portfolio purposes and is not investment advice. The regulatory/M&A scenario was an investment hypothesis, not evidence that any government official would influence a transaction.
+

@@ -107,11 +107,5 @@ The value of the research is not that every catalyst works. It is the process of
 
 **Supporting research:** Comcast Model Snapshot
 
-### Sources
-
-- Comcast - Versant separation completed, January 2026
-- Comcast - Q2 2026 results
-- Comcast - NBCUniversal / Sky separation announcement
-- Comcast - Q2 2026 Form 10-Q
-
 > Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
+

@@ -192,7 +192,7 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 | **SOTP — Q2 net debt** (bearish / conservative / bullish) | $15.8 | $21.3 | $26.8 |
 | **SOTP — after $350m debt reduction** (bearish / conservative / bullish) | $17.1 | $22.6 | $28.2 |
 
-**Takeaway:** The valuation scenarios imply a broad **~$15.8–$31.5/share range**. My **SOTP uses conservative segment multiples**, yet its conservative scenario values LKQ at only **$21.3/share with Q2 net debt** or **$22.6 after deleveraging**, leaving limited margin of safety versus the **$22.10 reference price**. Importantly, the SOTP relies on **adjusted EBITDA**, so I need to verify that the company's adjustments and add-backs are genuinely justified and not recurring costs; otherwise the valuation could be overstated. **For these reasons, I would wait for a price around $20/share before considering an investment.** These are scenarios, not a formal price target.
+**Takeaway:** The valuation scenarios imply a broad **~$15.8–$31.5/share range**. My **SOTP uses conservative segment multiples**, yet its conservative scenario values LKQ at only **$21.3/share with Q2 net debt** or **$22.6 after deleveraging**, leaving limited margin of safety versus the **$22.10 reference price**. Importantly, the SOTP relies on **adjusted EBITDA**, so I need to verify that the company's adjustments and add-backs are genuinely justified and not recurring costs; otherwise the valuation could be overstated. **For these reasons, I would wait for a price around $20/share before considering an investment.**
 
 ## 7. Key risks and what to monitor
 
@@ -204,12 +204,5 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 6. **Working capital:** inventory is rising and cash conversion depends heavily on longer supplier payment terms (**DPO**). A reversal could reduce FCF.
 7. **Dividend risk:** a cut could initially hurt the share price, but redirecting cash to debt repayment might strengthen LKQ long term. **Not my base case**.
 
-## Primary sources and method
-- FY2026 Q2 results, guidance and reconciliation · Q2 2026 Form 10-Q
-- FY2025 Form 10-K · March 2026 DEF 14A
-- Formal group strategic review (26 Jan 2026) · Specialty sale process (4 Dec 2025)
-- Ancora + Engine board cooperation (Feb 2025) · Ananym activist pressure (31 Oct 2025, Reuters) · 2026 board update
-- **Historical drawdowns:** PortfoliosLab (2008, 2020 and 2026) · **Macro:** Fed's Sep 16 2026 statement · **Next event:** LKQ Q3 2026 scheduled for Oct 29
-- **Analyst calls (user's notes):** Q1 2026 and Q2 2026 Q&A, read critically; use 10-Q for reported accounting. **Historical models:** supplied `LKQ.xlsx`. **Peer and SOTP inputs:** supplied comparison screenshots, not independently time-synchronized market observations.
-
 > Educational personal investment research; assumptions may be wrong and transaction scenarios are uncertain.
+

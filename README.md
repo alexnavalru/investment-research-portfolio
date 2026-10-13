@@ -122,13 +122,15 @@ A rapidly growing Southeastern US infrastructure contractor whose shares have fa
 **Skills demonstrated:** construction-sector M&A, tax receivable agreements and Up-C accounting, financial modeling, insider ownership, EV/EBITDA scenarios.
 
 ### 12. [LKQ Corporation (LKQ): Restructuring, Activists & Strategic Review](./lkq-lkq/README.md)
-**Status:** Active thesis · **Reference:** ~$22.10/share (12 Oct 2026) · **Conservative segment SOTP:** **~$29.1/share** (conditional)
+**Status:** Watchlist / active research · **Preferred entry:** **around $20/share** · **Price target:** **not established** · **Reference:** $22.10/share (12 Oct 2026)
 
-A wholesale auto-parts distributor trading at roughly **6.6x my FY2026 adjusted EBITDA** and **8.5x CFO-minus-capex FCF**. The thesis focuses on activist-backed portfolio restructuring, normalizing European earnings after Germany's ERP disruption, applying free cash flow to debt, a possible Specialty divestiture and a potential **whole-company sale** (official strategic review, not a binding offer). I model **$350m FY2026 debt reduction after dividends**, not the $500m+ assumed in an earlier scenario. The main risks are German operational recovery, cash-conversion dependence on extended supplier terms, high leverage and the historical record of expensive buybacks.
+LKQ's roughly **59% drawdown from its peak** ranks with its worst historic declines (2008 and 2020), but I do **not** consider the stock especially cheap. On my FY2026 CFO-minus-capex FCF, the company trades at **~8–8.5x P/FCF** and **~14x EV/FCF including net debt** at the reference price (the latter mixes levered cash flow with enterprise value). The attraction is the **activist-driven strategic review**, possible **Specialty or whole-company disposal**, board/management changes, European restructuring and **cash-led deleveraging**, together with **scenario SOTP upside** rather than a formal target. A full-company sale is speculative; execution gains and lower leverage do not require it.
+
+I prefer to **wait for Q3 results on 29 Oct 2026** before committing: recent U.S. rate increases, weak repair demand and Germany's ERP disruption could force another guidance downgrade and create a better entry. A dividend reduction may cause short-term weakness but also improve debt repayment capacity if cash generation holds up. The conservative **~$29.11/share** sum-of-parts case assumes only **$350m net-debt improvement from Q2** and is **a scenario, not a target**.
 
 **Supporting research:** [LKQ Model Snapshot](./lkq-lkq/MODEL_SNAPSHOT.md)
 
-**Skills demonstrated:** sum-of-the-parts valuation, working capital cycle, activist and strategic review analysis, leadership alignment and cash-flow-led deleveraging.
+**Skills demonstrated:** sum-of-the-parts valuation, working capital, strategic reviews, management/incentive analysis, leveraged FCF and deleveraging.
 
 ## Research Approach
 

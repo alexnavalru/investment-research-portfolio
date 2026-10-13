@@ -192,7 +192,7 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 | **SOTP — Q2 net debt** (bearish / conservative / bullish) | $15.8 | $21.3 | $26.8 |
 | **SOTP — after $350m debt reduction** (bearish / conservative / bullish) | $17.1 | $22.6 | $28.2 |
 
-**Takeaway:** across these assumptions, the implied price range is **~$15.8–$31.5/share**. The most conservative SOTP scenario yields **$21.3/share with Q2 debt** or **$22.6 after deleveraging**, versus the **$22.10 reference price**. Comparables provide context for selecting multiples but do not create a separate price range. These are **scenario outputs, not a formal price target**; my preferred entry remains **around $20/share**.
+**Takeaway:** across these assumptions, the implied price range is **~$15.8–$31.5/share**. The **conservative (middle) SOTP scenario** yields **$21.3/share with Q2 debt** or **$22.6 after deleveraging**, versus the **$22.10 reference price**. Comparables provide context for selecting multiples but do not create a separate price range. These are **scenario outputs, not a formal price target**; my preferred entry remains **around $20/share**.
 
 
 ## 7. Key risks and what to monitor

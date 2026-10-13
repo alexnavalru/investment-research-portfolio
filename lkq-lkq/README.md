@@ -137,7 +137,7 @@ Working capital is trade receivables **+** inventory **−** trade payables. All
 ## 6. Valuation — own model, competitors and SOTP
 At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**; plus **$3.660bn Q2 net debt** gives EV **~$9.25bn** before minor residual interests. With FY2026 $1.410bn adjusted EBITDA: **~6.6x EV/EBITDA**. At FY2026 adjusted EPS midpoint $2.75, **~8.0x P/E**. At $660m adjusted model FCF, **~8.5x P/FCF**, or **~11.8% FCF yield**. 
 
-**Historic drawdown and entry discipline:** LKQ has declined **~58.8% from its peak**, among its steepest historical drawdowns, surpassed by **2008 (~62.8%)** and **2020 (~68.0%)** in the referenced series. Yet a historic fall does **not** make the shares automatically cheap. At the **$22.10 reference price** and **$660m FY2026E FCF (CFO − CAPEX)**, LKQ trades at **~8.5x P/FCF** or **~14.0x EV/FCF including net debt**; EV/FCF is only a leverage-aware cross-check because CFO already includes interest. **I do not see an obvious bargain: my preferred entry is around $20, with no price target.** A whole-company sale is speculative; restructuring and deleveraging could unlock value without it. The **$29.11 conservative SOTP** is a conditional valuation scenario, **not a target price**.
+**Historic drawdown and entry discipline:** LKQ has declined **~58.8% from its peak**, among its steepest historical drawdowns, surpassed by **2008 (~62.8%)** and **2020 (~68.0%)** in the referenced series. Yet a historic fall does **not** make the shares automatically cheap. At the **$22.10 reference price** and **$660m FY2026E FCF (CFO − CAPEX)**, LKQ trades at **~8.5x P/FCF** or **~14.0x EV/FCF including net debt**; EV/FCF is only a leverage-aware cross-check because CFO already includes interest. **I do not see an obvious bargain: my preferred entry is around $20, with no price target.** A whole-company sale is speculative; restructuring and deleveraging could unlock value without it. The **$23.1 conservative SOTP after assumed H2 debt reduction** is a conditional valuation scenario, **not a target price**.
 
 | Single-method multiples | Low | Mid | High |
 |---|---:|---:|---:|
@@ -164,18 +164,24 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 
 **AAP caveat (*):** AAP is undergoing a turnaround and serves both professional and DIY customers. The apparent **5.9x / 13.7% / 2.1x** in the screenshot should **not be compared as if they were EBITDA-based**. AAP reports **~$1.17bn adjusted EBITDAR** and **2.1x adjusted net debt / adjusted EBITDAR** in Q2 2026; **$6.88bn EV ÷ $1.17bn EBITDAR ≈ 5.9x**, and the 13.7% margin is consistent with EBITDAR, not a verified EBITDA margin. AAP's lease/rent adjustments make it **an imperfect multiple benchmark**.
 
-### FY2026 sum-of-the-parts — revised to $350m deleveraging
-2026 operating case assumes **North America $830m**, **Europe $480m**, **Specialty $100m** EBITDA. The model's segment revenue total of **$13.55bn** does not yet reconcile with the separate **$13.378bn** consolidated FY2026 revenue estimate; the **$172m difference** remains open for verification. This scenario assigns lower multiples to Europe and Specialty than to North America. Q2 2026 net debt = **$3,660m**. Assume **$350m FCF-funded reduction** → **$3,310m year-end net debt**. Indicative **$24m minorities** from the original worksheet screenshot; **253m shares**. *No sales proceeds, breakup expenses, transaction taxes, buyer premium or new M&A are modelled.*
+### FY2026 sum-of-the-parts (SOTP)
 
-| Scenario | NA / Europe / Specialty EV/EBITDA | SOTP EV ($m) | Equity ($m) | Value/share | vs $22.10 |
-|---|---|---:|---:|---:|---:|
-| Conservative | 8.0x / 7.0x / 7.0x | 10,700 | 7,366 | $29.11 | +31.7% |
-| Base | 9.0x / 8.0x / 8.0x | 12,110 | 8,776 | $34.69 | +57.0% |
-| Favorable | 10.0x / 9.0x / 9.0x | 13,520 | 10,186 | $40.26 | +82.2% |
+| Segment | Revenue FY2026E ($m) | Adjusted EBITDA FY2026E ($m) | EBITDA margin |
+|---|---:|---:|---:|
+| North America | 5,800 | 830 | 14.3% |
+| Europe | 6,000 | 480 | 8.0% |
+| Specialty | 1,750 | 100 | 5.7% |
+| **Total** | **13,550** | **1,410** | **10.4%** |
 
-**My downside-aware interpretation:** the **$29.11 conservative SOTP is conditional on maintaining $1.410bn EBITDA**. At lower EBITDA, with cost of a sale and delayed restructuring, the result can be substantially below the table. For reference, **10% EBITDA shortfall**, holding component multiples fixed, lowers the conservative EV by ~$1.07bn (~**$4.23/share**) before any extra costs.
+| Scenario | NA multiple | Europe multiple | Specialty multiple | EV ($m) | Equity with Q2 debt ($m) | $/share Q2 | $/share after H2 debt reduction |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **Conservative** | 7.0x | 6.0x | 5.0x | **9,190** | 5,506 | **$21.8** | **$23.1** |
+| **Base** | 8.0x | 7.0x | 6.0x | **10,600** | 6,916 | **$27.3** | **$28.7** |
+| **Favorable** | 9.0x | 8.0x | 7.0x | **12,010** | 8,326 | **$32.9** | **$34.3** |
 
-**Why the older image shows $23.6/$29.1/$34.6 per share:** it uses an entirely **different EV base** ($9.064bn/$10.456bn/$11.848bn) and about **$580m debt reduction**. The corrected values *under that old EV basis and $350m deleveraging* would be ~**$22.7 / $28.2 / $33.7**, not the old image numbers. **Do not mix those older EVs with the FY2026 segment EBITDA SOTP EVs ($10.7bn/$12.11bn/$13.52bn).** The model snapshot documents both cases.
+**Assumptions:** EV = sum of segment EBITDA × assigned multiple. Equity = EV − net debt − **$24m minority interests**; divide by **253m shares**. Net debt is **$3,660m at Q2 2026**, or **$3,310m after an assumed $350m reduction in H2**. No divestiture proceeds are included. These are valuation scenarios, not a price target or a confirmed sale.
+
+*Model note:* segment revenues total **$13.55bn** versus **$13.378bn** in my separate consolidated FY2026 estimate; this difference remains unreconciled.
 
 ## 7. Key risks and what to monitor
 

@@ -1,5 +1,5 @@
 # LKQ — 2017–2027 Financial Model Snapshot
-**As of 13 Oct 2026.** Companion to [full thesis](./README.md). USD. Historical series from the user's LKQ.xlsx; models are assumptions, not company guidance.
+**As of 13 Oct 2026.** Companion to [full thesis](./README.md). **Watchlist entry: around $20/share; no price target.** USD. Historical series from the user's LKQ.xlsx; models are assumptions, not company guidance. Values produced by P/E, EV/EBITDA, P/FCF or SOTP are scenario outputs, not a declared target.
 
 ## 1. Historical P&L, free cash flow and leverage
 Revenue, debt = USD **billions**; FCF and dividends = USD **millions**. FCF = CFO minus all capex; adjusted EBITDA margin and adjusted EPS follow user's workbook.
@@ -73,6 +73,11 @@ Spot 12 Oct 2026: **$22.10**. Use **253m spot shares** (~$5,591m market cap); of
 | P/FCF | $5,591m/$660m | **8.47x** |
 | FCF yield | $660m/$5,591m | **11.8%** |
 | Dividend yield | $1.20 annual rate/$22.10 | **5.43%** |
+| Enterprise value / levered FCF (non-standard cross-check) | ($5,591m+$3,660m)/$660m | **14.02x** |
+
+**Entry / interpretation:** On rounded inputs these are around **8–8.5x equity P/FCF** and **14–14.3x EV/FCF including net debt**. Because CFO/FCF already includes net interest paid, EV/FCF is a **mixed enterprise/levered-cash-flow multiple**, best used only as a supplementary leverage-aware reference. It does not mean the company is especially cheap. My preferred entry is **~$20**, with **no formal target price**; the SOTP range merely tests whether capital actions and restructuring could unlock value. The share price has experienced a ~**58.8%** historical drawdown on a total-return series, comparable in scale with 2008 (~62.8%) and 2020 (~68.0%): [PortfoliosLab](https://portfolioslab.com/symbol/LKQ).
+
+**Near-term Q3 risk:** [LKQ reports on 29 Oct 2026](https://investor.lkqcorp.com/news/news-details/2026/LKQ-Corporation-to-Release-Third-Quarter-2026-Results-on-Thursday-October-29-2026/default.aspx). German ERP disruption and weak U.S. repair demand could cause another guidance reduction. [U.S. policy rates rose 25bp to 3.75–4.0% in September 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm). Waiting may reveal a better entry; risks may also prove already priced in. A possible dividend cut is not in the base model: despite near-term share-price risk, reallocating part of **$310m dividends** to debt could accelerate deleveraging if sustainable FCF remains.
 
 | Fair value method | Low | Base | High |
 |---|---:|---:|---:|

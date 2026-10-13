@@ -121,6 +121,15 @@ A rapidly growing Southeastern US infrastructure contractor whose shares have fa
 
 **Skills demonstrated:** construction-sector M&A, tax receivable agreements and Up-C accounting, financial modeling, insider ownership, EV/EBITDA scenarios.
 
+### 12. [LKQ Corporation (LKQ): Restructuring, Activists & Strategic Review](./lkq-lkq/README.md)
+**Status:** Active thesis · **Reference:** ~$22.10/share (12 Oct 2026) · **Conservative segment SOTP:** **~$29.1/share** (conditional)
+
+A wholesale auto-parts distributor trading at roughly **6.6x my FY2026 adjusted EBITDA** and **8.5x CFO-minus-capex FCF**. The thesis focuses on activist-backed portfolio restructuring, normalizing European earnings after Germany's ERP disruption, applying free cash flow to debt, a possible Specialty divestiture and a potential **whole-company sale** (official strategic review, not a binding offer). I model **$350m FY2026 debt reduction after dividends**, not the $500m+ assumed in an earlier scenario. The main risks are German operational recovery, cash-conversion dependence on extended supplier terms, high leverage and the historical record of expensive buybacks.
+
+**Supporting research:** [LKQ Model Snapshot](./lkq-lkq/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** sum-of-the-parts valuation, working capital cycle, activist and strategic review analysis, leadership alignment and cash-flow-led deleveraging.
+
 ## Research Approach
 
 My default process is:

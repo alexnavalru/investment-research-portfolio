@@ -173,16 +173,18 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 **Why the older image shows $23.6/$29.1/$34.6 per share:** it uses an entirely **different EV base** ($9.064bn/$10.456bn/$11.848bn) and about **$580m debt reduction**. The corrected values *under that old EV basis and $350m deleveraging* would be ~**$22.7 / $28.2 / $33.7**, not the old image numbers. **Do not mix those older EVs with the FY2026 segment EBITDA SOTP EVs ($10.7bn/$12.11bn/$13.52bn).** The model snapshot documents both cases.
 
 ## 7. FY2026–FY2027 outlook, debt and dividend
-| Metric | FY2026 official Q2 guidance | My FY2026 assumption | My FY2027 assumption |
-|---|---:|---:|---:|
-| Revenue | No comparable full-year consolidated revenue target in Q2 headline guidance | **$13.378bn** (-2% vs workbook 2025) | **$13.512bn** (+1%) |
-| Adjusted EBITDA | No consolidated FY target stated in the Q2 headline guidance | **$1.410bn** (10.54%) | **$1.414bn** (~10.46%) |
-| Adjusted EPS | **$2.60–$2.90** | $2.75 midpoint for valuation | ~$2.8 illustrative; not guidance |
-| CFO | **$825–1,025m** | **$860m** | **$869m** (~+1%) |
-| Total capex | FCF implied within guidance | **$200m** | **$202m** |
-| **FCF = CFO – capex** | **$625–775m** | **$660m** | **$667m** |
-| Dividends | Board discretion | **$310m** | **$310m** |
-| **Residual for net debt paydown** | Not guaranteed | **$350m** | **$357m** |
+| Metric | My FY2026 assumption | My FY2027 assumption |
+|---|---:|---:|
+| Revenue | **$13.378bn** (-2% vs workbook 2025) | **$13.512bn** (+1%) |
+| Adjusted EBITDA | **$1.410bn** (10.54%) | **$1.414bn** (~10.46%) |
+| Adjusted EPS | **$2.75** midpoint assumption | ~$2.8 illustrative; not guidance |
+| CFO | **$860m** | **$869m** (~+1%) |
+| Total capex | **$200m** | **$202m** |
+| **FCF = CFO – capex** | **$660m** | **$667m** |
+| Dividends | **$310m** | **$310m** |
+| **Assumed net debt paydown** | **$350m** | **$350m** |
+
+For 2027, **$667m FCF − $310m dividends = $357m** before other uses; the assumed **$350m debt reduction** leaves a **$7m cash buffer**. These are my model assumptions, not company guidance.
 
 **Critical arithmetic:** at the **absolute $625m FCF low point**, after $310m dividends there is only **$315m** for debt, *not* $350m. The $350m annual FCF-after-dividend capacity assumes **$660m FCF**. Importantly, the SOTP's **$350m net-debt decline from the Q2 balance** is a separate conservative estimate: H1 FCF was **-$36m**, with **$154m dividends and $53m actual repurchases**. At $660m annual FCF, H2 would contribute ~$696m FCF; after ~$156m H2 dividends, ~$540m would remain before other uses. The $350m Q2-to-year-end assumption conservatively reserves ~$190m for other uses/FX movements, which are not individually modelled. This is an assumption, not a reconciled management debt bridge. This is more conservative than the earlier user-provided $500m+ debt-reduction screenshot. Proceeds from any Specialty sale would be **separate** and are **not included**.
 

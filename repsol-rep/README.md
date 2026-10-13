@@ -240,22 +240,22 @@ The core analytical framework is:
 
 **peak commodity prices + peak refining margins → unusually high FCF → optically low multiple → normalize the cycle → materially lower sustainable FCF → lower fair value**
 
-**Supporting research:** [Repsol Model Snapshot](./MODEL_SNAPSHOT.md)
+**Supporting research:** Repsol Model Snapshot
 
 ### Sources
 
-- [Repsol - 2026–2028 macro assumptions and sensitivities](https://www.repsol.com/en/accionistas-inversores/informacion-economica-financiera/index.cshtml)
-- [Repsol - FY2025 earnings-call transcript, including ~$1.4/bbl budgeted refining premium](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/resultados/2025/4t/transcripcion-webcast-4t25.pdf)
-- [Repsol - April 2026 presentation: 2026 guidance and official macro sensitivities](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori30042026-presentation-on-results-first-quarter-2026.pdf)
-- [Repsol - Q1 2026 results call: $5.7/bbl refining premium](https://uk.investing.com/news/stock-market-news/earnings-call-transcript-repsols-q1-2026-earnings-rise-amid-strong-industrial-gains-93CH-4640994)
-- [Repsol - Q2 2026 earnings call: $10/bbl Q2 premium, $34 + $9/bbl July reference and refining outlook](https://earningsapi.io/transcripts/repsol-s-a_rep_earnings_call_transcript_2026-07-23)
-- [Repsol - March 2026 Capital Markets Day transcript: U.S. gas hedging collar](https://www.repsol.com/content/dam/repsol-corporate/es/conocenos/documentos-conocenos/transcripcion-webcast-capital-markets-day.pdf)
-- [Repsol - provisional Q3 2026 trading statement, October 6](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori06102026-trading-statement-3q26.pdf)
-- [Repsol - Capital Markets Day 2026–2028](https://www.repsol.com/en/press-room/press-releases/2026/repsol-invest-10-billion-euros-2028-more-than-half-spain-portugal/index.cshtml)
-- [Repsol - Q2 2026 results](https://www.repsol.com/en/shareholders-and-investors/financial-information/quarterly-results/index.cshtml)
-- [Repsol - FY2025 results and new reporting model](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/rif/2026/rif19022026-press-release-results-year-2025.pdf)
-- [Reuters - oil around $100/bbl amid October 2026 geopolitical supply risks](https://www.reuters.com/business/energy/oil-prices-rise-storms-air-strikes-threaten-supply-2026-10-07/)
-- [Repsol - 2026 cash dividend](https://www.repsol.com/es/accionistas-inversores/club-accionistas/actualidad-en-accion/club-accionistas/repsol-aprueba-junta-retribucion-alza/index.cshtml)
-- [Repsol historical price - October 6, 2026](https://es.investing.com/equities/repsol-ypf-historical-data)
+- Repsol - 2026–2028 macro assumptions and sensitivities
+- Repsol - FY2025 earnings-call transcript, including ~$1.4/bbl budgeted refining premium
+- Repsol - April 2026 presentation: 2026 guidance and official macro sensitivities
+- Repsol - Q1 2026 results call: $5.7/bbl refining premium
+- Repsol - Q2 2026 earnings call: $10/bbl Q2 premium, $34 + $9/bbl July reference and refining outlook
+- Repsol - March 2026 Capital Markets Day transcript: U.S. gas hedging collar
+- Repsol - provisional Q3 2026 trading statement, October 6
+- Repsol - Capital Markets Day 2026–2028
+- Repsol - Q2 2026 results
+- Repsol - FY2025 results and new reporting model
+- Reuters - oil around $100/bbl amid October 2026 geopolitical supply risks
+- Repsol - 2026 cash dividend
+- Repsol historical price - October 6, 2026
 
 > This is a bearish research case, not a recommendation to short the stock. Commodity-cycle timing is inherently uncertain. Model outputs are personal assumptions and are not company guidance.

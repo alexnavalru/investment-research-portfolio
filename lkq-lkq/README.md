@@ -92,12 +92,12 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 
 | Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| **CFO ($bn)** | 0.519 | 0.711 | 1.064 | 1.444 | 1.367 | 1.250 | 1.356 | 1.121 | 1.063 | 0.825* |
+| **CFO ($bn)** | 0.519 | 0.711 | 1.064 | 1.444 | 1.367 | 1.250 | 1.356 | 1.121 | 1.063 | **0.860*** |
 | **CAPEX ($bn)** | 0.179 | 0.250 | 0.266 | 0.173 | 0.293 | 0.222 | 0.358 | 0.311 | 0.216 | 0.200* |
-| **FCF = CFO − CAPEX ($bn)** | 0.340 | 0.461 | 0.798 | 1.271 | 1.074 | 1.028 | 0.998 | 0.810 | 0.847 | 0.625–0.775* |
-| **FCF / diluted share ($)** | 1.09 | 1.46 | 2.57 | 4.17 | 3.61 | 3.70 | 3.72 | 3.07 | 3.29 | 2.45–3.04* |
+| **FCF = CFO − CAPEX ($bn)** | 0.340 | 0.461 | 0.798 | 1.271 | 1.074 | 1.028 | 0.998 | 0.810 | 0.847 | **0.660*** |
+| **FCF / diluted share ($)** | 1.09 | 1.46 | 2.57 | 4.17 | 3.61 | 3.70 | 3.72 | 3.07 | 3.29 | **2.59*** |
 
-**FCF definition:** **cash flow from operations (CFO) − total CAPEX**. This is my preferred measure of shareholder cash-generation capacity. Despite softer earnings, LKQ still generated approximately **$847m consolidated FCF in 2025**. The FY2026 Q2 guidance range is **$625–775m**, indicating pressure on cash generation.
+**FCF definition:** **cash flow from operations (CFO) − total CAPEX**. This is my preferred measure of shareholder cash-generation capacity. Despite softer earnings, LKQ generated approximately **$847m consolidated FCF in 2025**. My **2026E FCF assumption is $660m**, near the lower end of management's **$625–775m Q2 guidance**, reflecting weaker cash generation.
 
 **Comparability of Self-Service:** These historical 2024–2025 rows use **consolidated reported CFO and total CAPEX**, matching the screenshots (**2024: $1,121m − $311m = $810m; 2025: $1,063m − $216m = $847m**). My separate **continuing-business normalization** excludes estimated Self-Service cash contribution: approximately **$770m FCF in 2024** and **$797m in 2025**. Do **not** confuse these adjusted figures with the consolidated cash-flow statement or the FCF/share values in the table.
 
@@ -113,7 +113,7 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 
 **Trend:** Debt grew materially again after 2022, reaching **$4.28bn gross in 2023**. The reduction to **$3.70bn in 2025** is encouraging, but leverage remains an important constraint. The table's leverage uses **year-end net debt / modeled adjusted EBITDA**; it is **not necessarily the company's covenant leverage ratio**. Diluted shares fell substantially, partly reflecting large past buybacks. LKQ introduced cash dividends in 2021, creating an ongoing cash commitment.
 
-**2026E assumptions (*)**: The cash-flow table shows **$825m CFO and $200m CAPEX as an illustrative low-end case**, equal to **$625m FCF**. The **$625–775m FCF / $2.45–3.04 per-share ranges** come from Q2 guidance, so the high endpoint does **not** follow from subtracting the displayed $200m CAPEX from $825m CFO. My central valuation/outlook section separately models **$860m CFO − $200m CAPEX = $660m FCF**, after which I assume roughly **$310m dividends**. **$3.611bn gross and $3.310bn net debt at end-2026 are my scenario estimates**, assuming a **$350m improvement from Q2 net debt** and about **$301m cash**, rather than FY2026 published debt guidance. Approximate diluted shares of **254.6m** are a FY2026 weighted-average assumption.
+**2026E assumptions (*)**: All FY2026E columns now use **the same base case: $860m CFO − $200m CAPEX = $660m FCF**, or **~$2.59 per diluted share** using approximately **254.6m diluted shares**. Assuming **$310m annual dividends**, this leaves **$350m of annual FCF after dividends before other cash uses**. The **$3.611bn gross / $3.310bn net debt** and **~2.35x net debt / EBITDA** are my **year-end scenario**, based on **$350m net-debt improvement from Q2** and about **$301m cash**, not published debt guidance. The *annual FCF-after-dividends* and *Q2-to-year-end debt reduction* are separate periods: H1 FCF was **−$36m**, meaning modeled H2 FCF would be **~$696m**, leaving **~$540m after estimated H2 dividends** before other uses. Assuming only **$350m** of Q2-to-year-end debt reduction reserves roughly **$190m for other cash uses and balance-sheet movements**. This is an assumption rather than a fully reconciled cash bridge; Specialty sale proceeds are excluded.
 
 ### Working capital and cash conversion (2017–2025)
 

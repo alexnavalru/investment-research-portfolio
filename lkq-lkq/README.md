@@ -137,7 +137,7 @@ Working capital is trade receivables **+** inventory **−** trade payables. All
 ## 6. Valuation — own model, competitors and SOTP
 At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**; plus **$3.660bn Q2 net debt** gives EV **~$9.25bn** before minor residual interests. With FY2026 $1.410bn adjusted EBITDA: **~6.6x EV/EBITDA**. At FY2026 adjusted EPS midpoint $2.75, **~8.0x P/E**. At $660m adjusted model FCF, **~8.5x P/FCF**, or **~11.8% FCF yield**. 
 
-**Historic drawdown and entry discipline:** LKQ has declined **~58.8% from its peak**, among its steepest historical drawdowns, surpassed by **2008 (~62.8%)** and **2020 (~68.0%)** in the referenced series. Yet a historic fall does **not** make the shares automatically cheap. At the **$22.10 reference price** and **$660m FY2026E FCF (CFO − CAPEX)**, LKQ trades at **~8.5x P/FCF** or **~14.0x EV/FCF including net debt**; EV/FCF is only a leverage-aware cross-check because CFO already includes interest. **I do not see an obvious bargain: my preferred entry is around $20, with no price target.** A whole-company sale is speculative; restructuring and deleveraging could unlock value without it. The **$23.1 conservative SOTP after assumed H2 debt reduction** is a conditional valuation scenario, **not a target price**.
+**Historic drawdown and entry discipline:** LKQ has declined **~58.8% from its peak**, among its steepest historical drawdowns, surpassed by **2008 (~62.8%)** and **2020 (~68.0%)** in the referenced series. Yet a historic fall does **not** make the shares automatically cheap. At the **$22.10 reference price** and **$660m FY2026E FCF (CFO − CAPEX)**, LKQ trades at **~8.5x P/FCF** or **~14.0x EV/FCF including net debt**; EV/FCF is only a leverage-aware cross-check because CFO already includes interest. **I do not see an obvious bargain: my preferred entry is around $20, with no price target.** A whole-company sale is speculative; restructuring and deleveraging could unlock value without it. The **$22.6 conservative SOTP after assumed H2 debt reduction** is a conditional valuation scenario, **not a target price**.
 
 | Single-method multiples | Low | Mid | High |
 |---|---:|---:|---:|
@@ -166,22 +166,22 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 
 ### FY2026 sum-of-the-parts (SOTP)
 
-| Segment | Revenue FY2026E ($m) | Adjusted EBITDA FY2026E ($m) | EBITDA margin |
+| Segment | Revenue FY2026E ($m) | EBITDA FY2026E ($m) | EBITDA margin |
 |---|---:|---:|---:|
-| North America | 5,800 | 830 | 14.3% |
+| North America | 5,800 | 812 | 14.0% |
 | Europe | 6,000 | 480 | 8.0% |
 | Specialty | 1,750 | 100 | 5.7% |
-| **Total** | **13,550** | **1,410** | **10.4%** |
+| **Total** | **13,550** | **1,392** | **10.3%** |
 
 | Scenario | NA multiple | Europe multiple | Specialty multiple | EV ($m) | Equity with Q2 debt ($m) | $/share Q2 | $/share after H2 debt reduction |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| **Conservative** | 7.0x | 6.0x | 5.0x | **9,190** | 5,506 | **$21.8** | **$23.1** |
-| **Base** | 8.0x | 7.0x | 6.0x | **10,600** | 6,916 | **$27.3** | **$28.7** |
-| **Favorable** | 9.0x | 8.0x | 7.0x | **12,010** | 8,326 | **$32.9** | **$34.3** |
+| **Bearish** | 6.0x | 5.0x | 4.0x | **7,672** | 3,988 | **$15.8** | **$17.1** |
+| **Conservative** | 7.0x | 6.0x | 5.0x | **9,064** | 5,380 | **$21.3** | **$22.6** |
+| **Bullish** | 8.0x | 7.0x | 6.0x | **10,456** | 6,772 | **$26.8** | **$28.2** |
 
-**Assumptions:** EV = sum of segment EBITDA × assigned multiple. Equity = EV − net debt − **$24m minority interests**; divide by **253m shares**. Net debt is **$3,660m at Q2 2026**, or **$3,310m after an assumed $350m reduction in H2**. No divestiture proceeds are included. These are valuation scenarios, not a price target or a confirmed sale.
+**Assumptions:** EV = sum of segment EBITDA × assigned multiple. Equity = EV − net debt − **$24m minority interests**; divide by **253m shares**. Net debt is **$3,660m at Q2 2026**, or **$3,310m after an assumed $350m reduction in H2**. No divestiture proceeds are included; these scenarios are not price targets.
 
-*Model note:* segment revenues total **$13.55bn** versus **$13.378bn** in my separate consolidated FY2026 estimate; this difference remains unreconciled.
+*Model note:* the SOTP assumes **$1,392m segment EBITDA** and **$13,550m segment revenue**, compared with **$1,410m EBITDA** and **$13,378m revenue** in the separate consolidated FY2026 model. These differences remain unreconciled.
 
 ## 7. Key risks and what to monitor
 

@@ -80,26 +80,26 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 
 | Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| **Revenue ($bn)** | 9.74 | 11.88 | 12.51 | 11.63 | 13.09 | 12.79 | 13.27 | 13.82 | 13.65 | 13.38 |
-| **Revenue YoY** | — | +22% | +5% | −7% | +13% | −2% | +4% | +4% | −1% | −2% |
-| **Adjusted EBITDA ($bn)** | 1.12 | 1.25 | 1.33 | 1.37 | 1.79 | 1.72 | 1.71 | 1.69 | 1.51 | 1.41 |
-| **Adjusted EBITDA margin** | 11.5% | 10.5% | 10.6% | 11.8% | 13.6% | 13.4% | 12.9% | 12.2% | 11.1% | 10.5% |
+| **Revenue ($bn)** | 9.74 | 11.88 | 12.51 | 11.63 | 13.09 | 12.79 | **13.87** | 13.82 | 13.65 | 13.38 |
+| **Revenue YoY** | — | +22% | +5% | −7% | +13% | −2% | **+8.4%** | **−0.3%*** | −1% | −2% |
+| **Adjusted EBITDA ($bn)** | 1.12 | 1.25 | 1.33 | 1.37 | 1.79 | 1.72 | **1.76** | 1.69 | 1.51 | 1.41 |
+| **Adjusted EBITDA margin** | 11.5% | 10.5% | 10.6% | 11.8% | 13.6% | 13.4% | **12.7%** | 12.2% | 11.1% | 10.5% |
 | **Adjusted EPS ($)** | 1.88 | 2.19 | 2.37 | 2.55 | 3.96 | 3.85 | 3.83 | 3.39 | 3.01 | 2.60–2.90 |
 
-**Trend:** Revenue increased from **$9.74bn (2017) to $13.65bn (2025)**, about **4.3% CAGR**, helped by acquisitions, but growth has stalled. Adjusted EBITDA peaked at around **$1.79bn in 2021** and fell to **$1.51bn in 2025**; margins contracted from **13.6% in 2021 to 11.1% in 2025**, with **10.5% modeled for 2026**. Adjusted EPS also declined from **$3.96 in 2021 to $3.01 in 2025**, with official FY2026 guidance at **$2.60–2.90**.
+**Trend:** Revenue increased from **$9.74bn (2017) to $13.65bn (2025)**, about **4.3% CAGR**, helped by acquisitions, but growth has stalled. **2023 includes Self-Service; 2024–2025 exclude it.** Adjusted EBITDA peaked at around **$1.79bn in 2021** and fell to **$1.51bn in 2025**; margins contracted from **13.6% in 2021 to 11.1% in 2025**, with **10.5% modeled for 2026**. Adjusted EPS also declined from **$3.96 in 2021 to $3.01 in 2025**, with official FY2026 guidance at **$2.60–2.90**.
 
 ### Cash generation
 
 | Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| **CFO ($bn)** | 0.519 | 0.711 | 1.064 | 1.444 | 1.367 | 1.250 | 1.356 | 1.121 | 1.063 | **0.860*** |
+| **CFO ($bn)** | 0.519 | 0.711 | 1.064 | 1.444 | 1.367 | 1.250 | 1.356 | **1.081** | **1.013** | **0.860*** |
 | **CAPEX ($bn)** | 0.179 | 0.250 | 0.266 | 0.173 | 0.293 | 0.222 | 0.358 | 0.311 | 0.216 | 0.200* |
-| **FCF = CFO − CAPEX ($bn)** | 0.340 | 0.461 | 0.798 | 1.271 | 1.074 | 1.028 | 0.998 | 0.810 | 0.847 | **0.660*** |
-| **FCF / diluted share ($)** | 1.09 | 1.46 | 2.57 | 4.17 | 3.61 | 3.70 | 3.72 | 3.07 | 3.29 | **2.59*** |
+| **FCF = CFO − CAPEX ($bn)** | 0.340 | 0.461 | 0.798 | 1.271 | 1.074 | 1.028 | 0.998 | **0.770** | **0.797** | **0.660*** |
+| **FCF / diluted share ($)** | 1.09 | 1.46 | 2.57 | 4.17 | 3.61 | 3.70 | 3.72 | **2.92** | **3.09** | **2.59*** |
 
-**FCF definition:** **cash flow from operations (CFO) − total CAPEX**. This is my preferred measure of shareholder cash-generation capacity. Despite softer earnings, LKQ generated approximately **$847m consolidated FCF in 2025**. My **2026E FCF assumption is $660m**, near the lower end of management's **$625–775m Q2 guidance**, reflecting weaker cash generation.
+**FCF definition:** **cash flow from operations (CFO) − total CAPEX**. This is my preferred measure of shareholder cash-generation capacity. Despite softer earnings, LKQ generated approximately **$797m normalized FCF in 2025**. My **2026E FCF assumption is $660m**, near the lower end of management's **$625–775m Q2 guidance**, reflecting weaker cash generation.
 
-**Comparability of Self-Service:** These historical 2024–2025 rows use **consolidated reported CFO and total CAPEX**, matching the screenshots (**2024: $1,121m − $311m = $810m; 2025: $1,063m − $216m = $847m**). My separate **continuing-business normalization** excludes estimated Self-Service cash contribution: approximately **$770m FCF in 2024** and **$797m in 2025**. Do **not** confuse these adjusted figures with the consolidated cash-flow statement or the FCF/share values in the table.
+**Self-Service:** **2023 includes Self-Service**, while **2024 and 2025 exclude it**. Part of the apparent fall in revenue and cash flow therefore reflects the business sale, **not only weaker operations**. The 2023–2024 comparison is not like-for-like.
 
 ### Debt and capital structure
 
@@ -107,7 +107,7 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | **Total financial debt ($bn)** | 3.428 | 4.348 | 4.072 | 2.897 | 2.824 | 2.662 | 4.281 | 4.198 | 3.695 | 3.611* |
 | **Net debt ($bn)** | 3.149 | 4.016 | 3.549 | 2.585 | 2.550 | 2.384 | 3.982 | 3.964 | 3.376 | 3.310* |
-| **Net debt / adjusted EBITDA** | 2.82x | 3.21x | 2.67x | 1.89x | 1.43x | 1.39x | 2.33x | 2.35x | 2.24x | 2.35x* |
+| **Net debt / adjusted EBITDA** | 2.82x | 3.21x | 2.67x | 1.89x | 1.43x | 1.39x | **2.26x** | 2.35x | 2.24x | 2.35x* |
 | **Diluted shares (m)** | 310.6 | 315.8 | 311.0 | 305.0 | 297.7 | 278.0 | 268.3 | 263.9 | 257.8 | ~254.6* |
 | **Cash dividends paid / modeled ($bn)** | — | — | — | — | 0.073 | 0.284 | 0.302 | 0.318 | 0.310 | ~0.310* |
 
@@ -124,7 +124,7 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 | **DPO (days)** | 44 | 43 | 45 | 49 | 50 | 61 | 69 | 75 | 85 |
 | **CCC (days)** | 124 | 121 | 122 | 121 | 98 | 98 | 96 | 91 | 90 |
 | **Working capital ($bn)** | 2.62 | 3.05 | 2.96 | 2.56 | 2.51 | 2.41 | 2.64 | 2.50 | 2.52 |
-| **WC / Revenue** | 26.9% | 25.7% | 23.7% | 22.0% | 19.2% | 18.8% | 19.9% | 18.1% | 18.5% |
+| **WC / Revenue** | 26.9% | 25.7% | 23.7% | 22.0% | 19.2% | 18.8% | **19.0%** | 18.1% | 18.5% |
 
 **DSO** measures customer collection days.  
 **DIO** measures inventory holding days.  

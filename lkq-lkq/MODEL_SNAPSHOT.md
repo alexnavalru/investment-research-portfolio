@@ -12,11 +12,11 @@ Revenue, debt = USD **billions**; FCF and dividends = USD **millions**. FCF = CF
 | 2020 | 11.63 | -7.0% | 11.8% | 2.55 | 1271 | 4.17 | 2.90 | 2.58 | 1.89x | 305.0 | 0 |
 | 2021 | 13.09 | 12.6% | 13.6% | 3.96 | 1074 | 3.61 | 2.82 | 2.55 | 1.43x | 297.7 | 73 |
 | 2022 | 12.79 | -2.3% | 13.4% | 3.85 | 1028 | 3.70 | 2.66 | 2.38 | 1.39x | 278.0 | 284 |
-| 2023 | 13.27 | 3.7% | 12.9% | 3.83 | 998 | 3.72 | 4.28 | 3.98 | 2.33x | 268.3 | 302 |
-| 2024 | 13.82 | 4.2% | 12.2% | 3.39 | 770 | 2.92 | 4.20 | 3.96 | 2.35x | 263.9 | 318 |
+| 2023 | **13.87** | **8.4%** | **12.7%** | 3.83 | 998 | 3.72 | 4.28 | 3.98 | **2.26x** | 268.3 | 302 |
+| 2024 | 13.82 | **−0.3%*** | 12.2% | 3.39 | 770 | 2.92 | 4.20 | 3.96 | 2.35x | 263.9 | 318 |
 | 2025 | 13.65 | -1.2% | 11.1% | 3.01 | 797 | 3.09 | 3.69 | 3.38 | 2.24x | 257.8 | 310 |
 
-**Self-Service normalization:** 2024 uses CFO **$1,081m** and capex **$311m** => **$770m FCF** (consolidated reported CFO–capex was ~$810m). 2025 uses CFO **$1,013m** and capex **$216m** => **$797m normalized FCF** (reported ~$847m). Differences of **$40m in 2024** and **$50m in 2025** are analyst adjustments to remove sold Self-Service, **not original cash-flow-statement CFO figures**. 2023 and earlier model data may also include business mix no longer held; do not claim the entire history is like-for-like.
+**Self-Service:** 2023 includes the segment; **2024–2025 exclude Self-Service** from revenue, EBITDA and normalized FCF. The apparent declines from 2023 therefore partly reflect the sale, rather than only operating slowdown. The 2023–2024 growth rate (*) is not like-for-like.
 
 **CAGR 2017–2025:** revenue ~4.3%, adjusted EPS ~6.1%. 2021 peak EBITDA margin ~13.6%, versus 2025 11.1%. Buybacks 2021 **$877m**, 2022 **$1,040m**, **$1,917m total**, an important capital-allocation concern.
 
@@ -31,7 +31,7 @@ Definitions: **DSO** receivables days (receivables/sales×365); **DIO** inventor
 | 2020 | 35 | 135 | 49 | 121 | 2556 | 22.0% |
 | 2021 | 30 | 118 | 50 | 98 | 2508 | 19.2% |
 | 2022 | 30 | 129 | 61 | 98 | 2411 | 18.8% |
-| 2023 | 30 | 135 | 69 | 96 | 2638 | 19.9% |
+| 2023 | 30 | 135 | 69 | 96 | 2638 | **19.0%** |
 | 2024 | 30 | 136 | 75 | 91 | 2499 | 18.1% |
 | 2025 | 31 | 144 | 85 | 90 | 2522 | 18.5% |
 

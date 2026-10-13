@@ -184,16 +184,5 @@ The investment case does not require a buyback to work, but a well-priced repurc
 
 **Supporting research:** Amentum Model Snapshot
 
-### Sources
-
-- Amentum FY2025 10-K - Reverse Morris Trust / tax matters restrictions
-- Amentum Q3 FY2026 results - backlog, cash flow and debt
-- Amentum 2026 Proxy - major shareholders
-- Amentum Q3 FY2026 earnings call transcript - capital-allocation discussion
-- Amentum - Netherlands nuclear program contract
-- Amentum - UK SMR owner's engineer contract
-- Amentum - Q3 FY2026 results / global nuclear bookings
-- Amentum - Sellafield preferred supplier selection
-- AMTM historical price / dividend status - October 6, 2026
-
 > Prospective entry level and valuation outputs are personal research assumptions. This case study is for professional portfolio purposes and is not investment advice.
+

@@ -66,7 +66,7 @@ LKQ distributes aftermarket vehicle parts through a complex international networ
 | Dividends | Board discretion | **$310m** | **$310m** |
 | **Residual for net debt paydown** | Not guaranteed | **$350m** | **$357m** |
 
-**Critical arithmetic:** at the **absolute $625m FCF low point**, after $310m dividends there is only **$315m** for debt, *not* $350m. The $350m paydown case assumes **$660m FCF**, near the low end, zero buybacks/M&A and no material other cash drains. This is more conservative than the earlier user-provided $500m+ debt-reduction screenshot. Proceeds from any Specialty sale would be **separate** and are **not included**.
+**Critical arithmetic:** at the **absolute $625m FCF low point**, after $310m dividends there is only **$315m** for debt, *not* $350m. The $350m annual FCF-after-dividend capacity assumes **$660m FCF**. Importantly, the SOTP's **$350m net-debt decline from the Q2 balance** is a separate conservative estimate: H1 FCF was **-$36m**, with **$154m dividends and $53m actual repurchases**. At $660m annual FCF, H2 would contribute ~$696m FCF; after ~$156m H2 dividends, ~$540m would remain before other uses. The $350m Q2-to-year-end assumption conservatively reserves ~$190m for other uses/FX movements, which are not individually modelled. This is an assumption, not a reconciled management debt bridge. This is more conservative than the earlier user-provided $500m+ debt-reduction screenshot. Proceeds from any Specialty sale would be **separate** and are **not included**.
 
 **Dividend yield:** ~$1.20/share annual dividend / $22.10 = **~5.4%**, assuming continuation. No dividend reduction in the central case, but dividend is a board decision and reducing debt competes with distributions.
 

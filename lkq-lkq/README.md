@@ -1,7 +1,7 @@
 # LKQ Corporation (LKQ) — Restructuring, Deleveraging & Strategic Review
 
 **Research date:** 13 October 2026  
-**Status:** Watchlist / active research (position not disclosed)  
+**Status:** Watchlist / active research  
 **Preferred entry:** around **$20/share**  
 **Price target:** **none established**  
 **Case:** Special situation / operational turnaround  
@@ -42,7 +42,7 @@ The thesis combines **portfolio simplification, operational restructuring and FC
 
 ## 4. Management, ownership and incentive alignment
 
-**Leadership and change:** CEO **Justin Jude** joined LKQ in **2004** and replaced Dominick Zarcone in **July 2024**; CFO **Rick Galloway** joined in **2019** and became CFO in **2022**. **John Mendel** became independent chairman in **2025**, and activist-backed **Sue Gove** and **Michael Powell** joined the board in **February 2025**. The board has changed, but the CEO is a long-time insider: **this is not a complete break from the team associated with earlier poor buybacks and capital allocation**.
+**CEO — Justin Jude:** Joined LKQ in **2004** and became CEO in **July 2024**, succeeding Dominick Zarcone. As of October 2026, he has spent approximately **22 years at the company** and **2 years and 3 months as CEO**.
 
 ### CEO compensation (2025)
 

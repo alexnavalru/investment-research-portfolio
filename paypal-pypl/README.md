@@ -105,20 +105,5 @@ This case demonstrates how I separate **business growth from per-share value cre
 
 **Supporting research:** PayPal Model Snapshot
 
-### Sources
-
-- PayPal - Enrique Lores appointed CEO
-- PayPal - Strategic reorganization, April 2026
-- PayPal - Q2 2026 earnings release
-- PayPal - Q3 2025 dividend announcement and capital returns
-- Reuters, 28 Aug 2026 - Stripe/Advent pursuit abandoned
-- Bloomberg, 28 Aug 2026 - Consortium ends pursuit
-- PayPal CEO offer letter (SEC, Exhibit 10.1)
-- PayPal 2026 Proxy - CEO pay and ownership guidelines
-- PayPal CEO time-based RSUs (Form 4, March 2026)
-- PayPal and OpenAI - agentic commerce
-- PayPal / Cymbio - agentic commerce strategy
-- PayPal World - global wallet network
-- PayPal World - live China QR experience (Aug 2026)
-
 > Personal entry prices are approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
+

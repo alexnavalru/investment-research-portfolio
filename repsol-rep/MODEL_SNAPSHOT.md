@@ -134,14 +134,14 @@ This is exactly the environment in which a cyclical company can look cheapest on
 
 ### Public Sources
 
-- [Repsol 2026–2028 assumptions and sensitivities](https://www.repsol.com/en/accionistas-inversores/informacion-economica-financiera/index.cshtml)
-- [Repsol FY2025 earnings-call transcript: budgeted refining premium](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/resultados/2025/4t/transcripcion-webcast-4t25.pdf)
-- [Repsol Q1 2026 presentation: 2026 outlook and sensitivities](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori30042026-presentation-on-results-first-quarter-2026.pdf)
-- [Repsol Q1 2026 earnings call: $5.7/bbl premium](https://uk.investing.com/news/stock-market-news/earnings-call-transcript-repsols-q1-2026-earnings-rise-amid-strong-industrial-gains-93CH-4640994)
-- [Repsol Q2 2026 call: $10/bbl Q2 premium and July $34 + $9 reference](https://earningsapi.io/transcripts/repsol-s-a_rep_earnings_call_transcript_2026-07-23)
-- [Repsol March 2026 Capital Markets Day: 50% U.S. gas hedging collar](https://www.repsol.com/content/dam/repsol-corporate/es/conocenos/documentos-conocenos/transcripcion-webcast-capital-markets-day.pdf)
-- [Repsol Q3 2026 trading statement: provisional market data](https://www.repsol.com/content/dam/repsol-corporate/en_gb/accionistas-e-inversores/cnmv/2026/ori06102026-trading-statement-3q26.pdf)
-- [Repsol FY2025 results / reporting model](https://www.repsol.com/content/dam/repsol-corporate/es/accionistas-e-inversores/rif/2026/rif19022026-press-release-results-year-2025.pdf)
-- [Repsol Q2 2026 results](https://www.repsol.com/en/shareholders-and-investors/financial-information/quarterly-results/index.cshtml)
+- Repsol 2026–2028 assumptions and sensitivities
+- Repsol FY2025 earnings-call transcript: budgeted refining premium
+- Repsol Q1 2026 presentation: 2026 outlook and sensitivities
+- Repsol Q1 2026 earnings call: $5.7/bbl premium
+- Repsol Q2 2026 call: $10/bbl Q2 premium and July $34 + $9 reference
+- Repsol March 2026 Capital Markets Day: 50% U.S. gas hedging collar
+- Repsol Q3 2026 trading statement: provisional market data
+- Repsol FY2025 results / reporting model
+- Repsol Q2 2026 results
 
 > Figures labeled as internal/model values come from my own workbook and assumptions. This is a research snapshot, not investment advice.

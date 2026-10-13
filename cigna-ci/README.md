@@ -90,11 +90,5 @@ The research question was not "Are health insurers facing higher costs?" - they 
 
 **Supporting research:** Cigna Model Snapshot
 
-### Sources
-
-- Cigna - Completion of Medicare / CareAllies sale to HCSC
-- Cigna - Q2 2025 results and reaffirmed outlook
-- Cigna - Q3 2025 results and reaffirmed outlook
-- Cigna - Q2 2026 results and raised outlook
-
 > Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
+

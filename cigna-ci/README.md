@@ -88,13 +88,13 @@ This case shows the importance of **not treating every company in a stressed sec
 
 The research question was not "Are health insurers facing higher costs?" - they were. The relevant question was whether **Cigna's earnings mix, strategic exits and maintained guidance justified the magnitude of the valuation compression**.
 
-**Supporting research:** [Cigna Model Snapshot](./MODEL_SNAPSHOT.md)
+**Supporting research:** Cigna Model Snapshot
 
 ### Sources
 
-- [Cigna - Completion of Medicare / CareAllies sale to HCSC](https://newsroom.thecignagroup.com/the-cigna-group-completes-sale-of-medicare-and-careallies-businesses-to-hcsc)
-- [Cigna - Q2 2025 results and reaffirmed outlook](https://newsroom.thecignagroup.com/2025-07-31-The-Cigna-Group-Reports-Strong-Second-Quarter-2025-Results%2C-Reaffirms-2025-Adjusted-EPS-Outlook)
-- [Cigna - Q3 2025 results and reaffirmed outlook](https://newsroom.thecignagroup.com/2025-10-30-The-Cigna-Group-Reports-Strong-Third-Quarter-2025-Results%2C-Reaffirms-2025-Adjusted-EPS-Outlook)
-- [Cigna - Q2 2026 results and raised outlook](https://newsroom.thecignagroup.com/2026-07-30-The-Cigna-Group-Reports-Strong-Second-Quarter-2026-Results,-Raises-2026-Outlook)
+- Cigna - Completion of Medicare / CareAllies sale to HCSC
+- Cigna - Q2 2025 results and reaffirmed outlook
+- Cigna - Q3 2025 results and reaffirmed outlook
+- Cigna - Q2 2026 results and raised outlook
 
 > Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.

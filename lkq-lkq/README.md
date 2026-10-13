@@ -145,8 +145,19 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 | **EV/EBITDA** at 6x / 7x / 8x; subtract $3.31bn year-end net debt + $24m indicative minority | **$20.26** | **$25.83** | **$31.40** |
 | **P/FCF** at 8x / 10x / 12x × ($660m/253m) | **$20.87** | **$26.09** | **$31.30** |
 
-### Peers — use them carefully
-From the supplied peer valuation snapshot (its prices/dates are **not synchronized to 12 Oct 2026**): **Genuine Parts 12.0x EV/EBITDA** (mixed automotive/industrial), **Advance Auto Parts ~5.9x** (turnaround), **O'Reilly ~19.3x** and **AutoZone ~16.5x** (more retail/DIY, ~22% EBITDA margins). These high-margin retail chains **do not justify assigning 16–19x to LKQ's wholesale operations**. North America and Europe merit separate multiples. AAP's reported adjusted metrics also require reconciliation.
+### Valuation by comparable companies
+
+| Company | Similarity to LKQ | Main difference | Market cap ($bn) | EV ($bn) | EV / EBITDA | EBITDA margin | Net debt / EBITDA | Recent organic growth |
+|---|---|---|---:|---:|---:|---:|---:|---:|
+| **LKQ** | Reference | Wholesale mechanical, collision and recycled parts | **5.59** | **9.25** | **6.6x** | **10.5%** | **2.35x** | **−3.4%** |
+| **Genuine Parts (GPC)** | High | Wholesale auto parts; ~37% of 2025 sales from industrial distribution | 19.72 | 24.04 | 12.0x | 8.3% | 2.2x | +3.4% |
+| **Advance Auto Parts (AAP)** | Medium–high | Parts distribution plus ~50% DIY / retail exposure | 4.40 | 6.88 | **5.9x*** | **13.7%*** | **2.1x*** | −0.5% |
+| **O'Reilly (ORLY)** | Medium | Professional/DIY store network; ~50% DIY sales | 70.80 | 76.62 | 19.3x | 22.3% | 1.5x | +6.0% |
+| **AutoZone (AZO)** | Medium–low | Greater retail/consumer exposure | 60.96 | 69.49 | 16.5x | 22.2% | 2.0x | +1.5% |
+
+**Comparability:** LKQ uses my **$22.10 reference share price and FY2026E estimates**; all other figures come from the supplied peer snapshot and **are not measured on the same date**. The older screenshot had LKQ at ~$8.94bn market cap and ~9.0x EBITDA; these are not used in my current valuation. O'Reilly and AutoZone have significantly higher-margin retail models, so their multiples should not be directly applied to LKQ.
+
+**AAP caveat (*):** AAP is undergoing a turnaround and serves both professional and DIY customers. The apparent **5.9x / 13.7% / 2.1x** in the screenshot should **not be compared as if they were EBITDA-based**. AAP reports **~$1.17bn adjusted EBITDAR** and **2.1x adjusted net debt / adjusted EBITDAR** in Q2 2026; **$6.88bn EV ÷ $1.17bn EBITDAR ≈ 5.9x**, and the 13.7% margin is consistent with EBITDAR, not a verified EBITDA margin. AAP's lease/rent adjustments make it **an imperfect multiple benchmark**.
 
 ### FY2026 sum-of-the-parts — revised to $350m deleveraging
 2026 operating case assumes **North America $830m**, **Europe $480m**, **Specialty $100m** EBITDA. The model's segment revenue total of **$13.55bn** does not yet reconcile with the separate **$13.378bn** consolidated FY2026 revenue estimate; the **$172m difference** remains open for verification. This scenario assigns lower multiples to Europe and Specialty than to North America. Q2 2026 net debt = **$3,660m**. Assume **$350m FCF-funded reduction** → **$3,310m year-end net debt**. Indicative **$24m minorities** from the original worksheet screenshot; **253m shares**. *No sales proceeds, breakup expenses, transaction taxes, buyer premium or new M&A are modelled.*

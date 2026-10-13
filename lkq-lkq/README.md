@@ -57,9 +57,62 @@ The stock has experienced a **~58.8% peak-to-current drawdown** on a total-retur
 **Institutional ownership:** latest user-supplied **30 June 2026 snapshot**: BlackRock 38.55m (~15.24%), Pzena 15.14m (~5.99%), Vanguard Portfolio Management 14.42m (~5.70%), Fuller & Thaler 12.04m (~4.76%), Vanguard Capital Management 11.47m (~4.53%). These are **manager/reported positions, not additive beneficial owners** and must not be confused with a single Vanguard voting bloc. A dispersed, financially oriented shareholder base may support a credible cash offer or break-up, **but does not guarantee approval**.
 
 ## 5. Historical financials and working capital
-**2017–2025, based on my uploaded Excel:** revenue grew from **$9.737bn to $13.651bn** (~**4.3% CAGR**), but adjusted EBITDA margin slipped from **11.5% to 11.1%** (peak **13.6% in 2021**) and adjusted EPS rose from **$1.88 to $3.01** (~**6.1% CAGR**, followed by annual declines after 2021). Adjusted FCF = **CFO – total capex**. My continuing-operations normalization yields **~$797m in 2025**, or **~$3.09 per 2025 diluted share** on a simple cash-flow/share calculation, versus FY2025 reported CFO–capex of ~$847m including Self-Service. See the 2017–2025 year-by-year tables and 2026–27 estimates.
 
-**Why working capital is crucial:** as a distributor, LKQ holds substantial spare-parts inventory and relies on supplier terms. **DSO** = collection days; **DIO** = inventory days; **DPO** = supplier payment days; **CCC = DSO + DIO – DPO**. From 2017 to 2025, DSO was ~35→31 days, **DIO worsened 133→144**, but **DPO expanded 44→85**, reducing CCC from ~124 to **90** days. Trading working capital as % of revenues improved ~26.9%→18.5%, **driven more by delayed supplier payments than inventory efficiency**. Supplier finance and the sustainability of payable terms need monitoring. A short CCC is good, but it is not automatically structural if suppliers reverse terms. Full table in the snapshot.
+LKQ has grown over time, but **profitability and cash generation have weakened since the post-Covid peak**. The tables below summarize the key trends from my financial model. **2017–2025 are historical; 2026E is an estimate or guidance-based scenario**, not a reported result. All amounts are in USD.
+
+### Revenue, earnings and margins
+
+| Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
+|:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| **Revenue ($bn)** | 9.74 | 11.88 | 12.51 | 11.63 | 13.09 | 12.79 | 13.27 | 13.82 | 13.65 | 13.38 |
+| **Revenue YoY** | — | +22% | +5% | −7% | +13% | −2% | +4% | +4% | −1% | −2% |
+| **Adjusted EBITDA ($bn)** | 1.12 | 1.25 | 1.33 | 1.37 | 1.79 | 1.72 | 1.71 | 1.69 | 1.51 | 1.41 |
+| **Adjusted EBITDA margin** | 11.5% | 10.5% | 10.6% | 11.8% | 13.6% | 13.4% | 12.9% | 12.2% | 11.1% | 10.5% |
+| **Adjusted EPS ($)** | 1.88 | 2.19 | 2.37 | 2.55 | 3.96 | 3.85 | 3.83 | 3.39 | 3.01 | 2.60–2.90 |
+
+**Trend:** Revenue increased from **$9.74bn (2017) to $13.65bn (2025)**, about **4.3% CAGR**, helped by acquisitions, but growth has stalled. Adjusted EBITDA peaked at around **$1.79bn in 2021** and fell to **$1.51bn in 2025**; margins contracted from **13.6% in 2021 to 11.1% in 2025**, with **10.5% modeled for 2026**. Adjusted EPS also declined from **$3.96 in 2021 to $3.01 in 2025**, with official FY2026 guidance at **$2.60–2.90**.
+
+### Cash generation
+
+| Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
+|:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| **CFO ($bn)** | 0.519 | 0.711 | 1.064 | 1.444 | 1.367 | 1.250 | 1.356 | 1.121 | 1.063 | 0.825* |
+| **CAPEX ($bn)** | 0.179 | 0.250 | 0.266 | 0.173 | 0.293 | 0.222 | 0.358 | 0.311 | 0.216 | 0.200* |
+| **FCF = CFO − CAPEX ($bn)** | 0.340 | 0.461 | 0.798 | 1.271 | 1.074 | 1.028 | 0.998 | 0.810 | 0.847 | 0.625–0.775* |
+| **FCF / diluted share ($)** | 1.09 | 1.46 | 2.57 | 4.17 | 3.61 | 3.70 | 3.72 | 3.07 | 3.29 | 2.45–3.04* |
+
+**FCF definition:** **cash flow from operations (CFO) − total CAPEX**. This is my preferred measure of shareholder cash-generation capacity. Despite softer earnings, LKQ still generated approximately **$847m consolidated FCF in 2025**. The FY2026 Q2 guidance range is **$625–775m**, indicating pressure on cash generation.
+
+**Comparability of Self-Service:** These historical 2024–2025 rows use **consolidated reported CFO and total CAPEX**, matching the screenshots (**2024: $1,121m − $311m = $810m; 2025: $1,063m − $216m = $847m**). My separate **continuing-business normalization** excludes estimated Self-Service cash contribution: approximately **$770m FCF in 2024** and **$797m in 2025**. Do **not** confuse these adjusted figures with the consolidated cash-flow statement or the FCF/share values in the table.
+
+### Debt and capital structure
+
+| Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
+|:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| **Total financial debt ($bn)** | 3.428 | 4.348 | 4.072 | 2.897 | 2.824 | 2.662 | 4.281 | 4.198 | 3.695 | 3.611* |
+| **Net debt ($bn)** | 3.149 | 4.016 | 3.549 | 2.585 | 2.550 | 2.384 | 3.982 | 3.964 | 3.376 | 3.310* |
+| **Net debt / adjusted EBITDA** | 2.82x | 3.21x | 2.67x | 1.89x | 1.43x | 1.39x | 2.33x | 2.35x | 2.24x | 2.35x* |
+| **Diluted shares (m)** | 310.6 | 315.8 | 311.0 | 305.0 | 297.7 | 278.0 | 268.3 | 263.9 | 257.8 | ~254.6* |
+| **Cash dividends paid / modeled ($bn)** | — | — | — | — | 0.073 | 0.284 | 0.302 | 0.318 | 0.310 | ~0.310* |
+
+**Trend:** Debt grew materially again after 2022, reaching **$4.28bn gross in 2023**. The reduction to **$3.70bn in 2025** is encouraging, but leverage remains an important constraint. The table's leverage uses **year-end net debt / modeled adjusted EBITDA**; it is **not necessarily the company's covenant leverage ratio**. Diluted shares fell substantially, partly reflecting large past buybacks. LKQ introduced cash dividends in 2021, creating an ongoing cash commitment.
+
+**2026E assumptions (*)**: The cash-flow table shows **$825m CFO and $200m CAPEX as an illustrative low-end case**, equal to **$625m FCF**. The **$625–775m FCF / $2.45–3.04 per-share ranges** come from Q2 guidance, so the high endpoint does **not** follow from subtracting the displayed $200m CAPEX from $825m CFO. My central valuation/outlook section separately models **$860m CFO − $200m CAPEX = $660m FCF**, after which I assume roughly **$310m dividends**. **$3.611bn gross and $3.310bn net debt at end-2026 are my scenario estimates**, assuming a **$350m improvement from Q2 net debt** and about **$301m cash**, rather than FY2026 published debt guidance. Approximate diluted shares of **254.6m** are a FY2026 weighted-average assumption.
+
+### Working capital and cash conversion (2017–2025)
+
+| Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| **DSO (days)** | 35 | 34 | 33 | 35 | 30 | 30 | 30 | 30 | 31 |
+| **DIO (days)** | 133 | 130 | 134 | 135 | 118 | 129 | 135 | 136 | 144 |
+| **DPO (days)** | 44 | 43 | 45 | 49 | 50 | 61 | 69 | 75 | 85 |
+| **CCC (days)** | 124 | 121 | 122 | 121 | 98 | 98 | 96 | 91 | 90 |
+| **Working capital ($bn)** | 2.62 | 3.05 | 2.96 | 2.56 | 2.51 | 2.41 | 2.64 | 2.50 | 2.52 |
+| **WC / Revenue** | 26.9% | 25.7% | 23.7% | 22.0% | 19.2% | 18.8% | 19.9% | 18.1% | 18.5% |
+
+**How to read this:** **DSO** measures customer collection days, **DIO** inventory holding days, **DPO** supplier payment days, and **CCC = DSO + DIO − DPO**. Working capital is trade receivables **+** inventory **−** trade payables. All days are based on my model conventions.
+
+**Why it matters:** WC/revenue improved from **26.9% in 2017 to 18.5% in 2025**, and the cash conversion cycle fell from **124 to 90 days**. However, **DIO deteriorated (133 → 144 days)** while **DPO almost doubled (44 → 85 days)**. Thus most of the improvement comes from paying suppliers later rather than turning inventory faster. For a distributor, watch inventory growth, supplier financing/payment terms and any DPO reversal: these could absorb cash and weaken FCF. **Working-capital movements are already reflected in CFO** and should not be deducted again from FCF.
 
 ## 6. Valuation — own model, competitors and SOTP
 At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**; plus **$3.660bn Q2 net debt** gives EV **~$9.25bn** before minor residual interests. With FY2026 $1.410bn adjusted EBITDA: **~6.6x EV/EBITDA**. At FY2026 adjusted EPS midpoint $2.75, **~8.0x P/E**. At $660m adjusted model FCF, **~8.5x P/FCF**, or **~11.8% FCF yield**. These are *different valuation definitions* and a fixed-date stock snapshot.

@@ -135,27 +135,31 @@ Working capital is trade receivables **+** inventory **−** trade payables. All
 **Why it matters:** LKQ reduced **WC/revenue from 26.9% to 18.5%** and **CCC from 124 to 90 days** (2017–2025). But the improvement came mainly from **paying suppliers later (DPO: 44 → 85 days)**, not from selling inventory faster (**DIO: 133 → 144 days**). If supplier payment terms tighten, LKQ may need more cash for working capital, reducing FCF.
 
 ## 6. Valuation — own model, competitors and SOTP
-At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**; plus **$3.660bn Q2 net debt** gives EV **~$9.25bn** before minor residual interests. With FY2026 $1.410bn adjusted EBITDA: **~6.6x EV/EBITDA**. At FY2026 adjusted EPS midpoint $2.75, **~8.0x P/E**. At $660m adjusted model FCF, **~8.5x P/FCF**, or **~11.8% FCF yield**. These are *different valuation definitions* and a fixed-date stock snapshot.
+At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**; plus **$3.660bn Q2 net debt** gives EV **~$9.25bn** before minor residual interests. With FY2026 $1.410bn adjusted EBITDA: **~6.6x EV/EBITDA**. At FY2026 adjusted EPS midpoint $2.75, **~8.0x P/E**. At $660m adjusted model FCF, **~8.5x P/FCF**, or **~11.8% FCF yield**. 
 
 **Historic drawdown and entry discipline:** LKQ has declined **~58.8% from its peak**, among its steepest historical drawdowns, surpassed by **2008 (~62.8%)** and **2020 (~68.0%)** in the referenced series. Yet a historic fall does **not** make the shares automatically cheap. At the **$22.10 reference price** and **$660m FY2026E FCF (CFO − CAPEX)**, LKQ trades at **~8.5x P/FCF** or **~14.0x EV/FCF including net debt**; EV/FCF is only a leverage-aware cross-check because CFO already includes interest. **I do not see an obvious bargain: my preferred entry is around $20, with no price target.** A whole-company sale is speculative; restructuring and deleveraging could unlock value without it. The **$29.11 conservative SOTP** is a conditional valuation scenario, **not a target price**.
 
 | Single-method multiples | Low | Mid | High |
 |---|---:|---:|---:|
 | **P/E** at 7x / 9x / 11x × $2.75 | **$19.25** | **$24.75** | **$30.25** |
-| **EV/EBITDA** at 6x / 7x / 8x; subtract $3.31bn year-end net debt + $24m indicative minority | **$20.26** | **$25.83** | **$31.40** |
+| **EV/EBITDA** at 6x / 7x / 8x; EV = market cap ($5.59bn) + net debt ($3.66bn) = ~$9.25bn | **$18.97** | **$24.55** | **$30.12** |
 | **P/FCF** at 8x / 10x / 12x × ($660m/253m) | **$20.87** | **$26.09** | **$31.30** |
+
+
+
+**EV/EBITDA valuation method:** implied share values above are calculated as **(EBITDA × target multiple − Q2 net debt) / 253m shares**, using the **current $3.66bn debt reference**. The separate FY2026 SOTP below assumes **$3.31bn net debt after the modeled $350m debt reduction**, so the debt assumptions are intentionally different.
 
 ### Valuation by comparable companies
 
 | Company | Similarity to LKQ | Main difference | Market cap ($bn) | EV ($bn) | EV / EBITDA | EBITDA margin | Net debt / EBITDA | Recent organic growth |
 |---|---|---|---:|---:|---:|---:|---:|---:|
-| **LKQ** | Reference | Wholesale mechanical, collision and recycled parts | **5.59** | **9.25** | **6.6x** | **10.5%** | **2.35x** | **−3.4%** |
+| **LKQ** | Reference | Wholesale mechanical, collision and recycled parts | **5.59** | **9.25** | **6.56x** | **10.5%** | **2.60x** | **−3.4%** |
 | **Genuine Parts (GPC)** | High | Wholesale auto parts; ~37% of 2025 sales from industrial distribution | 19.72 | 24.04 | 12.0x | 8.3% | 2.2x | +3.4% |
 | **Advance Auto Parts (AAP)** | Medium–high | Parts distribution plus ~50% DIY / retail exposure | 4.40 | 6.88 | **5.9x*** | **13.7%*** | **2.1x*** | −0.5% |
 | **O'Reilly (ORLY)** | Medium | Professional/DIY store network; ~50% DIY sales | 70.80 | 76.62 | 19.3x | 22.3% | 1.5x | +6.0% |
 | **AutoZone (AZO)** | Medium–low | Greater retail/consumer exposure | 60.96 | 69.49 | 16.5x | 22.2% | 2.0x | +1.5% |
 
-**Comparability:** LKQ uses my **$22.10 reference share price and FY2026E estimates**; all other figures come from the supplied peer snapshot and **are not measured on the same date**. The older screenshot had LKQ at ~$8.94bn market cap and ~9.0x EBITDA; these are not used in my current valuation. O'Reilly and AutoZone have significantly higher-margin retail models, so their multiples should not be directly applied to LKQ.
+**Comparability:** LKQ uses the **$22.10 share price**, **253m shares**, **Q2 net debt of $3.66bn** and **FY2026E EBITDA of $1.41bn**, so EV = **$5.59bn + $3.66bn = $9.25bn**, EV/EBITDA ≈ **6.6x** and net debt/EBITDA ≈ **2.60x**. The **2.35x** year-end leverage estimate in the financial model instead assumes **$3.31bn net debt after paydown**. Other peers are from the supplied snapshot and **not measured on the same date**. The older screenshot had LKQ at ~$8.94bn market cap and ~9.0x EBITDA; these are not used in my current valuation. O'Reilly and AutoZone have significantly higher-margin retail models, so their multiples should not be directly applied to LKQ.
 
 **AAP caveat (*):** AAP is undergoing a turnaround and serves both professional and DIY customers. The apparent **5.9x / 13.7% / 2.1x** in the screenshot should **not be compared as if they were EBITDA-based**. AAP reports **~$1.17bn adjusted EBITDAR** and **2.1x adjusted net debt / adjusted EBITDAR** in Q2 2026; **$6.88bn EV ÷ $1.17bn EBITDAR ≈ 5.9x**, and the 13.7% margin is consistent with EBITDAR, not a verified EBITDA margin. AAP's lease/rent adjustments make it **an imperfect multiple benchmark**.
 
@@ -172,25 +176,7 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 
 **Why the older image shows $23.6/$29.1/$34.6 per share:** it uses an entirely **different EV base** ($9.064bn/$10.456bn/$11.848bn) and about **$580m debt reduction**. The corrected values *under that old EV basis and $350m deleveraging* would be ~**$22.7 / $28.2 / $33.7**, not the old image numbers. **Do not mix those older EVs with the FY2026 segment EBITDA SOTP EVs ($10.7bn/$12.11bn/$13.52bn).** The model snapshot documents both cases.
 
-## 7. FY2026–FY2027 outlook, debt and dividend
-| Metric | My FY2026 assumption | My FY2027 assumption |
-|---|---:|---:|
-| Revenue | **$13.378bn** (-2% vs workbook 2025) | **$13.512bn** (+1%) |
-| Adjusted EBITDA | **$1.410bn** (10.54%) | **$1.414bn** (~10.46%) |
-| Adjusted EPS | **$2.75** midpoint assumption | ~$2.8 illustrative; not guidance |
-| CFO | **$860m** | **$869m** (~+1%) |
-| Total capex | **$200m** | **$202m** |
-| **FCF = CFO – capex** | **$660m** | **$667m** |
-| Dividends | **$310m** | **$310m** |
-| **Assumed net debt paydown** | **$350m** | **$350m** |
-
-For 2027, **$667m FCF − $310m dividends = $357m** before other uses; the assumed **$350m debt reduction** leaves a **$7m cash buffer**. These are my model assumptions, not company guidance.
-
-**Critical arithmetic:** at the **absolute $625m FCF low point**, after $310m dividends there is only **$315m** for debt, *not* $350m. The $350m annual FCF-after-dividend capacity assumes **$660m FCF**. Importantly, the SOTP's **$350m net-debt decline from the Q2 balance** is a separate conservative estimate: H1 FCF was **-$36m**, with **$154m dividends and $53m actual repurchases**. At $660m annual FCF, H2 would contribute ~$696m FCF; after ~$156m H2 dividends, ~$540m would remain before other uses. The $350m Q2-to-year-end assumption conservatively reserves ~$190m for other uses/FX movements, which are not individually modelled. This is an assumption, not a reconciled management debt bridge. This is more conservative than the earlier user-provided $500m+ debt-reduction screenshot. Proceeds from any Specialty sale would be **separate** and are **not included**.
-
-**Dividend yield:** ~$1.20/share annual dividend / $22.10 = **~5.4%**, assuming continuation. No dividend reduction in the central case, but dividend is a board decision and reducing debt competes with distributions.
-
-## 8. Key risks and what to monitor
+## 7. Key risks and what to monitor
 
 1. **Q3 results and entry timing (29 October 2026):** another guidance cut or weak cash conversion could push shares lower, potentially offering an entry near **$20**. I may wait for these results.
 2. **German ERP recovery:** monitor service levels, recovered customers and European margins. Continued disruption could cause lasting market-share losses.

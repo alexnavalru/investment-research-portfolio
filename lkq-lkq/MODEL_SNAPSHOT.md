@@ -87,20 +87,20 @@ Spot 12 Oct 2026: **$22.10**. Use **253m spot shares** (~$5,591m market cap); of
 
 ## 6. FY2026 sum-of-the-parts (SOTP)
 
-| Segment | Revenue FY26E ($m) | Adjusted EBITDA FY26E ($m) | EBITDA margin |
+| Segment | Revenue FY26E ($m) | EBITDA FY26E ($m) | EBITDA margin |
 |---|---:|---:|---:|
-| North America | 5,800 | 830 | 14.3% |
+| North America | 5,800 | 812 | 14.0% |
 | Europe | 6,000 | 480 | 8.0% |
 | Specialty | 1,750 | 100 | 5.7% |
-| **Total** | **13,550** | **1,410** | **10.4%** |
+| **Total** | **13,550** | **1,392** | **10.3%** |
 
 | Scenario | NA / Europe / Specialty multiple | EV ($m) | Equity with Q2 debt ($m) | $/share Q2 | $/share after H2 reduction |
 |---|---|---:|---:|---:|---:|
-| Conservative | 7x / 6x / 5x | **9,190** | **5,506** | **$21.8** | **$23.1** |
-| **Base** | **8x / 7x / 6x** | **10,600** | **6,916** | **$27.3** | **$28.7** |
-| Favorable | 9x / 8x / 7x | **12,010** | **8,326** | **$32.9** | **$34.3** |
+| **Bearish** | 6x / 5x / 4x | **7,672** | **3,988** | **$15.8** | **$17.1** |
+| **Conservative** | 7x / 6x / 5x | **9,064** | **5,380** | **$21.3** | **$22.6** |
+| **Bullish** | 8x / 7x / 6x | **10,456** | **6,772** | **$26.8** | **$28.2** |
 
-**Calculation:** EV = Σ(segment EBITDA × multiple). Equity = EV − net debt − **$24m minority interests**; shares **253m**. Q2 2026 net debt **$3,660m**, reduced to **$3,310m** after an assumed **$350m H2 paydown**. Proceeds from any sale are excluded; the valuation is not a transaction offer or price target. **FY26 segment revenue $13.55bn versus consolidated model $13.378bn** remains unreconciled.
+**Calculation:** EV = Σ(segment EBITDA × multiple). Equity = EV − net debt − **$24m minority interests**; shares **253m**. Q2 2026 net debt **$3,660m**, reduced to **$3,310m** after an assumed **$350m H2 paydown**. Potential disposal proceeds are excluded. **SOTP EBITDA $1,392m vs consolidated model $1,410m** and **SOTP revenue $13,550m vs consolidated model $13,378m** remain unreconciled.
 
 ## 7. Peer snapshot — not synchronized market prices
 - **GPC:** ~12.0x EV/EBITDA, 8.3% margin; material industrial distribution.

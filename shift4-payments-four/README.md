@@ -132,15 +132,5 @@ A good investment process should be able to explain:
 - how the valuation changed;
 - what rule will be different next time.
 
-### Sources
-
-- NASA - Jared Isaacman biography
-- SEC Form 4 - February 2026 purchases
-- SEC Form 4 - March 2, 2026 purchase
-- SEC Form 4 - March 10, 2026 purchase
-- SEC Form 4 - May 2026 purchases
-- Shift4 Q2 2026 results
-- Shift4 FY2025 10-K - Global Blue acquisition
-- Shift4 Q4 2025 shareholder letter - Global Blue margin profile
-
 > This case study is personal research for professional portfolio purposes and is not investment advice.
+

@@ -69,8 +69,8 @@ The key future work is a full sum-of-the-parts analysis using:
 
 ### Public Sources
 
-- [Versant separation](https://www.cmcsa.com/news-releases/news-release-details/comcast-announces-completion-separation-versant-media-group-inc)
-- [Q2 2026 results](https://www.cmcsa.com/node/45906)
-- [NBCUniversal / Sky separation](https://corporate.comcast.com/press/releases/comcast-announces-plans-to-separate-media-and-technology-businesses-into-two-leading-public-companies)
+- Versant separation
+- Q2 2026 results
+- NBCUniversal / Sky separation
 
 > Model figures are based on my own assumptions and are not company guidance or investment advice.

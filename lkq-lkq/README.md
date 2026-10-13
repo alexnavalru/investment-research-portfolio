@@ -8,14 +8,13 @@
 **Reference share price:** ~$22.10
 
 ## 1. Business overview
-LKQ distributes aftermarket vehicle parts to repair professionals across North America and Europe, and offers vehicle-related specialty products. Its main operating segments are:
+LKQ is a global distributor of replacement vehicle parts, primarily serving professional repair shops.
 
-- **North America:** wholesale aftermarket, recycled and remanufactured collision/mechanical parts to professional repair shops and insurance-linked repair networks; the more profitable segment. **FY2026 SOTP inputs:** ~$5.8bn revenue, $830m adjusted EBITDA (**14.3%** margin).
-- **Europe:** broad distribution of replacement mechanical parts across European countries. Large addressable market, fragmented legacy systems and low integration relative to potential. Inputs: ~$6.0bn revenue, $480m adjusted EBITDA (**8.0%**).
-- **Specialty:** automotive, RV, towing, marine and performance accessories through specialty distributors. Sale candidate; lower margin. Inputs: ~$1.75bn revenue, $100m adjusted EBITDA (**5.7%**).
-- The **Self-Service** salvage operation was sold in 2025. Keep discontinued-operation results and cash flows separate when comparing history.
+- **North America:** distributes aftermarket, recycled and remanufactured mechanical and collision-repair parts to repair shops and collision networks.
+- **Europe:** distributes mechanical replacement parts and private-label products to garages through its wholesale and logistics network.
+- **Specialty:** distributes accessories and specialized products for RVs, towing, marine, vehicle performance and related markets.
 
-*Segment case above totals $13.55bn revenue and $1.41bn EBITDA; my consolidated Excel revenue model uses $13.378bn for FY2026. This **$172m revenue reconciliation remains open**; do not quietly treat the two revenue cases as identical.*
+LKQ sold its **Self-Service** salvage business in 2025.
 
 ## 2. Investment thesis and potential catalysts
 The core thesis is **portfolio simplification + operational restructuring + cash-led deleveraging**, with **Specialty divestiture, a wider break-up, or even a whole-company sale** as *possible*, not guaranteed, catalysts. The market may be pricing prolonged European execution problems and weak collision-repair volumes as permanent. The counter-case is that European service recovers after the German ERP disruption, 2026 cash generation reduces debt and independent owners extract more value from the business units.
@@ -23,22 +22,16 @@ The core thesis is **portfolio simplification + operational restructuring + cash
 **My base discipline:** **I have no target price**. My preferred entry is **around $20/share**, and I am comfortable waiting for better information or a lower price. The SOTP is a *potential value-unlocking scenario*, **not a price target**, an announced bid or a liquidation appraisal. The trade should have a credible operational/restructuring payoff **without** a whole-company sale. Prior buybacks at high prices and modest insider ownership limit confidence in capital allocation.
 
 ### Catalysts and timeline
-| When | What changed | Why it matters |
-|---|---|---|
-| **5 Feb 2025** | **Ancora + Engine Capital** cooperation; activist-backed Sue Gove and Michael Powell join the board and a **Finance Committee** is formed. | Oversight of portfolio strategy and capital allocation. |
-| **Aug 2025** | Sale of Self-Service announced (~$410m deal value); transaction completed during 2025. | Concrete asset simplification rather than only rhetoric. |
-| **Oct 2025 / 31 Oct** | **Ananym Capital** emerged as an activist and publicly urged the sale of European operations. | Pressure to close the discount between the value of the units and the conglomerate. |
-| **4 Dec 2025** | Formal **Specialty sale process** announced. | Could raise proceeds and sharpen the core focus; buyers/financing remain uncertain. |
-| **26 Jan 2026** | Board formally begins **strategic review, including a possible sale of all LKQ**. | Additional M&A optionality; no committed buyer, price or closing date. |
-| **Apr–Jul 2026** | German ERP migration disrupts the country's distribution; **Q2 guidance lowered on 30 Jul**. | Near-term earnings pressure but a measurable operational recovery catalyst. |
-| **H2 2026–2027** | Restructuring, procurement, private-label margin work and ERP stabilization. | Potential margin repair and free cash flow applied to debt. |
+- **February 2025:** activist funds **Ancora and Engine Capital** negotiated board representation and greater scrutiny of strategy and capital allocation.
+- **August–October 2025:** LKQ moved to sell its **Self-Service** business; activist **Ananym Capital**, founded by **Charlie Penner and Alex Silver**, pushed for value creation through the separation or sale of European assets.
+- **December 2025:** LKQ launched a formal process to explore the sale of **Specialty**.
+- **January 2026:** the board initiated a broader **strategic review**, including the possibility of selling **the entire company**. A sale is an option, **not a confirmed transaction**.
+- **2026–2027:** cost restructuring, ERP recovery in Germany, European private-label margin improvement and cash-flow-driven **deleveraging** could create value even without a sale.
 
-**Who are the activists?** Ancora and Engine Capital are shareholder activist funds that negotiated board representation in February 2025. **Ananym** is a New York activist fund founded in 2024 by **Charlie Penner and Alex Silver**; Penner previously worked on shareholder activism at JANA Partners. Its central argument is that LKQ's European and North American assets could be worth more separately. A strategic review can end **without** a transaction.
-
-**Earnings-call evidence:** Q1 2026 management targeted >$50m annual cost savings and expected improved European private-label pricing into 2027. Q2 stressed cost/productivity gains hidden by the German ERP failure: management estimated ~$140m of lost Q2 German revenue and ~$50m EBITDA, while the UK/Benelux remained weak. German sales run-rate was reported >85% of normal by late July, with a stated ambition to approach 100% near year-end; this is a management *goal*, not a proven outcome.
+Management discussed **>$50m of annual savings** in Q1 2026. In Q2 it estimated the German ERP migration caused approximately **$140m in lost quarterly revenue and $50m in EBITDA**. Restoring service and customer order share is a key operational catalyst.
 
 ### Historic drawdown and entry discipline
-The stock has experienced a **~58.8% peak-to-current drawdown** on a total-return-style series, among LKQ's deepest: only **~62.8% in 2008** and **~68.0% in the 2020 Covid crash** were larger in the historical drawdown ranking. Source: [PortfoliosLab drawdowns](https://portfolioslab.com/symbol/LKQ). This unusual three-year decline, alongside changes in leadership, activist pressure, a formal strategic review and deleveraging, merits attention, **but the fall itself is not my valuation thesis**.
+The stock has experienced a **~58.8% peak-to-current drawdown** on a total-return-style series, among LKQ's deepest: only **~62.8% in 2008** and **~68.0% in the 2020 Covid crash** were larger in the historical drawdown ranking. Source: PortfoliosLab drawdowns. This unusual three-year decline, alongside changes in leadership, activist pressure, a formal strategic review and deleveraging, merits attention, **but the fall itself is not my valuation thesis**.
 
 **Cash flow is the core valuation metric for a spare-parts distributor**. At the **$22.10 reference price**, **253m shares**, **~$3.66bn Q2 net debt** and **$660m 2026E FCF defined strictly as CFO – total capex**, LKQ trades at **~8.5x equity P/FCF** (often rounded to **~8x**) or **~14.0x EV/FCF including debt** (roughly **14–14.3x** depending on the FCF/price inputs). EV/FCF is a leverage-aware *cross-check*, not a standard unlevered enterprise cash-flow multiple: **CFO is after cash interest, so EV/FCF mixes enterprise value with levered FCF**. For cleaner capital-structure analysis, also use EV/EBITDA and net debt/EBITDA. **At those cash-flow multiples and with the risks below, I do not view LKQ as especially cheap**. The **$20 entry preference** is a discipline, not a guaranteed bargain.
 
@@ -64,7 +57,7 @@ The stock has experienced a **~58.8% peak-to-current drawdown** on a total-retur
 **Institutional ownership:** latest user-supplied **30 June 2026 snapshot**: BlackRock 38.55m (~15.24%), Pzena 15.14m (~5.99%), Vanguard Portfolio Management 14.42m (~5.70%), Fuller & Thaler 12.04m (~4.76%), Vanguard Capital Management 11.47m (~4.53%). These are **manager/reported positions, not additive beneficial owners** and must not be confused with a single Vanguard voting bloc. A dispersed, financially oriented shareholder base may support a credible cash offer or break-up, **but does not guarantee approval**.
 
 ## 5. Historical financials and working capital
-**2017–2025, based on my uploaded Excel:** revenue grew from **$9.737bn to $13.651bn** (~**4.3% CAGR**), but adjusted EBITDA margin slipped from **11.5% to 11.1%** (peak **13.6% in 2021**) and adjusted EPS rose from **$1.88 to $3.01** (~**6.1% CAGR**, followed by annual declines after 2021). Adjusted FCF = **CFO – total capex**. My continuing-operations normalization yields **~$797m in 2025**, or **~$3.09 per 2025 diluted share** on a simple cash-flow/share calculation, versus FY2025 reported CFO–capex of ~$847m including Self-Service. See the [2017–2025 year-by-year tables and 2026–27 estimates](./MODEL_SNAPSHOT.md).
+**2017–2025, based on my uploaded Excel:** revenue grew from **$9.737bn to $13.651bn** (~**4.3% CAGR**), but adjusted EBITDA margin slipped from **11.5% to 11.1%** (peak **13.6% in 2021**) and adjusted EPS rose from **$1.88 to $3.01** (~**6.1% CAGR**, followed by annual declines after 2021). Adjusted FCF = **CFO – total capex**. My continuing-operations normalization yields **~$797m in 2025**, or **~$3.09 per 2025 diluted share** on a simple cash-flow/share calculation, versus FY2025 reported CFO–capex of ~$847m including Self-Service. See the 2017–2025 year-by-year tables and 2026–27 estimates.
 
 **Why working capital is crucial:** as a distributor, LKQ holds substantial spare-parts inventory and relies on supplier terms. **DSO** = collection days; **DIO** = inventory days; **DPO** = supplier payment days; **CCC = DSO + DIO – DPO**. From 2017 to 2025, DSO was ~35→31 days, **DIO worsened 133→144**, but **DPO expanded 44→85**, reducing CCC from ~124 to **90** days. Trading working capital as % of revenues improved ~26.9%→18.5%, **driven more by delayed supplier payments than inventory efficiency**. Supplier finance and the sustainability of payable terms need monitoring. A short CCC is good, but it is not automatically structural if suppliers reverse terms. Full table in the snapshot.
 
@@ -81,7 +74,7 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 From the supplied peer valuation snapshot (its prices/dates are **not synchronized to 12 Oct 2026**): **Genuine Parts 12.0x EV/EBITDA** (mixed automotive/industrial), **Advance Auto Parts ~5.9x** (turnaround), **O'Reilly ~19.3x** and **AutoZone ~16.5x** (more retail/DIY, ~22% EBITDA margins). These high-margin retail chains **do not justify assigning 16–19x to LKQ's wholesale operations**. North America and Europe merit separate multiples. AAP's reported adjusted metrics also require reconciliation.
 
 ### FY2026 sum-of-the-parts — revised to $350m deleveraging
-2026 operating case assumes **North America $830m**, **Europe $480m**, **Specialty $100m** EBITDA. This scenario assigns lower multiples to Europe and Specialty than to North America. Q2 2026 net debt = **$3,660m**. Assume **$350m FCF-funded reduction** → **$3,310m year-end net debt**. Indicative **$24m minorities** from the original worksheet screenshot; **253m shares**. *No sales proceeds, breakup expenses, transaction taxes, buyer premium or new M&A are modelled.*
+2026 operating case assumes **North America $830m**, **Europe $480m**, **Specialty $100m** EBITDA. The model's segment revenue total of **$13.55bn** does not yet reconcile with the separate **$13.378bn** consolidated FY2026 revenue estimate; the **$172m difference** remains open for verification. This scenario assigns lower multiples to Europe and Specialty than to North America. Q2 2026 net debt = **$3,660m**. Assume **$350m FCF-funded reduction** → **$3,310m year-end net debt**. Indicative **$24m minorities** from the original worksheet screenshot; **253m shares**. *No sales proceeds, breakup expenses, transaction taxes, buyer premium or new M&A are modelled.*
 
 | Scenario | NA / Europe / Specialty EV/EBITDA | SOTP EV ($m) | Equity ($m) | Value/share | vs $22.10 |
 |---|---|---:|---:|---:|---:|
@@ -91,7 +84,7 @@ From the supplied peer valuation snapshot (its prices/dates are **not synchroniz
 
 **My downside-aware interpretation:** the **$29.11 conservative SOTP is conditional on maintaining $1.410bn EBITDA**. At lower EBITDA, with cost of a sale and delayed restructuring, the result can be substantially below the table. For reference, **10% EBITDA shortfall**, holding component multiples fixed, lowers the conservative EV by ~$1.07bn (~**$4.23/share**) before any extra costs.
 
-**Why the older image shows $23.6/$29.1/$34.6 per share:** it uses an entirely **different EV base** ($9.064bn/$10.456bn/$11.848bn) and about **$580m debt reduction**. The corrected values *under that old EV basis and $350m deleveraging* would be ~**$22.7 / $28.2 / $33.7**, not the old image numbers. **Do not mix those older EVs with the FY2026 segment EBITDA SOTP EVs ($10.7bn/$12.11bn/$13.52bn).** The [model snapshot](./MODEL_SNAPSHOT.md) documents both cases.
+**Why the older image shows $23.6/$29.1/$34.6 per share:** it uses an entirely **different EV base** ($9.064bn/$10.456bn/$11.848bn) and about **$580m debt reduction**. The corrected values *under that old EV basis and $350m deleveraging* would be ~**$22.7 / $28.2 / $33.7**, not the old image numbers. **Do not mix those older EVs with the FY2026 segment EBITDA SOTP EVs ($10.7bn/$12.11bn/$13.52bn).** The model snapshot documents both cases.
 
 ## 7. FY2026–FY2027 outlook, debt and dividend
 | Metric | FY2026 official Q2 guidance | My FY2026 assumption | My FY2027 assumption |
@@ -111,7 +104,7 @@ From the supplied peer valuation snapshot (its prices/dates are **not synchroniz
 
 ## 8. Key risks and what to monitor
 ### Q3 results and potential entry timing
-**Q3 earnings and call are scheduled for 29 October 2026**: [official announcement](https://investor.lkqcorp.com/news/news-details/2026/LKQ-Corporation-to-Release-Third-Quarter-2026-Results-on-Thursday-October-29-2026/default.aspx). The **Fed raised rates by 25bp to 3.75–4.00% in September**: [official FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm). Higher rates and uncertain U.S. collision-repair demand could weigh on volumes and refinancing, while **Germany's ERP recovery remains unproven** and the UK/Benelux are weak. I see a **real risk of another 2026 guidance cut**, weaker Q3 margins/cash conversion and a further share-price drop, potentially offering a better entry. These are **investment risks and scenarios, not a forecast or a reported Q3 result**.
+**Q3 earnings and call are scheduled for 29 October 2026**: official announcement. The **Fed raised rates by 25bp to 3.75–4.00% in September**: official FOMC statement. Higher rates and uncertain U.S. collision-repair demand could weigh on volumes and refinancing, while **Germany's ERP recovery remains unproven** and the UK/Benelux are weak. I see a **real risk of another 2026 guidance cut**, weaker Q3 margins/cash conversion and a further share-price drop, potentially offering a better entry. These are **investment risks and scenarios, not a forecast or a reported Q3 result**.
 
 Even a **dividend reduction** could be a two-sided event: near-term income-investor selling and sharp stock-price pressure, but potentially **positive longer term if the freed ~$310m annual payout (or a portion of it) accelerates debt repayment**. It is **not my base forecast** because current modeled FCF still covers the dividend; I would judge any cut by its cause (FCF collapse versus proactive deleveraging).
 
@@ -124,11 +117,11 @@ Even a **dividend reduction** could be a two-sided event: near-term income-inves
 - Board/shareholder treatment of dividend vs accelerated debt reduction: even a cut could hurt short-term trading while benefiting long-term deleveraging. Any speculative takeover premium is **excluded from the fundamental cash-flow case**.
 
 ## Primary sources and method
-- [FY2026 Q2 results, guidance and reconciliation](https://investor.lkqcorp.com/news/news-details/2026/LKQ-Corporation-Announces-Results-for-Second-Quarter-2026/default.aspx) · [Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1065696/000106569626000044/lkq-20260630.htm)
-- [FY2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1065696/000106569626000012/lkq-20251231.htm) · [March 2026 DEF 14A](https://www.sec.gov/Archives/edgar/data/1065696/000106569626000026/lkq-20260323.htm)
-- [Formal group strategic review (26 Jan 2026)](https://investor.lkqcorp.com/news/news-details/2026/LKQ-Initiates-Strategic-Review-to-Maximize-Shareholder-Value/default.aspx) · [Specialty sale process (4 Dec 2025)](https://www.sec.gov/Archives/edgar/data/1065696/000106569625000068/exhibit991-specialty.htm)
-- [Ancora + Engine board cooperation (Feb 2025)](https://www.sec.gov/Archives/edgar/data/1065696/000106569625000004/lkq-20250205.htm) · [Ananym activist pressure (31 Oct 2025, Reuters)](https://www.reuters.com/sustainability/sustainable-finance-reporting/activist-fund-ananym-steps-up-calls-lkq-sell-european-business-2025-10-31/) · [2026 board update](https://lkqcorp.com/wp-content/uploads/2026/05/LKQ_2025_Sustainability-Report_Final-1.pdf)
-- **Historical drawdowns:** [PortfoliosLab (2008, 2020 and 2026)](https://portfolioslab.com/symbol/LKQ) · **Macro:** [Fed's Sep 16 2026 statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) · **Next event:** [LKQ Q3 2026 scheduled for Oct 29](https://investor.lkqcorp.com/news/news-details/2026/LKQ-Corporation-to-Release-Third-Quarter-2026-Results-on-Thursday-October-29-2026/default.aspx)
+- FY2026 Q2 results, guidance and reconciliation · Q2 2026 Form 10-Q
+- FY2025 Form 10-K · March 2026 DEF 14A
+- Formal group strategic review (26 Jan 2026) · Specialty sale process (4 Dec 2025)
+- Ancora + Engine board cooperation (Feb 2025) · Ananym activist pressure (31 Oct 2025, Reuters) · 2026 board update
+- **Historical drawdowns:** PortfoliosLab (2008, 2020 and 2026) · **Macro:** Fed's Sep 16 2026 statement · **Next event:** LKQ Q3 2026 scheduled for Oct 29
 - **Analyst calls (user's notes):** Q1 2026 and Q2 2026 Q&A, read critically; use 10-Q for reported accounting. **Historical models:** supplied `LKQ.xlsx`. **Peer and SOTP inputs:** supplied comparison screenshots, not independently time-synchronized market observations.
 
 > Educational personal investment research; assumptions may be wrong and transaction scenarios are uncertain.

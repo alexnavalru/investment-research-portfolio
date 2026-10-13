@@ -334,22 +334,22 @@ The framework is:
 
 The strongest version of the thesis does not require JD Food Delivery, AI or Europe to become spectacular successes. It requires the market to be over-discounting the current earnings contraction while the core remains profitable and the balance sheet continues to protect downside.
 
-**Supporting research:** [JD.com Model Snapshot](./MODEL_SNAPSHOT.md)
+**Supporting research:** JD.com Model Snapshot
 
 ### Sources
 
-- [JD.com - Q2 and H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
-- [JD.com - FY2025 results, dividend and repurchases](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-fourth-quarter-and-full-year-2025-results-and)
-- [JD.com - 2025 Annual Report / Form 20-F](https://ir.jd.com/static-files/274126f2-bb00-4590-b8d6-0863ba1e387b)
-- [JD.com - Hong Kong annual report notice; substantially the same information as the Form 20-F](https://ir.jd.com/node/12146/pdf)
-- [JD.com - Management / Richard Qiangdong Liu](https://ir.jd.com/management)
-- [SEC - Richard Qiangdong Liu ownership filing](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
-- [China State Council - 2025 appliance trade-in subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
-- [China NDRC - 2026 appliance and digital-product subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
-- [Reuters - JD Q2 2026 revenue / high-base electronics comparison](https://www.reuters.com/business/retail-consumer/chinas-jdcom-beats-quarterly-revenue-estimates-2026-08-13/)
-- [Reuters - CECONOMY regulatory review, October 2026](https://www.reuters.com/business/retail-consumer/jdcom-set-win-eu-approval-ceconomy-deal-source-says-2026-10-02/)
-- [JD Logistics - current market valuation reference](https://stockanalysis.com/quote/hkg/2618/statistics/)
-- [JD Health - current market valuation reference](https://stockanalysis.com/quote/hkg/6618/statistics/)
-- [JD Health 2025 Annual Report - JD.com ownership / listed subsidiaries](https://manager.wisdomir.com/files/586/2026/0424/20260424171501_75649801_en.pdf)
+- JD.com - Q2 and H1 2026 results
+- JD.com - FY2025 results, dividend and repurchases
+- JD.com - 2025 Annual Report / Form 20-F
+- JD.com - Hong Kong annual report notice; substantially the same information as the Form 20-F
+- JD.com - Management / Richard Qiangdong Liu
+- SEC - Richard Qiangdong Liu ownership filing
+- China State Council - 2025 appliance trade-in subsidy framework
+- China NDRC - 2026 appliance and digital-product subsidy framework
+- Reuters - JD Q2 2026 revenue / high-base electronics comparison
+- Reuters - CECONOMY regulatory review, October 2026
+- JD Logistics - current market valuation reference
+- JD Health - current market valuation reference
+- JD Health 2025 Annual Report - JD.com ownership / listed subsidiaries
 
 > This case study is personal research for professional portfolio purposes and is not investment advice. China-related equities carry governance, regulatory, geopolitical and market-structure risks that are not captured by valuation multiples alone.

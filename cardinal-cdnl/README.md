@@ -266,16 +266,8 @@ Management expects better project scheduling, greater internal capabilities and 
 - **Sector cyclicality:** Residential development, commercial/industrial construction and infrastructure capex can slow when interest rates, financing conditions or the economy weaken. Customers can delay/cancel projects, reduce new orders and pressure pricing and workforce utilization.
 - **Up-C / TRA complexity and takeover risk:** The two-layer share structure and future TRA cash obligations make valuation more complex. **Certain changes of control can accelerate TRA payments**, potentially increasing the cost of an acquisition, deterring bidders or reducing the consideration received by Class A shareholders. Cardinal explicitly warns about these risks in its FY2025 Form 10-K.
 
-## Primary sources
-
-- FY2025 Form 10-K: historic financials, Up-C, shares and TRA
-- Q2 2026 results, backlog and FY2026 guidance
-- Allied acquisition closing and intercompany revenue clarification
-- Allied acquisition consideration and shares issued - October 1 SEC 8-K
-- SEC proxy - ownership as of April 9, 2026
-- Reference stock-price history, Oct. 9, 2026
-
 **Research note:** The financial figures are reconstructed from company reports and our preceding modeling discussion. The separately referenced Excel workbook was not retrievable in the current connected files, so the document does **not** claim to have audited or directly imported workbook values. All FY2027 scenarios, incremental contributions and the $0 net-debt normalization are analyst assumptions, not official guidance.
 
 > Independent personal research for educational and professional use; not investment advice.
+
 

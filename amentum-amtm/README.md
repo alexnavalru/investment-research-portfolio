@@ -33,7 +33,7 @@ The most important catalyst is not that buybacks are guaranteed. It is that a ma
 
 Amentum's merger with Jacobs' CMS closed on **September 27, 2024**. To preserve its intended tax-free treatment, the related tax agreement restricted **share repurchases, certain major mergers/ownership changes and asset disposals** during a **two-year period ending September 27, 2026**, subject to exceptions.
 
-**That specific restriction period has now ended**, improving the Board's flexibility to consider buybacks, M&A or debt repayment. **It does not guarantee repurchases**, nor does it eliminate all continuing tax-related obligations or transaction risks. [FY2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/2011286/000162828025053993/amtm-20251003.htm).
+**That specific restriction period has now ended**, improving the Board's flexibility to consider buybacks, M&A or debt repayment. **It does not guarantee repurchases**, nor does it eliminate all continuing tax-related obligations or transaction risks. FY2025 Form 10-K.
 
 ## Deleveraging Is Reaching an Inflection Point
 
@@ -182,18 +182,18 @@ This case combines traditional fundamental analysis with a corporate-structure c
 
 The investment case does not require a buyback to work, but a well-priced repurchase program could materially improve the per-share return profile.
 
-**Supporting research:** [Amentum Model Snapshot](./MODEL_SNAPSHOT.md)
+**Supporting research:** Amentum Model Snapshot
 
 ### Sources
 
-- [Amentum FY2025 10-K - Reverse Morris Trust / tax matters restrictions](https://www.sec.gov/Archives/edgar/data/2011286/000162828025053993/amtm-20251003.htm)
-- [Amentum Q3 FY2026 results - backlog, cash flow and debt](https://www.sec.gov/Archives/edgar/data/2011286/000162828026055294/exhibit991-august102026.htm)
-- [Amentum 2026 Proxy - major shareholders](https://www.sec.gov/Archives/edgar/data/2011286/000110465925123111/tm2523471-2_def14a.htm)
-- [Amentum Q3 FY2026 earnings call transcript - capital-allocation discussion](https://www.fool.com/earnings/call-transcripts/2026/08/19/amentum-amtm-q3-2026-earnings-call-transcript/)
-- [Amentum - Netherlands nuclear program contract](https://www.amentum.com/news/amentum-led-consortium-wins-207-million-contract-from-dutch-government-for-new-nuclear-program/)
-- [Amentum - UK SMR owner's engineer contract](https://www.amentum.com/news/amentum-led-joint-venture-secures-406-million-contract-as-owners-engineer-for-uks-first-small-modular-reactors/)
-- [Amentum - Q3 FY2026 results / global nuclear bookings](https://ir.amentum.com/news/news-details/2026/Amentum-Reports-Third-Quarter-Fiscal-Year-2026-Results/default.aspx)
-- [Amentum - Sellafield preferred supplier selection](https://ir.amentum.com/news/news-details/2026/Amentum-Joint-Venture-Secures-Preferred-Position-for-Major-UK-Nuclear-Contract/default.aspx)
-- [AMTM historical price / dividend status - October 6, 2026](https://stockanalysis.com/stocks/amtm/)
+- Amentum FY2025 10-K - Reverse Morris Trust / tax matters restrictions
+- Amentum Q3 FY2026 results - backlog, cash flow and debt
+- Amentum 2026 Proxy - major shareholders
+- Amentum Q3 FY2026 earnings call transcript - capital-allocation discussion
+- Amentum - Netherlands nuclear program contract
+- Amentum - UK SMR owner's engineer contract
+- Amentum - Q3 FY2026 results / global nuclear bookings
+- Amentum - Sellafield preferred supplier selection
+- AMTM historical price / dividend status - October 6, 2026
 
 > Prospective entry level and valuation outputs are personal research assumptions. This case study is for professional portfolio purposes and is not investment advice.

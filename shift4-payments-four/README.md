@@ -51,7 +51,7 @@ The lesson was not simply “do not pay a high multiple.” It was:
 
 I rebuilt the key lines from my personal Excel workbook into a clean public snapshot:
 
-[Open the Shift4 model snapshot](./MODEL_SNAPSHOT.md)
+Open the Shift4 model snapshot
 
 It shows the relationship between revenue growth, EBITDA, CFO, capex, preferred dividends, FCF to common and the valuation paid at entry.
 
@@ -134,13 +134,13 @@ A good investment process should be able to explain:
 
 ### Sources
 
-- [NASA - Jared Isaacman biography](https://www.nasa.gov/people/jared-isaacman/)
-- [SEC Form 4 - February 2026 purchases](https://www.sec.gov/Archives/edgar/data/1805608/000119312526084035/xslF345X03/ownership.xml)
-- [SEC Form 4 - March 2, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1805608/000119312526089784/xslF345X03/ownership.xml)
-- [SEC Form 4 - March 10, 2026 purchase](https://www.sec.gov/Archives/edgar/data/1794669/000119312526101011/xslF345X05/ownership.xml)
-- [SEC Form 4 - May 2026 purchases](https://www.sec.gov/Archives/edgar/data/1794669/000119312526220715/xslF345X05/ownership.xml)
-- [Shift4 Q2 2026 results](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000042/ex991q2.htm)
-- [Shift4 FY2025 10-K - Global Blue acquisition](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/four-20251231.htm)
-- [Shift4 Q4 2025 shareholder letter - Global Blue margin profile](https://investors.shift4.com/sec-filings/all-sec-filings/content/0001794669-26-000006/0001794669-26-000006.pdf)
+- NASA - Jared Isaacman biography
+- SEC Form 4 - February 2026 purchases
+- SEC Form 4 - March 2, 2026 purchase
+- SEC Form 4 - March 10, 2026 purchase
+- SEC Form 4 - May 2026 purchases
+- Shift4 Q2 2026 results
+- Shift4 FY2025 10-K - Global Blue acquisition
+- Shift4 Q4 2025 shareholder letter - Global Blue margin profile
 
 > This case study is personal research for professional portfolio purposes and is not investment advice.

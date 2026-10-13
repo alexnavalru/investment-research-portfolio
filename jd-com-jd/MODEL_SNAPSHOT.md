@@ -300,12 +300,12 @@ Using the **$26.50 ADR reference price** and a **$1.00 annual dividend per ADS**
 
 ### Public Sources
 
-- [JD.com Q2 / H1 2026 results](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results)
-- [JD.com FY2025 results / capital returns](https://ir.jd.com/news-releases/news-release-details/jdcom-announces-fourth-quarter-and-full-year-2025-results-and)
-- [SEC - Richard Liu ownership](https://www.sec.gov/Archives/edgar/data/1549802/000095017025070293/xslSCHEDULE_13G_X01/primary_doc.xml)
-- [China - 2025 appliance subsidy framework](https://app.www.gov.cn/govdata/gov/202501/09/523473/article.html)
-- [China - 2026 appliance subsidy framework](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20582)
-- [JD Logistics current valuation](https://stockanalysis.com/quote/hkg/2618/statistics/)
-- [JD Health current valuation](https://stockanalysis.com/quote/hkg/6618/statistics/)
+- JD.com Q2 / H1 2026 results
+- JD.com FY2025 results / capital returns
+- SEC - Richard Liu ownership
+- China - 2025 appliance subsidy framework
+- China - 2026 appliance subsidy framework
+- JD Logistics current valuation
+- JD Health current valuation
 
 > Model values are personal assumptions and are not company guidance or investment advice.

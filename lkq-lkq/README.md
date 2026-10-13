@@ -81,7 +81,7 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 | Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | **Revenue ($bn)** | 9.74 | 11.88 | 12.51 | 11.63 | 13.09 | 12.79 | **13.87** | 13.82 | 13.65 | 13.38 |
-| **Revenue YoY** | — | +22% | +5% | −7% | +13% | −2% | **+8.4%** | **−0.3%*** | −1% | −2% |
+| **Revenue YoY** | — | +22% | +5% | −7% | +13% | −2% | **+8.4%** | **−0.3%** | −1% | −2% |
 | **Adjusted EBITDA ($bn)** | 1.12 | 1.25 | 1.33 | 1.37 | 1.79 | 1.72 | **1.76** | 1.69 | 1.51 | 1.41 |
 | **Adjusted EBITDA margin** | 11.5% | 10.5% | 10.6% | 11.8% | 13.6% | 13.4% | **12.7%** | 12.2% | 11.1% | 10.5% |
 | **Adjusted EPS ($)** | 1.88 | 2.19 | 2.37 | 2.55 | 3.96 | 3.85 | 3.83 | 3.39 | 3.01 | 2.60–2.90 |
@@ -92,10 +92,10 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 
 | Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| **CFO ($bn)** | 0.519 | 0.711 | 1.064 | 1.444 | 1.367 | 1.250 | 1.356 | **1.081** | **1.013** | **0.860*** |
-| **CAPEX ($bn)** | 0.179 | 0.250 | 0.266 | 0.173 | 0.293 | 0.222 | 0.358 | 0.311 | 0.216 | 0.200* |
-| **FCF = CFO − CAPEX ($bn)** | 0.340 | 0.461 | 0.798 | 1.271 | 1.074 | 1.028 | 0.998 | **0.770** | **0.797** | **0.660*** |
-| **FCF / diluted share ($)** | 1.09 | 1.46 | 2.57 | 4.17 | 3.61 | 3.70 | 3.72 | **2.92** | **3.09** | **2.59*** |
+| **CFO ($bn)** | 0.519 | 0.711 | 1.064 | 1.444 | 1.367 | 1.250 | 1.356 | **1.081** | **1.013** | **0.860** |
+| **CAPEX ($bn)** | 0.179 | 0.250 | 0.266 | 0.173 | 0.293 | 0.222 | 0.358 | 0.311 | 0.216 | 0.200 |
+| **FCF = CFO − CAPEX ($bn)** | 0.340 | 0.461 | 0.798 | 1.271 | 1.074 | 1.028 | 0.998 | **0.770** | **0.797** | **0.660** |
+| **FCF / diluted share ($)** | 1.09 | 1.46 | 2.57 | 4.17 | 3.61 | 3.70 | 3.72 | **2.92** | **3.09** | **2.59** |
 
 **FCF definition:** **cash flow from operations (CFO) − total CAPEX**. This is my preferred measure of shareholder cash-generation capacity. Despite softer earnings, LKQ generated approximately **$797m normalized FCF in 2025**. My **2026E FCF assumption is $660m**, near the lower end of management's **$625–775m Q2 guidance**, reflecting weaker cash generation.
 
@@ -105,15 +105,15 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 
 | Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| **Total financial debt ($bn)** | 3.428 | 4.348 | 4.072 | 2.897 | 2.824 | 2.662 | 4.281 | 4.198 | 3.695 | 3.611* |
-| **Net debt ($bn)** | 3.149 | 4.016 | 3.549 | 2.585 | 2.550 | 2.384 | 3.982 | 3.964 | 3.376 | 3.310* |
-| **Net debt / adjusted EBITDA** | 2.82x | 3.21x | 2.67x | 1.89x | 1.43x | 1.39x | **2.26x** | 2.35x | 2.24x | 2.35x* |
-| **Diluted shares (m)** | 310.6 | 315.8 | 311.0 | 305.0 | 297.7 | 278.0 | 268.3 | 263.9 | 257.8 | ~254.6* |
-| **Cash dividends paid / modeled ($bn)** | — | — | — | — | 0.073 | 0.284 | 0.302 | 0.318 | 0.310 | ~0.310* |
+| **Total financial debt ($bn)** | 3.428 | 4.348 | 4.072 | 2.897 | 2.824 | 2.662 | 4.281 | 4.198 | 3.695 | 3.611 |
+| **Net debt ($bn)** | 3.149 | 4.016 | 3.549 | 2.585 | 2.550 | 2.384 | 3.982 | 3.964 | 3.376 | 3.310 |
+| **Net debt / adjusted EBITDA** | 2.82x | 3.21x | 2.67x | 1.89x | 1.43x | 1.39x | **2.26x** | 2.35x | 2.24x | 2.35x |
+| **Diluted shares (m)** | 310.6 | 315.8 | 311.0 | 305.0 | 297.7 | 278.0 | 268.3 | 263.9 | 257.8 | ~254.6 |
+| **Cash dividends paid / modeled ($bn)** | — | — | — | — | 0.073 | 0.284 | 0.302 | 0.318 | 0.310 | ~0.310 |
 
 **Trend:** Debt grew materially again after 2022, reaching **$4.28bn gross in 2023**. The reduction to **$3.70bn in 2025** is encouraging, but leverage remains an important constraint. The table's leverage uses **year-end net debt / modeled adjusted EBITDA**; it is **not necessarily the company's covenant leverage ratio**. Diluted shares fell substantially, partly reflecting large past buybacks. LKQ introduced cash dividends in 2021, creating an ongoing cash commitment.
 
-**2026E assumptions (*)**: All FY2026E columns now use **the same base case: $860m CFO − $200m CAPEX = $660m FCF**, or **~$2.59 per diluted share** using approximately **254.6m diluted shares**. Assuming **$310m annual dividends**, this leaves **$350m of annual FCF after dividends before other cash uses**. The **$3.611bn gross / $3.310bn net debt** and **~2.35x net debt / EBITDA** are my **year-end scenario**, based on **$350m net-debt improvement from Q2** and about **$301m cash**, not published debt guidance. The *annual FCF-after-dividends* and *Q2-to-year-end debt reduction* are separate periods: H1 FCF was **−$36m**, meaning modeled H2 FCF would be **~$696m**, leaving **~$540m after estimated H2 dividends** before other uses. Assuming only **$350m** of Q2-to-year-end debt reduction reserves roughly **$190m for other cash uses and balance-sheet movements**. This is an assumption rather than a fully reconciled cash bridge; Specialty sale proceeds are excluded.
+**2026E assumptions**: All FY2026E columns now use **the same base case: $860m CFO − $200m CAPEX = $660m FCF**, or **~$2.59 per diluted share** using approximately **254.6m diluted shares**. Assuming **$310m annual dividends**, this leaves **$350m of annual FCF after dividends before other cash uses**. The **$3.611bn gross / $3.310bn net debt** and **~2.35x net debt / EBITDA** are my **year-end scenario**, based on **$350m net-debt improvement from Q2** and about **$301m cash**, not published debt guidance.
 
 ### Working capital and cash conversion (2017–2025)
 
@@ -143,11 +143,12 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 |---|---:|---:|---:|
 | **P/E** at 7x / 9x / 11x × $2.75 | **$19.25** | **$24.75** | **$30.25** |
 | **EV/EBITDA** at 6x / 7x / 8x; EV = market cap ($5.59bn) + net debt ($3.66bn) = ~$9.25bn | **$18.97** | **$24.55** | **$30.12** |
+| **EV/EBITDA after $350m debt reduction** at 6x / 7x / 8x; EV = market cap ($5.59bn) + net debt ($3.31bn) = ~$8.90bn | **$20.36** | **$25.93** | **$31.50** |
 | **P/FCF** at 8x / 10x / 12x × ($660m/253m) | **$20.87** | **$26.09** | **$31.30** |
 
 
 
-**EV/EBITDA valuation method:** implied share values above are calculated as **(EBITDA × target multiple − Q2 net debt) / 253m shares**, using the **current $3.66bn debt reference**. The separate FY2026 SOTP below assumes **$3.31bn net debt after the modeled $350m debt reduction**, so the debt assumptions are intentionally different.
+**EV/EBITDA valuation method:** the first row uses **$3.66bn Q2 net debt** and the second assumes **$3.31bn net debt after $350m debt reduction**. Both calculate value per share as **(EBITDA × target multiple − net debt) / 253m shares**.
 
 ### Valuation by comparable companies
 

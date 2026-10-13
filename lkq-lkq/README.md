@@ -126,9 +126,13 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 | **Working capital ($bn)** | 2.62 | 3.05 | 2.96 | 2.56 | 2.51 | 2.41 | 2.64 | 2.50 | 2.52 |
 | **WC / Revenue** | 26.9% | 25.7% | 23.7% | 22.0% | 19.2% | 18.8% | 19.9% | 18.1% | 18.5% |
 
-**How to read this:** **DSO** measures customer collection days, **DIO** inventory holding days, **DPO** supplier payment days, and **CCC = DSO + DIO − DPO**. Working capital is trade receivables **+** inventory **−** trade payables. All days are based on my model conventions.
+**DSO** measures customer collection days.  
+**DIO** measures inventory holding days.  
+**DPO** measures supplier payment days.  
+**CCC = DSO + DIO − DPO**.  
+Working capital is trade receivables **+** inventory **−** trade payables. All days are based on my model conventions.
 
-**Why it matters:** WC/revenue improved from **26.9% in 2017 to 18.5% in 2025**, and the cash conversion cycle fell from **124 to 90 days**. However, **DIO deteriorated (133 → 144 days)** while **DPO almost doubled (44 → 85 days)**. Thus most of the improvement comes from paying suppliers later rather than turning inventory faster. For a distributor, watch inventory growth, supplier financing/payment terms and any DPO reversal: these could absorb cash and weaken FCF. **Working-capital movements are already reflected in CFO** and should not be deducted again from FCF.
+**Why it matters:** LKQ reduced **WC/revenue from 26.9% to 18.5%** and **CCC from 124 to 90 days** (2017–2025). But the improvement came mainly from **paying suppliers later (DPO: 44 → 85 days)**, not from selling inventory faster (**DIO: 133 → 144 days**). If supplier payment terms tighten, LKQ may need more cash for working capital, reducing FCF.
 
 ## 6. Valuation — own model, competitors and SOTP
 At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**; plus **$3.660bn Q2 net debt** gives EV **~$9.25bn** before minor residual interests. With FY2026 $1.410bn adjusted EBITDA: **~6.6x EV/EBITDA**. At FY2026 adjusted EPS midpoint $2.75, **~8.0x P/E**. At $660m adjusted model FCF, **~8.5x P/FCF**, or **~11.8% FCF yield**. These are *different valuation definitions* and a fixed-date stock snapshot.

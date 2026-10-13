@@ -191,18 +191,14 @@ For 2027, **$667m FCF − $310m dividends = $357m** before other uses; the assum
 **Dividend yield:** ~$1.20/share annual dividend / $22.10 = **~5.4%**, assuming continuation. No dividend reduction in the central case, but dividend is a board decision and reducing debt competes with distributions.
 
 ## 8. Key risks and what to monitor
-### Q3 results and potential entry timing
-**Q3 earnings and call are scheduled for 29 October 2026**: official announcement. The **Fed raised rates by 25bp to 3.75–4.00% in September**: official FOMC statement. Higher rates and uncertain U.S. collision-repair demand could weigh on volumes and refinancing, while **Germany's ERP recovery remains unproven** and the UK/Benelux are weak. I see a **real risk of another 2026 guidance cut**, weaker Q3 margins/cash conversion and a further share-price drop, potentially offering a better entry. These are **investment risks and scenarios, not a forecast or a reported Q3 result**.
 
-Even a **dividend reduction** could be a two-sided event: near-term income-investor selling and sharp stock-price pressure, but potentially **positive longer term if the freed ~$310m annual payout (or a portion of it) accelerates debt repayment**. It is **not my base forecast** because current modeled FCF still covers the dividend; I would judge any cut by its cause (FCF collapse versus proactive deleveraging).
-
-- German order fulfillment and **share of wallet** recover by Q4; quarterly Europe margin and any second downgrade.
-- H2 **CFO–capex ≥~$660m full-year FCF** and observable **net debt reduction**, not just refinancing.
-- Special Committee outcomes: **Specialty disposal price and net proceeds**, potential offers for the whole business, separation costs and tax leakage; no deal announced as of this snapshot.
-- Organic unit growth, North American repairable claims and paint business; European private-label pricing gains.
-- CCC quality: **DPO must not revert sharply** while inventories continue expanding.
-- **29 October 2026 Q3 earnings:** Germany fill rates/volumes, U.S. collision/paint trends, macro/rates, any new FY2026 guidance cut and an entry opportunity nearer **$20**.
-- Board/shareholder treatment of dividend vs accelerated debt reduction: even a cut could hurt short-term trading while benefiting long-term deleveraging. Any speculative takeover premium is **excluded from the fundamental cash-flow case**.
+1. **Q3 results and entry timing (29 October 2026):** another guidance cut or weak cash conversion could push shares lower, potentially offering an entry near **$20**. I may wait for these results.
+2. **German ERP recovery:** monitor service levels, recovered customers and European margins. Continued disruption could cause lasting market-share losses.
+3. **U.S. demand and macro:** weak collision-repair volumes, paint sales and higher interest rates could pressure growth, profits and financing costs.
+4. **FCF and debt reduction:** monitor delivery of my **~$660m FY2026 FCF** assumption and whether net debt actually falls, rather than merely being refinanced.
+5. **Strategic review:** track the potential Specialty or whole-company sale, net proceeds, separation costs and taxes. **No transaction is guaranteed**.
+6. **Working capital:** inventory is rising and cash conversion depends heavily on longer supplier payment terms (**DPO**). A reversal could reduce FCF.
+7. **Dividend risk:** a cut could initially hurt the share price, but redirecting cash to debt repayment might strengthen LKQ long term. **Not my base case**.
 
 ## Primary sources and method
 - FY2026 Q2 results, guidance and reconciliation · Q2 2026 Form 10-Q

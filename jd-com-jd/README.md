@@ -336,20 +336,5 @@ The strongest version of the thesis does not require JD Food Delivery, AI or Eur
 
 **Supporting research:** JD.com Model Snapshot
 
-### Sources
-
-- JD.com - Q2 and H1 2026 results
-- JD.com - FY2025 results, dividend and repurchases
-- JD.com - 2025 Annual Report / Form 20-F
-- JD.com - Hong Kong annual report notice; substantially the same information as the Form 20-F
-- JD.com - Management / Richard Qiangdong Liu
-- SEC - Richard Qiangdong Liu ownership filing
-- China State Council - 2025 appliance trade-in subsidy framework
-- China NDRC - 2026 appliance and digital-product subsidy framework
-- Reuters - JD Q2 2026 revenue / high-base electronics comparison
-- Reuters - CECONOMY regulatory review, October 2026
-- JD Logistics - current market valuation reference
-- JD Health - current market valuation reference
-- JD Health 2025 Annual Report - JD.com ownership / listed subsidiaries
-
 > This case study is personal research for professional portfolio purposes and is not investment advice. China-related equities carry governance, regulatory, geopolitical and market-structure risks that are not captured by valuation multiples alone.
+

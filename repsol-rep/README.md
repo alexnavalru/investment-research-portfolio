@@ -242,20 +242,5 @@ The core analytical framework is:
 
 **Supporting research:** Repsol Model Snapshot
 
-### Sources
-
-- Repsol - 2026–2028 macro assumptions and sensitivities
-- Repsol - FY2025 earnings-call transcript, including ~$1.4/bbl budgeted refining premium
-- Repsol - April 2026 presentation: 2026 guidance and official macro sensitivities
-- Repsol - Q1 2026 results call: $5.7/bbl refining premium
-- Repsol - Q2 2026 earnings call: $10/bbl Q2 premium, $34 + $9/bbl July reference and refining outlook
-- Repsol - March 2026 Capital Markets Day transcript: U.S. gas hedging collar
-- Repsol - provisional Q3 2026 trading statement, October 6
-- Repsol - Capital Markets Day 2026–2028
-- Repsol - Q2 2026 results
-- Repsol - FY2025 results and new reporting model
-- Reuters - oil around $100/bbl amid October 2026 geopolitical supply risks
-- Repsol - 2026 cash dividend
-- Repsol historical price - October 6, 2026
-
 > This is a bearish research case, not a recommendation to short the stock. Commodity-cycle timing is inherently uncertain. Model outputs are personal assumptions and are not company guidance.
+

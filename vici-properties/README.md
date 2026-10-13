@@ -239,22 +239,5 @@ The model focuses on:
 
 The VICI case is intended to show a more traditional modeling process than the Lionsgate special situation. It demonstrates my ability to work through historical financials, identify the right sector-specific metric, forecast per-share economics and connect operating assumptions to valuation.
 
-### Sources
-
-- VICI September 2026 Investor Presentation
-- VICI 2025 Annual Report / Form 10-K
-- VICI 2024 Annual Report / Form 10-K
-- VICI Q2 2026 Form 10-Q
-- VICI Q2 2026 Supplemental Financial Information
-- VICI September 2026 dividend announcement
-- Golden Entertainment transaction overview - 7.5% acquisition cap rate
-- Gamehost transaction overview - 8.0% acquisition cap rate
-- Caesars - definitive agreement to be acquired by Fertitta Entertainment
-- SEC - Caesars shareholder approval of Fertitta merger
-- SEC - FTC Second Request on Caesars / Fertitta transaction
-- MGM - June 2026 People Incorporated acquisition proposal
-- MGM - People Incorporated withdraws acquisition proposal
-- Reuters - MGM discussing potential bid for People Incorporated, September 2026
-- SEC - MGM Master Lease reporting and covenant protections
-
 > The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded. Valuation assumptions are illustrative and do not constitute investment advice.
+

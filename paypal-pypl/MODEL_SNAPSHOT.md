@@ -43,8 +43,8 @@ A key analytical issue is the timing effect from Buy Now, Pay Later receivables.
 
 ### Public Sources
 
-- [Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm)
-- [Q1 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000065/pypl1q-26earningsrelease.htm)
-- [2025 Annual Report / 2026 Proxy hub](https://investor.paypal-corp.com/financials/annual-reports/default.aspx)
+- Q2 2026 earnings release
+- Q1 2026 earnings release
+- 2025 Annual Report / 2026 Proxy hub
 
 > Figures labeled as model values are based on my own assumptions and should not be interpreted as company guidance or investment advice.

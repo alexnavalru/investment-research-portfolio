@@ -105,13 +105,13 @@ This case is intentionally included because the thesis **changed**.
 
 The value of the research is not that every catalyst works. It is the process of comparing the original assumptions with subsequent facts, identifying which parts failed and deciding whether a new corporate action creates a genuinely different opportunity.
 
-**Supporting research:** [Comcast Model Snapshot](./MODEL_SNAPSHOT.md)
+**Supporting research:** Comcast Model Snapshot
 
 ### Sources
 
-- [Comcast - Versant separation completed, January 2026](https://www.cmcsa.com/news-releases/news-release-details/comcast-announces-completion-separation-versant-media-group-inc)
-- [Comcast - Q2 2026 results](https://www.cmcsa.com/node/45906)
-- [Comcast - NBCUniversal / Sky separation announcement](https://corporate.comcast.com/press/releases/comcast-announces-plans-to-separate-media-and-technology-businesses-into-two-leading-public-companies)
-- [Comcast - Q2 2026 Form 10-Q](https://www.cmcsa.com/static-files/e6dfd783-4c1a-49ad-bd33-892f8b3c59d5)
+- Comcast - Versant separation completed, January 2026
+- Comcast - Q2 2026 results
+- Comcast - NBCUniversal / Sky separation announcement
+- Comcast - Q2 2026 Form 10-Q
 
 > Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.

@@ -58,8 +58,8 @@ Q2 call: German ERP issue ~**-$140m revenues / -$50m EBITDA**, European Q2 organ
 | Capex | **$200m** | **$202m** |
 | **FCF = CFO−capex** | **$660m** | **$667m** |
 | Dividends | **$310m** | **$310m** |
-| Cash left for debt reduction | **$350m** | **$357m** |
-| Indicative closing net debt | **$3,310m** | **$2,953m** |
+| Assumed debt reduction | **$350m** | **$350m** |
+| Indicative closing net debt | **$3,310m** | **$2,960m** |
 
 Q2 2026 **gross debt $3,961m – cash $301m = net debt $3,660m**. Apply $350m FY26 debt repayment to get $3,310m, assuming cash balances unchanged. Approx closing leverage FY26 **2.35x** and FY27 **2.09x** on modeled EBITDA. **Timing reconciliation (do not double-count H1):** FY2026 modeled FCF **$660m − $310m annual dividends = $350m** before other capital uses; guidance minimum **$625m − $310m = $315m**. But at the **Q2 starting debt balance**, official **H1 2026 FCF was −$36m**, with **$154m dividends and $53m repurchases already incurred**. Modeled H2 FCF is thus **$660m − (−$36m) = $696m**, less about **$156m remaining dividends = $540m H2** available before other uses. Choosing only **$350m net debt decline from Q2** in the SOTP leaves **~$190m for future buybacks/other capital spending, FX or cash/financing movements**; these uses are not forecast individually and the bridge is **not fully reconciled**. Do not assert zero share buybacks during FY2026. Disposal proceeds are excluded.
 
@@ -85,26 +85,22 @@ Spot 12 Oct 2026: **$22.10**. Use **253m spot shares** (~$5,591m market cap); of
 | EV/EBITDA 6x/7x/8x × $1.410bn less FY26 net debt $3.310bn and indicative minorities $24m, divide by 253m | **$20.26** | **$25.83** | **$31.40** |
 | FCF 8x/10x/12x × $660m /253m | **$20.87** | **$26.09** | **$31.30** |
 
-## 6. FY2026 sum of parts — **corrected $350m debt repayment**
-Segment assumptions from user's images:
-| Segment | Revenue FY26E | Adj EBITDA FY26E | EBITDA margin |
+## 6. FY2026 sum-of-the-parts (SOTP)
+
+| Segment | Revenue FY26E ($m) | Adjusted EBITDA FY26E ($m) | EBITDA margin |
 |---|---:|---:|---:|
-| North America | $5,800m | $830m | 14.3% |
-| Europe | $6,000m | $480m | 8.0% |
-| Specialty | $1,750m | $100m | 5.7% |
-| **Total** | **$13,550m** | **$1,410m** | **10.4%** |
+| North America | 5,800 | 830 | 14.3% |
+| Europe | 6,000 | 480 | 8.0% |
+| Specialty | 1,750 | 100 | 5.7% |
+| **Total** | **13,550** | **1,410** | **10.4%** |
 
-**Open reconciliation:** segment revenue $13.55bn vs separate consolidated Excel revenue assumption $13.378bn = **$172m gap**. The cause was not verified; don't silently net it out.
+| Scenario | NA / Europe / Specialty multiple | EV ($m) | Equity with Q2 debt ($m) | $/share Q2 | $/share after H2 reduction |
+|---|---|---:|---:|---:|---:|
+| Conservative | 7x / 6x / 5x | **9,190** | **5,506** | **$21.8** | **$23.1** |
+| **Base** | **8x / 7x / 6x** | **10,600** | **6,916** | **$27.3** | **$28.7** |
+| Favorable | 9x / 8x / 7x | **12,010** | **8,326** | **$32.9** | **$34.3** |
 
-Formula: **Equity value = Σ(segment EBITDA×EV/EBITDA) − [$3,660m Q2 net debt − $350m debt repayment] − $24m indicative minorities**. Divide by **253m shares**.
-
-| Scenario | NA multiple | Europe | Specialty | Total EV ($m) | Equity ($m) | $/share | Upside vs $22.10 |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| **Conservative** | 8x | 7x | 7x | **10,700** | **7,366** | **$29.11** | **+31.7%** |
-| Base | 9x | 8x | 8x | **12,110** | **8,776** | **$34.69** | **+57.0%** |
-| Favorable | 10x | 9x | 9x | **13,520** | **10,186** | **$40.26** | **+82.2%** |
-
-**Why an old screenshot showed $23.6/$29.1/$34.6:** that table assumes *smaller EVs* of **$9,064m / $10,456m / $11,848m** *and* more than $500m of debt reduction. Using its own starting equity values ($5,380m / $6,772m / $8,164m), about 253m shares and **only $350m** debt paydown gives approximately **$22.65 / $28.15 / $33.65** per share (small rounding variance). **This lower-EV scenario is not the same as the $10.7bn/$12.11bn/$13.52bn segment SOTP**; never mix them. Each 10% shortfall in segment EBITDA reduces conservative EV by about **$1.07bn** (~$4.23/share), before break-up costs/taxes.
+**Calculation:** EV = Σ(segment EBITDA × multiple). Equity = EV − net debt − **$24m minority interests**; shares **253m**. Q2 2026 net debt **$3,660m**, reduced to **$3,310m** after an assumed **$350m H2 paydown**. Proceeds from any sale are excluded; the valuation is not a transaction offer or price target. **FY26 segment revenue $13.55bn versus consolidated model $13.378bn** remains unreconciled.
 
 ## 7. Peer snapshot — not synchronized market prices
 - **GPC:** ~12.0x EV/EBITDA, 8.3% margin; material industrial distribution.

@@ -225,7 +225,7 @@ Importantly, neither transaction should be described simply as a **private-equit
 
 I rebuilt the core outputs from my personal Excel workbook into a clean public snapshot that can be reviewed directly in GitHub:
 
-[Open the VICI model snapshot](./MODEL_SNAPSHOT.md)
+Open the VICI model snapshot
 
 The model focuses on:
 
@@ -241,20 +241,20 @@ The VICI case is intended to show a more traditional modeling process than the L
 
 ### Sources
 
-- [VICI September 2026 Investor Presentation](https://investors.viciproperties.com/static-files/66194a2c-b74b-4519-85be-64da2c0c1d29)
-- [VICI 2025 Annual Report / Form 10-K](https://investors.viciproperties.com/static-files/8a76eb1d-45cd-46e1-96a3-9cde572ce4a3)
-- [VICI 2024 Annual Report / Form 10-K](https://investors.viciproperties.com/static-files/cd5639ce-05a6-4f60-a180-529903a44696)
-- [VICI Q2 2026 Form 10-Q](https://investors.viciproperties.com/static-files/9ccc5e77-6ffd-459a-a966-e825b6e791ae)
-- [VICI Q2 2026 Supplemental Financial Information](https://investors.viciproperties.com/static-files/4bd1c7f3-8a07-4af9-ae2d-b8da7d7ba208)
-- [VICI September 2026 dividend announcement](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-increases-regular-quarterly-dividend-2)
-- [Golden Entertainment transaction overview - 7.5% acquisition cap rate](https://investors.viciproperties.com/static-files/0fb2943a-42fe-48b2-8a8e-7661051d2440)
-- [Gamehost transaction overview - 8.0% acquisition cap rate](https://investors.viciproperties.com/news-releases/news-release-details/vici-properties-inc-announces-sale-leaseback-canadian-portfolio)
-- [Caesars - definitive agreement to be acquired by Fertitta Entertainment](https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-enters-agreement-be-acquired-fertitta)
-- [SEC - Caesars shareholder approval of Fertitta merger](https://www.sec.gov/Archives/edgar/data/1590895/000119312526398606/d743488d8k.htm)
-- [SEC - FTC Second Request on Caesars / Fertitta transaction](https://www.sec.gov/Archives/edgar/data/1590895/000119312526393853/d242276d8k.htm)
-- [MGM - June 2026 People Incorporated acquisition proposal](https://investors.mgmresorts.com/2026-06-01-MGM-Resorts-International-Confirms-Receipt-of-Acquisition-Proposal-from-People-Incorporated)
-- [MGM - People Incorporated withdraws acquisition proposal](https://investors.mgmresorts.com/2026-09-23-MGM-Resorts-Internationals-Board-of-Directors-Confirms-Commitment-to-Execution-of-MGM-Resorts-Strategy-as-a-Standalone-Company)
-- [Reuters - MGM discussing potential bid for People Incorporated, September 2026](https://www.reuters.com/business/mgm-discusses-bid-barry-dillers-people-inc-wsj-reports-2026-09-24/)
-- [SEC - MGM Master Lease reporting and covenant protections](https://www.sec.gov/Archives/edgar/data/1705696/000170569623000035/mgmgrand_mandalaybayleasef.htm)
+- VICI September 2026 Investor Presentation
+- VICI 2025 Annual Report / Form 10-K
+- VICI 2024 Annual Report / Form 10-K
+- VICI Q2 2026 Form 10-Q
+- VICI Q2 2026 Supplemental Financial Information
+- VICI September 2026 dividend announcement
+- Golden Entertainment transaction overview - 7.5% acquisition cap rate
+- Gamehost transaction overview - 8.0% acquisition cap rate
+- Caesars - definitive agreement to be acquired by Fertitta Entertainment
+- SEC - Caesars shareholder approval of Fertitta merger
+- SEC - FTC Second Request on Caesars / Fertitta transaction
+- MGM - June 2026 People Incorporated acquisition proposal
+- MGM - People Incorporated withdraws acquisition proposal
+- Reuters - MGM discussing potential bid for People Incorporated, September 2026
+- SEC - MGM Master Lease reporting and covenant protections
 
 > The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded. Valuation assumptions are illustrative and do not constitute investment advice.

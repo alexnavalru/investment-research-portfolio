@@ -17,18 +17,22 @@ LKQ is a global distributor of replacement vehicle parts, primarily serving prof
 LKQ sold its **Self-Service** salvage business in 2025.
 
 ## 2. Investment thesis and potential catalysts
-The core thesis is **portfolio simplification + operational restructuring + cash-led deleveraging**, with **Specialty divestiture, a wider break-up, or even a whole-company sale** as *possible*, not guaranteed, catalysts. The market may be pricing prolonged European execution problems and weak collision-repair volumes as permanent. The counter-case is that European service recovers after the German ERP disruption, 2026 cash generation reduces debt and independent owners extract more value from the business units.
 
-**My base discipline:** **I have no target price**. My preferred entry is **around $20/share**, and I am comfortable waiting for better information or a lower price. The SOTP is a *potential value-unlocking scenario*, **not a price target**, an announced bid or a liquidation appraisal. The trade should have a credible operational/restructuring payoff **without** a whole-company sale. Prior buybacks at high prices and modest insider ownership limit confidence in capital allocation.
+The thesis combines **portfolio simplification, operational restructuring and FCF-funded deleveraging**. A sale of the entire company offers additional upside, but **a takeover is not necessary** for the investment to work.
 
-### Catalysts and timeline
-- **February 2025:** activist funds **Ancora and Engine Capital** negotiated board representation and greater scrutiny of strategy and capital allocation.
-- **August–October 2025:** LKQ moved to sell its **Self-Service** business; activist **Ananym Capital**, founded by **Charlie Penner and Alex Silver**, pushed for value creation through the separation or sale of European assets.
-- **December 2025:** LKQ launched a formal process to explore the sale of **Specialty**.
-- **January 2026:** the board initiated a broader **strategic review**, including the possibility of selling **the entire company**. A sale is an option, **not a confirmed transaction**.
-- **2026–2027:** cost restructuring, ERP recovery in Germany, European private-label margin improvement and cash-flow-driven **deleveraging** could create value even without a sale.
+1. **Activist involvement and governance (February–October 2025):** Ancora and Engine Capital secured board representation in February; Ananym subsequently pushed LKQ to unlock value through the sale or separation of Europe.
+2. **Portfolio simplification (2025):** the divestment of **Self-Service** demonstrates a willingness to dispose of non-core assets and focus on the main businesses.
+3. **Specialty divestiture (December 2025):** LKQ launched a sale process for **Specialty**. Potential proceeds could reduce leverage and make the business easier to value; no sale price is assumed.
+4. **Strategic review and possible takeover (January 2026):** LKQ formally began reviewing alternatives, including **a sale of the whole company or its divisions**. A whole-company sale is the speculative catalyst, not an agreed deal.
+5. **Restructuring and cost savings (2026–2027):** procurement, efficiencies and a simpler operating structure could gradually improve profitability without requiring stronger end-market demand.
+6. **European recovery:** Germany's ERP stabilization, better service levels and higher private-label penetration could restore lost revenue and improve European margins.
+7. **Deleveraging through FCF:** directing cash generation to debt rather than expensive buybacks could improve the balance sheet and reduce equity risk. My SOTP assumes **only $350m net debt reduction from Q2 2026 to year-end**.
+8. **Optional dividend reallocation:** cutting the dividend could initially hurt the stock but free cash for faster debt repayment; this is **not my base case**.
+9. **Potential SOTP re-rating:** a clearer portfolio and improved segment performance could narrow the valuation discount. This is a **valuation scenario, not my price target**.
 
-Management discussed **>$50m of annual savings** in Q1 2026. In Q2 it estimated the German ERP migration caused approximately **$140m in lost quarterly revenue and $50m in EBITDA**. Restoring service and customer order share is a key operational catalyst.
+**Who are the activists?** **Ancora** and **Engine Capital** are activist investors that negotiated LKQ board representation in February 2025. **Ananym Capital** is a New York activist fund founded by **Charlie Penner and Alex Silver**; Penner previously worked at JANA Partners. Ananym has argued that separating or selling European assets could unlock value. Activist pressure increases the focus on capital allocation, but does **not** guarantee a transaction.
+
+**Earnings-call evidence:** Q1 2026 management targeted **>$50m annual cost savings** and expected improved European private-label pricing into 2027. Q2 stressed cost/productivity gains hidden by the German ERP failure: management estimated **~$140m of lost Q2 German revenue and ~$50m EBITDA**, while the UK/Benelux remained weak. German sales run-rate was reported **>85% of normal by late July**, with a stated ambition to approach **100% near year-end**; this is a management *goal*, not a proven outcome.
 
 ### Historic drawdown and entry discipline
 The stock has experienced a **~58.8% peak-to-current drawdown** on a total-return-style series, among LKQ's deepest: only **~62.8% in 2008** and **~68.0% in the 2020 Covid crash** were larger in the historical drawdown ranking. Source: PortfoliosLab drawdowns. This unusual three-year decline, alongside changes in leadership, activist pressure, a formal strategic review and deleveraging, merits attention, **but the fall itself is not my valuation thesis**.
@@ -36,6 +40,7 @@ The stock has experienced a **~58.8% peak-to-current drawdown** on a total-retur
 **Cash flow is the core valuation metric for a spare-parts distributor**. At the **$22.10 reference price**, **253m shares**, **~$3.66bn Q2 net debt** and **$660m 2026E FCF defined strictly as CFO – total capex**, LKQ trades at **~8.5x equity P/FCF** (often rounded to **~8x**) or **~14.0x EV/FCF including debt** (roughly **14–14.3x** depending on the FCF/price inputs). EV/FCF is a leverage-aware *cross-check*, not a standard unlevered enterprise cash-flow multiple: **CFO is after cash interest, so EV/FCF mixes enterprise value with levered FCF**. For cleaner capital-structure analysis, also use EV/EBITDA and net debt/EBITDA. **At those cash-flow multiples and with the risks below, I do not view LKQ as especially cheap**. The **$20 entry preference** is a discipline, not a guaranteed bargain.
 
 **Speculation versus controllable catalysts:** selling *all* of LKQ is the speculative outcome and is **not required**. The board's review, exit of non-core assets, management/board changes, cost cuts, better European execution and cash-funded debt reduction can create shareholder value even without a buyer. The conservative ~$29.11/share **SOTP is conditional on FY2026 segment EBITDA/multiples and only $350m debt reduction**, and is useful as a possible margin-of-safety check **at entry**, not a standalone target price.
+
 
 ## 3. Operating problems and capital allocation challenges
 1. **Post-Covid normalization:** unusually strong 2021–22 parts demand/margins unwound; claims, repair volumes and consumers remain pressured. North American Q2 +0.5% organic Parts & Services sales was **mainly price**, not a true volume recovery.
@@ -46,15 +51,38 @@ The stock has experienced a **~58.8% peak-to-current drawdown** on a total-retur
 6. **Governance:** current CEO is an LKQ veteran, not a complete outsider; 2025 total CEO grant-date pay is high relative to direct stock ownership. Most institutional owners are passive/large asset managers. Insider transactions show **some small buys, not a major insider accumulation programme**.
 
 ## 4. Management, ownership and incentive alignment
-**Operating leadership:** CEO **Justin Jude** joined LKQ in **2004** and became CEO in **July 2024** after Dominick Zarcone; CFO **Rick Galloway** joined LKQ in **2019** and became CFO in **2022**; Europe head **Andy Hamilton** and North American president **John Meyne** have deep internal operating experience. **John Mendel** became independent chairman in 2025. The board also gained activists' appointees **Sue Gove** and **Michael Powell** in Feb 2025; the May 2026 board had **eight directors**, versus larger earlier boards. The change in CEO, chair, directors and oversight is meaningful, but **not a clean break with the acquisition/buyback era**.
 
-**CEO 2025 DEF 14A compensation (grant-date accounting, not cash received):** $1.000m salary + **$6.500m equity awards** + **$1.200m annual performance bonus** + $0.068m other = **$8.768m total**. Annual incentive: adjusted EBITDA **30%**, adjusted EBITDA margin **30%** and FCF **40%** (target annual incentive: 150% of salary). Long-term 2025–27 performance equity tracks **2027 adjusted EPS (40%), organic sales growth (20%) and ROIC (40%)**, in addition to vesting/earnings conditions; economic achievement is conditional and distinct from grant-date award value.
+**Leadership and change:** CEO **Justin Jude** joined LKQ in **2004** and replaced Dominick Zarcone in **July 2024**; CFO **Rick Galloway** joined in **2019** and became CFO in **2022**. **John Mendel** became independent chairman in **2025**, and activist-backed **Sue Gove** and **Michael Powell** joined the board in **February 2025**. The board has changed, but the CEO is a long-time insider: **this is not a complete break from the team associated with earlier poor buybacks and capital allocation**.
 
-**Ownership, proxy dated 10 March 2026:** Justin Jude **202,683 beneficial shares**, worth **~$4.48m at $22.10**, around **0.08%** of outstanding shares. A separate **31 Dec 2025** grant schedule showed **101,656 unvested time-based** and **88,832 unearned performance-contingent** shares (up to ~190k award units, ~$4.21m at today's reference price). **Do not simply add these to March beneficial holdings**: the dates overlap and future performance, vesting/taxes and plan maximums matter. All directors/executives as a group: **975,814 beneficial shares, <1%**, about $21.6m at reference price.
+### CEO compensation (2025)
 
-**Insider trading nuance:** meaningful sales included Zarcone (~32k shares Sep 2023; **~200k shares/$10.4m March 2024**), and former Europe head Varun Laroyia **35k in Dec 2023**. There *were* open-market buys: Jude 2,500 (July 2024), 2,708 (April 2025), 5,669 (August 2025), alongside smaller CFO/board purchases. These are **modest for a ~$5.6bn company**, not zero purchases. Other apparent sales may be automatic tax withholding; verify Form 4 transaction codes before labeling them discretionary.
+| Compensation component | Cash or equity | Amount | Share of reported compensation |
+|---|---|---:|---:|
+| Base salary | Cash | $1.00m | 11.4% |
+| Annual bonus / non-equity incentive | Cash | $1.20m | 13.7% |
+| Other compensation and benefits | Other / cash-like | $0.07m | 0.8% |
+| Share awards granted | Equity (grant-date value) | $6.50m | 74.1% |
+| **Total reported compensation** | **Cash + equity** | **$8.77m** | **100%** |
+| **Cash and other** | **Cash / other** | **$2.27m** | **25.9%** |
+| **Equity awards** | **Equity** | **$6.50m** | **74.1%** |
+| Compensation Actually Paid (SEC methodology) | Revalued SEC disclosure | **~$5.77m** | — |
 
-**Institutional ownership:** latest user-supplied **30 June 2026 snapshot**: BlackRock 38.55m (~15.24%), Pzena 15.14m (~5.99%), Vanguard Portfolio Management 14.42m (~5.70%), Fuller & Thaler 12.04m (~4.76%), Vanguard Capital Management 11.47m (~4.53%). These are **manager/reported positions, not additive beneficial owners** and must not be confused with a single Vanguard voting bloc. A dispersed, financially oriented shareholder base may support a credible cash offer or break-up, **but does not guarantee approval**.
+**Incentive metrics:** annual cash bonus depends on **adjusted EBITDA (30%)**, **adjusted EBITDA margin (30%)** and **FCF (40%)**. The 2025–2027 performance awards use **adjusted EPS (40%)**, **organic sales growth (20%)** and **ROIC (40%)**. Equity awards are valued at the **grant date**, not cash received; *Compensation Actually Paid* is a separate SEC calculation, not an extra payment.
+
+### CEO ownership and share-price exposure
+
+| Measure | Approx. shares / units | Value at **$22.10/share** | Approx. % of ~253m shares |
+|---|---:|---:|---:|
+| Beneficial shares (10 March 2026 proxy) | **202,683** | **$4.48m** | **0.08%** |
+| Reconstructed current equity exposure (shares + relevant awards) | **~358,000** | **$7.91m** | **0.14%** |
+| Potential exposure incl. pending PSU-2 awards | **~447,000** | **$9.88m** | **0.18%** |
+
+**Interpretation:** roughly **74% of reported compensation is equity-linked**, but Jude's **actual beneficial ownership is modest** relative to LKQ's size. The ~358k and ~447k amounts are **broader reconstructed economic-exposure scenarios**, including awards subject to vesting/performance conditions; they are **not all shares currently owned**, and **must not be added** to the 202,683 beneficial shares. Values assume $22.10 throughout and are **not guaranteed realized compensation**.
+
+**Insiders:** notable discretionary sales occurred in **2023–2024** (including former CEO Zarcone); Jude and other insiders made some **smaller purchases in 2024–2025**, but there has been no comparable large-scale insider accumulation. Distinguish genuine market sales from tax-withholding transactions.
+
+**Shareholder base:** institutionally owned, including **BlackRock (~15.2%)**, **Pzena (~6.0%)**, reported Vanguard-managed positions, and **Fuller & Thaler (~4.8%)** (June 2026 snapshot). Institutional owners may favor an attractive asset sale or takeover, but they do not guarantee one.
+
 
 ## 5. Historical financials and working capital
 

@@ -185,15 +185,14 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 
 | Method | Low | Mid / conservative | High |
 |---|---:|---:|---:|
-| **P/E** (7x–11x) | $19.25 | $24.75 | $30.25 |
-| **EV/EBITDA — Q2 net debt** (6x–8x) | $18.97 | $24.55 | $30.12 |
-| **EV/EBITDA — after $350m debt reduction** (6x–8x) | $20.36 | $25.93 | $31.50 |
-| **P/FCF** (8x–12x) | $20.87 | $26.09 | $31.30 |
+| **P/E** (7x–11x) | $19.3 | $24.8 | $30.3 |
+| **EV/EBITDA — Q2 net debt** (6x–8x) | $19.0 | $24.6 | $30.1 |
+| **EV/EBITDA — after $350m debt reduction** (6x–8x) | $20.4 | $25.9 | $31.5 |
+| **P/FCF** (8x–12x) | $20.9 | $26.1 | $31.3 |
 | **SOTP — Q2 net debt** (bearish / conservative / bullish) | $15.8 | $21.3 | $26.8 |
 | **SOTP — after $350m debt reduction** (bearish / conservative / bullish) | $17.1 | $22.6 | $28.2 |
 
-**Takeaway:** across these assumptions, the implied price range is **~$15.8–$31.5/share**. The **conservative (middle) SOTP scenario** yields **$21.3/share with Q2 debt** or **$22.6 after deleveraging**, versus the **$22.10 reference price**. Comparables provide context for selecting multiples but do not create a separate price range. These are **scenario outputs, not a formal price target**; my preferred entry remains **around $20/share**.
-
+**Takeaway:** The valuation scenarios imply a broad **~$15.8–$31.5/share range**. My **SOTP uses conservative segment multiples**, yet its conservative scenario values LKQ at only **$21.3/share with Q2 net debt** or **$22.6 after deleveraging**, leaving limited margin of safety versus the **$22.10 reference price**. Importantly, the SOTP relies on **adjusted EBITDA**, so I need to verify that the company's adjustments and add-backs are genuinely justified and not recurring costs; otherwise the valuation could be overstated. **For these reasons, I would wait for a price around $20/share before considering an investment.** These are scenarios, not a formal price target.
 
 ## 7. Key risks and what to monitor
 

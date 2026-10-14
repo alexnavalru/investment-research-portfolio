@@ -46,7 +46,7 @@ Definitions: **DSO** receivables days (receivables/sales×365); **DIO** inventor
 | Operating cash flow | $900–1,100m | **$825–1,025m** |
 | Free cash flow | $700–850m | **$625–775m** |
 
-Q2 call: German ERP issue ~**-$140m revenues / -$50m EBITDA**, European Q2 organic Parts & Services **-12.6%**, lower UK/Benelux demand, and German recovery taking longer. Management aims to restore service and capture cost-saving benefits. Corporate review remains open with **no guaranteed transaction**.
+German ERP issue ~**-$140m revenues / -$50m EBITDA**, European Q2 organic Parts & Services **-12.6%**, lower UK/Benelux demand, and German recovery taking longer. Management aims to restore service and capture cost-saving benefits. Corporate review remains open with **no guaranteed transaction**.
 
 ## 4. My 2026–2027 scenario
 | Metric | FY2026E | FY2027E |

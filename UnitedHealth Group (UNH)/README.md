@@ -26,7 +26,6 @@ The key question was not whether 2025 would be a bad year. It clearly would be. 
 
 My base-case valuation was **above $400/share**, with a medium-term range of roughly **$400–$450 by 2027**.
 
-
 ## Why the Selloff Became Interesting
 
 At the start of 2025, UnitedHealth expected adjusted EPS of **$29.50–$30.00**.

@@ -155,7 +155,7 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 **Capital structure assumption:** **57.5m fully diluted economic shares** (vs **48.48m** post-Allied/pre-Hughes; **~9.02m incremental**, including a cushion above the minimum stock issue) and **fixed $280m FY2027 net debt** **in every scenario**. This is **not management guidance**. A $280m assumption equals **~1.16x FY2027 base EBITDA**, whereas **1.4x** is management's **transaction-close pro forma leverage** at an earlier earnings base. Scenario EV = **57.5m × share price + $280m**, excluding TRA, earn-out adjustments and further material capital-structure changes.
 
-**Transaction facts:** $357.5m upfront + up to $97.5m 2026 adjusted EBITDA earn-out ($455m max). Financing includes $156m new debt and at least $143m Class A shares with 180-day seller lockup; issue price undisclosed. <1.63x upfront / <2.07x maximum **price-to-TTM-sales** based on >$220m annual revenue; EV/EBITDA not disclosed. Company release · Management call.
+**Transaction facts:** $357.5m upfront + up to $97.5m 2026 adjusted EBITDA earn-out ($455m max). Financing includes $156m new debt and at least $143m Class A shares with 180-day seller lockup; issue price undisclosed. <1.63x upfront / <2.07x maximum **price-to-TTM-sales** based on >$220m annual revenue; EV/EBITDA not disclosed.
 
 ## Ownership / insider buying (reconciled October 12, 2026)
 
@@ -165,7 +165,7 @@ On the reconstructed **48,479,855 fully exchanged A+B pro forma equivalents** (J
 
 The founder's reconstructed holding is **12,229,848 paired B/LLC units plus 83,350 directly bought Class A (~25.40%)**, not the earlier ~8.345m/~17.2% estimate. The April 2026 proxy inconsistently shows **8,261,392** in one B-share cell versus **12,229,848** in its own footnote and the founder's Schedule 13G; treat this as an unresolved disclosure discrepancy. For ALGC, **4,186,062** LLC/Class B equivalents were issued to Diamond Interests Group; the proxy/Forms 3 attribute **2,093,031 to each of Anthony and Benjamin Wood** (each 50% owner). Count their holdings as two halves of the 4.186m issued block, not as another set of 4.186m each.
 
-**Open-market purchases since IPO:** **289,518 shares (~$10.68m)** across December 2025–August 2026, of which **241,597 shares** were bought during 2026. No insider open-market sales found in Forms 4 reviewed through October 12; 2025 IPO redemptions and 2026 B/LLC-to-A conversions are not open-market sales. Proxy · Spivey Schedule 13G ·
+**Open-market purchases since IPO:** **289,518 shares (~$10.68m)** across December 2025–August 2026, of which **241,597 shares** were bought during 2026. No insider open-market sales found in Forms 4 reviewed through October 12; 2025 IPO redemptions and 2026 B/LLC-to-A conversions are not open-market sales.
 
 ## Tax Receivable Agreement (TRA) - quick explanation
 

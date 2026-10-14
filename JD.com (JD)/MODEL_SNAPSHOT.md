@@ -298,14 +298,4 @@ Using the **$26.50 ADR reference price** and a **$1.00 annual dividend per ADS**
 
 \*One-year illustration assuming the $1.00 annual dividend is maintained. Because the target is **above $35**, the table represents a minimum threshold.
 
-### Public Sources
-
-- JD.com Q2 / H1 2026 results
-- JD.com FY2025 results / capital returns
-- SEC - Richard Liu ownership
-- China - 2025 appliance subsidy framework
-- China - 2026 appliance subsidy framework
-- JD Logistics current valuation
-- JD Health current valuation
-
 > Model values are personal assumptions and are not company guidance or investment advice.

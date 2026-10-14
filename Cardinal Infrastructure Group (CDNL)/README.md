@@ -218,7 +218,6 @@ The existing **$890m FY2026 guidance midpoint includes Allied but not Hughes**. 
 | Hughes EBITDA margin (analyst assumption) | 18.0% | 20.0% | **22.0%** | 24.0% |
 | Hughes added adjusted EBITDA | +36.0 | +42.0 | **+48.4** | +57.6 |
 | **Consolidated FY2027 revenue** | 1,196.3 | 1,260.8 | **1,325.3** | 1,399.8 |
-| Revenue growth vs. unadjusted FY2026 $890m midpoint | 34.4% | 41.7% | **48.9%** | 57.3% |
 | **Consolidated FY2027 adjusted EBITDA** | 180.5 | 220.6 | **241.8** | 266.4 |
 | **Consolidated FY2027 EBITDA margin** | 15.1% | 17.5% | **18.2%** | 19.0% |
 | **Fully diluted economic shares (M; assumed)** | 57.5 | 57.5 | **57.5** | 57.5 |

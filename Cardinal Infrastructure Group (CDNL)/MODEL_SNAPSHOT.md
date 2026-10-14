@@ -69,7 +69,7 @@ Cardinal's Q2 2026 revenue rose **114.0%** to **$226.9m**, including **64.0% org
 3. **Bad weather in Georgia:** delays at **ALGC** pushed back higher-margin project activity.
 4. **Corporate overhead:** G&A rose as Cardinal built the infrastructure needed to operate and scale as a public company, further weighing on adjusted EBITDA margin.
 
-Management expects better project scheduling, greater internal capabilities and the delayed high-margin work to help margins recover, but **recovery is not yet proven**. H1 2026 revenue was **$394.4m**, adjusted EBITDA **$54.9m** and the 2026 full-year guidance remains **$880m–$900m revenue / 16.0%–18.0% adjusted EBITDA margin**. Q2 2026 company results · Q2 2026 earnings-call transcript.
+Management expects better project scheduling, greater internal capabilities and the delayed high-margin work to help margins recover, but **recovery is not yet proven**. H1 2026 revenue was **$394.4m**, adjusted EBITDA **$54.9m** and the 2026 full-year guidance remains **$880m–$900m revenue / 16.0%–18.0% adjusted EBITDA margin**.
 
 ### Q2 2026 financial debt and liquidity
 
@@ -100,8 +100,6 @@ Legal floating note principal **$196m** and fixed notes **$3.5m**; $59.25m SOFR 
 Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; **400 tons/hour nameplate capacity**. Initially for internal site/paving works, reducing supplier reliance, preserving margin and optimizing schedules. Management has **owned land + zoning and air permits for a second plant** but had not ordered equipment nor completed site plan as of August Q2 call; wants **one to two quarters** of operating learning at first plant to determine capacity/configuration and timing. **Third-party asphalt sales are a prospective upside, not proven revenue nor included in baseline projections.**
 
 **Personal investing position:** **No position as of October 9, 2026**. **Preferred entry around $19/share**, distinct from a **>$30/share valuation objective**. On the **revised FY2027 base ($241.8m adjusted EBITDA)**, assuming **57.5m diluted economic shares** and **$280m net debt**, EV/EBITDA is **~5.68x at $19/share**, or **~5.59x at the Oct 13 $18.62 close**. These are assumptions, not issued share counts or reported debt balances; acquisition dilution and earn-out are not final.
-
-**Sources:** Q2 2026 10-Q; FY2025 annual report; Q2 call; Asphalt plant; June equity offering; September credit amendment.
 
 ## FY2026 normalized earnings - two valuation methods
 
@@ -157,7 +155,7 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 **Capital structure assumption:** **57.5m fully diluted economic shares** (vs **48.479855m** post-Allied/pre-Hughes; **~9.02m incremental**, including a cushion above the minimum stock issue) and **fixed $280m FY2027 net debt** **in every scenario**. This is **not management guidance**. A $280m assumption equals **~1.16x FY2027 base EBITDA**, whereas **1.4x** is management's **transaction-close pro forma leverage** at an earlier earnings base. Scenario EV = **57.5m × share price + $280m**, excluding TRA, earn-out adjustments and further material capital-structure changes.
 
-**Transaction facts:** $357.5m upfront + up to $97.5m 2026 adjusted EBITDA earn-out ($455m max). Financing includes $156m new debt and at least $143m Class A shares with 180-day seller lockup; issue price undisclosed. <1.63x upfront / <2.07x maximum **price-to-TTM-sales** based on >$220m annual revenue; EV/EBITDA not disclosed. [Company release](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-cdnl-announces-acquisition-hughes) · [Management call](https://stockanalysis.com/stocks/cdnl/transcripts/769224-m-a-announcement/).
+**Transaction facts:** $357.5m upfront + up to $97.5m 2026 adjusted EBITDA earn-out ($455m max). Financing includes $156m new debt and at least $143m Class A shares with 180-day seller lockup; issue price undisclosed. <1.63x upfront / <2.07x maximum **price-to-TTM-sales** based on >$220m annual revenue; EV/EBITDA not disclosed. Company release · Management call.
 
 ## Ownership / insider buying (reconciled October 12, 2026)
 
@@ -167,7 +165,7 @@ On the reconstructed **48,479,855 fully exchanged A+B pro forma equivalents** (J
 
 The founder's reconstructed holding is **12,229,848 paired B/LLC units plus 83,350 directly bought Class A (~25.40%)**, not the earlier ~8.345m/~17.2% estimate. The April 2026 proxy inconsistently shows **8,261,392** in one B-share cell versus **12,229,848** in its own footnote and the founder's Schedule 13G; treat this as an unresolved disclosure discrepancy. For ALGC, **4,186,062** LLC/Class B equivalents were issued to Diamond Interests Group; the proxy/Forms 3 attribute **2,093,031 to each of Anthony and Benjamin Wood** (each 50% owner). Count their holdings as two halves of the 4.186m issued block, not as another set of 4.186m each.
 
-**Open-market purchases since IPO:** **289,518 shares (~$10.68m)** across December 2025–August 2026, of which **241,597 shares** were bought during 2026. No insider open-market sales found in Forms 4 reviewed through October 12; 2025 IPO redemptions and 2026 B/LLC-to-A conversions are not open-market sales. Proxy · Spivey Schedule 13G · H1 2026 10-Q · Form 4 log.
+**Open-market purchases since IPO:** **289,518 shares (~$10.68m)** across December 2025–August 2026, of which **241,597 shares** were bought during 2026. No insider open-market sales found in Forms 4 reviewed through October 12; 2025 IPO redemptions and 2026 B/LLC-to-A conversions are not open-market sales. Proxy · Spivey Schedule 13G ·
 
 ## Tax Receivable Agreement (TRA) - quick explanation
 
@@ -182,17 +180,3 @@ The 2025 10-K's illustrative full exchange shows **$212.3m potential tax benefit
 - Primary financial covenants after September 2026 second amendment: consolidated net leverage **≤2.50x** (eligible acquisition holiday **≤3.00x**), fixed-charge coverage **≥1.25x**. Large acquisitions also face a stricter pro forma leverage test.
 - **Hughes risk:** Fourth 2026 acquisition, $156m new debt, potential earn-out and minimum **7.15m–7.94m** new shares at illustrative $20–$18, with exact terms unknown. FY2027 model uses **57.5m fully diluted economic shares** including a conservative dilution cushion, but the eventual count could differ. Acquired EBITDA multiple is not disclosed.
 - Consider replacement equipment CAPEX, changing asset-life/depreciation schedules, cash conversion, stock-based compensation and the likely deal pipeline before converting EBITDA multiples into intrinsic equity value.
-
-## Official source links
-
-- FY2025 10-K - SEC
-- Q2 2026 results/guidance - Cardinal
-- Allied closing Oct 1 - Cardinal
-- Allied issuance and purchase price - SEC
-- 2026 ownership proxy - SEC
-- Stock history Oct 8 - StockAnalysis
-- [Hughes Brothers Oct 13 official release](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-cdnl-announces-acquisition-hughes)
-- [Hughes Brothers Oct 13 conference transcript](https://stockanalysis.com/stocks/cdnl/transcripts/769224-m-a-announcement/)
-- [Oct 13 CDNL closing price history](https://stockanalysis.com/stocks/cdnl/history/)
-
-**Data provenance:** Financial and insider values based on 10-K, 10-Q, SEC filings, user-provided purchase summary and ongoing research. No independently accessible Excel workbook was located during this update; estimates should be reconciled when provided.

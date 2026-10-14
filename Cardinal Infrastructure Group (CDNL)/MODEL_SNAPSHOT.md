@@ -171,7 +171,7 @@ The founder's reconstructed holding is **12,229,848 paired B/LLC units plus 83,3
 
 When old LLC owners convert their units into Class A, the company can receive extra future tax deductions. **Former owners get 85% of the eligible cash tax savings, Cardinal retains 15%.** Earlier TRA obligations **already exist** in the current Up-C structure; fresh conversions create additional tax benefits/payments. No TRA existed in FY2024.
 
-The 2025 10-K's illustrative full exchange shows **$212.3m potential tax benefits less $180.5m related TRA payments = $31.8m cumulative net benefits**, equal to **~$0.83 per 2025 A+B equivalent share over future years before discounting**. **This is not annual EPS or immediate stock-price upside**. Include only the present value of net fiscal cash flows not already embedded in the valuation.
+An illustrative full exchange shows **$212.3m potential tax benefits less $180.5m related TRA payments = $31.8m cumulative net benefits**, equal to **~$0.83 per 2025 A+B equivalent share over future years before discounting**. **This is not annual EPS or immediate stock-price upside**. Include only the present value of net fiscal cash flows not already embedded in the valuation.
 
 ## Capital allocation and risks
 

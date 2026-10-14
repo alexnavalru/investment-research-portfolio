@@ -1,4 +1,4 @@
-# Cardinal (CDNL) - Financial Model Snapshot / October 9, 2026
+# Cardinal (CDNL) - Financial Model Snapshot / October 14, 2026
 
 **Companion thesis:** Read thesis. Amounts USD millions unless specified.
 
@@ -13,7 +13,7 @@
 | Net interest expense | N/A | 4.8 | 6.8 | **5.7** | **11.0 estimated** |
 | Economic A+B share-equivalents (year-end/pro forma) | N/A | 36.6M (hypothetical) | 38.3M | 47.5M | **48.5M post-Allied** |
 
-**Important:** FY2024's ~36.6M is a hypothetical IPO-equivalent economic denominator, **not an actual historical Class A/B share count**. FY2026 D&A and net interest are analyst estimates, not company guidance. FY2026 guidance is **$880m–$900m revenues and 16.0%–18.0% adjusted EBITDA margin**.
+**Important:** FY2024's ~36.6M is a hypothetical IPO-equivalent economic denominator, **not an actual historical Class A/B share count**. FY2026 D&A and net interest are analyst estimates, not company guidance. FY2026 guidance is **$880m–$900m revenues and 16.0%–18.0% adjusted EBITDA margin**, **before the pending Hughes Brothers acquisition**.
 
 ## Backlog and contracts
 
@@ -99,7 +99,7 @@ Legal floating note principal **$196m** and fixed notes **$3.5m**; $59.25m SOFR 
 
 Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; **400 tons/hour nameplate capacity**. Initially for internal site/paving works, reducing supplier reliance, preserving margin and optimizing schedules. Management has **owned land + zoning and air permits for a second plant** but had not ordered equipment nor completed site plan as of August Q2 call; wants **one to two quarters** of operating learning at first plant to determine capacity/configuration and timing. **Third-party asphalt sales are a prospective upside, not proven revenue nor included in baseline projections.**
 
-**Personal investing position:** **No position as of October 9, 2026**. **Preferred initiation/entry price: around $19/share**, distinct from the **>$30/share valuation objective**. Zero-net-debt scenario, 48.479855m A+B shares, $19 price yields ~$921.1m EV and **~4.76x FY2027 base-case adjusted EBITDA** ($193.4m). Buying at $19 is contingent on fundamentals and financing discipline, not a standing execution order.
+**Personal investing position:** **No position as of October 9, 2026**. **Preferred initiation/entry price: around $19/share**, distinct from the **>$30/share valuation objective**. After the Hughes announcement, using **~56.006m hypothetical post-deal economic equivalents** (minimum $143m share issuance at $19) and **hypothetical net debt of 1.4x FY2027 adjusted EBITDA**, the $19 equity price gives **~5.68x** our updated **$248.4m FY2027 base adjusted EBITDA**. This is a sensitivity, **not a current reported EV**; deal stock pricing, future net debt and earn-out remain unknown. Buying at $19 is contingent on fundamentals and financing discipline, not a standing execution order.
 
 **Sources:** Q2 2026 10-Q; FY2025 annual report; Q2 call; Asphalt plant; June equity offering; September credit amendment.
 
@@ -126,30 +126,37 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 
 ## Acquisition bridge for 2027
 
-**Management long-term adjusted EBITDA margin target: 20%.** FY2027 scenario margins of 14.5% / 17.0% / 17.5% / 18.0% are analyst estimates, deliberately below the long-term target.
+**Core FY2027 adjusted EBITDA margins are unchanged at 14.5% / 17.0% / 17.5% / 18.0%.** Hughes receives an **additional standalone** 20% / 22% / 25% / 28% assumed margin, **not management guidance** (which says only that Hughes is immediately margin-accretive). Hughes had **>$220m TTM revenue** at June 30 and **~$350m backlog**, grew **100% organically**, and its founders stay; closing is expected **Q4 2026**, with **FY2027 the first complete consolidation year** if closed as planned.
 
-- **ALGC:** approximately **$16.8m** 2026 first-half pro forma revenue not booked before its February 18 closing.
-- **Piedmont Pipe:** approximately **$3.1m** 2026 first-half pro forma revenue not booked before May 29 closing.
-- **Allied Paving:** acquired October 1, 2026. Standalone roughly **$100m** annual sales; base-case model estimates **$90m** net external/consolidated FY2027 and assumes **$28m** already contributes FY2026, so **+$62m** increment. This estimate discounts intercompany revenue.
-- **Organic growth:** 5%, 10%, 15% or 20% applied to FY2026 midpoint revenue (model simplification). No additional M&A assumed.
+- **ALGC:** ~$16.8m 2026 H1 pro forma revenue not recognized before February 18 closing.
+- **Piedmont Pipe:** ~$3.1m 2026 H1 pro forma revenue not recognized before May 29 closing.
+- **Allied Paving:** closed October 1; base model estimates $90m net external FY2027 revenue (vs ~$108m standalone guidance), of which ~$28m is already assumed in FY2026 guidance (**+$62m** FY2027 increment).
+- **Hughes Brothers:** bearish / conservative / base / optimistic 2027 revenue **$200m / $210m / $220m / $240m**. The **$220m base** uses the company's stated TTM floor, **not 2027 guidance**; 25% margin in base is a **model assumption**.
+- **Timing/method:** The existing **$890m FY2026 guidance midpoint excludes Hughes**. This revenue bridge includes **all FY2027 Hughes sales**, without first baking a partial Q4 2026 Hughes contribution into the $890m; FY2026 actuals may include such partial contribution. No further acquisitions/synergies modeled.
 
-| Item | Bearish | Conservative | Base | Optimistic |
+| Item (USD m unless noted) | Bearish | Conservative | Base | Optimistic |
 |---|---:|---:|---:|---:|
-| 2026 base revenue | 890.0 | 890.0 | 890.0 | 890.0 |
-| Organic revenue growth | +44.5 | +89.0 | +133.5 | +178.0 |
-| ALGC/Piedmont full-year bridge | +19.8 | +19.8 | +19.8 | +19.8 |
-| Allied incremental bridge | +42.0 | +52.0 | +62.0 | +72.0 |
-| **2027 revenue** | **996.3** | **1,051** | **1,105** | **1,160** |
-| **Adj. EBITDA margin** | **14.5%** | **17.0%** | **17.5%** | **18.0%** |
-| **2027 adj. EBITDA** | **144.5** | **178.7** | **193.4** | **208.8** |
-| **EV/EBITDA @ $25.06, net debt = $0** | **8.41x** | **6.80x** | **6.28x** | **5.82x** |
-| **EV/EBITDA @ $30.00, net debt = $0** | **10.07x** | **8.14x** | **7.52x** | **6.97x** |
+| FY2026 revenue starting point (excl. Hughes) | 890.0 | 890.0 | 890.0 | 890.0 |
+| Organic growth assumption | 5.0% | 10.0% | **15.0%** | 20.0% |
+| Organic growth dollars | +44.5 | +89.0 | +133.5 | +178.0 |
+| ALGC + Piedmont full-year effect | +19.8 | +19.8 | +19.8 | +19.8 |
+| Allied full-year incremental contribution | +42.0 | +52.0 | +62.0 | +72.0 |
+| **Existing CDNL FY2027 revenue (pre-Hughes)** | 996.3 | 1,050.8 | **1,105.3** | 1,159.8 |
+| **Existing CDNL EBITDA margin (unchanged)** | 14.5% | 17.0% | **17.5%** | 18.0% |
+| Existing CDNL adjusted EBITDA | 144.5 | 178.6 | **193.4** | 208.8 |
+| **Hughes Brothers FY2027 revenue** | +200 | +210 | +**220** | +240 |
+| Hughes EBITDA margin (model assumption) | 20.0% | 22.0% | **25.0%** | 28.0% |
+| Hughes added adjusted EBITDA | +40.0 | +46.2 | +**55.0** | +67.2 |
+| **Consolidated FY2027 revenue** | 1,196.3 | 1,260.8 | **1,325.3** | 1,399.8 |
+| Revenue growth vs. unadjusted FY2026 $890m midpoint | 34.4% | 41.7% | **48.9%** | 57.3% |
+| **Consolidated FY2027 adjusted EBITDA** | 184.5 | 224.8 | **248.4** | 276.0 |
+| **Consolidated FY2027 EBITDA margin** | 15.4% | 17.8% | **18.7%** | 19.7% |
+| **EV/EBITDA at $25.06/share — illustrative post-deal** | 9.01x | 7.64x | **7.05x** | 6.49x |
+| **EV/EBITDA at $30.00/share — illustrative post-deal** | 10.51x | 8.87x | **8.16x** | 7.49x |
 
-**Bearish case:** 5% organic growth, lower Allied contribution and a 14.5% EBITDA margin under slower demand and delayed recovery.
+**Valuation sensitivity, not 2027 guidance:** Starting economic equivalents **48.479855m** (Class A plus paired LLC/Class B counted once, post-Allied). Illustrative minimum Hughes Class A issuance **$143m / $19 = 7.526m** => **~56.006m fully exchanged economic shares**; unknown actual stock issue price / issuance / earn-out / RSUs excluded. Net debt is **hypothetically 1.4x each scenario's FY2027 EBITDA**, using the company's **1.4x transaction-close pro forma leverage indication only as a benchmark**; leverage in FY2027 could differ materially. The old $0 net-debt EV multiples are superseded, and the $25.06 price row is a historical comparative reference.
 
-**Shares for EV =** 20,238,610 Class A + 27,234,449 Class B/LLC units at June 30 = 47,473,059 equivalents; October Allied 1,006,796 new Class A => **48,479,855 equivalents**, ignoring other intervening net issuance, other share-based dilution or buybacks. Exchanges of B/LLC to A do not themselves enlarge the economic denominator. Net debt zero is a **FY2027 scenario assumption**, not current balance sheet data.
-
-**EV calculation:** at Oct 8 close $25.06 => $1,214.905m equity value; EV equal to that value **under the zero-net-debt assumption**. At target-floor price $30 => $1,454.396m EV. Incremental debt, cash, non-financial minority claims, lease policy and the net present value of tax arrangements should be treated consistently.
+**Transaction quick facts:** **$357.5m** initial payment; up to **$97.5m** contingent 2026 EBITDA earn-out (**$455m max**); **$156m new debt**, at least **40% / $143m stock** with 180-day seller lockup, rest cash; **<1.63x upfront / <2.07x maximum consideration to >$220m TTM sales**. Actual EV/EBITDA not disclosed. **Net leverage 1.4x post-close** vs **2.5x management maximum**. [Official release](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-cdnl-announces-acquisition-hughes) · [Management call](https://stockanalysis.com/stocks/cdnl/transcripts/769224-m-a-announcement/).
 
 ## Ownership / insider buying (reconciled October 12, 2026)
 
@@ -169,9 +176,10 @@ The 2025 10-K's illustrative full exchange shows **$212.3m potential tax benefit
 
 ## Capital allocation and risks
 
-- 2026 year-end cash is temporarily influenced by the 2026 equity raise; scenario assumes future **zero net cash/debt** to reflect planned acquisitive growth, which is an assumption, not management guidance.
+- 2026 cash is influenced by the 2026 equity raise and acquisitions. Following Hughes, **1.4x closing pro forma net leverage** is management's indication. The FY2027 **1.4x net leverage** used in EV/EBITDA is a **separate model sensitivity**, not a company forecast.
 - Updated $550m commitments comprise $200m initial term, $100m revolving commitment and $250m delayed-draw commitment; facilities **are not necessarily fully drawn**.
 - Primary financial covenants after September 2026 second amendment: consolidated net leverage **≤2.50x** (eligible acquisition holiday **≤3.00x**), fixed-charge coverage **≥1.25x**. Large acquisitions also face a stricter pro forma leverage test.
+- **Hughes risk:** Integrating a fourth 2026 acquisition, extra $156m financing, possible further cash/stock earn-out and **7.15m–7.94m minimum new Class A shares at illustrative $20–$18 issue prices** (+14.7%–16.4% share base; 12.9%–14.1% post-issue economic dilution) could offset gains from high-margin new revenue. True issue price and acquired EBITDA are undisclosed.
 - Consider replacement equipment CAPEX, changing asset-life/depreciation schedules, cash conversion, stock-based compensation and the likely deal pipeline before converting EBITDA multiples into intrinsic equity value.
 
 ## Official source links
@@ -182,5 +190,8 @@ The 2025 10-K's illustrative full exchange shows **$212.3m potential tax benefit
 - Allied issuance and purchase price - SEC
 - 2026 ownership proxy - SEC
 - Stock history Oct 8 - StockAnalysis
+- [Hughes Brothers Oct 13 official release](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-cdnl-announces-acquisition-hughes)
+- [Hughes Brothers Oct 13 conference transcript](https://stockanalysis.com/stocks/cdnl/transcripts/769224-m-a-announcement/)
+- [Oct 13 CDNL closing price history](https://stockanalysis.com/stocks/cdnl/history/)
 
 **Data provenance:** Financial and insider values based on 10-K, 10-Q, SEC filings, user-provided purchase summary and ongoing research. No independently accessible Excel workbook was located during this update; estimates should be reconciled when provided.

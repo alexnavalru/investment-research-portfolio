@@ -269,7 +269,7 @@ The existing **$890m FY2026 guidance midpoint includes Allied but not Hughes**. 
 
 ## Risks and what would disprove the thesis
 
-- **Hughes acquisition — integration, leverage, valuation and dilution:** Upfront **$357.5m**, potentially **$455m** (less than **1.63x / 2.07x** $220m TTM revenue); **acquired EV/EBITDA undisclosed** and a higher sales multiple than CDNL's **~1.14x** FY2026E P/S pre-deal, on non-identical bases. **$156m new debt**, **1.4x closing pro forma net leverage** (vs 2.5x ceiling) and **≥$143m stock**, equivalent to **~7.15m–7.94m new shares at $20–$18**. The FY2027 **57.5m fully diluted economic shares / $280m net debt** are conservative **model assumptions**, not official figures; risk includes weaker integration/earnings per share, earn-out and potential further dilution. Shares closed **-10.99% on October 13**.
+- **Hughes acquisition:** **$357.5m upfront / $455m maximum** (<1.63x / <2.07x trailing sales); **EBITDA purchase multiple undisclosed**. Adds **$156m new debt** (1.4x closing pro forma net leverage vs 2.5x ceiling) and **≥$143m in shares** (~7.15m–7.94m new shares at $20–$18). Main risks: integration, earn-out, dilution and weaker returns per share.
 
 - **Margin reset:** FY2026 EBITDA guidance was reset to 16%–18% from the earlier 20%+ outlook as project mix broadened; the FY2027 margin rebound is not assured.
 - **Execution / working capital:** Competitive bidding, weather, construction schedule shifts, contract estimates, customer/project concentration and capital-intensive machinery.
@@ -281,8 +281,6 @@ The existing **$890m FY2026 guidance midpoint includes Allied but not Hughes**. 
 - **Backlog conversion:** Backlog includes letters of intent and contracts not yet signed, and even signed projects can be delayed, resized or cancelled. **The backlog may not convert into firm orders, completed work or revenue at the expected pace or margins.**
 - **Sector cyclicality:** Residential development, commercial/industrial construction and infrastructure capex can slow when interest rates, financing conditions or the economy weaken. Customers can delay/cancel projects, reduce new orders and pressure pricing and workforce utilization.
 - **Up-C / TRA complexity and takeover risk:** The two-layer share structure and future TRA cash obligations make valuation more complex. **Certain changes of control can accelerate TRA payments**, potentially increasing the cost of an acquisition, deterring bidders or reducing the consideration received by Class A shareholders. Cardinal explicitly warns about these risks in its
-
-**Research note:** The financial figures are reconstructed from company reports and our preceding modeling discussion. The separately referenced Excel workbook was not retrievable in the current connected files, so the document does **not** claim to have audited or directly imported workbook values. All FY2027 scenarios, incremental acquisition contributions, Hughes margins, 57.5m fully diluted shares and $280m net debt are analyst assumptions, not official guidance.
 
 > Independent personal research for educational and professional use; not investment advice.
 

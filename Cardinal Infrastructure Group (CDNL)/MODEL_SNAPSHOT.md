@@ -149,11 +149,11 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 | **Consolidated FY2027 EBITDA margin** | 15.1% | 17.5% | **18.2%** | 19.0% |
 | **Fully diluted economic shares (M; assumed)** | 57.5 | 57.5 | **57.5** | 57.5 |
 | **FY2027 net debt (USD m; assumed)** | 280.0 | 280.0 | **280.0** | 280.0 |
-| **EV/EBITDA @ $18.62/share** | 7.48x | 6.12x | **5.59x** | 5.07x |
-| **EV/EBITDA @ $25.06/share** | 9.54x | 7.80x | **7.12x** | 6.46x |
-| **EV/EBITDA @ $30.00/share** | 11.11x | 9.09x | **8.29x** | 7.53x |
+| **EV/EBITDA at $18.62/share** | 7.48x | 6.12x | **5.59x** | 5.07x |
+| **EV/EBITDA at $25.06/share** | 9.54x | 7.80x | **7.12x** | 6.46x |
+| **EV/EBITDA at $30.00/share** | 11.11x | 9.09x | **8.29x** | 7.53x |
 
-**Capital structure assumption:** **57.5m fully diluted economic shares** (vs **48.479855m** post-Allied/pre-Hughes; **~9.02m incremental**, including a cushion above the minimum stock issue) and **fixed $280m FY2027 net debt** **in every scenario**. This is **not management guidance**. A $280m assumption equals **~1.16x FY2027 base EBITDA**, whereas **1.4x** is management's **transaction-close pro forma leverage** at an earlier earnings base. Scenario EV = **57.5m × share price + $280m**, excluding TRA, earn-out adjustments and further material capital-structure changes.
+**Capital structure assumption:** **57.5m fully diluted economic shares** (vs **48.48m** post-Allied/pre-Hughes; **~9.02m incremental**, including a cushion above the minimum stock issue) and **fixed $280m FY2027 net debt** **in every scenario**. This is **not management guidance**. A $280m assumption equals **~1.16x FY2027 base EBITDA**, whereas **1.4x** is management's **transaction-close pro forma leverage** at an earlier earnings base. Scenario EV = **57.5m × share price + $280m**, excluding TRA, earn-out adjustments and further material capital-structure changes.
 
 **Transaction facts:** $357.5m upfront + up to $97.5m 2026 adjusted EBITDA earn-out ($455m max). Financing includes $156m new debt and at least $143m Class A shares with 180-day seller lockup; issue price undisclosed. <1.63x upfront / <2.07x maximum **price-to-TTM-sales** based on >$220m annual revenue; EV/EBITDA not disclosed. Company release · Management call.
 

@@ -220,14 +220,12 @@ The existing **$890m FY2026 guidance midpoint includes Allied but not Hughes**. 
 | **Consolidated FY2027 EBITDA margin** | 15.1% | 17.5% | **18.2%** | 19.0% |
 | **Fully diluted economic shares (M; assumed)** | 57.5 | 57.5 | **57.5** | 57.5 |
 | **FY2027 net debt (USD m; assumed)** | 280.0 | 280.0 | **280.0** | 280.0 |
-| **EV/EBITDA @ $18.62/share** | 7.48x | 6.12x | **5.59x** | 5.07x |
-| **EV/EBITDA @ $30.00/share** | 11.11x | 9.09x | **8.29x** | 7.53x |
+| **EV/EBITDA at $18.62/share** | 7.48x | 6.12x | **5.59x** | 5.07x |
+| **EV/EBITDA at $30.00/share** | 11.11x | 9.09x | **8.29x** | 7.53x |
 
-**Valuation:** **57.5m fully diluted economic share equivalents** and **$280m fixed FY2027 net debt** are **analyst assumptions**, not disclosed post-deal share count or FY2027 company guidance. Starting shares are **48.48m** post-Allied / pre-Hughes; the model allows **~9.02m incremental diluted equivalents** (including a buffer beyond the minimum announced stock consideration), a **~18.6% increase** in share count / **~15.7% ownership dilution**. $280m implies **~1.16x FY2027 base EBITDA**, *not* 1.4x FY2027; management's **1.4x leverage refers to closing pro forma leverage**, with a different denominator. EV uses **57.5m × share price + $280m**; earn-out, TRA and any further leverage changes remain uncertainties.
+**Valuation:** **57.5m fully diluted economic share equivalents** and **$280m fixed FY2027 net debt** are **analyst assumptions**, not disclosed post-deal share count or FY2027 company guidance. Starting shares are **48.48m** post-Allied / pre-Hughes; the model allows **~9.02m incremental diluted equivalents** (including a buffer beyond the minimum announced stock consideration), a **~18.6% increase** in share count / **~15.7% ownership dilution**.
 
 ## Publicly traded comparables — normalized enterprise value (October 9, 2026)
-
-*Historical peer snapshot from **before the Hughes announcement**, not a current post-deal CDNL EV. See the FY2027 section for illustrative dilution/debt-adjusted scenarios.*
 
 | Ticker / company | Share price | Fully economic market cap | Adjusted EV | EV / 2026E adj. EBITDA | 2026E adj. EBITDA margin | Net debt / 2026E EBITDA | Organic revenue growth |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -254,9 +252,9 @@ The existing **$890m FY2026 guidance midpoint includes Allied but not Hughes**. 
 
 | CDNL bridge at October 9 close | USD m |
 |---|---:|
-| Class A + B/LLC share equivalents | **48.479855m** |
+| Class A + B/LLC share equivalents | **48.48m** |
 | Price per share | **$21.12** |
-| **Market cap = 48.479855m × $21.12** | **1,023.9** |
+| **Market cap = 48.48m × $21.12** | **1,023.9** |
 | June 30 outstanding financial notes / borrowings | +199.5 |
 | June 30 finance lease liabilities | +7.5 |
 | June 30 cash | -339.1 |

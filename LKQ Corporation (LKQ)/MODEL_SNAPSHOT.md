@@ -108,6 +108,3 @@ Spot 12 Oct 2026: **$22.10**. Use **253m spot shares** (~$5,591m market cap); of
 - **O'Reilly:** ~19.3x, 22.3%; high-margin retailer/DIY.
 - **AutoZone:** ~16.5x, 22.2%; high-margin retailer/DIY.
 - **LKQ:** old peer screenshot ~9.0x, 9.9%; today's *recalculated* ~6.6x using $1.41bn 2026E EBITDA. Do not imply all were measured on the same date.
-
-## Sources
-Q2 2026 release and guidance · Q2 Form 10-Q · 2025 Form 10-K · 2026 DEF 14A · User-provided LKQ.xlsx and FY2026 earnings-call notes. All external price/multiple figures are reference-date estimates, not live quotes.

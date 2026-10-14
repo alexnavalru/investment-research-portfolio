@@ -40,10 +40,4 @@ Cigna reported **2025 adjusted EPS of $29.84**. After Q2 2026, management raised
 
 The company also confirmed that the planned exit from Individual and Family Plans becomes effective in 2027.
 
-### Public Sources
-
-- FY2025 results / 2026 outlook
-- Q2 2026 results
-- Medicare business sale
-
 > Model outputs are based on my own assumptions and are not company guidance or investment advice.

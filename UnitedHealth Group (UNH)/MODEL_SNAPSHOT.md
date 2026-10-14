@@ -35,7 +35,6 @@ The current version of the personal model produces approximately:
 
 These outputs are broadly consistent with the original **$400–$450** medium-term target.
 
-
 ## Why Normalization Was Plausible
 
 The underlying assumption was not that medical inflation would disappear.

@@ -17,8 +17,8 @@ Cardinal is a vertically integrated civil site-development and infrastructure co
 2. **Acquisition firepower:** June's **$318m net equity raise at $73/share** was astute, in my view, at a **bubble-like valuation**. With **~$132m June net cash** and **$550m of total credit commitments** (not all drawn), Cardinal has flexibility to fund further M&A.
 3. **Asphalt upside:** Its **first asphalt plant** can lift margins and project capacity. **Future third-party sales** and a **possible second plant** offer upside, but neither is guaranteed or modeled. Q2 call.
 4. **EBITDA margin recovery:** Management still sees **~20%+ adjusted EBITDA margins over time**, versus **16%–18% FY2026 guidance**. Better execution and vertical integration could unlock operating leverage; **FY2027 base assumes 17.5% on the existing business; the separately modeled higher-margin Hughes lifts the combined base to ~18.7%**.
-5. **Multiple re-rating:** CDNL trades at **~6.5x FY2026E adjusted EBITDA**, versus **~9x–17x** for the larger peers analyzed below. Demonstrated growth and margin recovery could narrow the discount, though peer differences matter.
-6. **Insider alignment:** Founder/CEO **Jeremy Spivey has ~25.4% estimated economic-equivalent ownership**; management and the board collectively have **~51.37%** on the reconstructed post-Allied share base, including reported insider purchases through October 12, 2026 (last observed in August). Disclosed open-market buys since the IPO total **289,518 shares (~$10.68m)**, including **241,597 purchased in 2026**.
+5. **Multiple re-rating:** At the **October 9 pre-Hughes reference**, CDNL traded at **~6.5x FY2026E adjusted EBITDA**, versus **~9x–17x** for the larger peers analyzed below. Demonstrated growth and margin recovery could narrow the discount, though peer differences matter.
+6. **Insider alignment:** Founder/CEO **Jeremy Spivey has ~25.4% estimated economic-equivalent ownership**; management and the board collectively have **~51.37%** on the reconstructed **post-Allied, pre-Hughes** share base, including reported insider purchases through October 12, 2026 (last observed in August). Disclosed open-market buys since the IPO total **289,518 shares (~$10.68m)**, including **241,597 purchased in 2026**.
 7. **Data centers:** Its **first disclosed project** is ahead of schedule with expanded scope. Today's exposure is early and unquantified; winning more projects could become a meaningful catalyst. Q2 call.
 8. **Speculative sale or take-private:** CDNL's small size and depressed valuation could attract a buyer or motivate insiders to privatize. **No deal is indicated; both scenarios are unlikely and complicated by the Up-C/TRA structure**, so neither underpins the valuation.
 9. **Central Florida / Hughes Brothers (pending Q4 close):** Adds a new market, **>$220m TTM sales** and **~$350m backlog** from a business that grew **100% organically**. Co-founders **Chad and Justin Hughes remain in charge**. Management expects immediately **accretive adjusted EBITDA margins**, but provides no precise EBITDA/margin; the **FY2027 base adds $220m revenue / $55m EBITDA at an illustrative 25% margin**, not official guidance.
@@ -214,9 +214,9 @@ The **$890m FY2026 guidance midpoint includes Allied's planned contribution but 
 | **Existing CDNL FY2027 revenue (pre-Hughes)** | 996.3 | 1,050.8 | **1,105.3** | 1,159.8 |
 | **Existing CDNL EBITDA margin (unchanged)** | 14.5% | 17.0% | **17.5%** | 18.0% |
 | Existing CDNL adjusted EBITDA | 144.5 | 178.6 | **193.4** | 208.8 |
-| **Hughes Brothers FY2027 revenue** | +200 | +210 | +**220** | +240 |
+| **Hughes Brothers FY2027 revenue** | +200 | +210 | **+220** | +240 |
 | Hughes EBITDA margin (model assumption) | 20.0% | 22.0% | **25.0%** | 28.0% |
-| Hughes added adjusted EBITDA | +40.0 | +46.2 | +**55.0** | +67.2 |
+| Hughes added adjusted EBITDA | +40.0 | +46.2 | **+55.0** | +67.2 |
 | **Consolidated FY2027 revenue** | 1,196.3 | 1,260.8 | **1,325.3** | 1,399.8 |
 | Revenue growth vs. unadjusted FY2026 $890m midpoint | 34.4% | 41.7% | **48.9%** | 57.3% |
 | **Consolidated FY2027 adjusted EBITDA** | 184.5 | 224.8 | **248.4** | 276.0 |

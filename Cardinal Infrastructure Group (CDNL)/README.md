@@ -5,7 +5,6 @@
 **Valuation objective:** above **$30 per fully converted share**  
 **Market price (October 13, 2026):** **$18.62**  
 **Last updated:** October 14, 2026  
-**Model:** Financial model and ownership snapshot
 
 ## Business overview
 

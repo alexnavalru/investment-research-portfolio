@@ -98,13 +98,5 @@ That would retire roughly **9.1m shares gross** before considering stock-option 
 
 The purpose of this scenario is to test how low-valuation repurchases could change FCF/share and EPS, not to predict the Board's decision.
 
-### Public Sources
-
-- Amentum FY2025 10-K
-- Amentum Q3 FY2026 results
-- Amentum 2026 Proxy
-- Amentum Q3 FY2026 results / nuclear bookings
-- Amentum UK SMR contract
-- Amentum Netherlands nuclear program
 
 > Model figures are personal assumptions and are not company guidance or investment advice.

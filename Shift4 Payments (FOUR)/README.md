@@ -55,7 +55,6 @@ Open the Shift4 model snapshot
 
 It shows the relationship between revenue growth, EBITDA, CFO, capex, preferred dividends, FCF to common and the valuation paid at entry.
 
-
 ## Current Reassessment
 
 The fact that the original investment lost money does not mean the company can never become attractive again.
@@ -107,7 +106,6 @@ This creates an important tension in the thesis:
 **Global Blue expands Shift4's addressable market and international reach, but also adds lower-margin integration risk, working-capital drag and greater exposure to tourism and luxury spending cycles.**
 
 At a sufficiently low valuation I can accept that risk, but it strengthens my preference for a re-entry closer to **$30/share** rather than treating the current share price as automatically attractive.
-
 
 ## Process Changes
 

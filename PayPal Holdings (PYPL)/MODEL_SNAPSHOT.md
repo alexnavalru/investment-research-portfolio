@@ -41,10 +41,4 @@ PayPal's Q2 2026 filing reported **$15.3bn of cash, cash equivalents and investm
 
 A key analytical issue is the timing effect from Buy Now, Pay Later receivables. Because originations and subsequent sales can distort operating cash flow between periods, I normalize this effect when assessing sustainable FCF rather than relying mechanically on one reported period.
 
-### Public Sources
-
-- Q2 2026 earnings release
-- Q1 2026 earnings release
-- 2025 Annual Report / 2026 Proxy hub
-
 > Figures labeled as model values are based on my own assumptions and should not be interpreted as company guidance or investment advice.

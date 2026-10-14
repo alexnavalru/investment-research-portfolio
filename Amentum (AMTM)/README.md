@@ -33,7 +33,7 @@ The most important catalyst is not that buybacks are guaranteed. It is that a ma
 
 Amentum's merger with Jacobs' CMS closed on **September 27, 2024**. To preserve its intended tax-free treatment, the related tax agreement restricted **share repurchases, certain major mergers/ownership changes and asset disposals** during a **two-year period ending September 27, 2026**, subject to exceptions.
 
-**That specific restriction period has now ended**, improving the Board's flexibility to consider buybacks, M&A or debt repayment. **It does not guarantee repurchases**, nor does it eliminate all continuing tax-related obligations or transaction risks. FY2025 Form 10-K.
+**That specific restriction period has now ended**, improving the Board's flexibility to consider buybacks, M&A or debt repayment. **It does not guarantee repurchases**, nor does it eliminate all continuing tax-related obligations or transaction risks.
 
 ## Deleveraging Is Reaching an Inflection Point
 

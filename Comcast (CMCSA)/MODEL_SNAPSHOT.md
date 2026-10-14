@@ -67,10 +67,4 @@ The key future work is a full sum-of-the-parts analysis using:
 - Comcast's temporary retained NBCUniversal stake;
 - post-spin dividend and buyback policies.
 
-### Public Sources
-
-- Versant separation
-- Q2 2026 results
-- NBCUniversal / Sky separation
-
 > Model figures are based on my own assumptions and are not company guidance or investment advice.

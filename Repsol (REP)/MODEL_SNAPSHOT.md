@@ -132,16 +132,4 @@ The purpose is comparability across changes in ownership structure and reporting
 
 This is exactly the environment in which a cyclical company can look cheapest on trailing or current earnings.
 
-### Public Sources
-
-- Repsol 2026–2028 assumptions and sensitivities
-- Repsol FY2025 earnings-call transcript: budgeted refining premium
-- Repsol Q1 2026 presentation: 2026 outlook and sensitivities
-- Repsol Q1 2026 earnings call: $5.7/bbl premium
-- Repsol Q2 2026 call: $10/bbl Q2 premium and July $34 + $9 reference
-- Repsol March 2026 Capital Markets Day: 50% U.S. gas hedging collar
-- Repsol Q3 2026 trading statement: provisional market data
-- Repsol FY2025 results / reporting model
-- Repsol Q2 2026 results
-
 > Figures labeled as internal/model values come from my own workbook and assumptions. This is a research snapshot, not investment advice.

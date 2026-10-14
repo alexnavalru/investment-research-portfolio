@@ -47,7 +47,6 @@ That implies roughly:
 
 The key mistake was not simply paying a high multiple. It was giving too much weight to growth and EBITDA expansion without being strict enough about how much cash ultimately accrued to common equity.
 
-
 ## Current Watchlist Reassessment
 
 Reference price on **October 6, 2026:** approximately **$38.50/share**.
@@ -73,7 +72,6 @@ Founder Jared Isaacman disclosed four open-market purchase episodes in 2026:
 In total, he purchased approximately **774,257 shares for about $33.6m**, at a weighted-average price of roughly **$43.4/share**.
 
 Isaacman is currently NASA Administrator and remains a major Shift4 shareholder. I treat the purchases as an alignment signal, not as a substitute for fundamental analysis.
-
 
 ## Global Blue Risk Overlay
 
@@ -101,15 +99,5 @@ At a prospective **$30/share** entry level, I would want a wider margin of safet
 4. Compare EBITDA growth with cash conversion.
 5. Stress-test valuation before allowing growth to justify a premium.
 6. Define thesis-breaking conditions before entering.
-
-### Additional Sources
-
-- NASA - Jared Isaacman
-- SEC Form 4 - February 2026 purchases
-- SEC Form 4 - March 2, 2026 purchase
-- SEC Form 4 - March 10, 2026 purchase
-- SEC Form 4 - May 2026 purchases
-- Shift4 Q2 2026 results
-- Shift4 FY2025 10-K - Global Blue acquisition
 
 > Figures above are taken from the simplified public version of my personal model and are presented for portfolio demonstration only.

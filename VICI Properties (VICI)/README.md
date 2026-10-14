@@ -239,5 +239,5 @@ The model focuses on:
 
 The VICI case is intended to show a more traditional modeling process than the Lionsgate special situation. It demonstrates my ability to work through historical financials, identify the right sector-specific metric, forecast per-share economics and connect operating assumptions to valuation.
 
-> The public snapshot is rebuilt from my personal working model. Raw filing and transcript tabs were intentionally excluded. Valuation assumptions are illustrative and do not constitute investment advice.
+> The public snapshot is rebuilt from my personal working model. Valuation assumptions are illustrative and do not constitute investment advice.
 

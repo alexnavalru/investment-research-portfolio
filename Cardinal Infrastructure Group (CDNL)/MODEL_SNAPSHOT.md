@@ -142,13 +142,13 @@ Completed first Aviator Paving asphalt facility near Raleigh by June 30, 2026; *
 | **Existing CDNL EBITDA margin (unchanged)** | 14.5% | 17.0% | **17.5%** | 18.0% |
 | Existing CDNL adjusted EBITDA | 144.5 | 178.6 | **193.4** | 208.8 |
 | **Hughes Brothers FY2027 revenue** | +200 | +210 | **+220** | +240 |
-| Hughes EBITDA margin (analyst assumption) | 18.0% | 20.0% | **22.0%** | 24.0% |
+| Hughes EBITDA margin | 18.0% | 20.0% | **22.0%** | 24.0% |
 | Hughes added adjusted EBITDA | +36.0 | +42.0 | **+48.4** | +57.6 |
 | **Consolidated FY2027 revenue** | 1,196.3 | 1,260.8 | **1,325.3** | 1,399.8 |
 | **Consolidated FY2027 adjusted EBITDA** | 180.5 | 220.6 | **241.8** | 266.4 |
 | **Consolidated FY2027 EBITDA margin** | 15.1% | 17.5% | **18.2%** | 19.0% |
-| **Fully diluted economic shares (M; assumed)** | 57.5 | 57.5 | **57.5** | 57.5 |
-| **FY2027 net debt (USD m; assumed)** | 280.0 | 280.0 | **280.0** | 280.0 |
+| **Fully diluted economic shares (M)** | 57.5 | 57.5 | **57.5** | 57.5 |
+| **FY2027 net debt (USD m)** | 280.0 | 280.0 | **280.0** | 280.0 |
 | **EV/EBITDA at $18.62/share** | 7.48x | 6.12x | **5.59x** | 5.07x |
 | **EV/EBITDA at $25.06/share** | 9.54x | 7.80x | **7.12x** | 6.46x |
 | **EV/EBITDA at $30.00/share** | 11.11x | 9.09x | **8.29x** | 7.53x |

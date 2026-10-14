@@ -71,7 +71,6 @@ The thesis combines **portfolio simplification, operational restructuring and FC
 
 **Shareholder base:** institutionally owned, including **BlackRock (~15.2%)**, **Pzena (~6.0%)**, reported Vanguard-managed positions, and **Fuller & Thaler (~4.8%)** (June 2026 snapshot). Institutional owners may favor an attractive asset sale or takeover, but they do not guarantee one.
 
-
 ## 5. Historical financials and working capital
 
 LKQ has grown over time, but **profitability and cash generation have weakened since the post-Covid peak**. The tables below summarize the key trends from my financial model. **2017–2025 are historical; 2026E is an estimate or guidance-based scenario**, not a reported result. All amounts are in USD.
@@ -145,8 +144,6 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 | **EV/EBITDA** at 6x / 7x / 8x; EV = market cap ($5.59bn) + net debt ($3.66bn) = ~$9.25bn | **$18.97** | **$24.55** | **$30.12** |
 | **EV/EBITDA after $350m debt reduction** at 6x / 7x / 8x; EV = market cap ($5.59bn) + net debt ($3.31bn) = ~$8.90bn | **$20.36** | **$25.93** | **$31.50** |
 | **P/FCF** at 8x / 10x / 12x × ($660m/253m) | **$20.87** | **$26.09** | **$31.30** |
-
-
 
 **EV/EBITDA valuation method:** the first row uses **$3.66bn Q2 net debt** and the second assumes **$3.31bn net debt after $350m debt reduction**. Both calculate value per share as **(EBITDA × target multiple − net debt) / 253m shares**.
 

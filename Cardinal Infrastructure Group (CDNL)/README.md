@@ -3,24 +3,33 @@
 **Status:** Watchlist / active research; **no position**  
 **Preferred entry price:** around **$19/share**  
 **Valuation objective:** above **$30 per fully converted share**  
-**Reference market price:** **$21.12** (October 9, 2026 close)  
-**Last updated:** October 12, 2026  
+**Reference market price:** **$18.62** (October 13, 2026 close; -10.99% that session)  
+**Last updated:** October 14, 2026  
 **Model:** Financial model and ownership snapshot
 
 ## Business overview
 
-Cardinal is a vertically integrated civil site-development and infrastructure contractor in the southeastern United States, primarily North Carolina, South Carolina and Georgia. It serves residential, commercial, industrial, municipal and state customers. The operating subsidiaries self-perform earthworks/grading, land clearing, underground water/sewer/stormwater utilities, erosion control, drilling/blasting and, increasingly, asphalt paving. The rationale for vertical integration is tighter scheduling, lower reliance on subcontractors and capturing more project margin.
+Cardinal is a vertically integrated civil site-development and infrastructure contractor in the southeastern United States, primarily North Carolina, South Carolina and Georgia, with Central Florida planned through the pending Hughes Brothers acquisition. It serves residential, commercial, industrial, municipal and state customers. The operating subsidiaries self-perform earthworks/grading, land clearing, underground water/sewer/stormwater utilities, erosion control, drilling/blasting and, increasingly, asphalt paving. The rationale for vertical integration is tighter scheduling, lower reliance on subcontractors and capturing more project margin.
 
 ## Investment thesis and potential catalysts
 
-1. **Strong growth and roll-up:** Q2 revenue grew **114% YoY (64% organically)**; backlog reached **$866m**, and FY2026 guidance is **$880–900m** versus **$456m in 2025**. A **fragmented industry** leaves scope for acquisitions: **nine since 2021**, including ALGC, Piedmont and Allied. Q2 results · 10-K.
+1. **Strong growth and roll-up:** Q2 revenue grew **114% YoY (64% organically)**; backlog reached **$866m**, and FY2026 guidance is **$880–900m** versus **$456m in 2025**. A **fragmented industry** leaves scope for acquisitions: **nine completed since 2021**, including ALGC, Piedmont and Allied, with Hughes Brothers announced but not yet closed. Q2 results · 10-K.
 2. **Acquisition firepower:** June's **$318m net equity raise at $73/share** was astute, in my view, at a **bubble-like valuation**. With **~$132m June net cash** and **$550m of total credit commitments** (not all drawn), Cardinal has flexibility to fund further M&A.
 3. **Asphalt upside:** Its **first asphalt plant** can lift margins and project capacity. **Future third-party sales** and a **possible second plant** offer upside, but neither is guaranteed or modeled. Q2 call.
-4. **EBITDA margin recovery:** Management still sees **~20%+ adjusted EBITDA margins over time**, versus **16%–18% FY2026 guidance**. Better execution and vertical integration could unlock operating leverage; **FY2027 base assumes only 17.5%**.
+4. **EBITDA margin recovery:** Management still sees **~20%+ adjusted EBITDA margins over time**, versus **16%–18% FY2026 guidance**. Better execution and vertical integration could unlock operating leverage; **FY2027 base assumes 17.5% on the existing business; the separately modeled higher-margin Hughes lifts the combined base to ~18.7%**.
 5. **Multiple re-rating:** CDNL trades at **~6.5x FY2026E adjusted EBITDA**, versus **~9x–17x** for the larger peers analyzed below. Demonstrated growth and margin recovery could narrow the discount, though peer differences matter.
 6. **Insider alignment:** Founder/CEO **Jeremy Spivey has ~25.4% estimated economic-equivalent ownership**; management and the board collectively have **~51.37%** on the reconstructed post-Allied share base, including reported insider purchases through October 12, 2026 (last observed in August). Disclosed open-market buys since the IPO total **289,518 shares (~$10.68m)**, including **241,597 purchased in 2026**.
 7. **Data centers:** Its **first disclosed project** is ahead of schedule with expanded scope. Today's exposure is early and unquantified; winning more projects could become a meaningful catalyst. Q2 call.
 8. **Speculative sale or take-private:** CDNL's small size and depressed valuation could attract a buyer or motivate insiders to privatize. **No deal is indicated; both scenarios are unlikely and complicated by the Up-C/TRA structure**, so neither underpins the valuation.
+9. **Central Florida / Hughes Brothers (pending Q4 close):** Adds a new market, **>$220m TTM sales** and **~$350m backlog** from a business that grew **100% organically**. Co-founders **Chad and Justin Hughes remain in charge**. Management expects immediately **accretive adjusted EBITDA margins**, but provides no precise EBITDA/margin; the **FY2027 base adds $220m revenue / $55m EBITDA at an illustrative 25% margin**, not official guidance.
+
+## October 13, 2026 — Hughes Brothers transaction (pending)
+
+**Deal:** Cardinal agreed to acquire Central Florida heavy civil/site developer Hughes Brothers for **$357.5m initial consideration**, plus up to **$97.5m cash/stock earn-out** linked to 2026 adjusted EBITDA (**$455m maximum**). Hughes has **>$220m trailing revenue**, **~$350m backlog**, an owned equipment fleet and **500+ employees**. It grew entirely organically; founders **Chad and Justin Hughes stay**. **Q4 2026 closing expected**, with revenue/EBITDA consolidated **only from closing** and a full 12-month contribution in **FY2027** (if closed as planned). Management expects its **adjusted EBITDA margin to be accretive** to Cardinal's **16%–18% FY2026 guided range**, but **neither the standalone EBITDA nor transaction EV/EBITDA was disclosed**.
+
+**Payment and price:** **$156m new borrowing**, **at least 40% of initial price in Class A stock (≥$143m)**, and the balance in cash; seller stock has a **180-day lockup**. **Issue price is not disclosed.** At **$18–$20/share**, the minimum stock component entails **~7.15m–7.94m shares**: **+14.7%–16.4%** versus **48.48m** pre-Hughes economic equivalents, or **12.9%–14.1% ownership dilution** after issuance (excluding earn-out and extra stock). Estimated **pro forma net leverage 1.4x**, below management's **2.5x** ceiling. The implied **purchase consideration / TTM sales is <1.63x initially or <2.07x at the full earn-out**, using $220m only as a *floor* for reported sales; **EV/EBITDA cannot be verified**. CDNL itself traded at **~1.14x FY2026 guidance sales** before the announcement (Oct 12 close, fully exchanged equity base): **different periods and metrics, not an exact peer multiple**. Stock **fell 10.99% to $18.62** on Oct 13 (intraday low $17.20, **-17.8%** vs prior close).
+
+**Sources:** [Official transaction announcement](https://investors.cardinalinfrastructuregroup.com/news-releases/news-release-details/cardinal-infrastructure-group-cdnl-announces-acquisition-hughes) · [October 13 M&A conference call](https://stockanalysis.com/stocks/cdnl/transcripts/769224-m-a-announcement/) · [October 13 price history](https://stockanalysis.com/stocks/cdnl/history/).
 
 ## Share structure, financial backing and TRA
 
@@ -191,27 +200,35 @@ Management expects better project scheduling, greater internal capabilities and 
 
 ## FY2027 scenarios - existing acquisitions fully annualized
 
-**Management's long-term adjusted EBITDA margin target is 20%.** Our FY2027 scenario margins of **14.5% / 17.0% / 17.5% / 18.0%** deliberately remain below that target; these are analyst assumptions, not management's FY2027 guidance.
+**Core-business margin assumptions remain unchanged at 14.5% / 17.0% / 17.5% / 18.0%** (bearish to optimistic). Hughes is **modeled separately** at **20% / 22% / 25% / 28%**; management says Hughes has higher margins but **discloses no actual percentage**. Its **>$220m trailing revenue** is the **base-case revenue input, not FY2027 guidance**; bear/conservative assume contraction and optimistic assumes growth. All figures USD millions except where stated.
 
-2026 starting point: **$890m revenue** (midpoint of management's $880–900m guidance). Forecasts assume **no new acquisitions** after Allied and **net cash/debt = $0** in FY2027. Full economic equity denominator is **48.479855m A+B-equivalent shares**, **before additional RSU dilution**.
+The **$890m FY2026 guidance midpoint includes Allied's planned contribution but not Hughes**; because Hughes could close in Q4 2026, actual FY2026 may include a partial period. For the FY2027 bridge, we add the **full 2027 Hughes revenue** to the unchanged legacy FY2027 model, without including an assumed partial 2026 Hughes period in the $890m starting point. **No later acquisitions or synergies** assumed.
 
-| Driver / output | Bearish | Conservative | Base | Optimistic |
+| Driver / output (USD m unless noted) | Bearish | Conservative | Base | Optimistic |
 |---|---:|---:|---:|---:|
-| FY2026 revenue starting point | 890.0 | 890.0 | 890.0 | 890.0 |
+| FY2026 revenue starting point (excl. Hughes) | 890.0 | 890.0 | 890.0 | 890.0 |
 | Organic growth assumption | 5.0% | 10.0% | **15.0%** | 20.0% |
 | Organic growth dollars | +44.5 | +89.0 | +133.5 | +178.0 |
 | ALGC + Piedmont full-year effect | +19.8 | +19.8 | +19.8 | +19.8 |
 | Allied full-year incremental contribution | +42.0 | +52.0 | +62.0 | +72.0 |
-| **FY2027 estimated revenue** | **996.3** | **1,051** | **1,105** | **1,160** |
-| FY2027 revenue growth vs. $890m | +11.9% | +18.1% | **+24.2%** | +30.3% |
-| **Adjusted EBITDA margin assumption** | **14.5%** | **17.0%** | **17.5%** | **18.0%** |
-| **FY2027 adjusted EBITDA** | **144.5** | **178.7** | **193.4** | **208.8** |
-| **EV / EBITDA at $30/share, zero net debt** | **10.07x** | **8.14x** | **7.52x** | **6.97x** |
+| **Existing CDNL FY2027 revenue (pre-Hughes)** | 996.3 | 1,050.8 | **1,105.3** | 1,159.8 |
+| **Existing CDNL EBITDA margin (unchanged)** | 14.5% | 17.0% | **17.5%** | 18.0% |
+| Existing CDNL adjusted EBITDA | 144.5 | 178.6 | **193.4** | 208.8 |
+| **Hughes Brothers FY2027 revenue** | +200 | +210 | +**220** | +240 |
+| Hughes EBITDA margin (model assumption) | 20.0% | 22.0% | **25.0%** | 28.0% |
+| Hughes added adjusted EBITDA | +40.0 | +46.2 | +**55.0** | +67.2 |
+| **Consolidated FY2027 revenue** | 1,196.3 | 1,260.8 | **1,325.3** | 1,399.8 |
+| Revenue growth vs. unadjusted FY2026 $890m midpoint | 34.4% | 41.7% | **48.9%** | 57.3% |
+| **Consolidated FY2027 adjusted EBITDA** | 184.5 | 224.8 | **248.4** | 276.0 |
+| **Consolidated FY2027 EBITDA margin** | 15.4% | 17.8% | **18.7%** | 19.7% |
+| **EV/EBITDA at $30/share — illustrative post-deal** | 10.51x | 8.87x | **8.16x** | 7.49x |
 
-**Given Cardinal's acquisition-led growth strategy, funded through both share issuance and borrowing, the company could eventually carry more debt than cash.** This sensitivity excludes RSUs and the present value of any net tax receivable agreement effects.
+**Valuation convention:** EV/EBITDA row is **illustrative**, not a price target: **48.479855m** pre-Hughes economic equivalents + **143m/$19 = 7.526m** shares = **~56.006m** total, excluding earn-out and any incremental stock. **FY2027 net debt is hypothetically assumed at 1.4x FY2027 EBITDA** for the sensitivity (1.4x is management's *post-closing* leverage indication, **not FY2027 guidance**). The older zero-net-debt valuation is superseded; varying the cash/stock split, issue price, net debt, integration, RSUs or TRA changes these multiples.
 
 
 ## Publicly traded comparables — normalized enterprise value (October 9, 2026)
+
+*Historical peer snapshot from **before the Hughes announcement**, not a current post-deal CDNL EV. See the FY2027 section for illustrative dilution/debt-adjusted scenarios.*
 
 | Ticker / company | Share price | Fully economic market cap | Adjusted EV | EV / 2026E adj. EBITDA | 2026E adj. EBITDA margin | Net debt / 2026E EBITDA | Organic revenue growth |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -255,6 +272,8 @@ Management expects better project scheduling, greater internal capabilities and 
 
 ## Risks and what would disprove the thesis
 
+- **Hughes acquisition — dilution, leverage, valuation and integration:** The **$357.5m** upfront/**up to $455m** total commitment is **<1.63x / <2.07x Hughes TTM sales** (>$220m); **EBITDA multiple undisclosed**. This may exceed CDNL's own **~1.14x FY2026E P/sales** pre-announcement, although business mix/periods differ. Financing includes **$156m new debt** (**1.4x pro forma net leverage**, below the **2.5x** target ceiling) and **at least $143m stock**. At **$18–$20/share** that means **~7.15m–7.94m shares**, a **14.7%–16.4% larger share count** (**12.9%–14.1% post-issue economic dilution**); issue price, earn-out dilution and integration outcomes remain unknown. CDNL closed **-10.99% on Oct 13** (roughly **-17.8% intraday at the low**).
+
 - **Margin reset:** FY2026 EBITDA guidance was reset to 16%–18% from the earlier 20%+ outlook as project mix broadened; the FY2027 margin rebound is not assured.
 - **Execution / working capital:** Competitive bidding, weather, construction schedule shifts, contract estimates, customer/project concentration and capital-intensive machinery.
 - **Roll-up / deal economics:** Acquisition price, integration, goodwill, weak returns on capital and intercompany revenue eliminations. Cardinal has completed **nine acquisitions since 2021**; the ALGC concern is **unproven margin recovery and project execution**, not evidence of a failed integration.
@@ -266,7 +285,7 @@ Management expects better project scheduling, greater internal capabilities and 
 - **Sector cyclicality:** Residential development, commercial/industrial construction and infrastructure capex can slow when interest rates, financing conditions or the economy weaken. Customers can delay/cancel projects, reduce new orders and pressure pricing and workforce utilization.
 - **Up-C / TRA complexity and takeover risk:** The two-layer share structure and future TRA cash obligations make valuation more complex. **Certain changes of control can accelerate TRA payments**, potentially increasing the cost of an acquisition, deterring bidders or reducing the consideration received by Class A shareholders. Cardinal explicitly warns about these risks in its FY2025 Form 10-K.
 
-**Research note:** The financial figures are reconstructed from company reports and our preceding modeling discussion. The separately referenced Excel workbook was not retrievable in the current connected files, so the document does **not** claim to have audited or directly imported workbook values. All FY2027 scenarios, incremental contributions and the $0 net-debt normalization are analyst assumptions, not official guidance.
+**Research note:** The financial figures are reconstructed from company reports and our preceding modeling discussion. The separately referenced Excel workbook was not retrievable in the current connected files, so the document does **not** claim to have audited or directly imported workbook values. All FY2027 scenarios, incremental acquisition contributions, Hughes margin assumptions and 2027 net-debt sensitivity are analyst assumptions, not official guidance.
 
 > Independent personal research for educational and professional use; not investment advice.
 

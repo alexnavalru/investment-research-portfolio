@@ -141,8 +141,6 @@ I deliberately stress-test the equity valuation using **about 356.5m shares (rou
 
 The scenario table uses **$2.7bn net debt** and **about 357m modeled diluted shares** throughout.
 
-**Formula:** Implied common equity value = max(0, future EBITDA × EV/EBITDA multiple − $2,700m). Implied share price = equity value / about 356.5m shares.
-
 | Future annual/run-rate EBITDA | EV (8x) | **Price (8x)** | EV (10x) | **Price (10x)** |
 |---|---:|---:|---:|---:|
 | $275m | $2,200m | **about $0.00** | $2,750m | **$0.14** |

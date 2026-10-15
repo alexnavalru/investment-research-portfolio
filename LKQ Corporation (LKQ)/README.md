@@ -1,4 +1,4 @@
-# LKQ Corporation (LKQ) — Restructuring, Deleveraging & Strategic Review
+# LKQ Corporation (LKQ) - Restructuring, Deleveraging & Strategic Review
 
 **Research date:** 13 October 2026  
 **Status:** Watchlist / active research  
@@ -42,7 +42,7 @@ The thesis combines **portfolio simplification, operational restructuring and FC
 
 ## 4. Management, ownership and incentive alignment
 
-**CEO — Justin Jude:** Joined LKQ in **2004** and became CEO in **July 2024**, succeeding Dominick Zarcone. As of October 2026, he has spent approximately **22 years at the company** and **2 years and 3 months as CEO**.
+**CEO - Justin Jude:** Joined LKQ in **2004** and became CEO in **July 2024**, succeeding Dominick Zarcone. As of October 2026, he has spent approximately **22 years at the company** and **2 years and 3 months as CEO**.
 
 ### CEO compensation (2025)
 
@@ -55,7 +55,7 @@ The thesis combines **portfolio simplification, operational restructuring and FC
 | **Total reported compensation** | **Cash + equity** | **$8.77m** | **100%** |
 | **Cash and other** | **Cash / other** | **$2.27m** | **25.9%** |
 | **Equity awards** | **Equity** | **$6.50m** | **74.1%** |
-| Compensation Actually Paid (SEC methodology) | Revalued SEC disclosure | **~$5.77m** | — |
+| Compensation Actually Paid (SEC methodology) | Revalued SEC disclosure | **~$5.77m** | - |
 
 **Incentive metrics:** annual cash bonus depends on **adjusted EBITDA (30%)**, **adjusted EBITDA margin (30%)** and **FCF (40%)**. The 2025–2027 performance awards use **adjusted EPS (40%)**, **organic sales growth (20%)** and **ROIC (40%)**. Equity awards are valued at the **grant date**, not cash received; *Compensation Actually Paid* is a separate SEC calculation, not an extra payment.
 
@@ -80,7 +80,7 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 | Metric | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | **Revenue ($bn)** | 9.74 | 11.88 | 12.51 | 11.63 | 13.09 | 12.79 | **13.87** | 13.82 | 13.65 | 13.38 |
-| **Revenue YoY** | — | +22% | +5% | −7% | +13% | −2% | **+8.4%** | **−0.3%** | −1% | −2% |
+| **Revenue YoY** | - | +22% | +5% | −7% | +13% | −2% | **+8.4%** | **−0.3%** | −1% | −2% |
 | **Adjusted EBITDA ($bn)** | 1.12 | 1.25 | 1.33 | 1.37 | 1.79 | 1.72 | **1.76** | 1.69 | 1.51 | 1.41 |
 | **Adjusted EBITDA margin** | 11.5% | 10.5% | 10.6% | 11.8% | 13.6% | 13.4% | **12.7%** | 12.2% | 11.1% | 10.5% |
 | **Adjusted EPS ($)** | 1.88 | 2.19 | 2.37 | 2.55 | 3.96 | 3.85 | 3.83 | 3.39 | 3.01 | 2.60–2.90 |
@@ -108,7 +108,7 @@ LKQ has grown over time, but **profitability and cash generation have weakened s
 | **Net debt ($bn)** | 3.149 | 4.016 | 3.549 | 2.585 | 2.550 | 2.384 | 3.982 | 3.964 | 3.376 | 3.310 |
 | **Net debt / adjusted EBITDA** | 2.82x | 3.21x | 2.67x | 1.89x | 1.43x | 1.39x | **2.26x** | 2.35x | 2.24x | 2.35x |
 | **Diluted shares (m)** | 310.6 | 315.8 | 311.0 | 305.0 | 297.7 | 278.0 | 268.3 | 263.9 | 257.8 | ~254.6 |
-| **Cash dividends paid / modeled ($bn)** | — | — | — | — | 0.073 | 0.284 | 0.302 | 0.318 | 0.310 | ~0.310 |
+| **Cash dividends paid / modeled ($bn)** | - | - | - | - | 0.073 | 0.284 | 0.302 | 0.318 | 0.310 | ~0.310 |
 
 **Trend:** Debt grew materially again after 2022, reaching **$4.28bn gross in 2023**. The reduction to **$3.70bn in 2025** is encouraging, but leverage remains an important constraint. The table's leverage uses **year-end net debt / modeled adjusted EBITDA**; it is **not necessarily the company's covenant leverage ratio**. Diluted shares fell substantially, partly reflecting large past buybacks. LKQ introduced cash dividends in 2021, creating an ongoing cash commitment.
 
@@ -133,7 +133,7 @@ Working capital is trade receivables **+** inventory **−** trade payables. All
 
 **Why it matters:** LKQ reduced **WC/revenue from 26.9% to 18.5%** and **CCC from 124 to 90 days** (2017–2025). But the improvement came mainly from **paying suppliers later (DPO: 44 → 85 days)**, not from selling inventory faster (**DIO: 133 → 144 days**). If supplier payment terms tighten, LKQ may need more cash for working capital, reducing FCF.
 
-## 6. Valuation — own model, competitors and SOTP
+## 6. Valuation - own model, competitors and SOTP
 At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**; plus **$3.660bn Q2 net debt** gives EV **~$9.25bn** before minor residual interests. With FY2026 $1.410bn adjusted EBITDA: **~6.6x EV/EBITDA**. At FY2026 adjusted EPS midpoint $2.75, **~8.0x P/E**. At $660m adjusted model FCF, **~8.5x P/FCF**, or **~11.8% FCF yield**. 
 
 **Historic drawdown and entry discipline:** LKQ has declined **~58.8% from its peak**, among its steepest historical drawdowns, surpassed by **2008 (~62.8%)** and **2020 (~68.0%)** in the referenced series. Yet a historic fall does **not** make the shares automatically cheap. At the **$22.10 reference price** and **$660m FY2026E FCF (CFO − CAPEX)**, LKQ trades at **~8.5x P/FCF** or **~14.0x EV/FCF including net debt**; EV/FCF is only a leverage-aware cross-check because CFO already includes interest. **I do not see an obvious bargain: my preferred entry is around $20, with no price target.** A whole-company sale is speculative; restructuring and deleveraging could unlock value without it. The **$22.6 conservative SOTP after assumed H2 debt reduction** is a conditional valuation scenario, **not a target price**.
@@ -178,16 +178,16 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 
 **Assumptions:** EV = sum of segment EBITDA × assigned multiple. Equity = EV − net debt − **$24m minority interests**; divide by **253m shares**. Net debt is **$3,660m at Q2 2026**, or **$3,310m after an assumed $350m reduction in H2**. No divestiture proceeds are included; these scenarios are not price targets.
 
-### Valuation summary — implied share-price ranges
+### Valuation summary - implied share-price ranges
 
 | Method | Low | Mid | High |
 |---|---:|---:|---:|
 | **P/E** (7x–11x) | $19.3 | $24.8 | $30.3 |
-| **EV/EBITDA — Q2 net debt** (6x–8x) | $19.0 | $24.6 | $30.1 |
-| **EV/EBITDA — after $350m debt reduction** (6x–8x) | $20.4 | $25.9 | $31.5 |
+| **EV/EBITDA - Q2 net debt** (6x–8x) | $19.0 | $24.6 | $30.1 |
+| **EV/EBITDA - after $350m debt reduction** (6x–8x) | $20.4 | $25.9 | $31.5 |
 | **P/FCF** (8x–12x) | $20.9 | $26.1 | $31.3 |
-| **SOTP — Q2 net debt** | $15.8 | $21.3 | $26.8 |
-| **SOTP — after $350m debt reduction** | $17.1 | $22.6 | $28.2 |
+| **SOTP - Q2 net debt** | $15.8 | $21.3 | $26.8 |
+| **SOTP - after $350m debt reduction** | $17.1 | $22.6 | $28.2 |
 
 ## 7. Key risks and what to monitor
 

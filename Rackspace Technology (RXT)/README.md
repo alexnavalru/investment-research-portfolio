@@ -154,7 +154,7 @@ The scenario table uses **$2.7bn net debt** and **about 357m modeled diluted sha
 
 I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few faster-growing AI infrastructure businesses are sometimes valued at 20x–30x, but their fundamentals and risks differ significantly.
 
-## 10. Risks and quarterly monitoring
+## 10. Risks
 
 **Thesis-breaking or materially negative developments:**
 - Delays in AMD deployment, inability to obtain equipment financing, or weak utilization.

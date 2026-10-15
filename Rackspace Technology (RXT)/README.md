@@ -2,7 +2,7 @@
 
 **Case type:** Special situation / leveraged turnaround / enterprise AI infrastructure  
 **Status:** Speculative watchlist / active research (no position disclosed)  
-**Planned position:** Long-dated options (LEAPS)  
+**Planned position:** Options (LEAPS)  
 **Preferred entry:** Around $3 per share  
 **Reference price:** **$3.15**, October 14, 2026 closing price  
 **Last updated:** October 15, 2026
@@ -167,7 +167,7 @@ I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few fast
 
 ## 11. Investment plan — long-dated call options
 
-**I intend to start building a speculative position when RXT trades around $3 per share, using out-of-the-money (OTM) LEAPS calls.** I plan to choose the **longest expiration available through Interactive Brokers**, preferably with **$4 or $5 strike prices**. Given the considerable downside risk and the potential upside if the turnaround succeeds, I consider this an attractive asymmetric risk/reward opportunity, with a limited initial allocation.
+**I intend to start building a speculative position when RXT trades around $3 per share, using out-of-the-money (OTM) LEAPS calls.** Given the considerable downside risk and the potential upside if the turnaround succeeds, I consider this an attractive asymmetric risk/reward opportunity, with a limited initial allocation.
 
 > **Disclosure:** Independent investment research as of October 15, 2026. Valuation scenarios are illustrative, uncertain and not investment advice.
 

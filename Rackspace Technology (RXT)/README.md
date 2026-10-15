@@ -2,7 +2,7 @@
 
 **Case type:** Special situation / leveraged turnaround / enterprise AI infrastructure  
 **Status:** Speculative watchlist / active research (no position disclosed)  
-**Planned position:** OTM LEAPS calls, $4–$5 strikes, longest expiration available via Interactive Brokers  
+**Planned position:** Long-dated options (LEAPS)  
 **Preferred entry:** Around $3 per share  
 **Reference price:** **$3.15**, October 14, 2026 closing price  
 **Last updated:** October 15, 2026
@@ -52,7 +52,7 @@ The definitive AMD agreement provides a framework for a staged enterprise AI com
 
 **The opportunity:** Rackspace plans to use existing data centers, power and cooling to deploy AMD hardware and sell managed AI inference services. The goal is to monetize available infrastructure without constructing entirely new facilities.
 
-**The risk:** The 30 MW is a deployment **target, not guaranteed contracted revenue**. Each phase depends on customers, approvals, hardware and financing. The initial 2 MW requires about **$75m of CapEx**; scaling the same cost per MW to 30 MW would suggest **about $1.1bn**, although this is **an illustrative extrapolation, not company guidance**. Debt financing and hardware replacement costs could absorb much of the potential EBITDA. Material AI contributions are expected mainly from 2027 onward.
+**Execution and financing:** The 30 MW is a **target, not guaranteed contracted revenue**. The first 2 MW requires about **$75m of CapEx**. For later deployments, management intends to rely primarily on **hardware-backed / asset-backed financing**, including **OEM and equipment financing** secured by the GPUs and servers. It also plans to reallocate savings from lower-return operations toward AI, preserving cash and aiming to deleverage gradually. Financing terms, deployment approvals and customer demand remain uncertain.
 
 
 ## 5. Palantir, NVIDIA and the full-stack strategy

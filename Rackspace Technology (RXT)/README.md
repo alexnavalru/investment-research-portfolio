@@ -2,7 +2,7 @@
 
 **Case type:** Special situation / leveraged turnaround / enterprise AI infrastructure  
 **Status:** Speculative watchlist / active research (no position disclosed)  
-**Planned position:** Long-dated call options (LEAPS), approximately 2 years to expiration  
+**Planned position:** OTM LEAPS calls, $4–$5 strikes, longest expiration available via Interactive Brokers  
 **Preferred entry:** Around $3 per share  
 **Reference price:** **$3.15**, October 14, 2026 closing price  
 **Last updated:** October 15, 2026

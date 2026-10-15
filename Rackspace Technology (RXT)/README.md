@@ -137,9 +137,9 @@ I deliberately stress-test the equity valuation using **about 356.5m shares (rou
 
 **Dilution note:** The 25.2m potential shares are not guaranteed to be issued. The $246m ATM at $3.22 is an illustrative assumption; actual dilution may differ.
 
-## 9. My EV/EBITDA valuation scenarios
+## 9. My 2028 EV/EBITDA valuation scenarios
 
-The scenario table uses **$2.7bn net debt** and **about 357m modeled diluted shares** throughout.
+These are **illustrative valuation scenarios for 2028, assuming Rackspace successfully executes its turnaround and reaches the stated EBITDA levels**. The model uses **$2.7bn net debt** and **about 357m modeled diluted shares** throughout; actual 2028 debt and dilution may differ.
 
 | Future annual/run-rate EBITDA | EV (8x) | **Price (8x)** | EV (10x) | **Price (10x)** |
 |---|---:|---:|---:|---:|

@@ -2,6 +2,8 @@
 
 **Case type:** Special situation / leveraged turnaround / enterprise AI infrastructure  
 **Status:** Speculative watchlist / active research (no position disclosed)  
+**Planned position:** Long-dated call options (LEAPS), approximately 2 years to expiration  
+**Preferred entry:** Around $3 per share  
 **Reference price:** **$3.15**, October 14, 2026 closing price  
 **Valuation horizon:** 2028–2029 normalized/run-rate EBITDA  
 **Last updated:** October 15, 2026
@@ -26,7 +28,7 @@ Historically, low-margin cloud infrastructure resale, competition from hyperscal
 8. **Potential sale of Public Cloud.** A hypothetical divestiture of the Public Cloud segment could allow Rackspace to concentrate resources on higher-value Private Cloud and Enterprise AI while using sale proceeds to reduce debt. This is an **unconfirmed strategic possibility, not an announced transaction**; the proceeds, lost earnings and transaction terms would determine whether it creates value.
 9. **Apollo's ownership and potential incentives.** Apollo remains a controlling shareholder, with a reported historical equity entry cost above the current share price. Recovering its equity investment could incentivize Apollo to support a higher long-term valuation. **This alignment is not guaranteed:** Apollo's interests in the broader capital structure, including debt, may differ from those of minority shareholders in a restructuring.
 
-## 3. Q1 and Q2 2026 results — brief review
+## 3. Q1 and Q2 2026 results
 
 **Q1:** Revenue reached **$678m** (about +2% YoY), adjusted EBITDA was **about $71m** and reported FCF was **-$9m**. Public Cloud grew while Private Cloud declined. Cost control improved, but the underlying private-infrastructure business had not yet stabilized.
 
@@ -83,7 +85,15 @@ Remaining performance obligations (RPO) represent contract revenue yet to be rec
 | Q1 2026 | 575.5 |
 | **Q2 2026** | **809.1** |
 
-The increase is encouraging for future revenue visibility. However, **RPO is not exclusively AI backlog** and does not establish the profitability or timing of the AMD and Palantir opportunities.
+The increase is encouraging for future revenue visibility. In Q2, Rackspace also announced several notable enterprise contracts:
+
+- **AdventHealth (Private Cloud):** A new five-year expansion to manage critical healthcare infrastructure, including migrating **366 applications, 2,300 virtual machines and 283 database servers**, plus disaster recovery and Epic services.
+- **Major UK bank (Private Cloud):** A multiyear Rubrik-based cyber-recovery cloud contract, initially for development/testing, with scope for later expansion.
+- **US federal defense (Public Cloud):** Selected to develop multicloud management capabilities, including FinOps automation and self-service tools.
+- **Major US airline (Public Cloud):** Expanded cloud-modernization work and AI-assisted software development.
+- **UK financial institution (Public Cloud):** Expanded into end-to-end managed services and a multiyear cloud-modernization and AI roadmap.
+
+These agreements illustrate demand from large enterprise and regulated customers. **RPO is not exclusively AI backlog**, and the disclosed contracts do not reveal how much of the increase came from AI or the margins they will generate.
 
 ## 7. Debt, liquidity and 2028 maturities
 
@@ -179,7 +189,7 @@ The formula uses **356.5m**, the unrounded share-count bridge, so the prices mat
 
 ## 11. Investment plan — long-dated call options
 
-**I intend to establish a small speculative position using long-dated call options with approximately two years to expiration.** Given Rackspace's high leverage, the risk of a substantial fall in the shares and the potential upside if the turnaround succeeds, I consider the risk/reward profile attractive for a carefully limited options position.
+**I intend to start building a small speculative position around $3 per share, using long-dated call options (LEAPS) with approximately two years to expiration.** Given Rackspace's high leverage, the risk of a substantial fall in the shares and the potential upside if the turnaround succeeds, I consider the risk/reward profile attractive for a carefully limited options position. Entry is conditional on option availability, strike selection and premium, rather than the share price alone.
 
 Buying calls caps the direct loss on each option at the **premium paid**, but it is entirely possible to lose **100% of that premium**. Time decay, implied volatility, strike price and the timing of the 2028 refinancing are important. I will limit the capital committed and reassess the thesis as AMD deployments, cash flow and refinancing progress become clearer.
 

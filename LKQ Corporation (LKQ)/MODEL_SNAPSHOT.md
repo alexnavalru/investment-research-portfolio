@@ -1,4 +1,4 @@
-# LKQ — 2017–2027 Financial Model Snapshot
+# LKQ - 2017–2027 Financial Model Snapshot
 **As of 13 Oct 2026.** Companion to full thesis. **Watchlist entry: around $20/share; no price target.** USD. Historical series from the user's LKQ.xlsx; models are assumptions, not company guidance. Values produced by P/E, EV/EBITDA, P/FCF or SOTP are scenario outputs, not a declared target.
 
 ## 1. Historical P&L, free cash flow and leverage
@@ -6,7 +6,7 @@ Revenue, debt = USD **billions**; FCF and dividends = USD **millions**. FCF = CF
 
 | FY | Revenue bn | Revenue YoY | Adj EBITDA margin | Adj EPS | FCF m | FCF/share | Gross debt bn | Net debt bn | Net debt/EBITDA | Diluted sh m | Dividend m |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 2017 | 9.74 | — | 11.5% | 1.88 | 340 | 1.09 | 3.43 | 3.15 | 2.82x | 310.6 | 0 |
+| 2017 | 9.74 | - | 11.5% | 1.88 | 340 | 1.09 | 3.43 | 3.15 | 2.82x | 310.6 | 0 |
 | 2018 | 11.88 | 22.0% | 10.5% | 2.19 | 461 | 1.46 | 4.35 | 4.02 | 3.21x | 315.8 | 0 |
 | 2019 | 12.51 | 5.3% | 10.6% | 2.37 | 798 | 2.57 | 4.07 | 3.55 | 2.67x | 311.0 | 0 |
 | 2020 | 11.63 | -7.0% | 11.8% | 2.55 | 1271 | 4.17 | 2.90 | 2.58 | 1.89x | 305.0 | 0 |
@@ -102,7 +102,7 @@ Spot 12 Oct 2026: **$22.10**. Use **253m spot shares** (~$5,591m market cap); of
 
 **Calculation:** EV = Σ(segment EBITDA × multiple). Equity = EV − net debt − **$24m minority interests**; shares **253m**. Q2 2026 net debt **$3,660m**, reduced to **$3,310m** after an assumed **$350m H2 paydown**. Potential disposal proceeds are excluded. **SOTP EBITDA $1,392m vs consolidated model $1,410m** and **SOTP revenue $13,550m vs consolidated model $13,378m** remain unreconciled.
 
-## 7. Peer snapshot — not synchronized market prices
+## 7. Peer snapshot - not synchronized market prices
 - **GPC:** ~12.0x EV/EBITDA, 8.3% margin; material industrial distribution.
 - **AAP:** ~5.9x*, 13.7%* margin; retailer/turnaround with different accounting.
 - **O'Reilly:** ~19.3x, 22.3%; high-margin retailer/DIY.

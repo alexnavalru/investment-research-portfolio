@@ -1,4 +1,4 @@
-# Rackspace Technology (RXT) — Valuation & Dilution Model Snapshot
+# Rackspace Technology (RXT) - Valuation & Dilution Model Snapshot
 
 **As of:** October 15, 2026  
 **Reference stock price:** $3.15 (October 14, 2026 close)  

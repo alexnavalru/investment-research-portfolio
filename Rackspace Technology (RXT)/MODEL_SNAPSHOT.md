@@ -2,7 +2,7 @@
 
 **As of:** October 15, 2026  
 **Reference stock price:** $3.15 (October 14, 2026 close)  
-**Time frame:** illustrative future/run-rate EBITDA toward 2028–2029  
+**Time frame:** illustrative 2028 valuation scenarios conditional on successful turnaround execution  
 **Valuation method:** EV/adjusted EBITDA sensitivity with a single static capital-structure assumption  
 
 ## Capital structure assumptions
@@ -44,9 +44,9 @@ Assumption detail:
 
 This is a static normalized-earnings **scenario sensitivity**, not a cash-flow discount model and not an automatic target price. No separate value is awarded for unrealized partnerships, and the calculation does not forecast net debt or share changes through 2028.
 
-## Valuation table: 8x and 10x
+## 2028 valuation scenarios: 8x and 10x
 
-All enterprise values are in **USD millions**. Equity-price outputs are in **USD/share**.
+All enterprise values are in **USD millions**. Equity-price outputs are in **USD/share**. These are **potential 2028 values only if Rackspace achieves the assumed EBITDA and successfully executes its turnaround**; they are not guaranteed targets. Debt and diluted share count remain fixed solely for this sensitivity.
 
 | Future EBITDA | EV (8x) | Price (8x) | EV (10x) | Price (10x) |
 |---|---:|---:|---:|---:|

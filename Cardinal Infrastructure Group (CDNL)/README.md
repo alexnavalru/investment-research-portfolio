@@ -22,7 +22,7 @@ Cardinal is a vertically integrated civil site-development and infrastructure co
 8. **Speculative sale or take-private:** CDNL's small size and depressed valuation could attract a buyer or motivate insiders to privatize. **No deal is indicated; both scenarios are unlikely and complicated by the Up-C/TRA structure**, so neither underpins the valuation.
 9. **Central Florida / Hughes Brothers (pending Q4 close):** Adds a new market, **>$220m TTM sales** and **~$350m backlog** from a business that grew **100% organically**. Co-founders **Chad and Justin Hughes remain in charge**. Management expects immediately **accretive adjusted EBITDA margins**, but provides no precise EBITDA/margin; the **FY2027 base adds $220m revenue / ~$48m EBITDA at an illustrative 22% margin**, not official guidance.
 
-## October 13, 2026 — Hughes Brothers acquisition (pending)
+## October 13, 2026 - Hughes Brothers acquisition (pending)
 
 **Deal:** Acquiring Central Florida's Hughes Brothers for **$357.5m upfront** plus up to **$97.5m contingent** (**$455m max**): **>$220m TTM sales**, **~$350m backlog**, and **100% historical organic growth**. Co-founders **Chad and Justin Hughes remain**. **Q4 2026 close expected**; fully consolidated in **FY2027** if on schedule. Management expects **higher EBITDA margins**, but **no standalone EBITDA or EV/EBITDA disclosed**.
 
@@ -224,7 +224,7 @@ The existing **$890m FY2026 guidance midpoint includes Allied but not Hughes**. 
 
 **Valuation:** **57.5m fully diluted economic share equivalents** and **$280m fixed FY2027 net debt** are **analyst assumptions**, not disclosed post-deal share count or FY2027 company guidance. Starting shares are **48.48m** post-Allied / pre-Hughes; the model allows **~9.02m incremental diluted equivalents** (including a buffer beyond the minimum announced stock consideration), a **~18.6% increase** in share count / **~15.7% ownership dilution**.
 
-## Publicly traded comparables — normalized enterprise value (October 9, 2026)
+## Publicly traded comparables - normalized enterprise value (October 9, 2026)
 
 | Ticker / company | Share price | Fully economic market cap | Adjusted EV | EV / 2026E adj. EBITDA | 2026E adj. EBITDA margin | Net debt / 2026E EBITDA | Organic revenue growth |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -241,11 +241,11 @@ The existing **$890m FY2026 guidance midpoint includes Allied but not Hughes**. 
 
 ### Why these comparables matter
 
-**STRL — Sterling Infrastructure.** Probably the best operating comparator for Cardinal's longer-term potential: both perform large-scale **site development**. Sterling, however, has far greater exposure to high-value, mission-critical infrastructure such as data centers and advanced manufacturing, as well as greater scale and an established adjusted EBITDA margin around **22.2%**. Its H1 2026 operating cash flow was **$328m**. Cardinal should **not** automatically inherit Sterling's **~17.4x** multiple.
+**STRL - Sterling Infrastructure.** Probably the best operating comparator for Cardinal's longer-term potential: both perform large-scale **site development**. Sterling, however, has far greater exposure to high-value, mission-critical infrastructure such as data centers and advanced manufacturing, as well as greater scale and an established adjusted EBITDA margin around **22.2%**. Its H1 2026 operating cash flow was **$328m**. Cardinal should **not** automatically inherit Sterling's **~17.4x** multiple.
 
-**ROAD — Construction Partners.** Probably the closest comparator for the **M&A and vertical-integration playbook**: regional contractor acquisitions, asphalt plants, paving and civil works across the Sunbelt. ROAD's business is more exposed to **publicly funded highway construction and road maintenance**, which gives it a different demand and project-risk profile from CDNL's private development exposure. ROAD is also substantially more leveraged. Its **~11.8x** multiple offers a possible benchmark **only if** Cardinal demonstrates reliable execution and margins.
+**ROAD - Construction Partners.** Probably the closest comparator for the **M&A and vertical-integration playbook**: regional contractor acquisitions, asphalt plants, paving and civil works across the Sunbelt. ROAD's business is more exposed to **publicly funded highway construction and road maintenance**, which gives it a different demand and project-risk profile from CDNL's private development exposure. ROAD is also substantially more leveraged. Its **~11.8x** multiple offers a possible benchmark **only if** Cardinal demonstrates reliable execution and margins.
 
-**GVA — Granite Construction.** A larger, more diversified and more mature civil-infrastructure and materials platform, with considerable public-sector exposure. Its **~9.1x** multiple is a useful more conservative operating reference, but it requires care: a large June 2026 **convertible-note derivative liability was settled in August**, alongside cash payments, share issuance and an unwind of the related capped call. It must **not** be added on top of the cash/debt/equity consequences of its settlement.
+**GVA - Granite Construction.** A larger, more diversified and more mature civil-infrastructure and materials platform, with considerable public-sector exposure. Its **~9.1x** multiple is a useful more conservative operating reference, but it requires care: a large June 2026 **convertible-note derivative liability was settled in August**, alongside cash payments, share issuance and an unwind of the related capped call. It must **not** be added on top of the cash/debt/equity consequences of its settlement.
 
 ### How I reconstruct CDNL's market cap and EV
 

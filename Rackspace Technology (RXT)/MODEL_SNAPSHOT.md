@@ -7,7 +7,7 @@
 
 ## Capital structure assumptions
 
-I model **$2.7bn of net debt**, rounded from the Q2 2026 carrying-value debt of **$2,786.7m** less **$110.6m** of cash (~$2,676m). This is a **working valuation assumption**, not an estimate of actual 2028–2029 debt or a lease-adjusted enterprise-claims calculation. The debt burden **could grow as GPU infrastructure is funded**.
+I model **$2.7bn of net debt**, rounded from the Q2 2026 carrying-value debt of **$2,786.7m** less **$110.6m** of cash (about $2,676m). This is a **working valuation assumption**, not an estimate of actual 2028–2029 debt or a lease-adjusted enterprise-claims calculation. The debt burden **could grow as GPU infrastructure is funded**.
 
 For completeness, the Q2 10-Q reports **$2,571.3m principal amount outstanding**, a different concept from debt carrying value; mixing it mechanically with an accounting-based net-debt calculation would change the equity bridge.
 
@@ -20,14 +20,14 @@ For completeness, the Q2 10-Q reports **$2,571.3m principal amount outstanding**
 | Shares sold under ATM through August 7 | +1.0 |
 | **Documented subtotal after these issuances** | **254.9** |
 | Potential shares excluded as anti-dilutive in the Q2 loss-per-share calculation | +25.2 |
-| **Hypothetical future ATM: ~$246m / $3.22** | **+~76.4** |
+| **Hypothetical future ATM: about $246m / $3.22** | **+approximately 76.4** |
 | **Modeled shares (rounded)** | **356.5** |
-| **Share-count estimate** | **~356.5 (or ~357)** |
+| **Share-count estimate** | **about 356.5 (or about 357)** |
 
 Assumption detail:
 
 1. The company announced an ATM equity program of up to **$250m**.
-2. As reported through August 7, approximately **1.0m shares** had been sold, producing **$4.1m net** after fees. For this sensitivity I round remaining authorized ATM to **~$246m**. The limit is based on gross offering value; the calculation deliberately approximates net and gross amounts.
+2. As reported through August 7, approximately **1.0m shares** had been sold, producing **$4.1m net** after fees. For this sensitivity I round remaining authorized ATM to **about $246m**. The limit is based on gross offering value; the calculation deliberately approximates net and gross amounts.
 3. I assume the **entire remaining amount** is issued at **$3.22/share**, a **September 14, 2026 reference share price** supplied for modeling, *not* the observed execution price of those future securities.
 4. The **25.2m potential common shares** were excluded from GAAP diluted EPS as anti-dilutive. Including all 25.2m here is deliberately conservative and does not mean all are vested or certain to be issued. This figure should not automatically be described as exclusively employee compensation; potentially issuable shares can involve equity awards and other contingent securities.
 5. The documented subtotal of **254.9m** is reconstructed from identified issuance disclosures, **not a certified total outstanding on October 15**. More recent SEC filing data could supersede it.
@@ -48,10 +48,10 @@ This is a static normalized-earnings **scenario sensitivity**, not a cash-flow d
 
 All enterprise values are in **USD millions**. Equity-price outputs are in **USD/share**.
 
-| Future EBITDA | EV @ 8x | Price @ 8x | EV @ 10x | Price @ 10x |
+| Future EBITDA | EV (8x) | Price (8x) | EV (10x) | Price (10x) |
 |---|---:|---:|---:|---:|
-| $275m | $2,200m | ~$0.00 | $2,750m | $0.14 |
-| $300m | $2,400m | ~$0.00 | $3,000m | $0.84 |
+| $275m | $2,200m | about $0.00 | $2,750m | $0.14 |
+| $300m | $2,400m | about $0.00 | $3,000m | $0.84 |
 | $400m | $3,200m | $1.40 | $4,000m | $3.65 |
 | **$500m** | **$4,000m** | **$3.65** | **$5,000m** | **$6.45** |
 | $600m | $4,800m | $5.89 | $6,000m | $9.26 |
@@ -80,9 +80,9 @@ Every **$356.5m increase in net debt** translates to approximately **$1.00/share
 
 ## Capex and FCF sanity check
 
-Management's announced initial **~2 MW / ~$75m capex** implies **~$37.5m/MW** for that *specific* deployment. Extending it without mix changes to 30 MW implies **~$1.125bn** of investment, but this is **not an official total project capex forecast**. Equipment financing, hardware obsolescence, power/network upgrades, interest and eventual replacement costs prevent the projected $225–300m+ AI adjusted EBITDA from automatically becoming common-equity FCF.
+Management's announced initial **about 2 MW / about $75m capex** implies **about $37.5m/MW** for that *specific* deployment. Extending it without mix changes to 30 MW implies **about $1.125bn** of investment, but this is **not an official total project capex forecast**. Equipment financing, hardware obsolescence, power/network upgrades, interest and eventual replacement costs prevent the projected $225–300m+ AI adjusted EBITDA from automatically becoming common-equity FCF.
 
-The company guides to **$285–295m adjusted FY2026 EBITDA**. A purely illustrative additive bridge of **~$290m baseline + $225–300m at full 30 MW** gives **~$515–590m** before changes to legacy operations, reinvestments and potential overlaps. **$800m of consolidated EBITDA requires far more than simply achieving the announced minimum AI unit economics.**
+The company guides to **$285–295m adjusted FY2026 EBITDA**. A purely illustrative additive bridge of **about $290m baseline + $225–300m at full 30 MW** gives **about $515–590m** before changes to legacy operations, reinvestments and potential overlaps. **$800m of consolidated EBITDA requires far more than simply achieving the announced minimum AI unit economics.**
 
 ## Questions to revisit each quarter
 

@@ -1,52 +1,38 @@
 # Rackspace Technology (RXT) — Leveraged Enterprise AI Infrastructure Turnaround
 
-**Case type:** Special situation / highly leveraged turnaround / AI infrastructure  
+**Case type:** Special situation / leveraged turnaround / enterprise AI infrastructure  
 **Status:** Speculative watchlist / active research (no position disclosed)  
 **Reference price:** **$3.145/share**, October 14, 2026 closing price  
 **Valuation horizon:** 2028–2029 normalized/run-rate EBITDA  
-**Scenario model:** **$2.7bn net debt**, **~356.5m modeled diluted shares**, **8x–10x EV/EBITDA**  
 **Last updated:** October 15, 2026
 
-> **Investment thesis:** Rackspace could turn underutilized data-center infrastructure and long-standing relationships with regulated enterprises into high-margin AI compute and inference revenue. The AMD deployment plan, Palantir collaboration, and operational restructuring offer substantial EBITDA recovery potential. But this is a leveraged equity *stub*, not a conventional cheap growth company: GPU capex, potentially increasing debt, refinancing in 2028, and dilution could absorb much of the enterprise-value upside. My investment case is conditional on contracted AI demand, cash generation and refinancing—not on partnership announcements alone.
+## 1. Business overview
 
-## 1. Business overview and investment thesis
+Rackspace Technology (NASDAQ: RXT) provides managed cloud infrastructure, hosting, security and technology services for enterprise customers. Its two main segments are **Private Cloud**, where it operates dedicated or hosted infrastructure and mission-critical environments, and **Public Cloud**, where it manages workloads and cloud services across third-party platforms such as AWS, Microsoft Azure and Google Cloud.
 
-Rackspace operates managed Public Cloud and Private Cloud services and infrastructure for enterprises. The historical business has suffered from declining or low-value infrastructure resale, customer migration to hyperscalers, fixed-cost underutilization and a heavy debt burden. The strategic pivot is to become the **accountable operator of the full enterprise AI stack**, not simply a reseller of AWS/Azure capacity or a provider of raw GPUs.
+The company earns revenue by hosting, managing, securing and modernizing customers' technology environments. Its footprint includes data-center capacity, power, cooling, infrastructure specialists and longstanding relationships with regulated organizations in sectors such as healthcare, financial services and government.
 
-The investment opportunity rests on five related factors:
+Historically, low-margin cloud infrastructure resale, competition from hyperscalers, high fixed costs and substantial debt have weighed on performance. Management is repositioning Rackspace around **Enterprise AI, private and sovereign cloud, and managed inference**, aiming to provide not just infrastructure but the integration and ongoing operation of AI workloads.
 
-1. **Existing infrastructure and power.** Rackspace can potentially deploy AI hardware in capacity it already operates or leases, reducing the need for entirely new data-center construction and helping absorb fixed costs. Existing capacity is not free: hardware, financing, networking, cooling upgrades and operations still cost money.
-2. **AMD compute monetization.** The plan to deploy up to 30 MW of AMD-based enterprise AI compute by the end of 2028 represents a potentially material source of incremental revenue and EBITDA if funding, demand and deployment milestones are achieved.
-3. **Higher-value services.** Palantir Foundry/AIP, Uniphore, VMware, Rubrik, Dell and Rackspace's forward-deployed engineers support a service model built around regulated and sovereign AI, secure data handling and managed inference rather than pure hardware rental.
-4. **Cost restructuring and business pruning.** Management is deliberately exiting low-margin Public Cloud resale and some basic hosting/colocation activity while reallocating talent and capacity to AI. Cost savings may improve profitability, although a substantial share is earmarked for reinvestment.
-5. **Equity operating leverage.** With the enterprise value dominated by debt, an increase in sustainable EBITDA can create disproportionate upside for the remaining equity—*if* new financing and dilution do not consume it.
+## 2. Investment thesis and potential catalysts
 
-**Variant perception:** A successful Rackspace might be valued as a more profitable AI infrastructure/managed-operations platform rather than a structurally declining legacy managed cloud company. The opposite interpretation is equally credible: management may be attempting a capital-intensive pivot while the pre-existing business lacks the liquidity to finance it safely.
+1. **Existing data centers and available power.** Rackspace intends to repurpose capacity already in its infrastructure footprint for higher-value AI workloads. Greater utilization could spread fixed costs over more revenue and improve returns without building all its facilities from scratch.
+2. **AMD's planned 30 MW AI deployment.** The roadmap calls for ~2 MW by the end of 2026, 15 MW cumulative in 2027 and 30 MW cumulative in 2028. Management estimates **$450–600m of annual revenue** and **$225–300m+ of adjusted EBITDA** at full deployment and the targeted economics. Executing and contracting those MW is the principal measurable growth catalyst.
+3. **Palantir and higher-value enterprise AI services.** Rackspace can combine Palantir software, AMD/NVIDIA compute and its own infrastructure-management capabilities to move from low-margin resale toward secure, regulated, end-to-end AI deployments and inference.
+4. **Cost savings and exiting unattractive revenue.** Management plans **$75–85m in annualized workforce-related savings**, although a significant part will be reinvested. Leaving low-margin hosting/colocation and Public Cloud infrastructure resale could improve the revenue mix over time.
+5. **Improving commercial visibility.** Rising RPO and expanding relationships with regulated clients suggest demand for managed, long-term infrastructure services. The next test is whether AI-specific contracted capacity becomes profitable revenue and cash flow.
+6. **Operating leverage and EBITDA recovery.** The company guides to ~$290m adjusted EBITDA in 2026, while the planned AI buildout creates the possibility of a much higher future run rate. A sustained recovery could materially lift equity value because debt accounts for a large share of enterprise value.
+7. **Cash flow, debt management and refinancing.** Demonstrated FCF improvement and a credible solution to the **2028 debt maturity wall** would be major catalysts. Conversely, GPU funding requirements and new equity issuance may absorb substantial value before the strategy proves itself.
 
-## 2. Q1 and Q2 2026 results — brief review
+## 3. Q1 and Q2 2026 results — brief review
 
-USD millions, rounded:
+**Q1:** Revenue reached **$678m** (+~2% YoY), adjusted EBITDA was **~$71m** and reported FCF was **-$9m**. Public Cloud grew while Private Cloud declined. Cost control improved, but the underlying private-infrastructure business had not yet stabilized.
 
-| Metric | Q1 2026 | Q2 2026 |
-|---|---:|---:|
-| Revenue | $678m | $670m |
-| Private Cloud revenue | $235m | $263m |
-| Public Cloud revenue | $443m | $407m |
-| Adjusted EBITDA | ~$71m | ~$66m |
-| Non-GAAP operating profit | $31m | $27m |
-| Operating cash flow | +$5m | -$32m |
-| Reported free cash flow | -$9m | -$48m |
-| Liquidity at quarter-end | $295m | $202m |
+**Q2:** Revenue was **$670m** (+~1% YoY), adjusted EBITDA **~$66m** and reported FCF **-$48m**. Private Cloud revenue rose to **$263m**, though a meaningful part of its apparent outperformance came from early recognition of a contract's embedded lease rather than repeatable organic growth. Public Cloud revenue fell to **$407m**.
 
-**Reading the quarters:** Q1 revenue rose ~2% year over year, led by Public Cloud; Private Cloud fell ~6%. Q2 revenue rose only ~1%, while Private Cloud increased ~5%, but its apparent beat mostly reflected **early revenue recognition from an embedded lease in a long-term contract**, rather than a clear acceleration in recurring organic demand. Public Cloud fell ~2% as the mix shifts away from lower-margin business. The company is improving the strategic narrative faster than it is proving durable earnings or cash generation.
+**2026 guidance:** Management reduced revenue expectations from **$2.60–2.70bn** to **$2.45–2.55bn** and adjusted EBITDA from **$305–315m** to **$285–295m**, partly because of deliberate exits from low-margin activities. It maintained **$50–70m of positive FY2026 FCF**, making the second half especially important.
 
-**FY2026 guidance revision:** Between Q1 and the July/Q2 outlook, management lowered revenue guidance from **$2.60–2.70bn** to **$2.45–2.55bn** and adjusted EBITDA from **$305–315m** to **$285–295m**. Management attributes much of the revenue reduction to exiting ~$125m of low-margin Public Cloud activity and ~$25m of Private Cloud basic hosting/colocation. The trade-off is a near-term earnings and cash-flow gap ahead of any meaningful AI ramp.
-
-Q2 management reiterated **$50–70m of positive FY2026 FCF**. Since H1 was substantially negative, this requires a strong H2 recovery. The hurdle matters more than short-term revenue beats.
-
-*Sources: [Q1 release](https://ir.rackspace.com/news-releases/news-release-details/rackspace-technology-reports-first-quarter-2026-results), [Q2 release](https://ir.rackspace.com/news-releases/news-release-details/rackspace-technology-reports-second-quarter-2026-results), [Q1 call transcript](https://stockanalysis.com/stocks/rxt/transcripts/571889-q1-2026/), [Q2 call transcript](https://stockanalysis.com/stocks/rxt/transcripts/662376-q2-2026/), [July 9 strategic update](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/ex991-pressrelease.htm).*
-
-## 3. AMD: the most quantifiable growth opportunity
+## 4. AMD: the most quantifiable growth opportunity
 
 The definitive AMD agreement provides a framework for a staged enterprise AI compute deployment, focused particularly on inference, regulated enterprises and sovereign workloads.
 
@@ -71,9 +57,7 @@ At an illustrative 75% debt-funded proportion, $1.125bn of spending could imply 
 
 Management expects the new AI vector to contribute mainly from 2027 onward. I will not credit the full 30 MW economics until deployments are operating, contracted and producing acceptable cash returns.
 
-*Sources: [June AMD agreement and investor presentation](https://ir.rackspace.com/news-and-events/events-and-presentations), [July 9 strategy and economics](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/ex991-pressrelease.htm), [Q2 earnings call](https://stockanalysis.com/stocks/rxt/transcripts/662376-q2-2026/).*
-
-## 4. Palantir, NVIDIA and the full-stack strategy
+## 5. Palantir, NVIDIA and the full-stack strategy
 
 Rackspace's operating proposition is to integrate and run enterprise AI in production for clients that care about data residency, compliance, uptime, security and governance. A hyperscaler may sell compute; Palantir supplies governed data/AI software; AMD or NVIDIA supply accelerated hardware; **Rackspace aims to integrate, operate and remain accountable for the result**.
 
@@ -84,19 +68,21 @@ Rackspace's operating proposition is to integrate and run enterprise AI in produ
 
 **Competitive risk:** AWS, Azure, Google, specialist neoclouds, systems integrators and other data-center operators can compete aggressively. Rackspace's credible differentiation is existing regulated-client relationships plus managed, full-stack accountability; exclusivity or a sustainable moat remains unproven.
 
-*Sources: [Palantir operating framework](https://www.rackspace.com/newsroom/rackspace-palantir-launch-operating-framework-regulated-enterprises), [company press releases](https://ir.rackspace.com/news-and-events/press-releases/), [Q1 and Q2 earnings calls](https://stockanalysis.com/stocks/rxt/transcripts/).*
+## 6. RPO and the demand question
 
-## 5. RPO and the demand question
+**Remaining performance obligations (RPO)** rose from **$575.5m in Q1 2026** to **$809.1m in Q2 2026**, an increase of **$233.6m (+40.6%)**.
 
-As of June 30, 2026, **remaining performance obligations (RPO) reached $809.1m**, compared with approximately $575.5m at the prior quarter-end (**~+40.6% QoQ**). About **23%** of the June amount was expected to be recognized during the rest of 2026, with the remaining **~$623m** beyond 2026.
+```text
+RPO ($ million)
 
-This is encouraging evidence of fixed-term contracted revenue. **However, RPO is not synonymous with AI backlog**: it covers various contracts, includes recognition/timing effects and excludes certain variable, usage-based consideration. We cannot attribute the entire increase to AMD or Palantir or infer a 50% EBITDA margin from it. The Q2 SEC filing also warns that implementation of the EU Data Act could reduce disclosed RPO as contract terms are changed.
+Q1 2026 | ████████████████████          575.5
+Q2 2026 | ████████████████████████████  809.1
+          +40.6% quarter over quarter
+```
 
-**Needed to validate the bull case:** contracted MW, take-or-pay terms, utilization, annual recurring economics, economics by raw compute vs managed inference, and eventual cash conversion.
+This is a positive sign of future contracted revenue, but **RPO is not the same as AI backlog**: it includes commitments across the business, not only AMD or Palantir, and does not reveal the margins on those contracts. The key is how much converts into recurring, profitable revenue and cash flow.
 
-*Source: [Q2 2026 Form 10-Q, Remaining Performance Obligations](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000093/rxt-20260630.htm).*
-
-## 6. Debt, liquidity, FCF and the 2028 refinancing wall
+## 7. Debt, liquidity, FCF and the 2028 refinancing wall
 
 At June 30, 2026:
 
@@ -115,11 +101,7 @@ Large existing debt facilities and notes mature in **2028**. Rackspace repurchas
 
 The $250m at-the-market (ATM) equity facility could protect liquidity or finance GPU-related spending but can materially dilute the stock. Hardware-backed funding may limit immediate cash use, but it still creates real financing obligations. A lender-financed asset is not the same as an asset paid for by internally generated FCF.
 
-**My FCF test:** CFO minus cash capex, followed separately by a reconciliation for hardware financed through leases, equipment-backed borrowing, vendor financing, debt principal amortization and future replacement capex. Company-reported adjusted or headline FCF must not be treated as cash freely distributable to common equity without these checks.
-
-*Source: [Rackspace Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000093/rxt-20260630.htm).*
-
-## 7. Dilution: share-count bridge underlying my valuation
+## 8. Dilution: share-count bridge underlying my valuation
 
 I deliberately stress-test the equity valuation using **~356.5m shares (rounded to 357m)** rather than merely the weighted-average shares in the earnings guidance.
 
@@ -135,8 +117,6 @@ I deliberately stress-test the equity valuation using **~356.5m shares (rounded 
 | Shares from fully placing assumed remaining ATM | **+~76.4m** |
 | **Modeled fully diluted scenario shares** | **~356.5m (~357m)** |
 
-Calculation: **251.7 + 2.2 + 1.0 + 25.2 + 246 / 3.22 ≈ 356.5 million shares**.
-
 Important qualifications:
 
 - The **251.7m** base is reported in the Q2 filing; the **2.2m Palantir issuance** and **1.0m ATM issuance through August 7** are also documented. This does **not** certify that exactly 254.9m remained outstanding as of October 15: additional equity movements after August 7 must be checked in later SEC filings.
@@ -145,11 +125,9 @@ Important qualifications:
 - The **$3.22** price is a **September 14 reference assumed for all future issuance**, not an observed or promised ATM execution price. Issuing at a lower price increases dilution.
 - I am not separately counting the reserve for possible future equity-plan grants on top of the 25.2m modeled potential shares, to avoid blindly double-counting overlapping securities.
 
-*Source: [Q2 2026 Form 10-Q, share-count note, subsequent events and equity program](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000093/rxt-20260630.htm); [ATM Form 8-K](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/rxt-20260702.htm).*
+## 9. My EV/EBITDA valuation scenarios
 
-## 8. My EV/EBITDA valuation scenarios
-
-The valuation grid mirrors my requested 8x/10x sensitivity and deliberately uses **$2,700m net debt** and **~356.5m modeled shares** throughout.
+The scenario table uses **$2,700m net debt** and **~356.5m modeled shares** throughout.
 
 **Formula:** Implied common equity value = max(0, future EBITDA × EV/EBITDA multiple − $2,700m). Implied share price = equity value / ~356.5m shares.
 
@@ -166,40 +144,9 @@ The valuation grid mirrors my requested 8x/10x sensitivity and deliberately uses
 
 The formula uses **356.5m**, the unrounded share-count bridge, so the prices match the illustrated two-decimal sensitivities rather than calculating from a rounded 357m. Values near zero are the residual equity value under the stated EV assumption, **not a prediction of the traded stock reaching precisely zero**.
 
-**Interpretation against $3.145 (Oct 14):**
-- At **$500m EBITDA**, 8x gives **$3.65** (~+16%), and 10x gives **$6.45** (~+105%).
-- At **$800m EBITDA**, 8x gives **$10.38** (~+230%), and 10x gives **$14.87** (~+373%).
-- At EBITDA of only **$275–300m**, the modeled equity residual is negligible or near zero: today's underlying debt makes the business performance threshold critical.
-- At fixed $2.7bn net debt, **each additional $357m of net debt lowers the modeled value by ~$1 per share**. Likewise, additional share issuance beyond 356.5m reduces the price per share at a fixed equity value.
+**Valuation assumptions:** The model holds **$2,700m net debt** and **~356.5m modeled diluted shares** constant across scenarios. Net debt **could rise** with AI infrastructure financing. These are illustrative future EBITDA values and 8x/10x sensitivity multiples, **not guaranteed outcomes or a single price target**.
 
-**Caveats:** The EBITDA rows are illustrative future/normalized run rates, not FY2026 earnings guidance or guaranteed FY2028 results. Eight to ten times EBITDA is a *chosen scenario multiple*, not automatically deserved by a still-leveraged legacy managed-cloud business. A distressed refinancing or poor FCF conversion could merit lower multiples or a restructuring outcome. The table is a static sensitivity with constant net debt; a more complete forecast needs changing cash, debt and shares by year. **The 8x/10x outputs are not a single target price.**
-
-See [Model Snapshot](./MODEL_SNAPSHOT.md) for the calculations and leverage sensitivities.
-
-## 9. Voss Capital's Q2 2026 thesis versus my assessment
-
-[Voss Capital's Q2 2026 letter](https://www.vosscap.com/quarterly-letters) presented RXT as a high-leverage *stub-equity* turnaround with an approximately $2.7bn net-debt load and a relatively small equity capitalization. Voss highlighted idle data-center infrastructure, regulated/sovereign AI, Palantir, AMD and a sharp increase in RPO. Its scenario argued that adjusted EBITDA could recover toward **$500–800m** over approximately **18–24 months**; it also recognized near-term liquidity risk.
-
-**Where I agree:** Large embedded fixed costs and a substantially improved use of existing assets could create outsized incremental margins and a meaningful equity re-rating. The AMD deployment framework makes the upside more tangible than AI branding alone.
-
-**Where I differ:**
-1. I use **~356.5m potential diluted shares**, not merely the shares currently outstanding, because ATM financing and potential awards meaningfully change shareholder economics.
-2. I give no automatic FCF credit for all management-advertised AI EBITDA: GPUs require upfront funding and eventual replacement, and financing may raise debt.
-3. **$800m of normalized EBITDA is ambitious**, not my default. FY2026 company guidance centers around ~$290m. Adding ~$225–300m illustrative AI EBITDA at full 30-MW operation gives ~$515–590m *before* other legacy-business changes, possible overlap, reinvestment and delivery risks. To reach $800m still requires an additional ~$210–285m beyond that simple bridge.
-4. Apollo's controlling ownership and estimated historical cost basis may encourage a successful turnaround but **do not guarantee alignment with minority equity during a capital restructuring**.
-
-The opportunity is real but should be priced like an event-driven, financing-dependent recovery, not a predictable compounder.
-
-## 10. Catalysts, risks and falsification framework
-
-**Positive catalysts (2026–2028):**
-- First AMD deployment completed, with the economics and contracting disclosed.
-- Incremental MW contracted and installed toward 15 MW (2027) and 30 MW (2028).
-- Durable **underlying** Private Cloud growth, excluding lease-accounting pull-forwards.
-- Palantir/AI customer conversions demonstrated in recurring revenue and margins.
-- Positive H2 2026 free cash flow, then improving recurring cash generation.
-- Deleveraging, better liquidity and an early refinancing solution for the 2028 maturities.
-- Greater transparency on project-level financing and return on invested capital.
+## 10. Risks and quarterly monitoring
 
 **Thesis-breaking or materially negative developments:**
 - Delays in AMD deployment, inability to obtain equipment financing, or weak utilization.
@@ -219,18 +166,4 @@ The opportunity is real but should be priced like an event-driven, financing-dep
 
 **Decision rule:** I would increase conviction only when contracted capacity, cash conversion and capital structure improve together. A stock-price collapse by itself is not a buy signal; another impressive partnership announcement by itself is not proof of value creation.
 
-## 12. Primary research sources
-
-- [Q1 2026 results — Rackspace IR](https://ir.rackspace.com/news-releases/news-release-details/rackspace-technology-reports-first-quarter-2026-results)
-- [Q1 2026 earnings-call transcript](https://stockanalysis.com/stocks/rxt/transcripts/571889-q1-2026/)
-- [June 16 AMD investor call and materials — Rackspace IR](https://ir.rackspace.com/news-and-events/events-and-presentations)
-- [July 9 2026 strategic update — SEC exhibit](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/ex991-pressrelease.htm)
-- [Q2 2026 results — Rackspace IR](https://ir.rackspace.com/news-releases/news-release-details/rackspace-technology-reports-second-quarter-2026-results)
-- [Q2 2026 earnings-call transcript](https://stockanalysis.com/stocks/rxt/transcripts/662376-q2-2026/)
-- [Q2 2026 Form 10-Q — SEC](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000093/rxt-20260630.htm)
-- [July 2026 ATM program — SEC Form 8-K](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/rxt-20260702.htm)
-- [Palantir operating framework — Rackspace](https://www.rackspace.com/newsroom/rackspace-palantir-launch-operating-framework-regulated-enterprises)
-- [Voss Capital quarterly letters — Q2 2026](https://www.vosscap.com/quarterly-letters)
-- [Historical price reference — October 14, 2026](https://stockanalysis.com/stocks/rxt/history/)
-
-> **Disclosure:** Independent research prepared from company disclosures, SEC filings, investor calls and the third-party Voss Capital investment letter as of October 15, 2026. All valuation scenarios are conditional, illustrative and subject to substantial uncertainty. Not investment advice.
+> **Disclosure:** Independent investment research as of October 15, 2026. Valuation scenarios are illustrative, uncertain and not investment advice.

@@ -166,7 +166,6 @@ I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few fast
 - Hardware obsolescence, intense compute-price competition or regulatory/security failures.
 - Legal exposure: the Q2 10-Q disclosed a shareholder class-action complaint concerning certain AI and business statements; allegations are contested and no adverse finding should be presumed.
 
-**Quarterly monitoring checklist:** contracted vs deployed MW; annualized revenue per MW; gross and EBITDA margins on new deployments; AI share of RPO and RPO conversion; Private Cloud recurring organic growth; EBITDA-to-CFO bridge; cash-funded and lease-/debt-financed capex; debt principal, net debt and maturity extensions; current shares and cumulative ATM issuance.
 
 ## 11. Investment plan — long-dated call options
 

@@ -1,4 +1,4 @@
-# Rackspace Technology (RXT) — Leveraged Enterprise AI Infrastructure Turnaround
+# Rackspace Technology (RXT) - Leveraged Enterprise AI Infrastructure Turnaround
 
 **Case type:** Special situation / leveraged turnaround / enterprise AI infrastructure  
 **Status:** Speculative watchlist / active research (no position disclosed)  
@@ -57,7 +57,7 @@ The definitive AMD agreement provides a framework for a staged enterprise AI com
 
 ## 5. Palantir, NVIDIA and the full-stack strategy
 
-Rackspace wants to **integrate and manage enterprise AI**, combining computing infrastructure, software, security, data governance and ongoing operations—especially for companies handling sensitive information.
+Rackspace wants to **integrate and manage enterprise AI**, combining computing infrastructure, software, security, data governance and ongoing operations - especially for companies handling sensitive information.
 
 - **Palantir:** Rackspace is a preferred deployment and operations partner for certain regulated/sovereign customers, with **400+ Palantir certifications** reported in July and an early joint deployment completed in 41 days.
 - **AMD and NVIDIA:** AMD supports the planned 30 MW program; joining the **NVIDIA Cloud Partner Program** expands hardware options but adds no equivalent disclosed MW commitment.
@@ -101,9 +101,9 @@ The increase is encouraging for future revenue visibility. In Q2, Rackspace also
 
 | Final maturity | Debt principal outstanding |
 |---|---:|
-| February 2028 — term loan and secured notes | $103m |
-| May 2028 — FLSO / FLFO loans, revolving facility and FLSO notes | $2,379m |
-| December 2028 — senior notes | $89m |
+| February 2028 - term loan and secured notes | $103m |
+| May 2028 - FLSO / FLFO loans, revolving facility and FLSO notes | $2,379m |
+| December 2028 - senior notes | $89m |
 | **Total** | **$2,571m** |
 
 **Improvement in debt market prices:** The following approximate secondary-market valuations, expressed as a percentage of face value, show a substantial recovery from Q1 to Q2 2026.
@@ -165,7 +165,7 @@ I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few fast
 - **AI economics and competition.** Lower GPU utilization, weaker pricing, accelerated hardware obsolescence or pressure from hyperscalers and other AI infrastructure providers could reduce investment returns.
 - **Security, regulation and legal exposure.** Operating sensitive enterprise workloads creates cybersecurity, compliance and contractual risks; existing litigation adds uncertainty.
 
-## 11. Investment plan — long-dated call options
+## 11. Investment plan - long-dated call options
 
 **I intend to start building a speculative position when RXT trades around $3 per share, using out-of-the-money (OTM) LEAPS calls.** Given the considerable downside risk and the potential upside if the turnaround succeeds, I consider this an attractive asymmetric risk/reward opportunity, with a limited initial allocation.
 

@@ -5,7 +5,6 @@
 **Planned position:** Long-dated call options (LEAPS), approximately 2 years to expiration  
 **Preferred entry:** Around $3 per share  
 **Reference price:** **$3.15**, October 14, 2026 closing price  
-**Valuation horizon:** 2028–2029 normalized/run-rate EBITDA  
 **Last updated:** October 15, 2026
 
 ## 1. Business overview
@@ -14,19 +13,19 @@ Rackspace Technology (NASDAQ: RXT) provides managed cloud infrastructure, hostin
 
 The company earns revenue by hosting, managing, securing and modernizing customers' technology environments. Its footprint includes data-center capacity, power, cooling, infrastructure specialists and longstanding relationships with regulated organizations in sectors such as healthcare, financial services and government.
 
-Historically, low-margin cloud infrastructure resale, competition from hyperscalers, high fixed costs and substantial debt have weighed on performance. Management is repositioning Rackspace around **Enterprise AI, private and sovereign cloud, and managed inference**, aiming to provide not just infrastructure but the integration and ongoing operation of AI workloads.
+Historically, low-margin cloud infrastructure resale, hyperscaler competition, high fixed costs and substantial debt have weighed on performance. Management is **shifting its focus toward Private Cloud, sovereign cloud and Enterprise AI** as more companies seek control over where sensitive data is stored, processed and accessed. Rackspace aims to help these clients deploy and operate AI securely, while reducing its exposure to lower-margin Public Cloud resale. This strategy builds on its experience with regulated and mission-critical workloads.
 
 ## 2. Investment thesis and potential catalysts
 
 1. **Existing data centers and available power.** Rackspace intends to repurpose capacity already in its infrastructure footprint for higher-value AI workloads. Greater utilization could spread fixed costs over more revenue and improve returns without building all its facilities from scratch.
 2. **AMD's planned 30 MW AI deployment.** The roadmap calls for about 2 MW by the end of 2026, 15 MW cumulative in 2027 and 30 MW cumulative in 2028. Management estimates **$450–600m of annual revenue** and **$225–300m+ of adjusted EBITDA** at full deployment and the targeted economics. Executing and contracting those MW is the principal measurable growth catalyst.
-3. **Palantir and higher-value enterprise AI services.** Rackspace can combine Palantir software, AMD/NVIDIA compute and its own infrastructure-management capabilities to move from low-margin resale toward secure, regulated, end-to-end AI deployments and inference.
+3. **Palantir alliance and enterprise AI services.** Rackspace is a **preferred deployment and operations partner for Palantir** in selected regulated and sovereign environments. By combining Palantir's AIP/Foundry software with AMD/NVIDIA computing and Rackspace's managed infrastructure, it aims to deliver secure, end-to-end AI solutions rather than low-margin cloud resale.
 4. **Cost savings and exiting unattractive revenue.** Management plans **$75–85m in annualized workforce-related savings**, although a significant part will be reinvested. Leaving low-margin hosting/colocation and Public Cloud infrastructure resale could improve the revenue mix over time.
-5. **Improving commercial visibility.** Rising RPO and expanding relationships with regulated clients suggest demand for managed, long-term infrastructure services. The next test is whether AI-specific contracted capacity becomes profitable revenue and cash flow.
+5. **Contracted revenue growth.** RPO reached **$809m in Q2 2026**, up **40.6% QoQ and 57.1% YoY**, improving revenue visibility. Its contribution to AI earnings remains to be demonstrated.
 6. **Operating leverage and EBITDA recovery.** The company guides to about $290m adjusted EBITDA in 2026, while the planned AI buildout creates the possibility of a much higher future run rate. A sustained recovery could materially lift equity value because debt accounts for a large share of enterprise value.
 7. **High financial leverage and asymmetric equity returns.** Rackspace's substantial debt can magnify gains for shareholders if EBITDA rises and the business is refinanced successfully, but it also amplifies downside risk if the turnaround disappoints. Debt financing for GPUs, dilution and the 2028 maturities remain critical risks.
 8. **Potential sale of Public Cloud.** A hypothetical divestiture of the Public Cloud segment could allow Rackspace to concentrate resources on higher-value Private Cloud and Enterprise AI while using sale proceeds to reduce debt. This is an **unconfirmed strategic possibility, not an announced transaction**; the proceeds, lost earnings and transaction terms would determine whether it creates value.
-9. **Apollo's ownership and potential incentives.** Apollo remains a controlling shareholder, with a reported historical equity entry cost above the current share price. Recovering its equity investment could incentivize Apollo to support a higher long-term valuation. **This alignment is not guaranteed:** Apollo's interests in the broader capital structure, including debt, may differ from those of minority shareholders in a restructuring.
+9. **Apollo ownership.** Apollo controls **approximately 51% of Rackspace** (June 2026 filing), with a reported historical entry price above today's share price. This may incentivize a recovery, although its creditor interests could conflict with minority shareholders.
 
 ## 3. Q1 and Q2 2026 results
 
@@ -51,26 +50,20 @@ The definitive AMD agreement provides a framework for a staged enterprise AI com
 | Adjusted EBITDA margin on AI deployments | 50%+ (target) |
 | Implied annual adjusted EBITDA at full capacity | about $225–300m+ |
 
-**Potential benefit:** Existing sites, electricity access, cooling and operating relationships could let Rackspace commercialize compute capacity faster than an entirely greenfield build. Selling higher-value, governed services on top of compute would be preferable to remaining a low-value bare-metal supplier.
+**The opportunity:** Rackspace plans to use existing data centers, power and cooling to deploy AMD hardware and sell managed AI inference services. The goal is to monetize available infrastructure without constructing entirely new facilities.
 
-**What is not yet proven:** The 30 MW is a **target, not 30 MW already built or fully contracted**. Deployment approvals, customer commitments, AMD-related offtake conditions, hardware deliveries and funding remain important dependencies. AMD's participation does not amount to an unconditional commitment to buy every planned MW. Rackspace has identified minimum revenue arrangements for the first approved deployment, but this should not be extrapolated to the whole program.
+**The risk:** The 30 MW is a deployment **target, not guaranteed contracted revenue**. Each phase depends on customers, approvals, hardware and financing. The initial 2 MW requires about **$75m of CapEx**; scaling the same cost per MW to 30 MW would suggest **about $1.1bn**, although this is **an illustrative extrapolation, not company guidance**. Debt financing and hardware replacement costs could absorb much of the potential EBITDA. Material AI contributions are expected mainly from 2027 onward.
 
-The first about 2 MW cost about **$37.5m per MW**. Extrapolating that initial cost mechanically to 30 MW would imply **about $1.125bn** in cumulative capex. **That is my sensitivity exercise, not management's 30-MW capex guidance**: future units may have a different CPU/GPU mix, generation and price.
-
-At an illustrative 75% debt-funded proportion, $1.125bn of spending could imply about $844m of additional gross borrowing; at 9% financing cost, that would add about $76m of annual interest before principal repayments. These hypothetical assumptions show why **incremental adjusted EBITDA is not incremental FCF**. Hardware depreciation/renewal and asset-backed credit obligations also matter.
-
-Management expects the new AI vector to contribute mainly from 2027 onward. I will not credit the full 30 MW economics until deployments are operating, contracted and producing acceptable cash returns.
 
 ## 5. Palantir, NVIDIA and the full-stack strategy
 
-Rackspace's operating proposition is to integrate and run enterprise AI in production for clients that care about data residency, compliance, uptime, security and governance. A hyperscaler may sell compute; Palantir supplies governed data/AI software; AMD or NVIDIA supply accelerated hardware; **Rackspace aims to integrate, operate and remain accountable for the result**.
+Rackspace wants to **integrate and manage enterprise AI**, combining computing infrastructure, software, security, data governance and ongoing operations—especially for companies handling sensitive information.
 
-- **Palantir:** The July operating framework names Rackspace a preferred deployment and operations partner in selected regulated/sovereign contexts. The Q1 call described an early joint implementation completed in 41 days; July management disclosures referenced 400+ employee certifications. Q2 management described a small initial implementation followed by a potential expansion at the customer. Those are commercial signals, **not a disclosed EBITDA contribution**.
-- **AMD:** A hardware/computing and joint commercial relationship underpinning the 30-MW planned capacity.
-- **NVIDIA:** The September 2026 announcement of Rackspace's participation in the NVIDIA Cloud Partner Program and its Blackwell-based offering broadens hardware options. **It does not establish another AMD-sized contractual backlog**.
-- **Rubrik / VMware / Uniphore / Dell:** Components of the broader resilient, virtualized and AI-enabled enterprise stack; partnership branding alone should not be valued as earnings.
+- **Palantir:** Rackspace is a preferred deployment and operations partner for certain regulated/sovereign customers, with **400+ Palantir certifications** reported in July and an early joint deployment completed in 41 days.
+- **AMD and NVIDIA:** AMD supports the planned 30 MW program; joining the **NVIDIA Cloud Partner Program** expands hardware options but adds no equivalent disclosed MW commitment.
+- **Rubrik, VMware, Uniphore and Dell:** Partners provide data protection, virtualization, applications and hardware to support the full-stack offering.
 
-**Competitive risk:** AWS, Azure, Google, specialist neoclouds, systems integrators and other data-center operators can compete aggressively. Rackspace's credible differentiation is existing regulated-client relationships plus managed, full-stack accountability; exclusivity or a sustainable moat remains unproven.
+The strategy could create more recurring, higher-value services, but **partner agreements are not proof of revenue or margins**.
 
 ## 6. RPO and the demand question
 
@@ -92,8 +85,6 @@ The increase is encouraging for future revenue visibility. In Q2, Rackspace also
 - **US federal defense (Public Cloud):** Selected to develop multicloud management capabilities, including FinOps automation and self-service tools.
 - **Major US airline (Public Cloud):** Expanded cloud-modernization work and AI-assisted software development.
 - **UK financial institution (Public Cloud):** Expanded into end-to-end managed services and a multiyear cloud-modernization and AI roadmap.
-
-These agreements illustrate demand from large enterprise and regulated customers. **RPO is not exclusively AI backlog**, and the disclosed contracts do not reveal how much of the increase came from AI or the margins they will generate.
 
 ## 7. Debt, liquidity and 2028 maturities
 

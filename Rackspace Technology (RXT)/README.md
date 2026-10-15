@@ -135,13 +135,7 @@ I deliberately stress-test the equity valuation using **about 356.5m shares (rou
 | Shares from fully placing assumed remaining ATM | **about +76.4m** |
 | **Modeled fully diluted scenario shares** | **about 356.5m (about 357m)** |
 
-Important qualifications:
-
-- The **251.7m** base is reported in the Q2 filing; the **2.2m Palantir issuance** and **1.0m ATM issuance through August 7** are also documented. This does **not** certify that exactly 254.9m remained outstanding as of October 15: additional equity movements after August 7 must be checked in later SEC filings.
-- The **25.2m** are potential common-share equivalents omitted from GAAP diluted EPS because they were anti-dilutive in the loss-making period. They include potentially issuable securities under compensation/other contingent arrangements, **not necessarily 25.2m vested shares that are certain to be issued**. Adding all of them is a stress-test assumption, not a prediction of the final GAAP diluted count.
-- The **$246m** balance reflects the original about $250m ATM less the roughly $4m raised through August 7. The actual remaining capacity or securities issued later may differ; the original filed proceeds were $4.1m **net** of fees while the ATM limit is **gross sale value**. The rounding does not change the illustrative conclusion.
-- The **$3.22** price is a **September 14 reference assumed for all future issuance**, not an observed or promised ATM execution price. Issuing at a lower price increases dilution.
-- I am not separately counting the reserve for possible future equity-plan grants on top of the 25.2m modeled potential shares, to avoid blindly double-counting overlapping securities.
+**Dilution note:** The 25.2m potential shares are not guaranteed to be issued. The $246m ATM at $3.22 is an illustrative assumption; actual dilution may differ.
 
 ## 9. My EV/EBITDA valuation scenarios
 

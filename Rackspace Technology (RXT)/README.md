@@ -156,22 +156,18 @@ I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few fast
 
 ## 10. Risks
 
-**Thesis-breaking or materially negative developments:**
-- Delays in AMD deployment, inability to obtain equipment financing, or weak utilization.
-- Commercial contracts signed at materially worse economics than the $15–20m/MW and 50%+ margin assumptions.
-- New debt that grows faster than sustainable operating profits.
-- Dilution materially beyond the 356.5m stress-test, especially at depressed prices.
-- Private Cloud margin deterioration and Public Cloud exits not offset by new profits.
-- Guidance FCF shortfall, sustained liquidity pressure, covenant stress or unfavorable 2028 refinancing.
-- Hardware obsolescence, intense compute-price competition or regulatory/security failures.
-- Legal exposure: the Q2 10-Q disclosed a shareholder class-action complaint concerning certain AI and business statements; allegations are contested and no adverse finding should be presumed.
-
+- **Very high debt and 2028 maturities.** The capital structure leaves little margin for error, and the concentration of debt maturities in 2028 creates substantial refinancing and restructuring risk.
+- **AMD deployment delays.** Hardware supply, approvals or construction delays could postpone the expected AI revenue and EBITDA ramp.
+- **Financing the AMD agreement.** Rackspace may struggle to secure attractive equipment-backed financing for the planned GPU deployments, preventing or slowing expansion.
+- **More borrowing and equity dilution.** New funding requirements could increase net debt or lead to additional share issuance at unfavorable prices, reducing shareholder upside.
+- **Weak cash generation.** Limited FCF and pressure on liquidity could undermine the turnaround even if adjusted EBITDA improves.
+- **Execution risk in Private Cloud and higher-value services.** Shifting away from lower-margin Public Cloud resale toward higher-value, services-led Private Cloud and managed AI work may be slower, more costly or less profitable than expected.
+- **AI economics and competition.** Lower GPU utilization, weaker pricing, accelerated hardware obsolescence or pressure from hyperscalers and other AI infrastructure providers could reduce investment returns.
+- **Security, regulation and legal exposure.** Operating sensitive enterprise workloads creates cybersecurity, compliance and contractual risks; existing litigation adds uncertainty.
 
 ## 11. Investment plan — long-dated call options
 
-**I intend to start building a small speculative position around $3 per share, using long-dated call options (LEAPS) with approximately two years to expiration.** Given Rackspace's high leverage, the risk of a substantial fall in the shares and the potential upside if the turnaround succeeds, I consider the risk/reward profile attractive for a carefully limited options position. Entry is conditional on option availability, strike selection and premium, rather than the share price alone.
-
-Buying calls caps the direct loss on each option at the **premium paid**, but it is entirely possible to lose **100% of that premium**. Time decay, implied volatility, strike price and the timing of the 2028 refinancing are important. I will limit the capital committed and reassess the thesis as AMD deployments, cash flow and refinancing progress become clearer.
+**I intend to start building a speculative position when RXT trades around $3 per share, using out-of-the-money (OTM) LEAPS calls.** I plan to choose the **longest expiration available through Interactive Brokers**, preferably with **$4 or $5 strike prices**. Given the considerable downside risk and the potential upside if the turnaround succeeds, I consider this an attractive asymmetric risk/reward opportunity, with a limited initial allocation.
 
 > **Disclosure:** Independent investment research as of October 15, 2026. Valuation scenarios are illustrative, uncertain and not investment advice.
 

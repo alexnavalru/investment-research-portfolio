@@ -2,7 +2,7 @@
 
 **Case type:** Special situation / leveraged turnaround / enterprise AI infrastructure  
 **Status:** Speculative watchlist / active research (no position disclosed)  
-**Reference price:** **$3.145/share**, October 14, 2026 closing price  
+**Reference price:** **$3.15**, October 14, 2026 closing price  
 **Valuation horizon:** 2028–2029 normalized/run-rate EBITDA  
 **Last updated:** October 15, 2026
 
@@ -95,7 +95,7 @@ At June 30, 2026:
 | Revolver drawn | 260.0 |
 | Total liquidity (cash + available credit) | 202.0 |
 
-**Valuation convention:** I use **$2,700m of net debt** for the scenario table below, as a rounded reference near the June 30 *carrying-value* debt less cash. This is not the same as subtracting contractual debt principal, fair market debt value or an all-in lease-adjusted enterprise claim. It is a simplifying, somewhat conservative equity-valuation convention. **Net debt can increase** substantially if equipment deployment uses incremental borrowing or operating cash flow disappoints. It could also decrease if ATM cash proceeds are retained or debt is repaid; the model does not assume that benefit automatically.
+**Valuation convention:** I use **$2.7bn of net debt** for the scenario table below, as a rounded reference near the June 30 *carrying-value* debt less cash. This is not the same as subtracting contractual debt principal, fair market debt value or an all-in lease-adjusted enterprise claim. It is a simplifying, somewhat conservative equity-valuation convention. **Net debt can increase** substantially if equipment deployment uses incremental borrowing or operating cash flow disappoints. It could also decrease if ATM cash proceeds are retained or debt is repaid; the model does not assume that benefit automatically.
 
 Large existing debt facilities and notes mature in **2028**. Rackspace repurchased some notes at a discount in H1, but increased its revolving borrowing; total contractual principal was actually higher in June than at December 2025. All relevant covenants were reported as met at Q2; compliance today does not ensure favorable refinancing tomorrow.
 
@@ -127,7 +127,7 @@ Important qualifications:
 
 ## 9. My EV/EBITDA valuation scenarios
 
-The scenario table uses **$2,700m net debt** and **~356.5m modeled shares** throughout.
+The scenario table uses **$2.7bn net debt** and **~357m modeled diluted shares** throughout.
 
 **Formula:** Implied common equity value = max(0, future EBITDA × EV/EBITDA multiple − $2,700m). Implied share price = equity value / ~356.5m shares.
 
@@ -144,7 +144,7 @@ The scenario table uses **$2,700m net debt** and **~356.5m modeled shares** thro
 
 The formula uses **356.5m**, the unrounded share-count bridge, so the prices match the illustrated two-decimal sensitivities rather than calculating from a rounded 357m. Values near zero are the residual equity value under the stated EV assumption, **not a prediction of the traded stock reaching precisely zero**.
 
-**Valuation assumptions:** The model holds **$2,700m net debt** and **~356.5m modeled diluted shares** constant across scenarios. Net debt **could rise** with AI infrastructure financing. These are illustrative future EBITDA values and 8x/10x sensitivity multiples, **not guaranteed outcomes or a single price target**.
+**Valuation assumptions:** The model holds **$2.7bn net debt** and **~357m modeled diluted shares** constant across scenarios. Net debt **could rise** with AI infrastructure financing. These are illustrative future EBITDA values and 8x/10x sensitivity multiples, **not guaranteed outcomes or a single price target**.
 
 ## 10. Risks and quarterly monitoring
 

@@ -154,8 +154,6 @@ The scenario table uses **$2.7bn net debt** and **about 357m modeled diluted sha
 
 I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few faster-growing AI infrastructure businesses are sometimes valued at 20x–30x, but their fundamentals and risks differ significantly.
 
-**Valuation assumptions:** The model holds **$2.7bn net debt** and **about 357m modeled diluted shares** constant across scenarios. Net debt **could rise** with AI infrastructure financing. These are illustrative future EBITDA values and 8x/10x sensitivity multiples, **not guaranteed outcomes or a single price target**.
-
 ## 10. Risks and quarterly monitoring
 
 **Thesis-breaking or materially negative developments:**

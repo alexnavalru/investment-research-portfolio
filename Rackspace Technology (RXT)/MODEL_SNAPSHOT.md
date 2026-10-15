@@ -4,7 +4,6 @@
 **Reference stock price:** $3.145 (October 14, 2026 close)  
 **Time frame:** illustrative future/run-rate EBITDA toward 2028–2029  
 **Valuation method:** EV/adjusted EBITDA sensitivity with a single static capital-structure assumption  
-**Companion research:** [Full RXT investment thesis](./README.md)
 
 ## Capital structure assumptions
 
@@ -34,8 +33,6 @@ Assumption detail:
 5. The documented subtotal of **254.9m** is reconstructed from identified issuance disclosures, **not a certified total outstanding on October 15**. More recent SEC filing data could supersede it.
 
 **Shares modeled = 251.7 + 2.2 + 1.0 + 25.2 + (246 / 3.22) = 356.4975 million.**
-
-Sources: [Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000093/rxt-20260630.htm), [July ATM program 8-K](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/rxt-20260702.htm).
 
 ## Valuation equation
 
@@ -97,7 +94,5 @@ The company guides to **$285–295m adjusted FY2026 EBITDA**. A purely illustrat
 - Status of refinancing and covenant headroom ahead of the 2028 maturity wall.
 
 > **Methodology warning:** Fixed $2.7bn net debt plus hypothetical completed ATM issuance is intentionally a **simplified and asymmetric sensitivity**: it recognizes potential new shares without automatically reducing debt by potential ATM cash proceeds, because those proceeds may be deployed in GPUs or working capital. Recalculate consistently once real sources and uses of funds are reported.
-
-**Source documents:** [Q2 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000093/rxt-20260630.htm), [July strategy presentation](https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/ex991-pressrelease.htm), [Q2 transcript](https://stockanalysis.com/stocks/rxt/transcripts/662376-q2-2026/), [Voss Capital Q2 2026 letter](https://www.vosscap.com/quarterly-letters).
 
 > Independent analytical sensitivity for educational and professional research; not investment advice.

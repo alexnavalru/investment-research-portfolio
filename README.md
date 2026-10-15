@@ -133,9 +133,9 @@ I prefer to **wait for Q3 results on 29 Oct 2026** before committing: recent U.S
 **Skills demonstrated:** sum-of-the-parts valuation, working capital, strategic reviews, management/incentive analysis, leveraged FCF and deleveraging.
 
 ### 13. [Rackspace Technology (RXT) - Leveraged Enterprise AI Infrastructure Turnaround](./Rackspace%20Technology%20%28RXT%29/README.md)
-**Status:** Speculative watchlist / active research · **Reference:** **$3.145/share** (14 Oct 2026) · **Valuation:** Scenario-dependent, not a single price target
+**Status:** Speculative watchlist / active research · **Reference:** **$3.15** (14 Oct 2026) · **Valuation:** Scenario-dependent, not a single price target
 
-A high-leverage enterprise AI turnaround centered on converting existing underutilized data-center capacity into higher-margin managed compute and inference. The study combines Q1/Q2 2026 filings and earnings calls, AMD's planned 30 MW deployment, Palantir and NVIDIA partnerships, operating cash-flow challenges, and the critical 2028 refinancing risk. The valuation uses **$2.7bn of net debt (which may increase)** and **~356.5m pro forma diluted shares** including modeled completion of the ATM, with 8x/10x EBITDA sensitivities; it distinguishes partnership announcements and illustrative run-rate EBITDA from contracted revenue and distributable cash flow.
+A high-leverage enterprise AI turnaround centered on converting existing underutilized data-center capacity into higher-margin managed compute and inference. The study combines Q1/Q2 2026 filings and earnings calls, AMD's planned 30 MW deployment, Palantir and NVIDIA partnerships, operating cash-flow challenges, and the critical 2028 refinancing risk. The valuation uses **~$2.7bn net debt (which may increase)** and **~357m modeled diluted shares** including modeled completion of the ATM, with 8x/10x EBITDA sensitivities; it distinguishes partnership announcements and illustrative run-rate EBITDA from contracted revenue and distributable cash flow.
 
 **Supporting research:** [RXT Model Snapshot](./Rackspace%20Technology%20%28RXT%29/MODEL_SNAPSHOT.md)
 

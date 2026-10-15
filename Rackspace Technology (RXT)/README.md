@@ -117,7 +117,7 @@ The increase is encouraging for future revenue visibility. In Q2, Rackspace also
 | Secured Notes | 39% | 65% |
 | Senior Notes | 39% | 84% |
 
-The higher debt prices suggest improved creditor expectations, but **they do not mean the company has reduced its debt**. Contractual debt principal actually increased from $2.49bn at year-end 2025 to $2.57bn in Q2 2026, partly as revolving borrowing grew. Debt levels could rise further with AI infrastructure financing.
+The recovery in debt prices suggests the market now sees Rackspace as more financially stable and perceives lower credit risk.
 
 ## 8. Dilution: share-count bridge underlying my valuation
 

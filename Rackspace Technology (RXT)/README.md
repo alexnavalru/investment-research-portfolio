@@ -152,7 +152,7 @@ The scenario table uses **$2.7bn net debt** and **about 357m modeled diluted sha
 | **$800m** | **$6,400m** | **$10.38** | **$8,000m** | **$14.87** |
 | $900m | $7,200m | **$12.62** | $9,000m | **$17.67** |
 
-The formula uses **356.5m**, the unrounded share-count bridge, so the prices match the illustrated two-decimal sensitivities rather than calculating from a rounded 357m. Values near zero are the residual equity value under the stated EV assumption, **not a prediction of the traded stock reaching precisely zero**.
+I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few faster-growing AI infrastructure businesses are sometimes valued at 20x–30x, but their fundamentals and risks differ significantly.
 
 **Valuation assumptions:** The model holds **$2.7bn net debt** and **about 357m modeled diluted shares** constant across scenarios. Net debt **could rise** with AI infrastructure financing. These are illustrative future EBITDA values and 8x/10x sensitivity multiples, **not guaranteed outcomes or a single price target**.
 

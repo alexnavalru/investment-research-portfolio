@@ -13,7 +13,7 @@ Rackspace Technology (NASDAQ: RXT) provides managed cloud infrastructure, hostin
 
 The company earns revenue by hosting, managing, securing and modernizing customers' technology environments. Its footprint includes data-center capacity, power, cooling, infrastructure specialists and longstanding relationships with regulated organizations in sectors such as healthcare, financial services and government.
 
-Historically, low-margin cloud infrastructure resale, hyperscaler competition, high fixed costs and substantial debt have weighed on performance. Management is **shifting its focus toward Private Cloud, sovereign cloud and Enterprise AI** as more companies seek control over where sensitive data is stored, processed and accessed. Rackspace aims to help these clients deploy and operate AI securely, while reducing its exposure to lower-margin Public Cloud resale. This strategy builds on its experience with regulated and mission-critical workloads.
+Historically, low-margin cloud infrastructure resale, hyperscaler competition, high fixed costs and substantial debt have weighed on performance. Management is **shifting its focus toward Private Cloud, sovereign cloud and Enterprise AI** as more companies seek control over where sensitive data is stored, processed and accessed.
 
 ## 2. Investment thesis and potential catalysts
 

@@ -145,7 +145,7 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 | **EV/EBITDA after $350m debt reduction** at 6x / 7x / 8x; EV = market cap ($5.59bn) + net debt ($3.31bn) = ~$8.90bn | **$20.36** | **$25.93** | **$31.50** |
 | **P/FCF** at 8x / 10x / 12x × ($660m/253m) | **$20.87** | **$26.09** | **$31.30** |
 
-**EV/EBITDA valuation method:** the first row uses **$3.66bn Q2 net debt** and the second assumes **$3.31bn net debt after $350m debt reduction**. Both calculate value per share as **(EBITDA × target multiple − net debt) / 253m shares**.
+
 
 ### Valuation by comparable companies
 
@@ -157,9 +157,9 @@ At **$22.10/share × 253m spot shares**, implied equity market cap **~$5.59bn**;
 | **O'Reilly (ORLY)** | Medium | Professional/DIY store network; ~50% DIY sales | 70.80 | 76.62 | 19.3x | 22.3% | 1.5x | +6.0% |
 | **AutoZone (AZO)** | Medium–low | Greater retail/consumer exposure | 60.96 | 69.49 | 16.5x | 22.2% | 2.0x | +1.5% |
 
-**Comparability:** LKQ uses the **$22.10 share price**, **253m shares**, **Q2 net debt of $3.66bn** and **FY2026E EBITDA of $1.41bn**, so EV = **$5.59bn + $3.66bn = $9.25bn**, EV/EBITDA ≈ **6.6x** and net debt/EBITDA ≈ **2.60x**. The **2.35x** year-end leverage estimate in the financial model instead assumes **$3.31bn net debt after paydown**. Other peers are from the supplied snapshot and **not measured on the same date**. The older screenshot had LKQ at ~$8.94bn market cap and ~9.0x EBITDA; these are not used in my current valuation. O'Reilly and AutoZone have significantly higher-margin retail models, so their multiples should not be directly applied to LKQ.
+O'Reilly and AutoZone have significantly higher-margin retail models, so their multiples should not be directly applied to LKQ.
 
-**AAP caveat (*):** AAP is undergoing a turnaround and serves both professional and DIY customers. The apparent **5.9x / 13.7% / 2.1x** in the screenshot should **not be compared as if they were EBITDA-based**. AAP reports **~$1.17bn adjusted EBITDAR** and **2.1x adjusted net debt / adjusted EBITDAR** in Q2 2026; **$6.88bn EV ÷ $1.17bn EBITDAR ≈ 5.9x**, and the 13.7% margin is consistent with EBITDAR, not a verified EBITDA margin. AAP's lease/rent adjustments make it **an imperfect multiple benchmark**.
+**AAP caveat (*):** The **5.9x multiple** and **2.1x leverage** use **adjusted EBITDAR**, while **13.7%** is not a verified EBITDA margin; lease adjustments limit comparability with LKQ.
 
 ### FY2026 sum-of-the-parts (SOTP)
 

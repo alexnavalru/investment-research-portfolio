@@ -10,16 +10,22 @@
 
 Copart operates an online vehicle remarketing platform. Its core business is selling damaged, salvage and total-loss vehicles for insurance companies; complementary sellers include dealers, banks, rental/fleet operators and private owners. It combines online bidding, a global buyer network, physical yards, vehicle pickup, storage, titles and logistics.
 
+**Growth strategy:** Management is focused on three complementary priorities:
+
+1. **International insurance expansion:** grow salvage-auction operations in existing markets and enter new geographies.
+2. **U.S. Whole Car expansion:** auction complete, generally usable used vehicles, not necessarily accident-damaged or declared total losses, for dealers and commercial consignors.
+3. **Technology and client services:** develop inspection, valuation, logistics and digital tools that improve the experience and outcomes for sellers and buyers.
+
+**How ACV fits:** Copart acquired **ACV Auctions on October 16, 2026**. ACV accelerates the **U.S. Whole Car** strategy through its established digital dealer-auction marketplace, dealer relationships and buyer base. Its inspection and valuation technology also supports the **technology and services** pillar, while Copart can contribute its facilities, transportation capabilities and international buyer network. The combined capabilities may create cross-border opportunities, although international expansion of ACV itself is not an announced base-case assumption.
+
 **Two principal revenue types must not be confused:**
 
 - **Service/agency:** Copart typically does not own the vehicle; it earns auction, processing, transportation, storage and related fees. Sale proceeds remitted to the consignor are **not** Copart revenue. This is the high-quality, asset-supported fee model.
 - **Purchased-vehicle/principal:** Copart buys a vehicle and resells it; the gross resale price is recorded as revenue, with a corresponding cost of vehicle sales. Higher gross revenue does not necessarily mean proportionately higher economic profit.
 
-FY2026 **service revenues were $3,969.5m (85.1% of total)** and **vehicle-sale revenues $696.7m (14.9%)**. Pricing/mix and units must therefore be analyzed separately. A higher average selling price can improve auction economics, but gross auction value is not equivalent to reported revenue.
-
 **Why the franchise is hard to replicate:** network effects (more buyers potentially increase seller proceeds; more vehicles attract buyers), 275+ facilities, zoning/permitted land, towing and storage infrastructure, data and bid liquidity, insurer relationships and buyers from over 185 countries. In FY2026, buyers outside the United States bought **38.2% of vehicles sold in U.S. auctions by units**, accounting for **45.7% of the dollars spent**. Both the land network and buyer liquidity are important; describing the company simply as a software marketplace misses a large part of its economics.
 
-**Competitors:** RB Global's IAA is the clearest salvage-auction comparison. ACV, Manheim, OPENLANE and ADESA/Carvana are relevant to *whole-car* wholesale auctions but have materially different operating mixes. Do not compare margins or EV/revenue without adjusting for purchased-vehicle accounting, land intensity and financing services.
+**Competitors:** RB Global's IAA is the clearest salvage-auction comparison. In *whole-car* wholesale auctions, relevant competitors include Manheim, OPENLANE and ADESA/Carvana, whose operating models and economics differ from Copart's traditional salvage business. **ACV Auctions is no longer an independent competitor: Copart acquired it on October 16, 2026.** Do not compare margins or EV/revenue without adjusting for purchased-vehicle accounting, land intensity and financing services.
 
 ## 2. Investment thesis and potential catalysts
 

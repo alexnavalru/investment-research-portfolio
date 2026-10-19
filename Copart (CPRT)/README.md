@@ -2,15 +2,9 @@
 
 **Research date:** October 19, 2026  
 **Status:** Watchlist / active research; position ownership not assumed  
-**Preferred entry price:** **$20.00/share** (not an automatic buy order)  
-**Reference share price:** **$27.87**, October 16, 2026 close (TIKR reference)  
-**Valuation horizon:** FY2028 (fiscal year ending July 31, 2028)  
+**Preferred entry price:** **$20.00/share**  
+**Reference share price:** **$27.87**, October 16, 2026 close  
 **Case type:** Quality compounder / temporary operational setback / acquisition integration  
-**Acquisition status:** ACV Auctions acquired on October 16, 2026  
-
-> **Core view:** Copart operates an attractive, difficult-to-replicate salvage-vehicle auction network with significant cash generation, international buyer liquidity, land/logistics capacity and founder-family ownership. However, FY2026 exposed a real U.S. insurance-volume and cost-per-unit problem, while the $1.9bn ACV purchase brings growth but weaker near-term profit conversion. I want **a $20 entry price**, providing a more attractive margin of safety than the approximately $28 market reference. A low price by itself does **not** override deterioration in the core business.
-
-**Supporting model:** [CPRT — Financial Model & Valuation Snapshot](./MODEL_SNAPSHOT.md).
 
 ## 1. Business overview
 
@@ -238,19 +232,6 @@ The base-case upside from **$27.87** is approximately **-4.2%** over the indicat
 
 **I would reconsider the $20 entry thesis** if U.S. customer losses continue, group EBIT remains structurally below the FY2026 run rate, ACV's adjusted EBITDA never converts into economic cash returns, or the balance-sheet cash is spent on low-return M&A. A falling stock price alone is not a catalyst.
 
-## 10. Primary sources and scope
-
-1. [Copart FY2026 Form 10-K](https://www.sec.gov/Archives/edgar/data/900075/000119312526405731/cprt-20260731.htm), filed September 29, 2026 — audited statements, segments, capital allocation, balance sheet, share count.
-2. [Copart Q4 FY2026 results](https://www.copart.com/content/us/en/press-releases/copart-reports-fourth-quarter-2026-results), September 10, 2026.
-3. [Copart Q4 FY2026 conference call transcript, SEC exhibit](https://www.sec.gov/Archives/edgar/data/1637873/000119312526388383/d138398dex992.htm), September 10, 2026 — management comments on units, cost, international buyers and ACV.
-4. [Copart/ACV acquisition announcement](https://www.copart.com/content/us/en/press-releases/copart-to-acquire-acv), September 10, 2026.
-5. [Acquisition completed: Copart 8-K](https://www.sec.gov/Archives/edgar/data/900075/000119312526423478/d129535d8k.htm), October 16, 2026.
-6. [ACV Q2 2026 results and guidance](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001637873-26-000031/q2-26earningspressrelease.htm), August 10, 2026.
-7. [ACV Schedule 14D-9](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001193125-26-393862/d136775dsc14d9.htm), September 17, 2026 — standalone internal projections for sale analysis, **not official future guidance**.
-8. [Copart FY2025 DEF 14A](https://www.sec.gov/Archives/edgar/data/900075/000119312525249664/d84887ddef14a.htm) — historical insider beneficial ownership, compensation, equity awards and pledging policy.
-9. [ACV tender-offer terms](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001193125-26-393827/d160557dex99a1i.htm) — treatment of unvested ACV RSUs, PSUs and options.
-10. October 16, 2026 $27.87 market-price reference: TIKR terminal snapshot used in this research; **not a live market quote**.
-
-All forecasts, synergy figures, future share counts, goodwill allocation, multiple selections and implied prices are **my illustrative scenario assumptions**, unless explicitly attributed to a cited report. They should be updated after Copart's first post-acquisition quarterly release.
+**Modeling note:** The forecasts, synergy assumptions, future share counts, goodwill allocation, multiples and implied values are illustrative estimates. They should be revised as new post-acquisition financial information becomes available.
 
 > Independent fundamental research for educational and professional purposes; not investment advice.

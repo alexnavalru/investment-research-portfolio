@@ -114,8 +114,6 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 
 ## 6. Historical financials, cash generation and capital allocation
 
-USD millions, except margins, per-share data and diluted shares (in millions). FY ends July 31. **FY2023–FY2026 actual results.**
-
 **Long-term compounding:** Since its **1994 IPO**, Copart's revenue has grown at approximately **18% CAGR** and its FCF (CFO − total CAPEX) at approximately **21% CAGR** through FY2026, illustrating the strength of its historical business model.
 
 | Metric | FY2023 actual | FY2024 actual | FY2025 actual | FY2026 actual |
@@ -191,15 +189,15 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 
 - **Copart organic revenue:** +3.8% FY2027, +5.0% FY2028, versus FY2026's +0.4% total. This assumes some volume/cost stabilization; it is not management guidance.
 - **ACV revenue contribution:** **$741m FY2027** (partial-year) and **$1,053m FY2028** (full fiscal year, blended from standalone calendar projections). ACV generates approximately **81.0% of the modeled incremental group revenue in FY2027**. Headline growth therefore overstates the underlying salvage recovery.
-- **Incremental ACV purchase-price amortization:** **$35m FY2027 / $45m FY2028**; **synergies:** **+$20m / +$80m** EBIT. Both are **independent hypotheses**, not reported purchase-price allocation or promised synergies. New amortization is additional to ACV's historical D&A.
-- **Interest income:** declines from $182m FY2026 to modeled $123m FY2027 after spending on ACV, then improves modestly to $127m FY2028 as the company replenishes cash. Rate assumptions and buyback size matter.
+- **Incremental ACV purchase-price amortization:** **$35m FY2027 / $45m FY2028**; **synergies:** **+$20m / +$80m** EBIT. Both are **independent hypotheses**.
+- **Interest income:** declines from $182m FY2026 to modeled $123m FY2027 after spending on ACV, then improves modestly to $127m FY2028 as the company replenishes cash.
 - **Share count:** FY2026 closed with approximately **926.3m actual shares outstanding**. I use **~927m weighted-average diluted shares in FY2027 and conservatively keep ~927m in FY2028**, allowing for stock options, RSUs and ACV award conversions. FY2027 assumes **$450m of buybacks at $30/share (15m shares)**. Although Copart has the liquidity to repurchase more, **I do not assume any further diluted-share reduction in FY2028**; additional effective buybacks could add value per share.
 
 ## 9. Valuation - why I prefer a $20 entry
 
 I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 
-Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated.
+Copart's **$63.8 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated.
 
 | FY2027E metric | At **$20/share** | At **~$27.8/share** (Oct. 16 reference) |
 |---|---:|---:|
@@ -213,7 +211,7 @@ Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decli
 
 **Interest income and buybacks:** Interest earned on Copart's cash can change considerably depending on whether it holds cash in securities, makes acquisitions or repurchases shares. Both the interest income it generates and the number of shares retired could materially change future EPS versus our FY2027 estimate.
 
-**Valuation discipline:** Copart has historically commanded a premium P/E, and I use **~22x as a conservative historical reference**, not as a verified statistical median for every year since 2000. My preferred valuation ranges are **16–20x P/E and P/FCF** and **10–14x EV/EBITDA**. At approximately **$27.8/share**, Copart already trades at **17.6x FY2027E earnings, 20.5x FY2027E FCF and 11.1x FY2027E EBITDA**. This looks somewhat tight given the current operating headwinds, despite the quality of the business; **$20/share offers a more attractive margin of safety**.
+**Valuation discipline:** I estimate Copart's median historical P/E since the 2000s at **approximately 22x**. My preferred valuation ranges are **16–20x P/E and P/FCF** and **10–14x EV/EBITDA**. At approximately **$27.8/share**, Copart already trades at **17.6x FY2027E earnings, 20.5x FY2027E FCF and 11.1x FY2027E EBITDA**. This looks somewhat tight given the current operating headwinds, despite the quality of the business; **$20/share offers a more attractive margin of safety**.
 
 ## 10. Risks and what would disprove the thesis
 

@@ -29,17 +29,17 @@ Copart operates an online vehicle remarketing platform. Its core business is sel
 2. **Long-run total-loss tailwind:** higher repair severity, car complexity, parts/labor costs and rentals support more vehicles being declared economic total losses over time. The Q4 FY2026 call cited 23.3% industry total-loss frequency in calendar Q2 2026 versus 22.4% the year before. This tailwind is **not the same as near-term claims-volume growth**.
 3. **International opportunity:** Q4 FY2026 international unit sales grew 10.0% and insurance units grew 11.2%; management intends to expand existing operations and enter additional European markets. This offsets some, not all, U.S. weakness.
 4. **Whole-car optionality via ACV:** Copart paid approximately **$1.9bn in cash** for a scaled digital dealer-to-dealer auction network. Cross-platform buyers, franchise-dealer relationships, inspection technology, logistics and Copart's facilities can improve both networks if integrated successfully.
-5. **Substantial balance-sheet resilience:** Copart ended FY2026 with **$4.5bn in liquidity and almost no financial debt**. After acquiring ACV, generating cash and our projected buybacks, I estimate **$3.6bn in total cash and liquid investments at FY2027 year-end** (about **13.8% of a ~$26bn reference market capitalization**). After approximately **$220m financial debt**, net cash would still be **$3.4bn**, demonstrating significant financial strength.
-6. **Strong free-cash-flow generation:** Despite declining U.S. insurance volumes, Copart generated **$1.3bn in FY2026 FCF (CFO less capex)**. Our model estimates roughly **$1.3bn in FY2027 and $1.3bn in FY2028**. Continued FCF can rebuild cash after ACV, fund investments and support share repurchases, potentially increasing per-share value. The estimates remain sensitive to normalized capex, working capital and ACV Capital's financing needs.
-7. **Meaningful buyback capacity:** Copart repurchased **43.4m shares for $1.6bn in FY2026** at an average **$37.6/share**. I expect **$450m of buybacks at $30/share in FY2027** (about **15m shares**), with potential for larger repurchases given its ample liquidity and historically conservative approach to cash management.
+5. **Substantial balance-sheet resilience:** Copart ended FY2026 with **$4.5bn in liquidity and almost no financial debt**. Following the ACV acquisition, our FY2027 forecast includes **$3.6bn in total liquidity** and **$3.4bn in net cash after financial debt**, equivalent to approximately **12.9% of a ~$26bn reference market capitalization**. This provides substantial financial flexibility.
+6. **Strong free-cash-flow generation:** Copart generated approximately **$1.3bn in FY2026 FCF (CFO less CAPEX)**, providing capacity for **share repurchases or inorganic growth through M&A**.
+7. **Meaningful buyback capacity:** Copart executes share repurchases selectively rather than on a fixed schedule. I project **$450m of buybacks in FY2027 at an average $30/share** (approximately **15m shares**), with scope to buy back more given its strong liquidity.
 8. **Return of a long-term CEO:** **Jay Adair returned as CEO on July 31, 2026**, replacing Jeff Liaw after previously leading Copart. During his July 2026 investor conference, Adair described the appointment as long term and said he intends to lead for **another 10-plus years**.
-9. **Founder-family economic alignment:** Founder **Willis Johnson (~5.8%)** and his son-in-law, CEO **Jay Adair (~3.2%)**, have substantial beneficial ownership (FY2025 proxy). Some shares are held indirectly. A new **20m-option grant for Adair approved in October 2026**, subject to shareholder approval, could increase incentive alignment but also dilution.
+9. **Founder-family economic alignment:** Founder **Willis Johnson (~5.8%)** and his son-in-law, CEO **Jay Adair (~3.2%)**, have substantial beneficial ownership (FY2025 proxy). Some shares are held indirectly. A new **20m-option grant approved for Adair in October 2026**, subject to shareholder approval, comprises four 5m-share tranches with **strikes ranging from $26.27 to $52.54**, vesting after five years and **expiring October 13, 2036**; it increases potential ownership alignment but also future dilution.
 
 ## 3. FY2026 operating problems — why the stock is under pressure
 
 FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, and net income attributable to Copart fell **4.4%**. U.S. revenue declined while international operations grew.
 
-**FY2026 quarterly operating indicators — YoY (year-on-year), except gross-margin levels:**
+**FY2026 quarterly operating indicators — YoY, except gross-margin levels:**
 
 | Operating indicator | Q1 FY2026 | Q2 FY2026 | Q3 FY2026 | Q4 FY2026 |
 |---|---:|---:|---:|---:|
@@ -52,9 +52,9 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 | Global gross margin *(level; not YoY change)* | **46.5%** | **43.9%** | **46.3%** | **41.8%** |
 | U.S. facility-related cost **per unit** | n/d | n/d | n/d | **+14.2%** |
 
-**Loss of a major insurer — likely Progressive (PGR):** Industry reporting indicates that **Progressive**, one of the largest U.S. auto insurers, shifted substantial auction volume from Copart to **IAA, acquired by RB Global in 2023**, reportedly over pricing and service terms. Copart confirmed losing a major insurer but **did not name Progressive**; without that customer, Q4 U.S. insurance assignments would have grown **2.3% YoY**. The identity, exact volume transferred and reasons remain unconfirmed by Copart.
+**Loss of a major insurer — likely Progressive (PGR):** Industry reporting indicates that **Progressive**, one of the largest U.S. auto insurers, shifted substantial auction volume from Copart to **IAA, acquired by RB Global in 2023**, reportedly over pricing and service terms. Copart confirmed losing a major insurer but **did not name Progressive**; without that customer, Q4 U.S. insurance assignments would have grown **2.3% YoY**.
 
-**Former CEO and governance:** Some investor commentary connects the insurer-account disruption and reports of tighter operational controls and staff dissatisfaction under **Jeff Liaw** to Jay Adair's return. However, **there is no verified company disclosure proving Progressive caused Liaw's departure, nor that Liaw personally forced an adverse contract outcome**. Copart announced the CEO succession in June 2026, thanked Liaw for his service and did not attribute the transition to that insurer. Treat any causal connection as speculation, not established fact.
+**Former CEO and governance:** Some investor commentary connects the insurer-account disruption and reports of tighter operational controls and staff dissatisfaction under **Jeff Liaw** to Jay Adair's return. However, **there is no verified company disclosure proving Progressive caused Liaw's departure, nor that Liaw personally forced an adverse contract outcome**.
 
 For **FY2026 overall**, U.S. insurance unit volumes fell approximately **8.0%** and total U.S. units sold approximately **6.9%**. *Assignments* are vehicles newly handed over by an insurer, whereas *units sold* are auction completions; the two series do not move at identical times. The 2.3% counterfactual concerns **Q4 U.S. insurance assignments** and does **not** mean U.S. insurance units sold actually grew.
 
@@ -87,8 +87,6 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 | **EV / Revenue** | **2.5x** | **2.2x** |
 | **EV / Adjusted EBITDA** | **31.7x** | **24.8x** |
 | **Equity purchase price / FCF** | **56.6x** | n/a |
-
-**Takeaway:** ACV gives Copart immediate scale in Whole Car and stronger digital capabilities, but **the price is demanding relative to current EBITDA and FCF**.
 
 ## 5. Competitors and peer comparison
 
@@ -189,15 +187,13 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 | Financial debt (excluding leases), year end | ~0 | 220 | 230 |
 | Net cash, excluding leases | 4,490 | 3,365 | 4,125 |
 
-**FY2027E construction:** Copart core revenue **$4,843m** (+3.8%) + **$741m from approximately 9.5 months of ACV**, following the October 16, 2026 close, = **$5,584m**. Estimated EBIT is **$1,699m** after acquisition amortization, integration costs and assumed synergies. CFO **$1,700m** less CAPEX **$440m** gives **$1,260m FCF**. With modeled buybacks and acquisition cash movements, closing liquidity is **$3,585m**, financial debt **$220m** and net cash **$3,365m**.
-
 **What drives the model:**
 
 - **Copart organic revenue:** +3.8% FY2027, +5.0% FY2028, versus FY2026's +0.4% total. This assumes some volume/cost stabilization; it is not management guidance.
 - **ACV revenue contribution:** **$741m FY2027** (partial-year) and **$1,053m FY2028** (full fiscal year, blended from standalone calendar projections). ACV generates approximately **81.0% of the modeled incremental group revenue in FY2027**. Headline growth therefore overstates the underlying salvage recovery.
 - **Incremental ACV purchase-price amortization:** **$35m FY2027 / $45m FY2028**; **synergies:** **+$20m / +$80m** EBIT. Both are **independent hypotheses**, not reported purchase-price allocation or promised synergies. New amortization is additional to ACV's historical D&A.
 - **Interest income:** declines from $182m FY2026 to modeled $123m FY2027 after spending on ACV, then improves modestly to $127m FY2028 as the company replenishes cash. Rate assumptions and buyback size matter.
-- **Share count:** FY2026 closed with approximately **926.3m actual shares outstanding**. I use **~927m weighted-average diluted shares in FY2027 and conservatively keep ~927m in FY2028**, allowing for stock options, RSUs and ACV award conversions. FY2027 assumes **$450m of buybacks at $30/share (15m shares)**. Although Copart has the liquidity to repurchase more, **I do not assume any further diluted-share reduction in FY2028**; additional effective buybacks could add value per share. Modeled FY2028 repurchase cash outflows are already reflected in the cash forecast, but their potential share-count benefit is intentionally excluded.
+- **Share count:** FY2026 closed with approximately **926.3m actual shares outstanding**. I use **~927m weighted-average diluted shares in FY2027 and conservatively keep ~927m in FY2028**, allowing for stock options, RSUs and ACV award conversions. FY2027 assumes **$450m of buybacks at $30/share (15m shares)**. Although Copart has the liquidity to repurchase more, **I do not assume any further diluted-share reduction in FY2028**; additional effective buybacks could add value per share.
 
 ## 9. Valuation — why I prefer a $20 entry
 

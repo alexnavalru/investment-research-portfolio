@@ -52,7 +52,7 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 | Global gross margin *(level; not YoY change)* | **46.5%** | **43.9%** | **46.3%** | **41.8%** |
 | U.S. facility-related cost **per unit** | n/d | n/d | n/d | **+14.2%** |
 
-**Loss of a major insurance customer — likely Progressive (PGR):** Adair confirmed in the Q4 FY2026 call that **without one lost customer, U.S. insurance assignments would have risen 2.3% YoY**, rather than declining. Copart **did not publicly name that customer**. Industry research and former-yard-management accounts identify **Progressive**, among the largest U.S. private-auto insurers (and a U.S. market-share leader), as the likely source of material lost volume; they indicate that business shifted **toward IAA, part of RB Global**. The reported commercial explanation is that Progressive pushed for **lower auction/service fees and demanding turnaround/pickup standards**, while Copart was unwilling to match the economics. This is an **informed industry interpretation, not a publicly confirmed complete account transfer or a disclosed contract explanation**: account allocation may differ by state or location.
+**Loss of a major insurer — likely Progressive (PGR):** Industry reporting indicates that **Progressive**, one of the largest U.S. auto insurers, shifted substantial auction volume from Copart to **IAA, acquired by RB Global in 2023**, reportedly over pricing and service terms. Copart confirmed losing a major insurer but **did not name Progressive**; without that customer, Q4 U.S. insurance assignments would have grown **2.3% YoY**. The identity, exact volume transferred and reasons remain unconfirmed by Copart.
 
 **Former CEO and governance:** Some investor commentary connects the insurer-account disruption and reports of tighter operational controls and staff dissatisfaction under **Jeff Liaw** to Jay Adair's return. However, **there is no verified company disclosure proving Progressive caused Liaw's departure, nor that Liaw personally forced an adverse contract outcome**. Copart announced the CEO succession in June 2026, thanked Liaw for his service and did not attribute the transition to that insurer. Treat any causal connection as speculation, not established fact.
 
@@ -241,15 +241,12 @@ The base-case upside from **$27.9** is approximately **-4.3%** over the indicate
 
 ## 10. Risks and what would disprove the thesis
 
-1. **Permanent U.S. insurance-share losses:** more named insurer contract losses, persistent negative domestic assignment volumes relative to peers, or price concessions required to retain insurers would undermine the moat case.
-2. **Higher cost per unit / margin damage:** new services and capacity may not earn sufficient incremental returns. Watch facility cost per vehicle, revenue per unit and U.S. EBIT margin, **not only** ASP.
-3. **ACV integration and overpayment:** $1.9bn for a GAAP-loss-making, adjusted-metric-heavy business. Weak platform adoption, inadequate synergies, SBC, additional amortization or credit losses could make ROIC disappointing.
-4. **ACV Capital credit/working-capital risk:** floorplan/wholesale financing draws liquidity; operating cash flow and unlevered FCF are not identical to CFO-minus-capex.
-5. **Capital allocation:** Copart's large buyback at ~$37.6 versus my $20 desired entry illustrates the risk that an otherwise great business can destroy value by deploying cash at the wrong price.
-6. **Economic sensitivity:** collision frequency can decline even when total-loss frequency rises. Lower used-car values, export restrictions, insurance cost pressures or recession can change volumes, ASPs and buyers.
-7. **Insider/governance issues:** family influence, permitted share pledging and modification of departing executive awards.
-8. **Valuation compression:** even a high-ROIC network can trade at a lower multiple for years; my base valuation is *not* a near-term guaranteed target.
-9. **Accounting risk:** newly allocated ACV intangibles, goodwill impairment, lease liabilities and contingent equity awards can change reported EBIT, D&A and share count versus this preliminary model.
+1. **Sector weakness:** declining U.S. collision-claim frequency, weaker insurer salvage volumes, lower used-car prices or reduced export demand could weigh on units, proceeds and margins even if total-loss rates rise.
+2. **Further insurer contract losses:** losing additional large carriers to IAA or accepting worse commercial terms could indicate a structural weakening of Copart's U.S. network advantage.
+3. **ACV integration and disappointing synergies:** Copart paid around **$1.9bn** for a lower-margin, GAAP-loss-making business. Weak dealer adoption, integration difficulties or synergies below expectations could depress returns and cash generation.
+4. **Poor capital allocation:** Copart carried out a major **$1.6bn share buyback in FY2026 at an average $37.6/share**, a demanding valuation **while U.S. insurance volumes and operating costs were already deteriorating**. Further expensive buybacks or acquisitions could waste otherwise substantial cash resources.
+5. **Valuation compression:** a premium franchise can still suffer a prolonged derating if organic growth stalls or margins deteriorate, regardless of ACV-driven reported revenue growth.
+6. **Governance:** family influence and the incentive structure of management require monitoring, especially following the CEO transition.
 
 ### Specific quarterly checks
 
@@ -261,7 +258,5 @@ The base-case upside from **$27.9** is approximately **-4.3%** over the indicate
 - **Management:** updated FY2027 compensation and insider beneficial ownership when the new proxy is available.
 
 **I would reconsider the $20 entry thesis** if U.S. customer losses continue, group EBIT remains structurally below the FY2026 run rate, ACV's adjusted EBITDA never converts into economic cash returns, or the balance-sheet cash is spent on low-return M&A. A falling stock price alone is not a catalyst.
-
-**Modeling note:** The forecasts, synergy assumptions, future share counts, goodwill allocation, multiples and implied values are illustrative estimates. They should be revised as new post-acquisition financial information becomes available.
 
 > Independent fundamental research for educational and professional purposes; not investment advice.

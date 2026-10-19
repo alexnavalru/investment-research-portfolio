@@ -118,26 +118,22 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 
 ## 6. Historical financials, cash generation and capital allocation
 
-USD millions, except margins, per-share data and diluted shares (in millions). FY ends July 31. **FY2023–FY2026 actual; FY2027E is my consolidated forecast.**
+USD millions, except margins, per-share data and diluted shares (in millions). FY ends July 31. **FY2023–FY2026 actual results.**
 
-| Metric | FY2023 actual | FY2024 actual | FY2025 actual | FY2026 actual | FY2027E |
-|---|---:|---:|---:|---:|---:|
-| **Revenues** | **3,870** | **4,237** | **4,647** | **4,666** | **5,584** |
-| **EBIT** | **1,487** | **1,572** | **1,697** | **1,653** | **1,699** |
-| EBIT margin | 38.4% | 37.1% | 36.5% | 35.4% | 30.4% |
-| Diluted shares (weighted-average, m) | 966.6 | 974.8 | 977.6 | 956.9 | **927.0** |
-| **Diluted EPS** | **$1.28** | **$1.40** | **$1.59** | **$1.55** | **$1.58** |
-| **Total cash + liquid investments** | **2,364** | **3,422** | **4,789** | **4,490** | **3,585** |
-| Total financial debt (excluding leases) | 11 | 0 | 0 | 0 | **220** |
-| **Net debt / EBITDA** | **-1.4x** | **-1.9x** | **-2.5x** | **-2.4x** | **-1.7x** |
-| **CFO** | **1,364** | **1,473** | **1,800** | **1,604** | **1,700** |
-| CAPEX | 517 | 511 | 569 | 337 | **440** |
-| **FCF = CFO - CAPEX** | **848** | **962** | **1,231** | **1,267** | **1,260** |
-| **FCF / diluted share** | **$0.88** | **$0.99** | **$1.26** | **$1.32** | **$1.36** |
-
-**FY2027E construction (approximately 9.5 months of ACV, following the October 16, 2026 closing):** Core Copart sales **$4,843m** (+3.8%) + **$741m** of ACV (late October–December 2026 plus January–July 2027, prorated from ACV's standalone calendar-year plans) = **$5,584m**. EBIT **$1,699m** includes estimated ACV operating results, additional acquisition-related intangible amortization and integration costs, partly offset by assumed synergies. EPS **$1.58** uses about **927m diluted weighted-average shares** and assumes **$450m buybacks at $30/share** over the year (not company guidance). CFO **$1,700m** − capex **$440m** = FCF **$1,260m**. Projected **$3,585m gross liquidity and $220m financial debt** result in **$3,365m net cash** (net debt **−$3,365m**), or **−1.7x net debt/EBITDA**. These are estimates, not acquisition-completion financial statements.
-
-**Capital allocation:** I expect Copart to repurchase **$450m of stock during FY2027** at an assumed average price of **$30/share**, equivalent to approximately **15m shares**.
+| Metric | FY2023 actual | FY2024 actual | FY2025 actual | FY2026 actual |
+|---|---:|---:|---:|---:|
+| **Revenues** | **3,870** | **4,237** | **4,647** | **4,666** |
+| **EBIT** | **1,487** | **1,572** | **1,697** | **1,653** |
+| EBIT margin | 38.4% | 37.1% | 36.5% | 35.4% |
+| Diluted shares (weighted-average, m) | 966.6 | 974.8 | 977.6 | 956.9 |
+| **Diluted EPS** | **$1.28** | **$1.40** | **$1.59** | **$1.55** |
+| **Total cash + liquid investments** | **2,364** | **3,422** | **4,789** | **4,490** |
+| Total financial debt (excluding leases) | 11 | 0 | 0 | 0 |
+| **Net debt / EBITDA** | **-1.4x** | **-1.9x** | **-2.5x** | **-2.4x** |
+| **CFO** | **1,364** | **1,473** | **1,800** | **1,604** |
+| CAPEX | 517 | 511 | 569 | 337 |
+| **FCF = CFO - CAPEX** | **848** | **962** | **1,231** | **1,267** |
+| **FCF / diluted share** | **$0.88** | **$0.99** | **$1.26** | **$1.32** |
 
 ## 7. Management, ownership and governance
 
@@ -167,7 +163,7 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 
 ## 8. My FY2027–FY2028 pro forma model
 
-**All figures below are my assumptions, not Copart guidance.** FY2026 actual is pre-ACV. Copart fiscal years end July 31; ACV historically used December 31.
+**FY2026 is actual; FY2027–FY2028 are my estimates.** Copart fiscal years end July 31; ACV historically used December 31.
 
 | Metric ($m except EPS/shares) | FY2026 actual | FY2027E | FY2028E |
 |---|---:|---:|---:|
@@ -175,26 +171,25 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 | Revenue growth | +0.4% | +19.7% | +9.9% |
 | EBITDA, **after SBC** | 1,891 | 2,019 | 2,256 |
 | EBITDA margin | 40.5% | 36.2% | 36.8% |
-| D&A (FY26 cash-flow proxy) | 238 | 320 | 360 |
+| D&A | 238 | 320 | 360 |
 | **GAAP-model EBIT** | **1,653** | **1,699** | **1,896** |
 | EBIT margin | 35.4% | 30.4% | 30.9% |
 | Interest income, net | +182 | +123 | +127 |
-| Pretax income (rounded) | 1,835 | 1,822 | 2,023 |
-| Income taxes | -355 | -364 | -405 |
+| Income taxes (effective tax rate) | 19.3% | 20.0% | 20.0% |
 | Consolidated net income | 1,480 | 1,458 | 1,618 |
 | Net loss attributable to minorities | -4 | -4 | -4 |
 | **Net income attributable to CPRT** | **1,484** | **1,462** | **1,622** |
-| Average diluted shares (m) | 956.9 | **927** | **915** |
-| **Diluted EPS** | **$1.55** | **$1.58** | **$1.77** |
+| Average diluted shares (m) | 956.9 | **927** | **927** |
+| **Diluted EPS** | **$1.55** | **$1.58** | **$1.75** |
 | **CFO** | **1,604** | **1,700** | **1,840** |
 | **Capex (including ACV capitalized software)** | **337** | **440** | **510** |
 | **FCF = CFO - total capex** | **1,267** | **1,260** | **1,330** |
-| **FCF per diluted share** | **$1.32** | **$1.36** | **$1.45** |
+| **FCF per diluted share** | **$1.32** | **$1.36** | **$1.43** |
 | Cash + held-to-maturity securities, year end | 4,490 | 3,585 | 4,355 |
 | Financial debt (excluding leases), year end | ~0 | 220 | 230 |
 | Net cash, excluding leases | 4,490 | 3,365 | 4,125 |
-| Goodwill, approximate | 511 | 1,980 | 1,980 |
-| Equity attributable to shareholders | 9,097 | ~10,200 | ~11,480 |
+
+**FY2027E construction:** Copart core revenue **$4,843m** (+3.8%) + **$741m from approximately 9.5 months of ACV**, following the October 16, 2026 close, = **$5,584m**. Estimated EBIT is **$1,699m** after acquisition amortization, integration costs and assumed synergies. CFO **$1,700m** less CAPEX **$440m** gives **$1,260m FCF**. With modeled buybacks and acquisition cash movements, closing liquidity is **$3,585m**, financial debt **$220m** and net cash **$3,365m**.
 
 **What drives the model:**
 
@@ -202,40 +197,37 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 - **ACV revenue contribution:** **$741m FY2027** (partial-year) and **$1,053m FY2028** (full fiscal year, blended from standalone calendar projections). ACV generates approximately **81.0% of the modeled incremental group revenue in FY2027**. Headline growth therefore overstates the underlying salvage recovery.
 - **Incremental ACV purchase-price amortization:** **$35m FY2027 / $45m FY2028**; **synergies:** **+$20m / +$80m** EBIT. Both are **independent hypotheses**, not reported purchase-price allocation or promised synergies. New amortization is additional to ACV's historical D&A.
 - **Interest income:** declines from $182m FY2026 to modeled $123m FY2027 after spending on ACV, then improves modestly to $127m FY2028 as the company replenishes cash. Rate assumptions and buyback size matter.
-- **Share count:** FY2026 ended with ~926.3m **actual outstanding** shares. Model assumes **$450m buybacks annually at $30/share** = 15m shares retired each year, phased through each year; employee options/RSUs and ACV equity-award conversions dilute. Expected *average diluted shares*, not year-end basic shares: **927m / 915m**. Exact treasury-stock-method dilution is unknown.
-- **Credit funding caveat:** beyond CFO-minus-capex FCF, model assumes **$70m FY2027 / $120m FY2028** in additional net financing of ACV Capital receivables, potentially reported in investing cash flows. Illustrative residual cash is therefore **$1,190m / $1,210m**, respectively, before buybacks. Actual classification and scale may differ materially.
-
-**Confidence levels:** relatively high in FY2026 audited results, acquisition timing and transaction price; medium in near-term ACV revenues; **low in synergy EBIT, purchase-price amortization, working capital, goodwill and 2028 profitability**. In particular, the pro forma CFO scenarios have not been reconciled to ACV's standalone projected negative unlevered FCF; this is a key downside sensitivity.
+- **Share count:** FY2026 closed with approximately **926.3m actual shares outstanding**. I use **~927m weighted-average diluted shares in FY2027 and conservatively keep ~927m in FY2028**, allowing for stock options, RSUs and ACV award conversions. FY2027 assumes **$450m of buybacks at $30/share (15m shares)**. Although Copart has the liquidity to repurchase more, **I do not assume any further diluted-share reduction in FY2028**; additional effective buybacks could add value per share. Modeled FY2028 repurchase cash outflows are already reflected in the cash forecast, but their potential share-count benefit is intentionally excluded.
 
 ## 9. Valuation — why I prefer a $20 entry
 
 **Interest-income normalization matters.** FY2026's $182m net interest income was supported by a large securities/cash portfolio. The approximately $1.9bn cash purchase of ACV sacrifices interest income; ACV also has financing activities and debt. This reduces near-term EPS even if the auction business holds up. Interest belongs **below EBIT**.
 
-The **$20 entry** is my intended valuation discipline, **not** an assertion that the current market must trade there. Use 926.3m actual outstanding shares for spot-equity capitalization and approximately 915m prospective diluted shares for the FY2028 valuation; never use FY2026 weighted-average shares for the current market cap.
+The **$20 entry** is my intended valuation discipline, **not** an assertion that the current market must trade there. Use 926.3m actual outstanding shares for spot-equity capitalization and conservatively 927m diluted shares for FY2028 valuation; never use FY2026 weighted-average shares for the current market cap.
 
 **At $20/share** (spot share-count reference):
 - Equity capitalization = **$18.5bn** (926.3m × $20).
 - Cash immediately after acquisition, **simplified June/July balance-sheet proxy**: ~$4.5bn pre-deal liquidity - ~$1.9bn cash purchase + ~$0.2bn ACV cash = **~$2.8bn**; less ~$0.2bn acquired financial debt implies **~$2.6bn net cash**. The actual October 16 cash/debt bridge and closing consideration can differ.
 - Illustrative **pro forma EV ~$15.9bn** (market cap less ~$2.6bn net cash), equivalent to **~7.0x modeled FY2028 EBITDA**.
-- **FY2028 P/E ~11.3x** ($20 / $1.77), **P/FCF ~13.8x** ($20 / $1.45), FCF equity yield **~7.3%**. This FCF yield is *before* additional lending-book investment.
+- **FY2028 P/E ~11.4x** ($20 / $1.75), **P/FCF ~13.9x** ($20 / $1.43), FCF equity yield **~7.2%**. This FCF yield is *before* additional lending-book investment.
 
-**At the $27.9 October 16 reference:** the corresponding FY2028 P/E is **~15.7x**, P/FCF **~19.2x**, and pro forma EV/FY2028 EBITDA **~10.3x**, on unchanged acquisition-close balance assumptions. Both price comparisons use the same model—not synchronized future market quotes.
+**At the $27.9 October 16 reference:** the corresponding FY2028 P/E is **~15.9x**, P/FCF **~19.5x**, and pro forma EV/FY2028 EBITDA **~10.3x**, on unchanged acquisition-close balance assumptions. Both price comparisons use the same model—not synchronized future market quotes.
 
 ### FY2028 enterprise-value sensitivity
 
-A simplified equity bridge: **price = (FY2028 EBITDA × EV/EBITDA + FY2028 net cash) / average diluted shares**. Scenarios deliberately change multiple, operating performance, net cash and share count; none is a management target. FY2028 year-end net cash is applied to FY2028 earnings as an illustrative normalized valuation, not as a precise present-value DCF.
+A simplified equity bridge: **price = (FY2028 EBITDA × EV/EBITDA + FY2028 net cash) / average diluted shares**. Scenarios change the operating performance, valuation multiple and net cash but conservatively hold diluted shares at **927m** throughout; none is a management target. FY2028 year-end net cash is applied to FY2028 earnings as an illustrative normalized valuation, not as a precise present-value DCF.
 
 | Scenario | FY2028 EBITDA | EV/EBITDA | Net cash | Diluted shares | Implied equity/share | vs. $20 entry |
 |---|---:|---:|---:|---:|---:|---:|
-| **Bear**: prolonged U.S. volume losses; little ACV leverage | $1,900m | 7.0x | $3,200m | 925m | **$17.8** | **-10.8%** |
-| **Base**: modest salvage recovery + some ACV synergy | $2,256m | 9.0x | $4,125m | 915m | **$26.7** | **+33.5%** |
-| **Bull**: unit recovery, strong ACV execution | $2,450m | 11.0x | $4,300m | 910m | **$34.3** | **+71.7%** |
+| **Bear**: prolonged U.S. volume losses; little ACV leverage | $1,900m | 7.0x | $3,200m | 927m | **$17.8** | **-11.0%** |
+| **Base**: modest salvage recovery + some ACV synergy | $2,256m | 9.0x | $4,125m | 927m | **$26.4** | **+31.8%** |
+| **Bull**: unit recovery, strong ACV execution | $2,450m | 11.0x | $4,300m | 927m | **$33.7** | **+68.6%** |
 
 The bear is **not a hard downside floor**: a deeper loss of insurer share, weaker FCF, expensive buybacks, acquisition failure or multiple compression could justify prices well below $17–18. The bull requires execution not yet proved.
 
-The base-case upside from **$27.9** is approximately **-4.3%** over the indicated valuation reference, before the time value of waiting. That is why I would prefer to **wait for $20 rather than chase**. At $20 the model offers a more comfortable potential reward versus a conventional operating downside case, provided the fundamentals remain intact. No dividend or buyback execution is guaranteed.
+The base-case upside from **$27.9** is approximately **-5.5%** over the indicated valuation reference, before the time value of waiting. That is why I would prefer to **wait for $20 rather than chase**. At $20 the model offers a more comfortable potential reward versus a conventional operating downside case, provided the fundamentals remain intact. No dividend or buyback execution is guaranteed.
 
-**Cross-check:** at $20 the **FY2028 modeled FCF of ~$1.3bn / spot ~$18.5bn equity** implies approximately **7.2% FCF yield**; using **$1.45 FCF per modeled diluted share** produces around **7.3%**, a harmless discrepancy due to different share-count bases. Do not claim that the capex-adjusted FCF equals cash distributable to common shareholders if ACV's finance receivables require additional funding.
+**Cross-check:** at $20 the **FY2028 modeled FCF of ~$1.3bn / spot ~$18.5bn equity** implies approximately **7.2% FCF yield**; using **$1.43 FCF per modeled diluted share** produces around **7.2%**, a harmless discrepancy due to different share-count bases. Do not claim that the capex-adjusted FCF equals cash distributable to common shareholders if ACV's finance receivables require additional funding.
 
 ## 10. Risks and what would disprove the thesis
 

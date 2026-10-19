@@ -25,14 +25,14 @@ Copart operates an online vehicle remarketing platform. Its core business is sel
 
 ## 2. Investment thesis and potential catalysts
 
-1. **A genuine network advantage:** Copart operates **286 facilities worldwide** (FY2026), serving all 50 U.S. states and buyers in 185+ countries. Its yard network, towing, storage and insurer relationships are expensive to replicate: suitable land requires zoning and permits, while environmental requirements and local opposition can delay expansion. International buyers acquired **38.2% of U.S. auction units**, representing **45.7% of their purchase value** in FY2026. This combination of physical scale and buyer liquidity is a major competitive barrier, although IAA also operates a large network.
+1. **A genuine network advantage:** Copart operates **286 facilities worldwide** (FY2026), serving all 50 U.S. states and buyers in 185+ countries. Its yard network, towing, storage and insurer relationships are expensive to replicate: suitable land requires zoning and permits, while environmental requirements and local opposition can delay expansion.
 2. **Long-run total-loss tailwind:** higher repair severity, car complexity, parts/labor costs and rentals support more vehicles being declared economic total losses over time. The Q4 FY2026 call cited 23.3% industry total-loss frequency in calendar Q2 2026 versus 22.4% the year before. This tailwind is **not the same as near-term claims-volume growth**.
 3. **International opportunity:** Q4 FY2026 international unit sales grew 10.0% and insurance units grew 11.2%; management intends to expand existing operations and enter additional European markets. This offsets some, not all, U.S. weakness.
 4. **Whole-car optionality via ACV:** Copart paid approximately **$1.9bn in cash** for a scaled digital dealer-to-dealer auction network. Cross-platform buyers, franchise-dealer relationships, inspection technology, logistics and Copart's facilities can improve both networks if integrated successfully.
-5. **Substantial balance-sheet resilience:** Copart ended FY2026 with **$4.5bn in liquidity and almost no financial debt**. After the ACV purchase and our modeled cash flow and buybacks, I project **$3.4bn FY2027 / $4.1bn FY2028 net cash**, equivalent to roughly **13.0% / 16.0%** of a ~$26bn reference market capitalization.
+5. **Substantial balance-sheet resilience:** Copart ended FY2026 with **$4.5bn in liquidity and almost no financial debt**. After acquiring ACV, generating cash and our projected buybacks, I estimate **$3.6bn in total cash and liquid investments at FY2027 year-end** (about **13.8% of a ~$26bn reference market capitalization**). After approximately **$220m financial debt**, net cash would still be **$3.4bn**, demonstrating significant financial strength.
 6. **Strong free-cash-flow generation:** Despite declining U.S. insurance volumes, Copart generated **$1.3bn in FY2026 FCF (CFO less capex)**. Our model estimates roughly **$1.3bn in FY2027 and $1.3bn in FY2028**. Continued FCF can rebuild cash after ACV, fund investments and support share repurchases, potentially increasing per-share value. The estimates remain sensitive to normalized capex, working capital and ACV Capital's financing needs.
-7. **Meaningful buyback capacity:** Copart bought back **43.4m shares for $1.6bn in FY2026** at an average **$37.6/share**. My model assumes **$450m annually at $30/share** in FY2027–FY2028, supporting per-share value; the company could repurchase more but has historically preferred financial flexibility. This is an analyst assumption, not guidance.
-8. **Return of a long-term CEO:** **Jay Adair returned as CEO on July 31, 2026**, replacing Jeff Liaw after previously leading Copart. During his July 2026 investor conference, Adair described the appointment as long term and said he intends to lead for **another 10-plus years**. His renewed focus on international insurance, U.S. Whole Car and technology may support execution, though the planned tenure is an intention rather than a guarantee.
+7. **Meaningful buyback capacity:** Copart repurchased **43.4m shares for $1.6bn in FY2026** at an average **$37.6/share**. I expect **$450m of buybacks at $30/share in FY2027** (about **15m shares**), with potential for larger repurchases given its ample liquidity and historically conservative approach to cash management.
+8. **Return of a long-term CEO:** **Jay Adair returned as CEO on July 31, 2026**, replacing Jeff Liaw after previously leading Copart. During his July 2026 investor conference, Adair described the appointment as long term and said he intends to lead for **another 10-plus years**.
 9. **Founder-family economic alignment:** Founder **Willis Johnson (~5.8%)** and his son-in-law, CEO **Jay Adair (~3.2%)**, have substantial beneficial ownership (FY2025 proxy). Some shares are held indirectly. A new **20m-option grant for Adair approved in October 2026**, subject to shareholder approval, could increase incentive alignment but also dilution.
 
 ## 3. FY2026 operating problems — why the stock is under pressure
@@ -88,7 +88,7 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 | **EV / Adjusted EBITDA** | **31.7x** | **24.8x** |
 | **Equity purchase price / FCF** | **56.6x** | n/a |
 
-**Takeaway:** ACV gives Copart immediate scale in Whole Car and stronger digital capabilities, but **the price is demanding relative to current EBITDA and FCF**. Any economic justification depends on ACV's earnings/cash-flow growth and ultimately achieving synergies; no quantified synergy figure was promised by management.
+**Takeaway:** ACV gives Copart immediate scale in Whole Car and stronger digital capabilities, but **the price is demanding relative to current EBITDA and FCF**.
 
 ## 5. Competitors and peer comparison
 
@@ -114,7 +114,7 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 | ACV Auctions (ACVA; acquired) | 39 | 10 | 29* | 61.2x* | 61.5x* |
 | Liquidity Services (LQDT) | 98 | 8 | 90 | 15.3x | 12.9x |
 
-*The **ACV** FCF figures in this comparison deduct only about **$10m in physical capex**, **not capitalized software**, so its displayed $29m and FCF multiples are **not comparable to the comprehensive CFO-minus-total-capex definition used in my ACV acquisition analysis**. The EBITDA snapshot also uses company-specific *adjusted* definitions, and growth classifications such as organic (O), reported (R) and organic gross transaction value (O-GTV) are not equivalent across businesses. ACV's -0.5x leverage is calculated from June 2026 **$205m financial debt less $242m cash, divided by $75m FY2026E adjusted EBITDA**. Copart's **1,930m adjusted EBITDA** here is different from its approximately **1,891m FY2026 GAAP-model EBITDA** elsewhere in this thesis.
+**Note:** ACV's peer-comparison FCF ($29m) **excludes capitalized software**, so it overstates FCF relative to our CFO − total CAPEX method. Peer EBITDA figures use different adjusted definitions; Copart's $1,930m adjusted EBITDA here differs from our $1,891m accounting-based estimate.
 
 ## 6. Historical financials, cash generation and capital allocation
 
@@ -137,15 +137,15 @@ USD millions, except margins, per-share data and diluted shares (in millions). F
 
 **FY2027E construction (approximately 9.5 months of ACV, following the October 16, 2026 closing):** Core Copart sales **$4,843m** (+3.8%) + **$741m** of ACV (late October–December 2026 plus January–July 2027, prorated from ACV's standalone calendar-year plans) = **$5,584m**. EBIT **$1,699m** includes estimated ACV operating results, additional acquisition-related intangible amortization and integration costs, partly offset by assumed synergies. EPS **$1.58** uses about **927m diluted weighted-average shares** and assumes **$450m buybacks at $30/share** over the year (not company guidance). CFO **$1,700m** − capex **$440m** = FCF **$1,260m**. Projected **$3,585m gross liquidity and $220m financial debt** result in **$3,365m net cash** (net debt **−$3,365m**), or **−1.7x net debt/EBITDA**. These are estimates, not acquisition-completion financial statements.
 
-**Capital allocation:** The FY2026 buyback of approximately $1.6bn exceeded annual FCF and was executed at an average **$37.6/share**, above my preferred $20 entry. Repurchases reduced outstanding shares to approximately **926.3m** in September 2026; the FY2026 **weighted-average diluted** figure of 956.9m should *not* be treated as the current share count.
+**Capital allocation:** I expect Copart to repurchase **$450m of stock during FY2027** at an assumed average price of **$30/share**, equivalent to approximately **15m shares**.
 
 ## 7. Management, ownership and governance
 
 **Jay Adair** resumed the CEO role effective July 31, 2026, succeeding Jeff Liaw. He is also executive chairman and is Willis Johnson's son-in-law. **Willis Johnson**, founder, chairs the board. Founder involvement supports long-term strategic thinking, but family control and board independence deserve scrutiny.
 
-**FY2025 reported compensation** (historical; not a FY2027 CEO pay agreement):
+**FY2025 reported compensation:**
 
-| Item | Jay Adair *(then executive chairman)* | Jeff Liaw *(then CEO)* |
+| Item | Jay Adair *(Executive Chairman)* | Jeff Liaw *(CEO)* |
 |---|---:|---:|
 | Salary | $1 | $900k |
 | Cash bonus | $0 | $1.1m |
@@ -153,7 +153,7 @@ USD millions, except margins, per-share data and diluted shares (in millions). F
 | Other compensation / benefits | $432k | $79k |
 | **Total compensation** | **$432k** | **$2.1m** |
 
-Most of Adair's FY2025 other compensation involved personal use of corporate aircraft; a nominal salary is **not** the same as zero total economic cost. Adair's major outstanding 2020 grant comprised **4m stock options**, adjusted strike approximately **$21.3**, contingent on the share-price condition of approximately **$26.6** for 20 consecutive trading closes and at exercise, with expiration June 2030. This is not $120m of cash compensation at a $30 share price: its **intrinsic option value** at that price would be approximately 4m × ($30 - $21.3) = **$35m**, provided the contractual conditions are met.
+Most of Adair's FY2025 other compensation involved personal use of corporate aircraft; a nominal salary is **not** the same as zero total economic cost. Adair's major outstanding 2020 grant comprised **4m stock options**, adjusted strike approximately **$21.3**, contingent on the share-price condition of approximately **$26.6** for 20 consecutive trading closes and at exercise, with expiration June 2030.
 
 **Beneficial ownership at October 10, 2025 (historical disclosure; not October 2026 ownership):**
 
@@ -164,8 +164,6 @@ Most of Adair's FY2025 other compensation involved personal use of corporate air
 | All directors and executives (then 13 people) | **94.0m** | **9.6%** |
 
 Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair's included about **26.6m shares/interests + 4.0m options**. These figures include revocable trusts, partnerships and foundations; not all indirect holdings are personal, immediately disposable stock. Beneficial-ownership percentages for option holders can use holder-specific denominators, so the percentages should not be mechanically combined or conflated with direct voting control.
-
-**Governance risks:** a September 2025 exception allowed Johnson to **pledge up to 20.0% of his beneficially owned shares as collateral** for personal loans; authorization does not prove that any amount was actually pledged. Liaw's 2026 departure arrangements also modified certain equity-award performance/lockup conditions. Both warrant monitoring alongside the overall alignment.
 
 ## 8. My FY2027–FY2028 pro forma model
 

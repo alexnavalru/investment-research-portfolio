@@ -1,4 +1,4 @@
-# Copart (CPRT) — Financial Model & Valuation Snapshot
+# Copart (CPRT) - Financial Model & Valuation Snapshot
 
 **Prepared:** October 19, 2026  
 **Entry discipline:** **$20/share**  
@@ -6,7 +6,7 @@
 **FY:** Copart year ending July 31; ACV standalone historical year ending December 31  
 **Units:** USD millions unless otherwise stated. **E = analyst assumption**, not company guidance.
 
-## 1. Historical baseline — audited Copart only
+## 1. Historical baseline - audited Copart only
 
 | Metric | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -43,7 +43,7 @@ EBITDA in the main thesis uses **EBIT plus reported cash-flow D&A as a proxy**, 
 The standalone negative unlevered FCF includes capex, **capitalized software** and changes in net working capital. Do not equate it to Copart's consolidated CFO-capex metric or ignore ACV Capital loan receivables.
 
 
-## 3. Revenues bridge — actual October 16 close
+## 3. Revenues bridge - actual October 16 close
 
 Copart FY2027 = **August 1, 2026–July 31, 2027**. ACV consolidated from October 16, 2026.
 
@@ -57,7 +57,7 @@ Copart FY2027 = **August 1, 2026–July 31, 2027**. ACV consolidated from Octobe
 |---|---:|---:|---:|
 | Copart core revenue | 4,666 | 4,843 | 5,085 |
 | Core YoY | +0.4% group actual | **+3.8%** | **+5.0%** |
-| ACV revenue recognized in Copart FY | — | **741** | **1,053** |
+| ACV revenue recognized in Copart FY | - | **741** | **1,053** |
 | **Consolidated revenue** | **4,666** | **5,584** | **6,138** |
 | Group growth | +0.4% | **+19.7%** | **+9.9%** |
 
@@ -140,8 +140,8 @@ No *operating lease* add-back is used in this simplified US-GAAP EBITDA-to-FCF b
 | Cash bridge ($m) | FY2027E | FY2028E |
 |---|---:|---:|
 | Opening cash + held-to-maturity securities | 4,490 | 3,585 |
-| ACV $1.90bn headline equity consideration | -1,900 | — |
-| ACV acquired cash (June 2026 proxy) | +240 | — |
+| ACV $1.90bn headline equity consideration | -1,900 | - |
+| ACV acquired cash (June 2026 proxy) | +240 | - |
 | Consolidated FCF | +1,260 | +1,330 |
 | ACV Capital net financing assumption | -70 | -120 |
 | Copart repurchases assumption | -450 | -450 |
@@ -152,7 +152,7 @@ No *operating lease* add-back is used in this simplified US-GAAP EBITDA-to-FCF b
 
 **Warning:** ACV acquisition proceeds should not be modeled as operating capex. ACV $240m cash and $205m financial debt are June 2026 proxies, **not** certified October 16 closing cash/debt. The $1.9bn headline equity consideration may not capture all award settlements/transaction cash outlays.
 
-### Goodwill purchase-price allocation — simplified illustration
+### Goodwill purchase-price allocation - simplified illustration
 
 | Estimated PPA component | USD m |
 |---|---:|
@@ -171,7 +171,7 @@ This **is not a released final PPA** and can change materially with intangibles,
 
 **Illustrative equity attributable to CPRT:** ~$9,097m FY2026, ~$10,200m FY2027, ~$11,480m FY2028, assuming retained earnings, equity compensation and buybacks, with rounding and other comprehensive income not explicitly forecast. ACV historical equity is eliminated in consolidation; $1.9bn cash paid is not itself a $1.9bn hit to consolidated book equity.
 
-## 8. FY2027 valuation — $20 entry versus market price
+## 8. FY2027 valuation - $20 entry versus market price
 
 I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 

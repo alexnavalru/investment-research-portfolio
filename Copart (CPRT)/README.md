@@ -4,7 +4,7 @@
 **Status:** Watchlist / active research; position ownership not assumed  
 **Preferred entry price:** **$20/share**  
 **Reference valuation price:** **~$27.8/share**, approximating the October 16, 2026 close  
-**Case type:** Quality compounder / temporary operational setback / acquisition integration  
+**Case type:** Quality compounder / temporary operational setback  
 
 ## 1. Business overview
 

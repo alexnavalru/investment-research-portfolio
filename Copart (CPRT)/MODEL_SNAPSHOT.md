@@ -173,35 +173,26 @@ This **is not a released final PPA** and can change materially with intangibles,
 
 ## 8. Preferred entry and scenario price sensitivity
 
-**$20/share buy criterion:** valuation discipline; review whether insurer share losses, margin and ACV cash conversion make the business worth holding. **Not an unconditional trading instruction.**
+**Why $20?** I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 
-At October 16 price **$27.87**, using **926.33m basic outstanding shares** and simplified immediately-post-close net cash of **~$2.63bn**:
-- Equity cap: ~$25.82bn.
-- Indicative pro forma enterprise value: ~$23.19bn.
-- EV / modeled FY2028 EBITDA: **~10.3x**.
-- FY2028E P/E: **~15.9x**; P/FCF **~19.5x**.
+Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated. That comparison underscores how demanding a $20 entry could be; it does **not** imply the stock must revisit $20 or that the risks are identical.
 
-At **$20** on the same starting equity/cash assumptions:
-- Equity cap: ~$18.53bn.
-- Pro forma enterprise value: **~$15.90bn**.
-- FY2028E EV/EBITDA **~7.0x**; P/E **~11.4x**; P/FCF **~13.9x**.
-- FCF equity yield approximately **7.2–7.3%**, before incremental loan-book funding.
+This comparison uses **our FY2027 estimates**: **$1,462m attributable net income**, **$2,019m EBITDA**, **$1,260m FCF**, **927m diluted shares** and **$3,365m year-end net cash**. EV is estimated using the price-implied equity value at 927m diluted shares less **FY2027 projected net cash** (financial debt excluding leases). Thus both valuation columns are forward-looking, not current reported enterprise values. The market price is the **October 16, 2026 closing reference**, not a live quote.
 
-**Enterprise-value scenario formula:** (FY2028E EBITDA × multiple + FY2028E net cash) / FY2028E diluted shares.
+| FY2027E metric | At **$20.00/share** | At **$27.87/share** (Oct. 16 close) |
+|---|---:|---:|
+| Share price | **$20.00** | **$27.87** |
+| Diluted shares | 927m | 927m |
+| EPS | $1.58 | $1.58 |
+| EBITDA | $2,019m | $2,019m |
+| FCF/share | $1.36 | $1.36 |
+| **P/E** | **12.7x** | **17.7x** |
+| **EV/EBITDA** | **7.5x** | **11.1x** |
+| **P/FCF** | **14.7x** | **20.5x** |
 
-| Case | EBITDA | Multiple | Net cash | Shares | Implied $/share | vs. $20 |
-|---|---:|---:|---:|---:|---:|---:|
-| **Bear** | 1,900 | 7.0x | 3,200 | 927 | **17.8** | -11.0% |
-| **Base** | 2,256 | 9.0x | 4,125 | 927 | **26.4** | +31.8% |
-| **Bull** | 2,450 | 11.0x | 4,300 | 927 | **33.7** | +68.6% |
+**Interest-income normalization:** The modeled FY2027 earnings already reflect lower net interest income after Copart's cash-funded ACV acquisition, compared with FY2026.
 
-**These are FY2028 scenario enterprise values, not present values.** They omit discounting to October 2026, require different assumptions and have material downside outside the displayed bear range. FY2028 earnings combined with FY2028 ending cash is a simplified normalized multiple, not a cash-flow valuation.
-
-### Useful what-if rules
-- Every **$100m** change in modeled net cash changes value by approximately **$0.11/share** at ~927m shares.
-- Every **$100m** change in FY2028 EBITDA at **9x** changes value by approximately **$0.97/share**, holding cash fixed.
-- Every **$50m** change in FY2028 EBIT, assuming a 20% tax rate and 927m shares, changes EPS by approximately **$0.043**.
-- Retiring **15m** basic shares at $30 requires **$450m cash**; do not add both $450m net cash and the lower share count without deducting the repurchase cost.
+**I would reconsider the $20 entry thesis** if U.S. customer losses persist, the core operating margin/EBIT structurally weakens, ACV does not deliver an adequate return in cash, or management spends the balance-sheet cash on poor-return acquisitions or buybacks. A lower share price alone would not compensate for a deteriorating business.
 
 ## 9. Quarterly update checklist
 

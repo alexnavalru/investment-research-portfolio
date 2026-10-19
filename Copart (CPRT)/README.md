@@ -52,11 +52,11 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 | Global gross margin *(level; not YoY change)* | **46.5%** | **43.9%** | **46.3%** | **41.8%** |
 | U.S. facility-related cost **per unit** | n/d | n/d | n/d | **+14.2%** |
 
-**Major insurer loss — very likely Progressive (PGR):** Copart confirmed losing a large insurer account, without naming it. An analyst directly raised **Progressive** in July 2026, and industry reports and Progressive-related accounts indicate that business shifted to **IAA (RB Global)**, apparently over commercial terms. Excluding the lost client, Q4 U.S. insurance *assignments* would have grown **2.3% YoY**.
+**Insurer-client losses and competition from IAA:** Copart acknowledged losing a major insurer account. Industry reports identify **Progressive (PGR)**—a leading U.S. auto insurer—as the most important suspected loss, with business shifting toward **IAA**, acquired by **RB Global in 2023**. Some investors suspect overly aggressive contract negotiations under former CEO **Jeff Liaw** contributed to the dispute and his departure, but **neither claim is confirmed**. Excluding the lost customer, Q4 U.S. insurance assignments would have grown **2.3% YoY**.
 
-**CEO transition:** Some investors link the lost contract to **Jeff Liaw's departure** and Jay Adair's return, but **that causal connection is unproven**.
+**Automotive and economic headwinds:** Rising repair and insurance costs led some U.S. drivers to reduce coverage, while collision-claim frequency fell **3.4%**. Together with insurer competition, this pressured FY2026 U.S. insurance units (**-8.0%**) despite a rising total-loss rate.
 
-**Other operating pressures:** FY2026 U.S. insurance units fell **8.0%**, and total U.S. units **6.9%**. Collision-claim frequency fell **3.4%**, while new services and yard capacity pushed up unit costs; long-haul delivery accounted for approximately **$17m** of the Q4 cost increase.
+**Higher operating costs:** New services and facilities increased costs per vehicle as sales volumes fell; long-haul delivery accounted for approximately **$17m** of the Q4 year-on-year facility-cost increase.
 
 ## 4. ACV Auctions — acquisition, valuation and strategic fit
 
@@ -201,8 +201,6 @@ I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. i
 
 Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated.
 
-This comparison uses **our FY2027 estimates**: **$1,462m attributable net income**, **$2,019m EBITDA**, **$1,260m FCF**, **927m diluted shares** and **$3,365m year-end net cash**. EV is estimated using the price-implied equity value at 927m diluted shares less **FY2027 projected net cash** (financial debt excluding leases). Thus both valuation columns are forward-looking, not current reported enterprise values. The market reference uses **~$27.8/share**, an approximate input based on the October 16, 2026 closing price, not a live quote.
-
 | FY2027E metric | At **$20/share** | At **~$27.8/share** (Oct. 16 reference) |
 |---|---:|---:|
 | Diluted shares | 927m | 927m |
@@ -214,6 +212,8 @@ This comparison uses **our FY2027 estimates**: **$1,462m attributable net income
 | **P/FCF** | **14.7x** | **20.5x** |
 
 **Interest income and buybacks:** Interest earned on Copart's cash can change considerably depending on whether it holds cash in securities, makes acquisitions or repurchases shares. Both the interest income it generates and the number of shares retired could materially change future EPS versus our FY2027 estimate.
+
+**Valuation discipline:** Copart has historically commanded a premium P/E, and I use **~22x as a conservative historical reference**, not as a verified statistical median for every year since 2000. My preferred valuation ranges are **16–20x P/E and P/FCF** and **10–14x EV/EBITDA**. At approximately **$27.8/share**, Copart already trades at **17.6x FY2027E earnings, 20.5x FY2027E FCF and 11.1x FY2027E EBITDA**. This looks somewhat tight given the current operating headwinds, despite the quality of the business; **$20/share offers a more attractive margin of safety**.
 
 ## 10. Risks and what would disprove the thesis
 

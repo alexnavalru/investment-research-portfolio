@@ -1,4 +1,4 @@
-# Copart (CPRT) — A High-Quality Vehicle-Auction Franchise at a More Disciplined Entry Price
+# Copart (CPRT) - A High-Quality Vehicle-Auction Franchise at a More Disciplined Entry Price
 
 **Research date:** October 19, 2026  
 **Status:** Watchlist / active research; position ownership not assumed  
@@ -25,7 +25,7 @@ Copart operates an online vehicle remarketing platform. Its core business is sel
 
 ## 2. Investment thesis and potential catalysts
 
-1. **A genuine network advantage:** Copart operates **286 facilities worldwide** (FY2026), serving all 50 U.S. states and buyers in 185+ countries. Its yard network, towing, storage and insurer relationships are expensive to replicate: suitable land requires zoning and permits, while environmental requirements and local opposition can delay expansion.
+1. **A genuine network advantage:** Copart operates **286 facilities worldwide**, serving all 50 U.S. states and buyers in 185+ countries. Its yard network, towing, storage and insurer relationships are expensive to replicate: suitable land requires zoning and permits, while environmental requirements and local opposition can delay expansion.
 2. **Long-run total-loss tailwind:** higher repair severity, car complexity, parts/labor costs and rentals support more vehicles being declared economic total losses over time. The Q4 FY2026 call cited 23.3% industry total-loss frequency in calendar Q2 2026 versus 22.4% the year before.
 3. **International opportunity:** Q4 FY2026 international unit sales grew 10.0% and insurance units grew 11.2%; management intends to expand existing operations and enter additional European markets. This offsets some, not all, U.S. weakness.
 4. **Whole-car optionality via ACV:** Copart paid approximately **$1.9bn in cash** for a scaled digital dealer-to-dealer auction network. Cross-platform buyers, franchise-dealer relationships, inspection technology, logistics and Copart's facilities can improve both networks if integrated successfully.
@@ -35,11 +35,11 @@ Copart operates an online vehicle remarketing platform. Its core business is sel
 8. **Return of a long-term CEO:** **Jay Adair returned as CEO on July 31, 2026**, replacing Jeff Liaw after previously leading Copart. During his July 2026 investor conference, Adair described the appointment as long term and said he intends to lead for **another 10-plus years**.
 9. **Founder-family economic alignment:** Founder **Willis Johnson (~5.8%)** and his son-in-law, CEO **Jay Adair (~3.2%)**, have substantial beneficial ownership. Some shares are held indirectly. A new **20m-option grant approved for Adair in October 2026**, subject to shareholder approval, comprises four 5m-share tranches with **strikes ranging from $26.27 to $52.54**, vesting after five years and **expiring October 13, 2036**.
 
-## 3. FY2026 operating problems — why the stock is under pressure
+## 3. FY2026 operating problems - why the stock is under pressure
 
 FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, and net income attributable to Copart fell **4.4%**. U.S. revenue declined while international operations grew.
 
-**FY2026 quarterly operating indicators — YoY, except gross-margin levels:**
+**FY2026 quarterly operating indicators - YoY, except gross-margin levels:**
 
 | Operating indicator | Q1 FY2026 | Q2 FY2026 | Q3 FY2026 | Q4 FY2026 |
 |---|---:|---:|---:|---:|
@@ -52,13 +52,13 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 | Global gross margin *(level; not YoY change)* | **46.5%** | **43.9%** | **46.3%** | **41.8%** |
 | U.S. facility-related cost **per unit** | n/d | n/d | n/d | **+14.2%** |
 
-**Insurer-client losses and competition from IAA:** Copart acknowledged losing a major insurer account. Industry reports identify **Progressive (PGR)**—a leading U.S. auto insurer—as the most important suspected loss, with business shifting toward **IAA**, acquired by **RB Global in 2023**. Some investors suspect overly aggressive contract negotiations under former CEO **Jeff Liaw** contributed to the dispute and his departure, but **neither claim is confirmed**. Excluding the lost customer, Q4 U.S. insurance assignments would have grown **2.3% YoY**.
+**Insurer-client losses and competition from IAA:** Copart acknowledged losing a major insurer account. Industry reports identify **Progressive (PGR)** - a leading U.S. auto insurer - as the most important suspected loss, with business shifting toward **IAA**, acquired by **RB Global in 2023**. Some investors suspect overly aggressive contract negotiations under former CEO **Jeff Liaw** contributed to the dispute and his departure, but **neither claim is confirmed**. Excluding the lost customer, Q4 U.S. insurance assignments would have grown **2.3% YoY**.
 
 **Automotive and economic headwinds:** Rising repair and insurance costs led some U.S. drivers to reduce coverage, while collision-claim frequency fell **3.4%**. Together with insurer competition, this pressured FY2026 U.S. insurance units (**-8.0%**) despite a rising total-loss rate.
 
 **Higher operating costs:** New services and facilities increased costs per vehicle as sales volumes fell; long-haul delivery accounted for approximately **$17m** of the Q4 year-on-year facility-cost increase.
 
-## 4. ACV Auctions — acquisition, valuation and strategic fit
+## 4. ACV Auctions - acquisition, valuation and strategic fit
 
 Copart mainly handles insurer salvage vehicles, often collecting and storing them at its yards; **ACV Auctions specializes in usable used cars sold by dealerships, often inspected and auctioned digitally while still at the dealer's lot**. Buying ACV accelerates Copart's **U.S. Whole Car** expansion and adds franchise-dealer relationships, vehicle inspection/data tools and technology that can benefit from Copart's yards, logistics and international buyer network.
 
@@ -90,7 +90,7 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 
 **Competitive landscape:** **IAA (RB Global, RBA)** is Copart's direct U.S. *salvage* rival. **OPENLANE (OPLN)**, **Carvana/ADESA (CVNA)** and privately held **Manheim (Cox Automotive)** compete in *Whole Car*. **Liquidity Services (LQDT)** is a broader auction-marketplace benchmark, not a direct insurer-salvage competitor. **ACV Auctions (formerly ACVA)** was an independent Whole Car peer in this historical snapshot, but Copart completed its acquisition on **October 16, 2026**.
 
-**Adjusted EBITDA comparison — October 15, 2026 reference snapshot.** Share prices in USD; market caps in USD billions; FY2026E EBITDA in USD millions.
+**Adjusted EBITDA comparison - October 15, 2026 reference snapshot.** Share prices in USD; market caps in USD billions; FY2026E EBITDA in USD millions.
 
 | Company | Price | Market cap | FY2026E adj. EBITDA | EV/EBITDA | EV/Sales | EBITDA margin | Net debt/EBITDA |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -100,7 +100,7 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 | ACV Auctions (ACVA; acquired) | $10.5 | $1.8bn | 75 | 23.9x | 2.1x | 8.8% | -0.5x |
 | Liquidity Services (LQDT) | $44.1 | $1.4bn | 80 | 14.5x | 2.4x | 16.7% | -2.9x |
 
-**Cash-flow comparison — October 15, 2026 snapshot; TTM figures in USD millions.** The capex numbers below follow the comparison snapshot's own definition.
+**Cash-flow comparison - October 15, 2026 snapshot; TTM figures in USD millions.** The capex numbers below follow the comparison snapshot's own definition.
 
 | Company | CFO | Capex | FCF | Market cap/FCF | EV/FCF |
 |---|---:|---:|---:|---:|---:|
@@ -195,7 +195,7 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 - **Interest income:** declines from $182m FY2026 to modeled $123m FY2027 after spending on ACV, then improves modestly to $127m FY2028 as the company replenishes cash. Rate assumptions and buyback size matter.
 - **Share count:** FY2026 closed with approximately **926.3m actual shares outstanding**. I use **~927m weighted-average diluted shares in FY2027 and conservatively keep ~927m in FY2028**, allowing for stock options, RSUs and ACV award conversions. FY2027 assumes **$450m of buybacks at $30/share (15m shares)**. Although Copart has the liquidity to repurchase more, **I do not assume any further diluted-share reduction in FY2028**; additional effective buybacks could add value per share.
 
-## 9. Valuation — why I prefer a $20 entry
+## 9. Valuation - why I prefer a $20 entry
 
 I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 

@@ -60,7 +60,7 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 
 ## 4. ACV Auctions — acquisition, valuation and strategic fit
 
-**Business and rationale:** Copart mainly handles insurer salvage vehicles, often collecting and storing them at its yards; **ACV Auctions specializes in usable used cars sold by dealerships, often inspected and auctioned digitally while still at the dealer's lot**. Buying ACV accelerates Copart's **U.S. Whole Car** expansion and adds franchise-dealer relationships, vehicle inspection/data tools and technology that can benefit from Copart's yards, logistics and international buyer network.
+Copart mainly handles insurer salvage vehicles, often collecting and storing them at its yards; **ACV Auctions specializes in usable used cars sold by dealerships, often inspected and auctioned digitally while still at the dealer's lot**. Buying ACV accelerates Copart's **U.S. Whole Car** expansion and adds franchise-dealer relationships, vehicle inspection/data tools and technology that can benefit from Copart's yards, logistics and international buyer network.
 
 **Transaction and consolidation:** Announced September 10 and completed **October 16, 2026**, at **$10.50 per ACV share in cash**, or approximately **$1,900m equity value**. It was funded with Copart's existing liquidity, without issuing new Copart shares as purchase consideration. ACV retains its brand and operating team. Copart consolidates approximately **9.5 months in FY2027** and **12 months in FY2028**.
 
@@ -116,6 +116,8 @@ The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m a
 
 USD millions, except margins, per-share data and diluted shares (in millions). FY ends July 31. **FY2023–FY2026 actual results.**
 
+**Long-term compounding:** Since its **1994 IPO**, Copart's revenue has grown at approximately **18% CAGR** and its FCF (CFO − total CAPEX) at approximately **21% CAGR** through FY2026, illustrating the strength of its historical business model.
+
 | Metric | FY2023 actual | FY2024 actual | FY2025 actual | FY2026 actual |
 |---|---:|---:|---:|---:|
 | **Revenues** | **3,870** | **4,237** | **4,647** | **4,666** |
@@ -129,7 +131,7 @@ USD millions, except margins, per-share data and diluted shares (in millions). F
 | **CFO** | **1,364** | **1,473** | **1,800** | **1,604** |
 | CAPEX | 517 | 511 | 569 | 337 |
 | **FCF = CFO - CAPEX** | **848** | **962** | **1,231** | **1,267** |
-| **FCF / diluted share** | **$0.88** | **$0.99** | **$1.26** | **$1.32** |
+| **FCF/Share** | **$0.88** | **$0.99** | **$1.26** | **$1.32** |
 
 ## 7. Management, ownership and governance
 
@@ -180,9 +182,9 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 | **CFO** | **1,604** | **1,700** | **1,840** |
 | **Capex (including ACV capitalized software)** | **337** | **440** | **510** |
 | **FCF = CFO - total capex** | **1,267** | **1,260** | **1,330** |
-| **FCF per diluted share** | **$1.32** | **$1.36** | **$1.43** |
-| Cash + held-to-maturity securities, year end | 4,490 | 3,585 | 4,355 |
-| Financial debt (excluding leases), year end | ~0 | 220 | 230 |
+| **FCF/Share** | **$1.32** | **$1.36** | **$1.43** |
+| Cash + held-to-maturity securities, year end | 4,490 | 3,585 | 4,345 |
+| Financial debt (excluding leases), year end | ~0 | 220 | 220 |
 | Net cash, excluding leases | 4,490 | 3,365 | 4,125 |
 
 **What drives the model:**
@@ -215,11 +217,12 @@ This comparison uses **our FY2027 estimates**: **$1,462m attributable net income
 
 ## 10. Risks and what would disprove the thesis
 
-1. **Sector weakness:** declining U.S. collision-claim frequency, weaker insurer salvage volumes, lower used-car prices or reduced export demand could weigh on units, proceeds and margins even if total-loss rates rise.
-2. **Further insurer contract losses:** losing additional large carriers to IAA or accepting worse commercial terms could indicate a structural weakening of Copart's U.S. network advantage.
-3. **ACV integration and disappointing synergies:** Copart paid around **$1.9bn** for a lower-margin, GAAP-loss-making business. Weak dealer adoption, integration difficulties or synergies below expectations could depress returns and cash generation.
-4. **Poor capital allocation:** Copart carried out a major **$1.6bn share buyback in FY2026 at an average $37.6/share**, a demanding valuation **while U.S. insurance volumes and operating costs were already deteriorating**. Further expensive buybacks or acquisitions could waste otherwise substantial cash resources.
-5. **Valuation compression:** a premium franchise can still suffer a prolonged derating if organic growth stalls or margins deteriorate, regardless of ACV-driven reported revenue growth.
-6. **Governance:** family influence and the incentive structure of management require monitoring, especially following the CEO transition.
+1. **Weak U.S. insurance market:** Collision-claim frequency fell **3.4%** and higher insurance premiums encouraged some drivers to reduce coverage. Rising total-loss frequency may not fully offset the resulting reduction in auction volumes.
+2. **Insurer losses and IAA competition:** The loss of a major customer, likely Progressive, highlights the risk of further contract losses or price concessions to IAA. Management did not rule out additional insurance tenders.
+3. **Higher cost per vehicle and margin pressure:** Q4 operating cost per vehicle rose **12.7%** while volumes declined. Investments in transportation, title services and wholesale facilities have yet to demonstrate sufficient incremental returns; weaker operating leverage could persist.
+4. **Slow organic Whole Car expansion:** U.S. non-insurance units declined **3.9% in FY2026**, despite new facilities and services. Copart must prove it can gain dealer volume profitably rather than rely solely on acquired ACV revenue.
+5. **ACV integration and uncertain synergies:** Copart paid around **$1.9bn** for a lower-margin business. Combining platforms, logistics and technology may require further spending, while the timing and size of profits and FCF improvements remain unproven.
+6. **Capital allocation:** The **$1.6bn FY2026 buyback at about $37.6/share** occurred amid weakening U.S. volumes and rising unit costs. Further expensive buybacks or acquisitions could produce poor returns on Copart's cash.
+7. **Valuation compression and limited visibility:** Management has not committed to specific near-term margin or spending targets. Even a strong franchise can trade at lower multiples for a prolonged period if organic growth and margins disappoint.
 
 > Independent fundamental research for educational and professional purposes; not investment advice.

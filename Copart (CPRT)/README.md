@@ -39,30 +39,34 @@ Copart operates an online vehicle remarketing platform. Its core business is sel
 8. **Return of a long-term CEO:** **Jay Adair returned as CEO on July 31, 2026**, replacing Jeff Liaw after previously leading Copart. During his July 2026 investor conference, Adair described the appointment as long term and said he intends to lead for **another 10-plus years**. His renewed focus on international insurance, U.S. Whole Car and technology may support execution, though the planned tenure is an intention rather than a guarantee.
 9. **Founder-family economic alignment:** Founder **Willis Johnson (5.75% beneficial ownership, roughly 5.8%)** and his **son-in-law Jay Adair (3.14%, approximately 3.2%)** have substantial ownership according to the **October 2025 proxy**. Certain interests are held through trusts, partnerships and foundations and are not necessarily freely disposable personal holdings. **On October 14, 2026, Copart approved an additional 20m-share stock-option grant for Adair, subject to shareholder approval**; this is not included in the older ownership percentages and may create future equity dilution.
 
-**Variant perception:** I am interested in a strong underlying franchise during a difficult operating year, but I do **not** presume the U.S. volume decline is temporary. The thesis requires measurable evidence that customer concentration, tender losses and competitive pricing are not permanently eroding its insurer franchise.
-
 ## 3. FY2026 operating problems — why the stock is under pressure
 
 FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, and net income attributable to Copart fell **4.4%**. U.S. revenue declined while international operations grew.
 
-During **Q4 FY2026**, as reported in the September 10 earnings call:
+**FY2026 quarterly operating indicators — YoY (year-on-year), except gross-margin levels:**
 
-| Operating indicator | Q4 FY2026 year-on-year |
-|---|---:|
-| Global vehicles sold | **-2.9%** |
-| U.S. vehicles sold | **-5.7%** |
-| U.S. insurance units | **-7.5%** |
-| International vehicles sold | **+10.0%** |
-| International insurance units | **+11.2%** |
-| Global insurance average selling prices | **+3.1%** |
-| Global Q4 gross margin | **41.8%** |
-| U.S. facility-related cost **per unit** | **+14.2%** |
+| Operating indicator | Q1 FY2026 | Q2 FY2026 | Q3 FY2026 | Q4 FY2026 |
+|---|---:|---:|---:|---:|
+| Global vehicles sold | **-6.7%** | **-8.0%** | **-2.4%** | **-2.9%** |
+| U.S. vehicles sold | **-7.9%** | **-9.5%** | **-4.2%** | **-5.7%** |
+| U.S. insurance units | **-9.5%** | **-10.7%** | **-4.2%** | **-7.5%** |
+| International vehicles sold | Down **<1%** | Down **<1%** | **+5.9%** | **+10.0%** |
+| International insurance units | Up **<1%** | **-2.6%** | **+4.6%** | **+11.2%** |
+| Global insurance ASP | **+6.8%** | n/d | n/d | **+3.1%** |
+| Global gross margin *(level; not YoY change)* | **46.5%** | **43.9%** | **46.3%** | **41.8%** |
+| U.S. facility-related cost **per unit** | n/d | n/d | n/d | **+14.2%** |
 
-For **FY2026 overall**, U.S. insurance unit volumes fell approximately **8%** and total U.S. units sold approximately **6.9%**. Adair disclosed that **excluding one lost insurer customer, U.S. insurance assignments would have been +2.3% in Q4**. This is management's counterfactual and uses *assignments*, not the same metric as sold units; it does not erase the actual loss or quantify permanent share loss.
+**Notes:** The data are reported YoY movements, **not** sequential quarter-on-quarter changes. “n/d” means the specific metric was not separately quantified in the respective earnings-call commentary reviewed; do not substitute overall ASP for **insurance ASP**, or total operating expenses for **facility cost per unit**. In Q1 and Q2, prior-year catastrophe-related vehicles distorted reported volume comparisons: management also provided more favorable comparisons after excluding catastrophe effects. Gross margin is the actual quarterly percentage, not a YoY percentage change.
 
-Management cited declining collision-claim frequency (approximately **-3.4%**), greater total-loss severity and investment in new services/physical capacity. CFO Leah Stearns indicated the majority of the recent facility-cost increase came from services such as long-haul delivery and added capacity; about **$17m** of the YoY facility-cost increase related to long-haul delivery. These products can ultimately generate margin, but the company must demonstrate that revenue and throughput justify the cost base.
+**Loss of a major insurance customer — likely Progressive (PGR):** Adair confirmed in the Q4 FY2026 call that **without one lost customer, U.S. insurance assignments would have risen 2.3% YoY**, rather than declining. Copart **did not publicly name that customer**. Industry research and former-yard-management accounts identify **Progressive**, among the largest U.S. private-auto insurers (and a U.S. market-share leader), as the likely source of material lost volume; they indicate that business shifted **toward IAA, part of RB Global**. The reported commercial explanation is that Progressive pushed for **lower auction/service fees and demanding turnaround/pickup standards**, while Copart was unwilling to match the economics. This is an **informed industry interpretation, not a publicly confirmed complete account transfer or a disclosed contract explanation**: account allocation may differ by state or location.
 
-**Bearish interpretation:** U.S. insurers are becoming more price-sensitive; IAA may be winning accounts; the apparently stable historical moat is weakening. **More constructive interpretation:** one large contract loss, falling collision claims and a temporary investment phase explain much of the pressure, while higher average proceeds and international buyers preserve the competitive advantage. I will test both against coming quarterly assignments, seller wins/losses and margin trends.
+**Former CEO and governance:** Some investor commentary connects the insurer-account disruption and reports of tighter operational controls and staff dissatisfaction under **Jeff Liaw** to Jay Adair's return. However, **there is no verified company disclosure proving Progressive caused Liaw's departure, nor that Liaw personally forced an adverse contract outcome**. Copart announced the CEO succession in June 2026, thanked Liaw for his service and did not attribute the transition to that insurer. Treat any causal connection as speculation, not established fact.
+
+For **FY2026 overall**, U.S. insurance unit volumes fell approximately **8%** and total U.S. units sold approximately **6.9%**. *Assignments* are vehicles newly handed over by an insurer, whereas *units sold* are auction completions; the two series do not move at identical times. The 2.3% counterfactual concerns **Q4 U.S. insurance assignments** and does **not** mean U.S. insurance units sold actually grew.
+
+Management also cited declining collision-claim frequency (approximately **-3.4%**), higher total-loss severity, and investment in new services and yard capacity. CFO Leah Stearns said much of the additional facility expense was associated with offerings such as long-haul delivery; approximately **$17m** of the Q4 year-on-year cost increase was related to that service. These initiatives may contribute revenue and profits, but management must show the returns justify the associated unit costs.
+
+**Investment implication:** The key question is whether this was one financially unattractive account that Copart rationally declined to retain, or evidence of a more durable competitive shift toward IAA. Monitoring carrier wins/losses, U.S. insurance assignments versus sold units, fee economics and cost per vehicle is more important than treating ACV-driven consolidated revenue growth as recovery in the legacy insurance business.
 
 ## 4. Historical financials, cash generation and capital allocation
 

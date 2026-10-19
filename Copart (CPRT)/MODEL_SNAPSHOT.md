@@ -125,7 +125,7 @@ The difference between **$80m “synergies” and actual free cash flow** is mat
 | **CFO** | **1,604** | **1,700** | **1,840** |
 | Cash capex | -337 | -440 | -510 |
 | **FCF** | **1,267** | **1,260** | **1,330** |
-| FCF / modeled diluted share | $1.32 | **$1.36** | **$1.43** |
+| **FCF/Share** | $1.32 | **$1.36** | **$1.43** |
 | **Separate net financing of ACV loan book (hypothetical)** | n/a | **-70** | **-120** |
 | **Cash after this additional loan-book investment** | n/a | **1,190** | **1,210** |
 
@@ -145,9 +145,9 @@ No *operating lease* add-back is used in this simplified US-GAAP EBITDA-to-FCF b
 | Consolidated FCF | +1,260 | +1,330 |
 | ACV Capital net financing assumption | -70 | -120 |
 | Copart repurchases assumption | -450 | -450 |
-| Net new financial borrowing / warehouse change | +15 | +10 |
-| **Closing cash + held-to-maturity securities** | **3,585** | **4,355** |
-| Financial debt excluding leases, estimated | **220** | **230** |
+| Net new financial borrowing / warehouse change | +15 | 0 |
+| **Closing cash + held-to-maturity securities** | **3,585** | **4,345** |
+| Financial debt excluding leases, estimated | **220** | **220** |
 | **Net cash excluding leases** | **3,365** | **4,125** |
 
 **Warning:** ACV acquisition proceeds should not be modeled as operating capex. ACV $240m cash and $205m financial debt are June 2026 proxies, **not** certified October 16 closing cash/debt. The $1.9bn headline equity consideration may not capture all award settlements/transaction cash outlays.

@@ -2,8 +2,8 @@
 
 **Research date:** October 19, 2026  
 **Status:** Watchlist / active research; position ownership not assumed  
-**Preferred entry price:** **$20.00/share**  
-**Reference share price:** **$27.87**, October 16, 2026 close  
+**Preferred entry price:** **$20/share**  
+**Reference share price:** **$27.9**, October 16, 2026 close  
 **Case type:** Quality compounder / temporary operational setback / acquisition integration  
 
 ## 1. Business overview
@@ -31,13 +31,13 @@ Copart operates an online vehicle remarketing platform. Its core business is sel
 
 1. **A genuine network advantage:** Copart operated **286 facilities worldwide at July 31, 2026** (versus **281** a year earlier), with facilities in **all 50 U.S. states**. Its corporate website describes vehicle inventory spread across **more than 20,000 acres** (a general scale figure, not audited FY2026 acreage). Replicating this footprint from scratch is capital-intensive: new yards require large, suitably located plots with access to major roads and, above all, **appropriate land-use zoning and operating permits**. Environmental compliance—including stormwater management, preventing fuel/oil contamination and waste handling—and potential community opposition can add cost and delay approvals. This established physical network, combined with insurer relationships, logistics and international buyer demand, supports auction liquidity and disaster-response capacity. These are meaningful barriers to entry, **not an absolute monopoly**: IAA also operates an extensive yard network.
 2. **Long-run total-loss tailwind:** higher repair severity, car complexity, parts/labor costs and rentals support more vehicles being declared economic total losses over time. The Q4 FY2026 call cited 23.3% industry total-loss frequency in calendar Q2 2026 versus 22.4% the year before. This tailwind is **not the same as near-term claims-volume growth**.
-3. **International opportunity:** Q4 FY2026 international unit sales grew 10% and insurance units grew 11.2%; management intends to expand existing operations and enter additional European markets. This offsets some, not all, U.S. weakness.
+3. **International opportunity:** Q4 FY2026 international unit sales grew 10.0% and insurance units grew 11.2%; management intends to expand existing operations and enter additional European markets. This offsets some, not all, U.S. weakness.
 4. **Whole-car optionality via ACV:** Copart paid approximately **$1.9bn in cash** for a scaled digital dealer-to-dealer auction network. Cross-platform buyers, franchise-dealer relationships, inspection technology, logistics and Copart's facilities can improve both networks if integrated successfully.
-5. **Substantial balance-sheet resilience:** At July 31, 2026, Copart held approximately **$4.49bn in cash and held-to-maturity securities** with no material financial debt outstanding, before acquiring ACV. **My model estimates more than $3.2bn of net cash after ACV, forecast cash flows and assumed repurchases: about $3.37bn at FY2027 year-end and $4.13bn at FY2028 year-end.** Compared with the approximately **$26bn market capitalization at the October 16, 2026 reference price**, that is roughly **13% and 16% net cash**, respectively. These percentages compare future modeled cash with today's reference market cap, not future forecast market caps; actual balances may differ with investments, funding needs and capital allocation.
+5. **Substantial balance-sheet resilience:** At July 31, 2026, Copart held approximately **$4.49bn in cash and held-to-maturity securities** with no material financial debt outstanding, before acquiring ACV. **My model estimates more than $3.2bn of net cash after ACV, forecast cash flows and assumed repurchases: about $3.37bn at FY2027 year-end and $4.13bn at FY2028 year-end.** Compared with the approximately **$26bn market capitalization at the October 16, 2026 reference price**, that is roughly **13.0% and 16.0% net cash**, respectively. These percentages compare future modeled cash with today's reference market cap, not future forecast market caps; actual balances may differ with investments, funding needs and capital allocation.
 6. **Strong free-cash-flow generation:** Despite declining U.S. insurance volumes, Copart generated **$1.27bn in FY2026 FCF (CFO less capex)**. Our model estimates roughly **$1.26bn in FY2027 and $1.33bn in FY2028**. Continued FCF can rebuild cash after ACV, fund investments and support share repurchases, potentially increasing per-share value. The estimates remain sensitive to normalized capex, working capital and ACV Capital's financing needs.
-7. **Meaningful buyback capacity:** Copart repurchased **43.43m shares for $1.63bn in FY2026 at an average $37.63/share**. I assume **$450m of annual repurchases at $30/share** for FY2027 and FY2028, helping reduce diluted shares and create value per share if acquired below intrinsic value. Copart has the liquidity to consider larger repurchases, although its management generally retains substantial cash for flexibility and investment. Future buybacks are **my assumptions, not company guidance**.
+7. **Meaningful buyback capacity:** Copart repurchased **43.4m shares for $1.6bn in FY2026 at an average $37.6/share**. I assume **$450m of annual repurchases at $30/share** for FY2027 and FY2028, helping reduce diluted shares and create value per share if acquired below intrinsic value. Copart has the liquidity to consider larger repurchases, although its management generally retains substantial cash for flexibility and investment. Future buybacks are **my assumptions, not company guidance**.
 8. **Return of a long-term CEO:** **Jay Adair returned as CEO on July 31, 2026**, replacing Jeff Liaw after previously leading Copart. During his July 2026 investor conference, Adair described the appointment as long term and said he intends to lead for **another 10-plus years**. His renewed focus on international insurance, U.S. Whole Car and technology may support execution, though the planned tenure is an intention rather than a guarantee.
-9. **Founder-family economic alignment:** Founder **Willis Johnson (5.75% beneficial ownership, roughly 5.8%)** and his **son-in-law Jay Adair (3.14%, approximately 3.2%)** have substantial ownership according to the **October 2025 proxy**. Certain interests are held through trusts, partnerships and foundations and are not necessarily freely disposable personal holdings. **On October 14, 2026, Copart approved an additional 20m-share stock-option grant for Adair, subject to shareholder approval**; this is not included in the older ownership percentages and may create future equity dilution.
+9. **Founder-family economic alignment:** Founder **Willis Johnson (5.8% beneficial ownership, roughly 5.8%)** and his **son-in-law Jay Adair (3.1%, approximately 3.2%)** have substantial ownership according to the **October 2025 proxy**. Certain interests are held through trusts, partnerships and foundations and are not necessarily freely disposable personal holdings. **On October 14, 2026, Copart approved an additional 20m-share stock-option grant for Adair, subject to shareholder approval**; this is not included in the older ownership percentages and may create future equity dilution.
 
 ## 3. FY2026 operating problems — why the stock is under pressure
 
@@ -50,8 +50,8 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 | Global vehicles sold | **-6.7%** | **-8.0%** | **-2.4%** | **-2.9%** |
 | U.S. vehicles sold | **-7.9%** | **-9.5%** | **-4.2%** | **-5.7%** |
 | U.S. insurance units | **-9.5%** | **-10.7%** | **-4.2%** | **-7.5%** |
-| International vehicles sold | Down **<1%** | Down **<1%** | **+5.9%** | **+10.0%** |
-| International insurance units | Up **<1%** | **-2.6%** | **+4.6%** | **+11.2%** |
+| International vehicles sold | Down **<1.0%** | Down **<1.0%** | **+5.9%** | **+10.0%** |
+| International insurance units | Up **<1.0%** | **-2.6%** | **+4.6%** | **+11.2%** |
 | Global insurance ASP | **+6.8%** | n/d | n/d | **+3.1%** |
 | Global gross margin *(level; not YoY change)* | **46.5%** | **43.9%** | **46.3%** | **41.8%** |
 | U.S. facility-related cost **per unit** | n/d | n/d | n/d | **+14.2%** |
@@ -62,7 +62,7 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 
 **Former CEO and governance:** Some investor commentary connects the insurer-account disruption and reports of tighter operational controls and staff dissatisfaction under **Jeff Liaw** to Jay Adair's return. However, **there is no verified company disclosure proving Progressive caused Liaw's departure, nor that Liaw personally forced an adverse contract outcome**. Copart announced the CEO succession in June 2026, thanked Liaw for his service and did not attribute the transition to that insurer. Treat any causal connection as speculation, not established fact.
 
-For **FY2026 overall**, U.S. insurance unit volumes fell approximately **8%** and total U.S. units sold approximately **6.9%**. *Assignments* are vehicles newly handed over by an insurer, whereas *units sold* are auction completions; the two series do not move at identical times. The 2.3% counterfactual concerns **Q4 U.S. insurance assignments** and does **not** mean U.S. insurance units sold actually grew.
+For **FY2026 overall**, U.S. insurance unit volumes fell approximately **8.0%** and total U.S. units sold approximately **6.9%**. *Assignments* are vehicles newly handed over by an insurer, whereas *units sold* are auction completions; the two series do not move at identical times. The 2.3% counterfactual concerns **Q4 U.S. insurance assignments** and does **not** mean U.S. insurance units sold actually grew.
 
 Management also cited declining collision-claim frequency (approximately **-3.4%**), higher total-loss severity, and investment in new services and yard capacity. CFO Leah Stearns said much of the additional facility expense was associated with offerings such as long-haul delivery; approximately **$17m** of the Q4 year-on-year cost increase was related to that service. These initiatives may contribute revenue and profits, but management must show the returns justify the associated unit costs.
 
@@ -70,32 +70,33 @@ Management also cited declining collision-claim frequency (approximately **-3.4%
 
 ## 4. ACV Auctions — acquisition, valuation and strategic fit
 
-**Announced:** September 10, 2026. **Completed:** October 16, 2026. **Price:** $10.50 per ACVA share in cash, approximately **$1.9bn equity value**, a 45% premium to ACV's unaffected August 10 share price. Copart funded the offer with existing cash. ACV retains its brand and management; the group can integrate buyers, transportation and yard use without merging both customer-facing platforms.
+**Business and rationale:** Copart mainly handles insurer salvage vehicles, often collecting and storing them at its yards; **ACV Auctions specializes in usable used cars sold by dealerships, often inspected and auctioned digitally while still at the dealer's lot**. Buying ACV accelerates Copart's **U.S. Whole Car** expansion and adds franchise-dealer relationships, vehicle inspection/data tools and technology that can benefit from Copart's yards, logistics and international buyer network.
 
-ACV inspects and auctions used, generally serviceable vehicles for franchised and independent dealers. Core offerings include digital dealer auctions, vehicle-inspection/reporting data, ACV Transportation, financing (ACV Capital), ACV MAX and VIPER. ACV sold over 800,000 vehicles in 2025 with approximately $10bn merchandise value, **not $10bn of revenue**.
+**Transaction and consolidation:** Announced September 10 and completed **October 16, 2026**, at **$10.50 per ACV share in cash**, or approximately **$1,900m equity value**. It was funded with Copart's existing liquidity, without issuing new Copart shares as purchase consideration. ACV retains its brand and operating team. Copart consolidates approximately **9.5 months in FY2027** and **12 months in FY2028**.
 
-**Price versus profitability (indicative):**
+**ACV financials (USD millions; calendar years ended December 31):**
 
-- ACV FY2025 revenue: approximately **$760m**; FY2026 standalone revenue guidance: **$845m–$855m**, midpoint $850m.
-- FY2026 standalone guidance: **$73m–$77m adjusted EBITDA** and **$44m–$49m GAAP net loss**.
-- Using approximately **$242m cash and $205m financial debt** at June 2026, illustrative enterprise value is **$1.86bn** ($1.90bn + $205m - $242m), excluding closing adjustments and other equity-award consideration.
-- This implies about **2.2x FY2026E revenue** and **24.8x FY2026E adjusted EBITDA** at the midpoint; the **FY2025 FCF yield on the equity purchase price was low**. These are not bargain multiples on current profits.
-- ACV's H1 2026 revenue was **$418.1m**; GAAP operating loss **$15.3m**, CFO **$41.0m**, capex **$4.9m physical + $18.5m capitalized software**, resulting in **$17.6m CFO-less-total-capex FCF**. Ignore capitalized software and the FCF is overstated.
+| Metric | CY2025 actual | CY2026E, guidance midpoint |
+|---|---:|---:|
+| **Revenue** | **760** | **850** |
+| **Adjusted EBITDA** *(excludes SBC)* | **59** | **75** |
+| Adjusted EBITDA margin | 7.8% | 8.8% |
+| **GAAP net income (loss)** | **-66** | **-47** |
+| CFO | 78 | n/a |
+| Total capex *(physical + capitalized software)* | 45 | n/a |
+| **FCF = CFO - capex** | **34** | n/a |
 
-**ACV's different projection sets:** its **August 2026 public guidance** projected **$850m FY2026 revenue and $75m adjusted EBITDA** (midpoints). The **September 2026 Schedule 14D-9**, prepared for the sale process on a standalone basis, included a *different* management scenario:
+The latest standalone FY2026 guidance was **$845m–$855m revenue, $73m–$77m adjusted EBITDA and a $44m–$49m GAAP net loss**. ACV's adjusted EBITDA excludes significant stock-based compensation, and the FCF shown does **not** deduct incremental investment in its vehicle-financing loan portfolio.
 
-| ACV standalone, December year-end | CY2026E | CY2027E | CY2028E |
-|---|---:|---:|---:|
-| Revenue ($m) | **857** | **964** | **1,116** |
-| Adjusted EBITDA excluding SBC ($m) | **78** | **123** | **187** |
-| Adjusted EBIT **after** SBC and D&A ($m) | **-15** | **20** | **73** |
-| Unlevered FCF ($m) | n/a | **-97** | **-69** |
+**Purchase valuation before synergies:** Using ACV's June 2026 balance as a proxy (**$242m cash; $205m financial debt**), implied **EV ≈ $1,863m** ($1,900m equity purchase price + $205m debt - $242m cash). Closing-date figures and equity-award treatment may change this estimate.
 
-These transaction projections were **not guidance** and assume ACV remains standalone. Particularly important: ACV's non-GAAP adjusted EBITDA excludes **stock-based compensation (SBC)**, which is a real economic cost to shareholders. FY2026 standalone guidance anticipated approximately **$63m of SBC**. The negative projected *unlevered* FCF underscores working-capital/credit-growth demands and must not be casually reconciled to positive CFO-minus-capex.
+| Acquisition multiple | CY2025 actual | CY2026 guidance midpoint |
+|---|---:|---:|
+| **EV / Revenue** | **2.5x** | **2.2x** |
+| **EV / Adjusted EBITDA** | **31.7x** | **24.8x** |
+| **Equity purchase price / FCF** | **56.6x** | n/a |
 
-**Potential synergies:** buyer liquidity, direct access to franchise dealers, better net proceeds, cross-border demand, yard staging, title/logistics capabilities and inspection technology. Copart's call discussed training, ACV-specific facility areas and continued technology investment. **Management has not quantified a reliable net synergy target**; the amounts in my model are illustrative.
-
-**EPS guidance nuance:** the September announcement described the purchase as EPS-accretive in **Copart FY2028 and beyond**. In Q4 Q&A, the CFO explained that FY2028 was the first full fiscal year expected after an uncertain close date, and used break-even/initial accretion language. The release did **not** quantify EPS, amortization, integration costs or give a detailed GAAP/non-GAAP reconciliation. As of October 16 the acquisition has actually closed: approximately **9.5 months of ACV fall in Copart FY2027**, and the full 12 months in FY2028.
+**Takeaway:** ACV gives Copart immediate scale in Whole Car and stronger digital capabilities, but **the price is demanding relative to current EBITDA and FCF**. Any economic justification depends on ACV's earnings/cash-flow growth and ultimately achieving synergies; no quantified synergy figure was promised by management.
 
 ## 5. Historical financials, cash generation and capital allocation
 
@@ -110,7 +111,7 @@ USD millions, except margins, per-share data and diluted shares (in millions). F
 | **Diluted EPS** | **$1.28** | **$1.40** | **$1.59** | **$1.55** | **$1.58** |
 | **Total cash + liquid investments** | **2,364** | **3,422** | **4,789** | **4,490** | **3,585** |
 | Total financial debt (excluding leases) | 11 | 0 | 0 | 0 | **220** |
-| **Net debt / EBITDA** | **-1.43x** | **-1.94x** | **-2.50x** | **-2.37x** | **-1.67x** |
+| **Net debt / EBITDA** | **-1.4x** | **-1.9x** | **-2.5x** | **-2.4x** | **-1.7x** |
 | **CFO** | **1,364** | **1,473** | **1,800** | **1,604** | **1,700** |
 | CAPEX | 517 | 511 | 569 | 337 | **440** |
 | **FCF = CFO - CAPEX** | **848** | **962** | **1,231** | **1,267** | **1,260** |
@@ -122,35 +123,35 @@ USD millions, except margins, per-share data and diluted shares (in millions). F
 
 **The FY2026 FCF increase is not an operating-cash-flow acceleration.** CFO fell from $1.80bn to $1.60bn, but capex fell from $569m to $337m. Assuming $337m indefinitely would be overly optimistic given ongoing land, yard capacity, transportation and technology investment.
 
-**Capital allocation:** The FY2026 buyback of approximately $1.63bn exceeded annual FCF and was executed at an average **$37.63/share**, above my preferred $20 entry. Repurchases reduced outstanding shares to approximately **926.3m** in September 2026; the FY2026 **weighted-average diluted** figure of 956.9m should *not* be treated as the current share count.
+**Capital allocation:** The FY2026 buyback of approximately $1.6bn exceeded annual FCF and was executed at an average **$37.6/share**, above my preferred $20 entry. Repurchases reduced outstanding shares to approximately **926.3m** in September 2026; the FY2026 **weighted-average diluted** figure of 956.9m should *not* be treated as the current share count.
 
 ## 6. Management, ownership and governance
 
 **Jay Adair** resumed the CEO role effective July 31, 2026, succeeding Jeff Liaw. He is also executive chairman and is Willis Johnson's son-in-law. **Willis Johnson**, founder, chairs the board. Founder involvement supports long-term strategic thinking, but family control and board independence deserve scrutiny.
 
-**FY2025 proxy disclosure** (latest comparable personal-compensation figures used here; **not a verified FY2027 CEO pay contract**):
+**FY2025 reported compensation** (historical; not a FY2027 CEO pay agreement):
 
-| Item | Jay Adair (FY2025; executive chairman) | Jeff Liaw (FY2025; then CEO) |
+| Item | Jay Adair *(then executive chairman)* | Jeff Liaw *(then CEO)* |
 |---|---:|---:|
-| Salary | **$1** | **$900,000** |
-| Annual cash bonus | $0 | $1,093,400 |
-| New equity awards in FY2025 | $0 | $0 |
-| Other compensation and benefits | **$432,171** | $79,292 |
-| **Total reported** | **$432,172** | **$2,072,692** |
+| Salary | $1 | $900k |
+| Cash bonus | $0 | $1.1m |
+| New FY2025 equity awards | $0 | $0 |
+| Other compensation / benefits | $432k | $79k |
+| **Total compensation** | **$432k** | **$2.1m** |
 
-Most of Adair's FY2025 other compensation involved personal use of corporate aircraft; a nominal salary is **not** the same as zero total economic cost. Adair's major outstanding 2020 grant comprised **4m stock options**, adjusted strike approximately **$21.26**, contingent on the share-price condition of approximately **$26.58** for 20 consecutive trading closes and at exercise, with expiration June 2030. This is not $120m of cash compensation at a $30 share price: its **intrinsic option value** at that price would be 4m × ($30 - $21.26) = **$35m**, provided the contractual conditions are met.
+Most of Adair's FY2025 other compensation involved personal use of corporate aircraft; a nominal salary is **not** the same as zero total economic cost. Adair's major outstanding 2020 grant comprised **4m stock options**, adjusted strike approximately **$21.3**, contingent on the share-price condition of approximately **$26.6** for 20 consecutive trading closes and at exercise, with expiration June 2030. This is not $120m of cash compensation at a $30 share price: its **intrinsic option value** at that price would be 4m × ($30 - $21.26) = **$35m**, provided the contractual conditions are met.
 
 **Beneficial ownership at October 10, 2025 (historical disclosure; not October 2026 ownership):**
 
 | Holder | Beneficial shares, including certain exercisable options | % reported |
 |---|---:|---:|
-| **Willis Johnson** | **55.70m** | **5.75%** |
-| **Jay Adair** | **30.56m** | **3.14%** |
-| All directors and executives (then 13 people) | **93.96m** | **9.60%** |
+| **Willis Johnson** | **55.7m** | **5.8%** |
+| **Jay Adair** | **30.6m** | **3.1%** |
+| All directors and executives (then 13 people) | **94.0m** | **9.6%** |
 
-Johnson's count included about **55.49m shares/interests + 0.21m options**; Adair's included about **26.56m shares/interests + 4.00m options**. These figures include revocable trusts, partnerships and foundations; not all indirect holdings are personal, immediately disposable stock. Beneficial-ownership percentages for option holders can use holder-specific denominators, so the percentages should not be mechanically combined or conflated with direct voting control.
+Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair's included about **26.6m shares/interests + 4.0m options**. These figures include revocable trusts, partnerships and foundations; not all indirect holdings are personal, immediately disposable stock. Beneficial-ownership percentages for option holders can use holder-specific denominators, so the percentages should not be mechanically combined or conflated with direct voting control.
 
-**Governance risks:** a September 2025 exception allowed Johnson to **pledge up to 20% of his beneficially owned shares as collateral** for personal loans; authorization does not prove that any amount was actually pledged. Liaw's 2026 departure arrangements also modified certain equity-award performance/lockup conditions. Both warrant monitoring alongside the overall alignment.
+**Governance risks:** a September 2025 exception allowed Johnson to **pledge up to 20.0% of his beneficially owned shares as collateral** for personal loans; authorization does not prove that any amount was actually pledged. Liaw's 2026 departure arrangements also modified certain equity-award performance/lockup conditions. Both warrant monitoring alongside the overall alignment.
 
 ## 7. My FY2027–FY2028 pro forma model
 
@@ -186,7 +187,7 @@ Johnson's count included about **55.49m shares/interests + 0.21m options**; Adai
 **What drives the model:**
 
 - **Copart organic revenue:** +3.8% FY2027, +5.0% FY2028, versus FY2026's +0.4% total. This assumes some volume/cost stabilization; it is not management guidance.
-- **ACV revenue contribution:** **$741m FY2027** (partial-year) and **$1,053m FY2028** (full fiscal year, blended from standalone calendar projections). ACV generates approximately **81% of the modeled incremental group revenue in FY2027**. Headline growth therefore overstates the underlying salvage recovery.
+- **ACV revenue contribution:** **$741m FY2027** (partial-year) and **$1,053m FY2028** (full fiscal year, blended from standalone calendar projections). ACV generates approximately **81.0% of the modeled incremental group revenue in FY2027**. Headline growth therefore overstates the underlying salvage recovery.
 - **Incremental ACV purchase-price amortization:** **$35m FY2027 / $45m FY2028**; **synergies:** **+$20m / +$80m** EBIT. Both are **independent hypotheses**, not reported purchase-price allocation or promised synergies. New amortization is additional to ACV's historical D&A.
 - **Interest income:** declines from $182m FY2026 to modeled $123m FY2027 after spending on ACV, then improves modestly to $127m FY2028 as the company replenishes cash. Rate assumptions and buyback size matter.
 - **Share count:** FY2026 ended with ~926.3m **actual outstanding** shares. Model assumes **$450m buybacks annually at $30/share** = 15m shares retired each year, phased through each year; employee options/RSUs and ACV equity-award conversions dilute. Expected *average diluted shares*, not year-end basic shares: **927m / 915m**. Exact treasury-stock-method dilution is unknown.
@@ -201,12 +202,12 @@ Johnson's count included about **55.49m shares/interests + 0.21m options**; Adai
 The **$20 entry** is my intended valuation discipline, **not** an assertion that the current market must trade there. Use 926.33m actual outstanding shares for spot-equity capitalization and approximately 915m prospective diluted shares for the FY2028 valuation; never use FY2026 weighted-average shares for the current market cap.
 
 **At $20/share** (spot share-count reference):
-- Equity capitalization = **$18.53bn** (926.33m × $20).
-- Cash immediately after acquisition, **simplified June/July balance-sheet proxy**: $4.49bn pre-deal liquidity - $1.90bn cash purchase + ~$0.24bn ACV cash = **$2.83bn**; less ~$0.21bn acquired financial debt implies **~$2.63bn net cash**. The actual October 16 cash/debt bridge and closing consideration can differ.
-- Illustrative **pro forma EV ~$15.90bn** (market cap less ~$2.63bn net cash), equivalent to **~7.0x modeled FY2028 EBITDA**.
+- Equity capitalization = **$18.5bn** (926.33m × $20).
+- Cash immediately after acquisition, **simplified June/July balance-sheet proxy**: $4.49bn pre-deal liquidity - $1.90bn cash purchase + ~$0.24bn ACV cash = **$2.8bn**; less ~$0.21bn acquired financial debt implies **~$2.6bn net cash**. The actual October 16 cash/debt bridge and closing consideration can differ.
+- Illustrative **pro forma EV ~$15.9bn** (market cap less ~$2.6bn net cash), equivalent to **~7.0x modeled FY2028 EBITDA**.
 - **FY2028 P/E ~11.3x** ($20 / $1.77), **P/FCF ~13.8x** ($20 / $1.45), FCF equity yield **~7.3%**. This FCF yield is *before* additional lending-book investment.
 
-**At the $27.87 October 16 reference:** the corresponding FY2028 P/E is **~15.7x**, P/FCF **~19.2x**, and pro forma EV/FY2028 EBITDA **~10.3x**, on unchanged acquisition-close balance assumptions. Both price comparisons use the same model—not synchronized future market quotes.
+**At the $27.9 October 16 reference:** the corresponding FY2028 P/E is **~15.7x**, P/FCF **~19.2x**, and pro forma EV/FY2028 EBITDA **~10.3x**, on unchanged acquisition-close balance assumptions. Both price comparisons use the same model—not synchronized future market quotes.
 
 ### FY2028 enterprise-value sensitivity
 
@@ -214,15 +215,15 @@ A simplified equity bridge: **price = (FY2028 EBITDA × EV/EBITDA + FY2028 net c
 
 | Scenario | FY2028 EBITDA | EV/EBITDA | Net cash | Diluted shares | Implied equity/share | vs. $20 entry |
 |---|---:|---:|---:|---:|---:|---:|
-| **Bear**: prolonged U.S. volume losses; little ACV leverage | $1,900m | 7.0x | $3,200m | 925m | **$17.84** | **-10.8%** |
-| **Base**: modest salvage recovery + some ACV synergy | $2,256m | 9.0x | $4,125m | 915m | **$26.70** | **+33.5%** |
-| **Bull**: unit recovery, strong ACV execution | $2,450m | 11.0x | $4,300m | 910m | **$34.34** | **+71.7%** |
+| **Bear**: prolonged U.S. volume losses; little ACV leverage | $1,900m | 7.0x | $3,200m | 925m | **$17.8** | **-10.8%** |
+| **Base**: modest salvage recovery + some ACV synergy | $2,256m | 9.0x | $4,125m | 915m | **$26.7** | **+33.5%** |
+| **Bull**: unit recovery, strong ACV execution | $2,450m | 11.0x | $4,300m | 910m | **$34.3** | **+71.7%** |
 
 The bear is **not a hard downside floor**: a deeper loss of insurer share, weaker FCF, expensive buybacks, acquisition failure or multiple compression could justify prices well below $17–18. The bull requires execution not yet proved.
 
-The base-case upside from **$27.87** is approximately **-4.2%** over the indicated valuation reference, before the time value of waiting. That is why I would prefer to **wait for $20 rather than chase**. At $20 the model offers a more comfortable potential reward versus a conventional operating downside case, provided the fundamentals remain intact. No dividend or buyback execution is guaranteed.
+The base-case upside from **$27.9** is approximately **-4.2%** over the indicated valuation reference, before the time value of waiting. That is why I would prefer to **wait for $20 rather than chase**. At $20 the model offers a more comfortable potential reward versus a conventional operating downside case, provided the fundamentals remain intact. No dividend or buyback execution is guaranteed.
 
-**Cross-check:** at $20 the **FY2028 modeled FCF of $1.33bn / spot $18.53bn equity** implies approximately **7.2% FCF yield**; using **$1.45 FCF per modeled diluted share** produces around **7.3%**, a harmless discrepancy due to different share-count bases. Do not claim that the capex-adjusted FCF equals cash distributable to common shareholders if ACV's finance receivables require additional funding.
+**Cross-check:** at $20 the **FY2028 modeled FCF of $1.33bn / spot $18.5bn equity** implies approximately **7.2% FCF yield**; using **$1.45 FCF per modeled diluted share** produces around **7.3%**, a harmless discrepancy due to different share-count bases. Do not claim that the capex-adjusted FCF equals cash distributable to common shareholders if ACV's finance receivables require additional funding.
 
 ## 9. Risks and what would disprove the thesis
 
@@ -230,7 +231,7 @@ The base-case upside from **$27.87** is approximately **-4.2%** over the indicat
 2. **Higher cost per unit / margin damage:** new services and capacity may not earn sufficient incremental returns. Watch facility cost per vehicle, revenue per unit and U.S. EBIT margin, **not only** ASP.
 3. **ACV integration and overpayment:** $1.9bn for a GAAP-loss-making, adjusted-metric-heavy business. Weak platform adoption, inadequate synergies, SBC, additional amortization or credit losses could make ROIC disappointing.
 4. **ACV Capital credit/working-capital risk:** floorplan/wholesale financing draws liquidity; operating cash flow and unlevered FCF are not identical to CFO-minus-capex.
-5. **Capital allocation:** Copart's large buyback at ~$37.63 versus my $20 desired entry illustrates the risk that an otherwise great business can destroy value by deploying cash at the wrong price.
+5. **Capital allocation:** Copart's large buyback at ~$37.6 versus my $20 desired entry illustrates the risk that an otherwise great business can destroy value by deploying cash at the wrong price.
 6. **Economic sensitivity:** collision frequency can decline even when total-loss frequency rises. Lower used-car values, export restrictions, insurance cost pressures or recession can change volumes, ASPs and buyers.
 7. **Insider/governance issues:** family influence, permitted share pledging and modification of departing executive awards.
 8. **Valuation compression:** even a high-ROIC network can trade at a lower multiple for years; my base valuation is *not* a near-term guaranteed target.

@@ -141,6 +141,15 @@ A high-leverage enterprise AI turnaround centered on converting existing underut
 
 **Skills demonstrated:** leveraged equity valuation, fully diluted equity bridge, restructuring/capital structure, AI infrastructure unit economics, FCF and financing sensitivity.
 
+### 14. [Copart (CPRT) — Salvage Auction Network, ACV Acquisition & $20 Entry](./Copart%20%28CPRT%29/README.md)
+**Status:** Watchlist / active research · **Preferred entry:** **$20/share** · **Reference:** $27.87 (October 16, 2026)
+
+A quality-compounder watchlist study centered on Copart's salvage-auction network effects, U.S. insurer volume declines, high cash generation, the completed ~$1.9bn acquisition of ACV Auctions, insider alignment and buyback allocation. The research separates ACV-led consolidated growth from the legacy business, tests FY2027–FY2028 cash conversion and acquisition synergies, and uses bear/base/bull EV/EBITDA scenarios with a **$20 preferred entry**.
+
+**Supporting research:** [CPRT Model Snapshot](./Copart%20%28CPRT%29/MODEL_SNAPSHOT.md)
+
+**Skills demonstrated:** industry structure, acquisition accounting, purchase-price allocation sensitivity, normalized FCF, option dilution, capital allocation and valuation scenarios.
+
 ## Research Approach
 
 My default process is:

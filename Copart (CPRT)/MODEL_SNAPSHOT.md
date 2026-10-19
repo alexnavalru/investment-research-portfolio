@@ -2,11 +2,9 @@
 
 **Prepared:** October 19, 2026  
 **Entry discipline:** **$20/share**  
-**Reference:** $27.87 on October 16, 2026 (TIKR research screenshot)  
+**Reference share price:** $27.87 on October 16, 2026  
 **FY:** Copart year ending July 31; ACV standalone historical year ending December 31  
 **Units:** USD millions unless otherwise stated. **E = analyst assumption**, not company guidance.
-
-[Read the full investment thesis](./README.md).
 
 ## 1. Historical baseline — audited Copart only
 
@@ -25,7 +23,7 @@
 | FCF = CFO - capex | ~962 | ~1,231 | ~1,267 |
 | FCF / diluted share | $0.99 | $1.26 | $1.32 |
 
-Source: [Copart 2026 10-K](https://www.sec.gov/Archives/edgar/data/900075/000119312526405731/cprt-20260731.htm). EBITDA in the main thesis uses **EBIT plus reported cash-flow D&A as a proxy**, not management-adjusted EBITDA.
+EBITDA in the main thesis uses **EBIT plus reported cash-flow D&A as a proxy**, not management-adjusted EBITDA.
 
 **FY2026 July-end balance:** ~$1,908m cash/equivalents (including restricted components) + ~$2,582m held-to-maturity U.S. Treasury bills = ~$4,490m liquidity; effectively no drawn financial debt; ~$511m goodwill; ~$9,097m common equity. As of September 25, **926.330m shares outstanding**, distinct from the FY2026 annual **956.860m diluted weighted average**.
 
@@ -44,7 +42,6 @@ Source: [Copart 2026 10-K](https://www.sec.gov/Archives/edgar/data/900075/000119
 
 The standalone negative unlevered FCF includes capex, **capitalized software** and changes in net working capital. Do not equate it to Copart's consolidated CFO-capex metric or ignore ACV Capital loan receivables.
 
-Sources: [ACV Q2 earnings](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001637873-26-000031/q2-26earningspressrelease.htm), [ACV 14D-9 projections](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001193125-26-393862/d136775dsc14d9.htm).
 
 ## 3. Revenues bridge — actual October 16 close
 
@@ -119,8 +116,6 @@ The difference between **$80m “synergies” and actual free cash flow** is mat
 - $450m / $30 = **15m share retirements per year**, **7.5m** average-year effect if executed evenly.
 - Employee option exercise, RSU/PSU vesting and ACV equity-award conversion may offset some buyback dilution. Under the treasury-stock method, outstanding options are **not** all counted as new diluted shares; exercise prices matter.
 - **FY2027 927m / FY2028 915m diluted weighted average** are working assumptions, not company share-count guidance. A share-based compensation acceleration or materially different repurchase calendar changes EPS.
-
-[ACV tender-offer treatment of RSUs/options](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001193125-26-393827/d160557dex99a1i.htm).
 
 ## 6. CFO, total capex and cash-flow integrity
 
@@ -218,16 +213,5 @@ At **$20** on the same starting equity/cash assumptions:
 5. **Returns on capital:** acquisition cash deployed versus incremental after-tax operating profit and *true* distributable FCF.
 6. **Share count:** actual common outstanding, repurchase prices, option strike and conversion from former ACV plans.
 7. **Governance:** updated FY2026 proxy and 2027 CEO compensation, change in insider stakes, collateral pledging disclosure.
-
-## Sources
-
-- [Copart 2026 audited 10-K](https://www.sec.gov/Archives/edgar/data/900075/000119312526405731/cprt-20260731.htm).
-- [Copart Q4 2026 call transcript (SEC exhibit)](https://www.sec.gov/Archives/edgar/data/1637873/000119312526388383/d138398dex992.htm).
-- [September 10 ACV agreement release](https://www.copart.com/content/us/en/press-releases/copart-to-acquire-acv).
-- [October 16 Copart merger completion 8-K](https://www.sec.gov/Archives/edgar/data/900075/000119312526423478/d129535d8k.htm).
-- [ACV Q2 2026 financials and guidance](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001637873-26-000031/q2-26earningspressrelease.htm).
-- [ACV 14D-9 standalone forecasts and caveats](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001193125-26-393862/d136775dsc14d9.htm).
-- [Copart 2025 proxy / insider holdings and compensation](https://www.sec.gov/Archives/edgar/data/900075/000119312525249664/d84887ddef14a.htm).
-- [Tender offer equity award mechanics](https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001193125-26-393827/d160557dex99a1i.htm).
 
 > Research workpaper. Forecasts may differ substantially from realized results; not investment advice.

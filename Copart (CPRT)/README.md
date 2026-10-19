@@ -3,7 +3,7 @@
 **Research date:** October 19, 2026  
 **Status:** Watchlist / active research; position ownership not assumed  
 **Preferred entry price:** **$20/share**  
-**Reference share price:** **$27.9**, October 16, 2026 close  
+**Reference valuation price:** **~$27.8/share**, approximating the October 16, 2026 close  
 **Case type:** Quality compounder / temporary operational setback / acquisition integration  
 
 ## 1. Business overview
@@ -52,13 +52,11 @@ FY2026 consolidated sales grew just **0.4%**, operating income fell **2.6%**, an
 | Global gross margin *(level; not YoY change)* | **46.5%** | **43.9%** | **46.3%** | **41.8%** |
 | U.S. facility-related cost **per unit** | n/d | n/d | n/d | **+14.2%** |
 
-**Loss of a major insurer — likely Progressive (PGR):** Industry reporting indicates that **Progressive**, one of the largest U.S. auto insurers, shifted substantial auction volume from Copart to **IAA, acquired by RB Global in 2023**, reportedly over pricing and service terms. Copart confirmed losing a major insurer but **did not name Progressive**; without that customer, Q4 U.S. insurance assignments would have grown **2.3% YoY**.
+**Major insurer loss — very likely Progressive (PGR):** Copart confirmed losing a large insurer account, without naming it. An analyst directly raised **Progressive** in July 2026, and industry reports and Progressive-related accounts indicate that business shifted to **IAA (RB Global)**, apparently over commercial terms. Excluding the lost client, Q4 U.S. insurance *assignments* would have grown **2.3% YoY**. Progressive is **strongly indicated, not officially confirmed**.
 
-**Former CEO and governance:** Some investor commentary connects the insurer-account disruption and reports of tighter operational controls and staff dissatisfaction under **Jeff Liaw** to Jay Adair's return. However, **there is no verified company disclosure proving Progressive caused Liaw's departure, nor that Liaw personally forced an adverse contract outcome**.
+**CEO transition:** Some investors link the lost contract to **Jeff Liaw's departure** and Jay Adair's return, but **that causal connection is unproven**.
 
-For **FY2026 overall**, U.S. insurance unit volumes fell approximately **8.0%** and total U.S. units sold approximately **6.9%**. *Assignments* are vehicles newly handed over by an insurer, whereas *units sold* are auction completions; the two series do not move at identical times. The 2.3% counterfactual concerns **Q4 U.S. insurance assignments** and does **not** mean U.S. insurance units sold actually grew.
-
-Management also cited declining collision-claim frequency (approximately **-3.4%**), higher total-loss severity, and investment in new services and yard capacity. CFO Leah Stearns said much of the additional facility expense was associated with offerings such as long-haul delivery; approximately **$17m** of the Q4 year-on-year cost increase was related to that service. These initiatives may contribute revenue and profits, but management must show the returns justify the associated unit costs.
+**Other operating pressures:** FY2026 U.S. insurance units fell **8.0%**, and total U.S. units **6.9%**. Collision-claim frequency fell **3.4%**, while new services and yard capacity pushed up unit costs; long-haul delivery accounted for approximately **$17m** of the Q4 cost increase.
 
 ## 4. ACV Auctions — acquisition, valuation and strategic fit
 
@@ -197,26 +195,23 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 
 ## 9. Valuation — why I prefer a $20 entry
 
-**Why $20?** I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
+I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 
-Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated. That comparison underscores how demanding a $20 entry could be; it does **not** imply the stock must revisit $20 or that the risks are identical.
+Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated.
 
-This comparison uses **our FY2027 estimates**: **$1,462m attributable net income**, **$2,019m EBITDA**, **$1,260m FCF**, **927m diluted shares** and **$3,365m year-end net cash**. EV is estimated using the price-implied equity value at 927m diluted shares less **FY2027 projected net cash** (financial debt excluding leases). Thus both valuation columns are forward-looking, not current reported enterprise values. The market price is the **October 16, 2026 closing reference**, not a live quote.
+This comparison uses **our FY2027 estimates**: **$1,462m attributable net income**, **$2,019m EBITDA**, **$1,260m FCF**, **927m diluted shares** and **$3,365m year-end net cash**. EV is estimated using the price-implied equity value at 927m diluted shares less **FY2027 projected net cash** (financial debt excluding leases). Thus both valuation columns are forward-looking, not current reported enterprise values. The market reference uses **~$27.8/share**, an approximate input based on the October 16, 2026 closing price, not a live quote.
 
-| FY2027E metric | At **$20.00/share** | At **$27.87/share** (Oct. 16 close) |
+| FY2027E metric | At **$20/share** | At **~$27.8/share** (Oct. 16 reference) |
 |---|---:|---:|
-| Share price | **$20.00** | **$27.87** |
 | Diluted shares | 927m | 927m |
 | EPS | $1.58 | $1.58 |
 | EBITDA | $2,019m | $2,019m |
 | FCF/share | $1.36 | $1.36 |
-| **P/E** | **12.7x** | **17.7x** |
+| **P/E** | **12.7x** | **17.6x** |
 | **EV/EBITDA** | **7.5x** | **11.1x** |
 | **P/FCF** | **14.7x** | **20.5x** |
 
-**Interest-income normalization:** The modeled FY2027 earnings already reflect lower net interest income after Copart's cash-funded ACV acquisition, compared with FY2026.
-
-**I would reconsider the $20 entry thesis** if U.S. customer losses persist, the core operating margin/EBIT structurally weakens, ACV does not deliver an adequate return in cash, or management spends the balance-sheet cash on poor-return acquisitions or buybacks. A lower share price alone would not compensate for a deteriorating business.
+**Interest income and buybacks:** Interest earned on Copart's cash can change considerably depending on whether it holds cash in securities, makes acquisitions or repurchases shares. Both the interest income it generates and the number of shares retired could materially change future EPS versus our FY2027 estimate.
 
 ## 10. Risks and what would disprove the thesis
 

@@ -201,33 +201,26 @@ Johnson's count included about **55.5m shares/interests + 0.2m options**; Adair'
 
 ## 9. Valuation — why I prefer a $20 entry
 
-**Interest-income normalization matters.** FY2026's $182m net interest income was supported by a large securities/cash portfolio. The approximately $1.9bn cash purchase of ACV sacrifices interest income; ACV also has financing activities and debt. This reduces near-term EPS even if the auction business holds up. Interest belongs **below EBIT**.
+**Why $20?** I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 
-The **$20 entry** is my intended valuation discipline, **not** an assertion that the current market must trade there. Use 926.3m actual outstanding shares for spot-equity capitalization and conservatively 927m diluted shares for FY2028 valuation; never use FY2026 weighted-average shares for the current market cap.
+Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated. That comparison underscores how demanding a $20 entry could be; it does **not** imply the stock must revisit $20 or that the risks are identical.
 
-**At $20/share** (spot share-count reference):
-- Equity capitalization = **$18.5bn** (926.3m × $20).
-- Cash immediately after acquisition, **simplified June/July balance-sheet proxy**: ~$4.5bn pre-deal liquidity - ~$1.9bn cash purchase + ~$0.2bn ACV cash = **~$2.8bn**; less ~$0.2bn acquired financial debt implies **~$2.6bn net cash**. The actual October 16 cash/debt bridge and closing consideration can differ.
-- Illustrative **pro forma EV ~$15.9bn** (market cap less ~$2.6bn net cash), equivalent to **~7.0x modeled FY2028 EBITDA**.
-- **FY2028 P/E ~11.4x** ($20 / $1.75), **P/FCF ~13.9x** ($20 / $1.43), FCF equity yield **~7.2%**. This FCF yield is *before* additional lending-book investment.
+This comparison uses **our FY2027 estimates**: **$1,462m attributable net income**, **$2,019m EBITDA**, **$1,260m FCF**, **927m diluted shares** and **$3,365m year-end net cash**. EV is estimated using the price-implied equity value at 927m diluted shares less **FY2027 projected net cash** (financial debt excluding leases). Thus both valuation columns are forward-looking, not current reported enterprise values. The market price is the **October 16, 2026 closing reference**, not a live quote.
 
-**At the $27.9 October 16 reference:** the corresponding FY2028 P/E is **~15.9x**, P/FCF **~19.5x**, and pro forma EV/FY2028 EBITDA **~10.3x**, on unchanged acquisition-close balance assumptions. Both price comparisons use the same model—not synchronized future market quotes.
+| FY2027E metric | At **$20.00/share** | At **$27.87/share** (Oct. 16 close) |
+|---|---:|---:|
+| Share price | **$20.00** | **$27.87** |
+| Diluted shares | 927m | 927m |
+| EPS | $1.58 | $1.58 |
+| EBITDA | $2,019m | $2,019m |
+| FCF/share | $1.36 | $1.36 |
+| **P/E** | **12.7x** | **17.7x** |
+| **EV/EBITDA** | **7.5x** | **11.1x** |
+| **P/FCF** | **14.7x** | **20.5x** |
 
-### FY2028 enterprise-value sensitivity
+**Interest-income normalization:** The modeled FY2027 earnings already reflect lower net interest income after Copart's cash-funded ACV acquisition, compared with FY2026.
 
-A simplified equity bridge: **price = (FY2028 EBITDA × EV/EBITDA + FY2028 net cash) / average diluted shares**. Scenarios change the operating performance, valuation multiple and net cash but conservatively hold diluted shares at **927m** throughout; none is a management target. FY2028 year-end net cash is applied to FY2028 earnings as an illustrative normalized valuation, not as a precise present-value DCF.
-
-| Scenario | FY2028 EBITDA | EV/EBITDA | Net cash | Diluted shares | Implied equity/share | vs. $20 entry |
-|---|---:|---:|---:|---:|---:|---:|
-| **Bear**: prolonged U.S. volume losses; little ACV leverage | $1,900m | 7.0x | $3,200m | 927m | **$17.8** | **-11.0%** |
-| **Base**: modest salvage recovery + some ACV synergy | $2,256m | 9.0x | $4,125m | 927m | **$26.4** | **+31.8%** |
-| **Bull**: unit recovery, strong ACV execution | $2,450m | 11.0x | $4,300m | 927m | **$33.7** | **+68.6%** |
-
-The bear is **not a hard downside floor**: a deeper loss of insurer share, weaker FCF, expensive buybacks, acquisition failure or multiple compression could justify prices well below $17–18. The bull requires execution not yet proved.
-
-The base-case upside from **$27.9** is approximately **-5.5%** over the indicated valuation reference, before the time value of waiting. That is why I would prefer to **wait for $20 rather than chase**. At $20 the model offers a more comfortable potential reward versus a conventional operating downside case, provided the fundamentals remain intact. No dividend or buyback execution is guaranteed.
-
-**Cross-check:** at $20 the **FY2028 modeled FCF of ~$1.3bn / spot ~$18.5bn equity** implies approximately **7.2% FCF yield**; using **$1.43 FCF per modeled diluted share** produces around **7.2%**, a harmless discrepancy due to different share-count bases. Do not claim that the capex-adjusted FCF equals cash distributable to common shareholders if ACV's finance receivables require additional funding.
+**I would reconsider the $20 entry thesis** if U.S. customer losses persist, the core operating margin/EBIT structurally weakens, ACV does not deliver an adequate return in cash, or management spends the balance-sheet cash on poor-return acquisitions or buybacks. A lower share price alone would not compensate for a deteriorating business.
 
 ## 10. Risks and what would disprove the thesis
 
@@ -237,16 +230,5 @@ The base-case upside from **$27.9** is approximately **-5.5%** over the indicate
 4. **Poor capital allocation:** Copart carried out a major **$1.6bn share buyback in FY2026 at an average $37.6/share**, a demanding valuation **while U.S. insurance volumes and operating costs were already deteriorating**. Further expensive buybacks or acquisitions could waste otherwise substantial cash resources.
 5. **Valuation compression:** a premium franchise can still suffer a prolonged derating if organic growth stalls or margins deteriorate, regardless of ACV-driven reported revenue growth.
 6. **Governance:** family influence and the incentive structure of management require monitoring, especially following the CEO transition.
-
-### Specific quarterly checks
-
-- **Core insurance:** U.S. insurer assignments/sold units, claims frequency, new customer wins/losses, concentration, IAA share dynamics.
-- **Per-unit economics:** service revenue per unit, global and U.S. ASP, costs per unit, gross margin and EBITDA margin.
-- **ACV separately:** organic dealer units, GMV, revenue per unit, SBC, EBIT after SBC, cash capex and capitalized software, loan growth and realized synergies.
-- **Balance/returns:** actual post-close net cash, PPA goodwill and intangible amortization, net investment in finance receivables, FCF and acquisition ROIC.
-- **Shareholders:** repurchase price/quantity, shares **outstanding** versus diluted **weighted average**, option exercises and converted ACV awards.
-- **Management:** updated FY2027 compensation and insider beneficial ownership when the new proxy is available.
-
-**I would reconsider the $20 entry thesis** if U.S. customer losses continue, group EBIT remains structurally below the FY2026 run rate, ACV's adjusted EBITDA never converts into economic cash returns, or the balance-sheet cash is spent on low-return M&A. A falling stock price alone is not a catalyst.
 
 > Independent fundamental research for educational and professional purposes; not investment advice.

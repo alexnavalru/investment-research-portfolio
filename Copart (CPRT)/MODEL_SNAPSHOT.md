@@ -175,7 +175,7 @@ This **is not a released final PPA** and can change materially with intangibles,
 
 I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 
-Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated.
+Copart's **$63.8 all-time closing high (May 16, 2025)** implies a **68.7% decline at $20**. Such a drawdown would approach its **72.5% fall from late 2001 to March 2003**, during the post-dot-com bear market, when company revenue growth slowed and profits stagnated.
 
 | FY2027E metric | At **$20/share** | At **~$27.8/share** (Oct. 16 reference) |
 |---|---:|---:|
@@ -189,7 +189,7 @@ Copart's **$63.84 all-time closing high (May 16, 2025)** implies a **68.7% decli
 
 **Interest income and buybacks:** Interest earned on Copart's cash can change considerably depending on whether it holds cash in securities, makes acquisitions or repurchases shares. Both the interest income it generates and the number of shares retired could materially change future EPS versus our FY2027 estimate.
 
-**Valuation discipline:** Copart has historically commanded a premium P/E, and I use **~22x as a conservative historical reference**, not as a verified statistical median for every year since 2000. My preferred valuation ranges are **16–20x P/E and P/FCF** and **10–14x EV/EBITDA**. At approximately **$27.8/share**, Copart already trades at **17.6x FY2027E earnings, 20.5x FY2027E FCF and 11.1x FY2027E EBITDA**. This looks somewhat tight given the current operating headwinds, despite the quality of the business; **$20/share offers a more attractive margin of safety**.
+**Valuation discipline:** I estimate Copart's median historical P/E since the 2000s at **approximately 22x**. My preferred valuation ranges are **16–20x P/E and P/FCF** and **10–14x EV/EBITDA**. At approximately **$27.8/share**, Copart already trades at **17.6x FY2027E earnings, 20.5x FY2027E FCF and 11.1x FY2027E EBITDA**. This looks somewhat tight given the current operating headwinds, despite the quality of the business; **$20/share offers a more attractive margin of safety**.
 
 ## 9. Quarterly update checklist
 

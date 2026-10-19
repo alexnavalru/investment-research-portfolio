@@ -171,7 +171,7 @@ This **is not a released final PPA** and can change materially with intangibles,
 
 **Illustrative equity attributable to CPRT:** ~$9,097m FY2026, ~$10,200m FY2027, ~$11,480m FY2028, assuming retained earnings, equity compensation and buybacks, with rounding and other comprehensive income not explicitly forecast. ACV historical equity is eliminated in consolidation; $1.9bn cash paid is not itself a $1.9bn hit to consolidated book equity.
 
-## 8. Preferred entry and scenario price sensitivity
+## 8. FY2027 valuation — $20 entry versus market price
 
 **Why $20?** I prefer to wait for a cheaper entry in a strong auction franchise facing U.S. insurer-volume weakness and ACV integration risk. At $20, the earnings and FCF multiples offer a substantially **larger margin of safety** than at the current reference price, provided the underlying business remains healthy.
 

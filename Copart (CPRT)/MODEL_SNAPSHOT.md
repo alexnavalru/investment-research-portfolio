@@ -100,22 +100,21 @@ The difference between **$80m “synergies” and actual free cash flow** is mat
 |---|---:|---:|---:|
 | EBIT | 1,652.6 | 1,699 | 1,896 |
 | Net interest income | +181.9 | +123 | +127 |
-| Pretax income, with small other income omitted in E | 1,835.0 | 1,822 | 2,023 |
-| Tax | -354.6 | -364 | -405 |
+| Tax rate | 19.3% | 20.0% | 20.0% |
 | Consolidated net income | 1,480.4 | 1,458 | 1,618 |
 | Minority net loss (added back to attributable income) | 3.9 | 4 | 4 |
 | **Net income attributable to CPRT** | **1,484.3** | **1,462** | **1,622** |
-| Diluted weighted-average shares (m) | **956.86** | **927** | **915** |
-| **EPS** | **$1.55** | **$1.58** | **$1.77** |
+| Diluted weighted-average shares (m) | **956.86** | **927** | **927** |
+| **EPS** | **$1.55** | **$1.58** | **$1.75** |
 
 **Interest sensitivity:** Copart reported $181.9m FY2026 net interest income. ACV costs roughly $1.9bn of cash, offset in part by ACV cash; net interest changes with actual interest rates, cash rebuilding and acquired finance debt. Forecast **$123m FY2027 and $127m FY2028**, not an official estimate. At average $3.55bn invested liquidity, each 50bp yield shift is roughly **$18m/year pre-tax**.
 
-**Shares bridge with $450m repurchases/year at $30:**
+**Conservative diluted-share bridge:**
 
 - 2026-09-25 basic shares outstanding: **926.33m**.
-- $450m / $30 = **15m share retirements per year**, **7.5m** average-year effect if executed evenly.
+- I assume **$450m repurchases at $30 in FY2027** = **15m share retirements**, with a roughly **7.5m** weighted-average effect if completed evenly.
 - Employee option exercise, RSU/PSU vesting and ACV equity-award conversion may offset some buyback dilution. Under the treasury-stock method, outstanding options are **not** all counted as new diluted shares; exercise prices matter.
-- **FY2027 927m / FY2028 915m diluted weighted average** are working assumptions, not company share-count guidance. A share-based compensation acceleration or materially different repurchase calendar changes EPS.
+- **I model approximately 927m diluted weighted-average shares in both FY2027 and FY2028**. This conservatively assumes **no further diluted-share reduction in FY2028**, despite cash-flow forecasts that include $450m of additional 2028 repurchases. Any net reduction from additional buybacks would improve future per-share value, although price, dilution and timing matter.
 
 ## 6. CFO, total capex and cash-flow integrity
 
@@ -126,7 +125,7 @@ The difference between **$80m “synergies” and actual free cash flow** is mat
 | **CFO** | **1,604** | **1,700** | **1,840** |
 | Cash capex | -337 | -440 | -510 |
 | **FCF** | **1,267** | **1,260** | **1,330** |
-| FCF / modeled diluted share | $1.32 | **$1.36** | **$1.45** |
+| FCF / modeled diluted share | $1.32 | **$1.36** | **$1.43** |
 | **Separate net financing of ACV loan book (hypothetical)** | n/a | **-70** | **-120** |
 | **Cash after this additional loan-book investment** | n/a | **1,190** | **1,210** |
 
@@ -180,28 +179,28 @@ At October 16 price **$27.87**, using **926.33m basic outstanding shares** and s
 - Equity cap: ~$25.82bn.
 - Indicative pro forma enterprise value: ~$23.19bn.
 - EV / modeled FY2028 EBITDA: **~10.3x**.
-- FY2028E P/E: **~15.7x**; P/FCF **~19.2x**.
+- FY2028E P/E: **~15.9x**; P/FCF **~19.5x**.
 
 At **$20** on the same starting equity/cash assumptions:
 - Equity cap: ~$18.53bn.
 - Pro forma enterprise value: **~$15.90bn**.
-- FY2028E EV/EBITDA **~7.0x**; P/E **~11.3x**; P/FCF **~13.8x**.
+- FY2028E EV/EBITDA **~7.0x**; P/E **~11.4x**; P/FCF **~13.9x**.
 - FCF equity yield approximately **7.2–7.3%**, before incremental loan-book funding.
 
 **Enterprise-value scenario formula:** (FY2028E EBITDA × multiple + FY2028E net cash) / FY2028E diluted shares.
 
 | Case | EBITDA | Multiple | Net cash | Shares | Implied $/share | vs. $20 |
 |---|---:|---:|---:|---:|---:|---:|
-| **Bear** | 1,900 | 7.0x | 3,200 | 925 | **17.84** | -10.8% |
-| **Base** | 2,256 | 9.0x | 4,125 | 915 | **26.70** | +33.5% |
-| **Bull** | 2,450 | 11.0x | 4,300 | 910 | **34.34** | +71.7% |
+| **Bear** | 1,900 | 7.0x | 3,200 | 927 | **17.8** | -11.0% |
+| **Base** | 2,256 | 9.0x | 4,125 | 927 | **26.4** | +31.8% |
+| **Bull** | 2,450 | 11.0x | 4,300 | 927 | **33.7** | +68.6% |
 
 **These are FY2028 scenario enterprise values, not present values.** They omit discounting to October 2026, require different assumptions and have material downside outside the displayed bear range. FY2028 earnings combined with FY2028 ending cash is a simplified normalized multiple, not a cash-flow valuation.
 
 ### Useful what-if rules
-- Every **$100m** change in modeled net cash changes value by approximately **$0.11/share** at ~915m shares.
-- Every **$100m** change in FY2028 EBITDA at **9x** changes value by approximately **$0.98/share**, holding cash fixed.
-- Every **$50m** change in FY2028 EBIT, assuming a 20% tax rate and 915m shares, changes EPS by approximately **$0.044**.
+- Every **$100m** change in modeled net cash changes value by approximately **$0.11/share** at ~927m shares.
+- Every **$100m** change in FY2028 EBITDA at **9x** changes value by approximately **$0.97/share**, holding cash fixed.
+- Every **$50m** change in FY2028 EBIT, assuming a 20% tax rate and 927m shares, changes EPS by approximately **$0.043**.
 - Retiring **15m** basic shares at $30 requires **$450m cash**; do not add both $450m net cash and the lower share count without deducting the repurchase cost.
 
 ## 9. Quarterly update checklist

@@ -27,10 +27,10 @@ My original written thesis explicitly highlighted low valuation, shareholder ret
 | Net debt / EBITDA | 2.41x | 2.39x | 2.46x | 2.30x |
 | Model FCF/share | $3.70 | $4.10 | $3.39 | $3.56 |
 
-The decline in modeled 2026 earnings and FCF reflects **two separate effects**:
+The decline in modeled 2026 earnings and FCF reflects two separate effects:
 
-1. **Perimeter change:** Versant was separated on January 2, 2026, so its revenue, EBITDA and cash generation are no longer consolidated in Comcast.
-2. **Underlying operating weakness:** the remaining business also faced softer connectivity trends and other margin pressures.
+1. Perimeter change: Versant was separated on January 2, 2026, so its revenue, EBITDA and cash generation are no longer consolidated in Comcast.
+2. Underlying operating weakness: the remaining business also faced softer connectivity trends and other margin pressures.
 
 This distinction matters. In Q2 2026, reported revenue declined 1.2% and Adjusted EBITDA declined 13.4%, but on a pro forma basis reflecting the Versant separation and the sale of Sky Germany, revenue increased 4.7% and Adjusted EBITDA declined 5.3%. Therefore, a meaningful part of the headline 2026 step-down is due to the changed asset perimeter rather than pure organic deterioration.
 
@@ -40,9 +40,9 @@ The model used conservative mature-company multiples rather than assuming a grow
 
 Illustrative valuation ranges included:
 
-- **10x P/E**
-- **10x P/FCF**
-- **6x EV/EBITDA**
+- 10x P/E
+- 10x P/FCF
+- 6x EV/EBITDA
 
 The original investment case expected buybacks to be a major contributor to per-share compounding.
 
@@ -50,8 +50,8 @@ The original investment case expected buybacks to be a major contributor to per-
 
 Two developments required a material model rethink:
 
-1. **Versant separation completed in January 2026**, but the expected re-rating was limited.
-2. **Comcast announced a much larger NBCUniversal / Sky separation in June 2026** and paused share repurchases while preparing the transaction.
+1. Versant separation completed in January 2026, but the expected re-rating was limited.
+2. Comcast announced a much larger NBCUniversal / Sky separation in June 2026 and paused share repurchases while preparing the transaction.
 
 Because buybacks were a core component of the original per-share return framework, the pause is not a minor detail. The current model therefore gives greater weight to standalone valuation and balance-sheet allocation between the future Comcast and NBCUniversal entities.
 

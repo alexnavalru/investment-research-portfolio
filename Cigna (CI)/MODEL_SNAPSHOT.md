@@ -17,10 +17,10 @@ My model uses multiple methods rather than one headline target.
 
 Illustrative 2026E outputs:
 
-- **12x P/E:** approximately **$365/share**
-- **12x P/FCF:** approximately **$352/share**
-- **10x EV/EBITDA:** approximately **$353/share**
-- **2x P/Book:** approximately **$325/share**
+- 12x P/E: approximately $365/share
+- 12x P/FCF: approximately $352/share
+- 10x EV/EBITDA: approximately $353/share
+- 2x P/Book: approximately $325/share
 
 These outputs are scenario cross-checks, not price targets.
 
@@ -36,7 +36,7 @@ The main questions are:
 
 ## Current Fundamental Check
 
-Cigna reported **2025 adjusted EPS of $29.84**. After Q2 2026, management raised full-year 2026 adjusted EPS guidance to **at least $30.45**.
+Cigna reported 2025 adjusted EPS of $29.84. After Q2 2026, management raised full-year 2026 adjusted EPS guidance to at least $30.45.
 
 The company also confirmed that the planned exit from Individual and Family Plans becomes effective in 2027.
 

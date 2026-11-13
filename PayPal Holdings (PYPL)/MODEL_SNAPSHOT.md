@@ -18,9 +18,9 @@ The model emphasizes per-share cash generation rather than assuming a return to 
 
 Illustrative 2026E values from the model:
 
-- **10x FCF/share:** approximately **$73.6/share**
-- **12x FCF/share:** approximately **$88.3/share**
-- **14x FCF/share:** approximately **$103.1/share**
+- 10x FCF/share: approximately $73.6/share
+- 12x FCF/share: approximately $88.3/share
+- 14x FCF/share: approximately $103.1/share
 
 These are scenario outputs, not price targets.
 
@@ -35,7 +35,7 @@ The model explicitly tracks:
 - debt and liquidity;
 - FCF after normal operating investment.
 
-PayPal's Q2 2026 filing reported **$15.3bn of cash, cash equivalents and investments**, **$13.4bn of debt**, and approximately **$6.0bn of repurchases over the trailing twelve months**.
+PayPal's Q2 2026 filing reported $15.3bn of cash, cash equivalents and investments, $13.4bn of debt, and approximately $6.0bn of repurchases over the trailing twelve months.
 
 ## Main Modeling Risk
 

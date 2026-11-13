@@ -21,40 +21,40 @@ This snapshot reconstructs the valuation framework I now use to review the inves
 
 My post-mortem uses:
 
-**Cash From Operations  
+Cash From Operations  
 – Total Capex  
 – Preferred Dividends  
-= FCF Available to Common Shareholders**
+= FCF Available to Common Shareholders
 
 This is deliberately stricter than relying only on company-adjusted FCF.
 
 ## Entry Valuation Reconstruction
 
-Entry price: **~$66/share**
+Entry price: ~$66/share
 
-Using 2026E diluted shares of approximately **92m**, the implied equity value was roughly:
+Using 2026E diluted shares of approximately 92m, the implied equity value was roughly:
 
-**$66 × 0.092bn ≈ $6.1bn**
+$66 × 0.092bn ≈ $6.1bn
 
-Adding approximately **$4.1bn of net debt** gives an enterprise value around:
+Adding approximately $4.1bn of net debt gives an enterprise value around:
 
-**$10.2bn**
+$10.2bn
 
 That implies roughly:
 
-- **~26x 2026E FCF/share**
-- **~8.8x 2026E EV/EBITDA**
+- ~26x 2026E FCF/share
+- ~8.8x 2026E EV/EBITDA
 
 The key mistake was not simply paying a high multiple. It was giving too much weight to growth and EBITDA expansion without being strict enough about how much cash ultimately accrued to common equity.
 
 ## Current Watchlist Reassessment
 
-Reference price on **October 6, 2026:** approximately **$38.50/share**.
+Reference price on October 6, 2026: approximately $38.50/share.
 
 Using the same strict FCF-to-common framework:
 
-- At **$38.50**, 2026E P/FCF is roughly **15.4x** and 2027E P/FCF is roughly **10.3x**.
-- At a preferred re-entry level around **$30/share**, 2026E P/FCF would be roughly **12.0x** and 2027E P/FCF roughly **8.0x**.
+- At $38.50, 2026E P/FCF is roughly 15.4x and 2027E P/FCF is roughly 10.3x.
+- At a preferred re-entry level around $30/share, 2026E P/FCF would be roughly 12.0x and 2027E P/FCF roughly 8.0x.
 
 This does not erase the original analytical mistake. It shows why valuation is dynamic: the same business can become more attractive after a large price decline if the underlying economics remain intact.
 
@@ -64,12 +64,12 @@ Founder Jared Isaacman disclosed four open-market purchase episodes in 2026:
 
 | Date | Shares Purchased | Approx. Weighted Price |
 |---|---:|---:|
-| **Feb. 26–27** | **296,237** | **~$46.11 combined** |
-| **Mar. 2** | **45,693** | **~$43.83** |
-| **Mar. 10** | **43,827** | **~$45.75** |
-| **May 11–12** | **388,500** | **~$41.04 combined** |
+| Feb. 26–27 | 296,237 | ~$46.11 combined |
+| Mar. 2 | 45,693 | ~$43.83 |
+| Mar. 10 | 43,827 | ~$45.75 |
+| May 11–12 | 388,500 | ~$41.04 combined |
 
-In total, he purchased approximately **774,257 shares for about $33.6m**, at a weighted-average price of roughly **$43.4/share**.
+In total, he purchased approximately 774,257 shares for about $33.6m, at a weighted-average price of roughly $43.4/share.
 
 Isaacman is currently NASA Administrator and remains a major Shift4 shareholder. I treat the purchases as an alignment signal, not as a substitute for fundamental analysis.
 
@@ -77,7 +77,7 @@ Isaacman is currently NASA Administrator and remains a major Shift4 shareholder.
 
 The model should not treat Global Blue as a pure growth add-on.
 
-Shift4 has said Global Blue is **slightly dilutive to adjusted EBITDA margins and to working capital** in the near term, despite being gross-margin accretive. This is relevant because the post-mortem already focuses on cash conversion rather than headline EBITDA growth.
+Shift4 has said Global Blue is slightly dilutive to adjusted EBITDA margins and to working capital in the near term, despite being gross-margin accretive. This is relevant because the post-mortem already focuses on cash conversion rather than headline EBITDA growth.
 
 Global Blue also increases exposure to:
 
@@ -87,9 +87,9 @@ Global Blue also increases exposure to:
 - travel disruption;
 - cyclicality in high-end discretionary consumption.
 
-In Q2 2026, Shift4 lowered the midpoint of full-year revenue guidance by roughly **200 bps**, citing travel disruption affecting tax-free shopping. Separately, weakness in Chinese luxury demand and the broader luxury sector is an additional external risk to monitor rather than a currently proven cause of Shift4's results.
+In Q2 2026, Shift4 lowered the midpoint of full-year revenue guidance by roughly 200 bps, citing travel disruption affecting tax-free shopping. Separately, weakness in Chinese luxury demand and the broader luxury sector is an additional external risk to monitor rather than a currently proven cause of Shift4's results.
 
-At a prospective **$30/share** entry level, I would want a wider margin of safety specifically because the Global Blue acquisition introduces both integration risk and a more cyclical revenue mix.
+At a prospective $30/share entry level, I would want a wider margin of safety specifically because the Global Blue acquisition introduces both integration risk and a more cyclical revenue mix.
 
 ## Process Rules Added After the Investment
 

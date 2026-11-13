@@ -1,18 +1,18 @@
 # The Cigna Group (CI): Sector Sell-Off, Limited Government Exposure
 
-**Case type:** Sector Dislocation / Fundamental Value / Portfolio Reshaping  
-**Status:** Active thesis  
-**Target price:** above **$300/share**  
-**Position initiated:** October 2025 at **$248/share**  
-**Primary skills:** insurance economics, medical-cost analysis, segment mix, guidance analysis, capital allocation, valuation
+Case type: Sector Dislocation / Fundamental Value / Portfolio Reshaping  
+Status: Active thesis  
+Target price: above $300/share  
+Position initiated: October 2025 at $248/share  
+Primary skills: insurance economics, medical-cost analysis, segment mix, guidance analysis, capital allocation, valuation
 
 ## Executive Summary
 
-I initiated a position in Cigna at approximately **$248/share** during a broad selloff in U.S. managed-care stocks.
+I initiated a position in Cigna at approximately $248/share during a broad selloff in U.S. managed-care stocks.
 
 The sector was being repriced because of higher medical utilization, rising medical costs and problems concentrated in government-linked insurance programs. Cigna fell sharply with the group even though its own earnings outlook had not broken. My thesis was that the market was extrapolating sector problems too broadly onto a company with materially lower direct exposure to government insurance risk and a business mix increasingly centered on commercial/employer health and Evernorth.
 
-The key observation was that **Cigna had not experienced the same fundamental reset implied by the share-price decline**. In 2025 the company repeatedly maintained or raised its earnings outlook even while sector sentiment deteriorated.
+The key observation was that Cigna had not experienced the same fundamental reset implied by the share-price decline. In 2025 the company repeatedly maintained or raised its earnings outlook even while sector sentiment deteriorated.
 
 At the same time, Cigna had already sold its Medicare Advantage, Medicare Part D, supplemental benefits and CareAllies businesses to HCSC in March 2025. That transaction materially reduced direct exposure to one of the areas creating the most concern for the industry.
 
@@ -20,21 +20,21 @@ At the same time, Cigna had already sold its Medicare Advantage, Medicare Part D
 
 The thesis was not that Cigna was immune to medical-cost inflation.
 
-Cigna still had exposure through employer insurance, stop-loss and its Individual & Family Plans business, and medical-cost ratios did rise in parts of the portfolio. The distinction was that the company's **earnings mix was increasingly driven by Evernorth and commercial health businesses rather than Medicare Advantage risk**.
+Cigna still had exposure through employer insurance, stop-loss and its Individual & Family Plans business, and medical-cost ratios did rise in parts of the portfolio. The distinction was that the company's earnings mix was increasingly driven by Evernorth and commercial health businesses rather than Medicare Advantage risk.
 
 This mattered because the share-price decline was being driven partly by a sector narrative that did not map cleanly onto Cigna's remaining earnings base.
 
 ## 1. Guidance Did Not Break With the Share Price
 
-Cigna raised its 2025 outlook after Q1 and then **reaffirmed adjusted EPS guidance of at least $29.60** in both Q2 and Q3 2025.
+Cigna raised its 2025 outlook after Q1 and then reaffirmed adjusted EPS guidance of at least $29.60 in both Q2 and Q3 2025.
 
 That divergence between market sentiment and company guidance was central to the entry decision.
 
-By 2026, the company continued to raise guidance, reaching **at least $30.45 of adjusted EPS** after Q2 2026.
+By 2026, the company continued to raise guidance, reaching at least $30.45 of adjusted EPS after Q2 2026.
 
 ## 2. Exiting Higher-Risk Public / Individual Exposure
 
-Cigna completed the sale of its Medicare businesses to HCSC on **March 19, 2025**.
+Cigna completed the sale of its Medicare businesses to HCSC on March 19, 2025.
 
 In April 2026, it also announced a planned exit from the Individual and Family Plans medical business effective January 1, 2027.
 
@@ -66,11 +66,11 @@ The low valuation provided a margin of safety if earnings merely remained resili
 
 ## Position Construction
 
-The initial position was opened in **October 2025 at approximately $248/share**.
+The initial position was opened in October 2025 at approximately $248/share.
 
 The setup was a classic sector-dislocation thesis:
 
-**peer problems → indiscriminate sector selloff → business-mix differentiation → unchanged/reaffirmed guidance → valuation opportunity**
+peer problems → indiscriminate sector selloff → business-mix differentiation → unchanged/reaffirmed guidance → valuation opportunity
 
 ## Key Risks
 
@@ -84,11 +84,11 @@ The setup was a classic sector-dislocation thesis:
 
 ## What This Case Demonstrates
 
-This case shows the importance of **not treating every company in a stressed sector as economically identical**.
+This case shows the importance of not treating every company in a stressed sector as economically identical.
 
-The research question was not "Are health insurers facing higher costs?" - they were. The relevant question was whether **Cigna's earnings mix, strategic exits and maintained guidance justified the magnitude of the valuation compression**.
+The research question was not "Are health insurers facing higher costs?" - they were. The relevant question was whether Cigna's earnings mix, strategic exits and maintained guidance justified the magnitude of the valuation compression.
 
-**Supporting research:** Cigna Model Snapshot
+Supporting research: Cigna Model Snapshot
 
 > Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
 

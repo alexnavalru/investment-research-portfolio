@@ -1,23 +1,23 @@
 # Comcast (CMCSA): Spin-Off Value
 
-**Case type:** Spin-Off / Mature Cash Generator / Thesis Evolution  
-**Status:** Active thesis  
-**Target price:** N/A  
-**Position initiated:** June 2025  
-**Average purchase price:** approximately **$29/share**  
-**Primary skills:** FCF analysis, capital allocation, conglomerate analysis, catalyst assessment, thesis monitoring, error analysis
+Case type: Spin-Off / Mature Cash Generator / Thesis Evolution  
+Status: Active thesis  
+Target price: N/A  
+Position initiated: June 2025  
+Average purchase price: approximately $29/share  
+Primary skills: FCF analysis, capital allocation, conglomerate analysis, catalyst assessment, thesis monitoring, error analysis
 
 ## Executive Summary
 
 My original Comcast thesis was built around a mature but highly cash-generative company trading at a low valuation.
 
-The initial catalyst was the separation of **Versant**, which contained a portfolio of declining cable-network assets. My view was that removing those slower-growth assets could make the remaining Comcast easier to value and allow stronger businesses - broadband, wireless, studios, streaming and theme parks - to receive more appropriate market attention.
+The initial catalyst was the separation of Versant, which contained a portfolio of declining cable-network assets. My view was that removing those slower-growth assets could make the remaining Comcast easier to value and allow stronger businesses - broadband, wireless, studios, streaming and theme parks - to receive more appropriate market attention.
 
-The thesis also relied on Comcast's historically strong shareholder returns through **large buybacks and dividends**.
+The thesis also relied on Comcast's historically strong shareholder returns through large buybacks and dividends.
 
-I built the position at an average price of approximately **$29/share**.
+I built the position at an average price of approximately $29/share.
 
-The original catalyst did **not** produce the re-rating I expected. Operating trends weakened, the core connectivity business became more challenging and the company later paused buybacks while preparing a much larger corporate separation.
+The original catalyst did not produce the re-rating I expected. Operating trends weakened, the core connectivity business became more challenging and the company later paused buybacks while preparing a much larger corporate separation.
 
 That development changed the thesis rather than ending the research process.
 
@@ -38,7 +38,7 @@ Comcast completed the Versant separation in January 2026.
 
 The expected re-rating did not materialize.
 
-An important comparability point is that **part of the apparent decline in Comcast's 2026 reported financials is mechanical and comes from Versant no longer being consolidated after the January 2026 spin-off**, rather than from deterioration in the remaining business alone. In Q2 2026, Comcast reported revenue down 1.2% and Adjusted EBITDA down 13.4% year over year, but on a pro forma basis reflecting the Versant separation and the sale of Sky Germany, revenue increased 4.7% while Adjusted EBITDA declined 5.3%. I therefore separate **perimeter change** from **underlying operating weakness** when reviewing the 2026 numbers.
+An important comparability point is that part of the apparent decline in Comcast's 2026 reported financials is mechanical and comes from Versant no longer being consolidated after the January 2026 spin-off, rather than from deterioration in the remaining business alone. In Q2 2026, Comcast reported revenue down 1.2% and Adjusted EBITDA down 13.4% year over year, but on a pro forma basis reflecting the Versant separation and the sale of Sky Germany, revenue increased 4.7% while Adjusted EBITDA declined 5.3%. I therefore separate perimeter change from underlying operating weakness when reviewing the 2026 numbers.
 
 The main reasons were:
 
@@ -46,20 +46,20 @@ The main reasons were:
 - consolidated earnings momentum slowed;
 - the market remained skeptical of the mature connectivity business;
 - the Versant spin was too small relative to Comcast's total enterprise value to create a major standalone re-rating;
-- the shareholder-return thesis weakened when Comcast announced that it would **pause share repurchases** during its next separation process.
+- the shareholder-return thesis weakened when Comcast announced that it would pause share repurchases during its next separation process.
 
 This is important to the case because the original thesis explicitly depended on buybacks as a mechanism for per-share value creation. When that mechanism changed, the thesis had to be updated rather than defended mechanically.
 
 ## New Catalyst: NBCUniversal / Sky Separation
 
-In June 2026 Comcast announced plans to separate **NBCUniversal and Sky** from the connectivity and technology businesses through another tax-free spin-off, expected around mid-2027 subject to approvals and other conditions.
+In June 2026 Comcast announced plans to separate NBCUniversal and Sky from the connectivity and technology businesses through another tax-free spin-off, expected around mid-2027 subject to approvals and other conditions.
 
 This is a materially larger strategic action than the Versant transaction.
 
 The proposed separation would create:
 
-- **Comcast:** broadband, wireless, business connectivity and technology/platform assets.
-- **NBCUniversal:** theme parks, film and television studios, NBC, Bravo, Peacock, sports, news and related media assets, together with Sky.
+- Comcast: broadband, wireless, business connectivity and technology/platform assets.
+- NBCUniversal: theme parks, film and television studios, NBC, Bravo, Peacock, sports, news and related media assets, together with Sky.
 
 Management has stated that the goal is greater strategic focus, agility and value creation. Comcast also expects to retain up to a 19.9% stake in NBCUniversal temporarily and monetize it over time.
 
@@ -69,23 +69,23 @@ I now view this separation as the primary catalyst that could surface value, bec
 
 The original case benefited from consistent buybacks and a meaningful dividend.
 
-Comcast continued repurchasing shares through Q2 2026, but after announcing the NBCUniversal separation the company said it would **pause repurchases through the separation process** to preserve financial flexibility.
+Comcast continued repurchasing shares through Q2 2026, but after announcing the NBCUniversal separation the company said it would pause repurchases through the separation process to preserve financial flexibility.
 
 The dividend remains an important part of the capital-allocation framework, but the pause in buybacks removes one of the strongest components of the original thesis in the near term.
 
 ## Position Construction
 
-I began buying in **June 2025**. After purchases over time, my **average entry price** was approximately **$29/share** (not the price of the first purchase).
+I began buying in June 2025. After purchases over time, my average entry price was approximately $29/share (not the price of the first purchase).
 
-The position is now best understood as an **evolving special situation**, not the same thesis that existed before Versant.
+The position is now best understood as an evolving special situation, not the same thesis that existed before Versant.
 
 Original framework:
 
-**low valuation + FCF + buybacks/dividend + Versant spin**
+low valuation + FCF + buybacks/dividend + Versant spin
 
 Updated framework:
 
-**low valuation + operating risk + temporarily weaker capital returns + larger NBCUniversal/Sky separation catalyst**
+low valuation + operating risk + temporarily weaker capital returns + larger NBCUniversal/Sky separation catalyst
 
 ## Key Risks
 
@@ -101,11 +101,11 @@ Updated framework:
 
 ## What This Case Demonstrates
 
-This case is intentionally included because the thesis **changed**.
+This case is intentionally included because the thesis changed.
 
 The value of the research is not that every catalyst works. It is the process of comparing the original assumptions with subsequent facts, identifying which parts failed and deciding whether a new corporate action creates a genuinely different opportunity.
 
-**Supporting research:** Comcast Model Snapshot
+Supporting research: Comcast Model Snapshot
 
 > Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
 

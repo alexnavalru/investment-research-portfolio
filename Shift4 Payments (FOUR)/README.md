@@ -1,10 +1,10 @@
 # Shift4 Payments (FOUR) - FCF Post-Mortem & Re-entry
 
-**Case type:** Investment Post-Mortem / Payments / Watchlist Reassessment  
-**Status:** Watchlist; preferred re-entry around **$30/share**  
-**Target price:** not formally set  
-**Historical position initiated:** December 2025 at approximately **$66.2/share**  
-**Primary skills:** FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
+Case type: Investment Post-Mortem / Payments / Watchlist Reassessment  
+Status: Watchlist; preferred re-entry around $30/share  
+Target price: not formally set  
+Historical position initiated: December 2025 at approximately $66.2/share  
+Primary skills: FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
 
 ## Why I Include a Losing Investment
 
@@ -26,26 +26,26 @@ I accepted a relatively demanding valuation because I expected the growth profil
 
 ## What I Got Wrong
 
-The central analytical mistake was giving too much weight to growth and adjusted profitability while not being sufficiently strict about **cash ultimately available to common shareholders**.
+The central analytical mistake was giving too much weight to growth and adjusted profitability while not being sufficiently strict about cash ultimately available to common shareholders.
 
 The revised framework starts from:
 
-**Cash from operations  
+Cash from operations  
 – total capital expenditure  
 – preferred dividends  
-= FCF available to common shareholders**
+= FCF available to common shareholders
 
 This matters because a business can report strong EBITDA growth while the value accruing to common equity grows much more slowly.
 
 ## Why the Entry Valuation Mattered
 
-At the December 2025 entry price of approximately **$66.2**, a high-growth thesis left less room for error.
+At the December 2025 entry price of approximately $66.2, a high-growth thesis left less room for error.
 
 Once I rebuilt the cash-flow framework, the valuation looked materially more demanding on a common-shareholder FCF basis than the headline growth rates suggested.
 
 The lesson was not simply “do not pay a high multiple.” It was:
 
-> **The stronger the growth narrative, the more important it is to reconcile adjusted metrics with cash available to common equity before deciding what multiple is justified.**
+> The stronger the growth narrative, the more important it is to reconcile adjusted metrics with cash available to common equity before deciding what multiple is justified.
 
 ## Public Post-Mortem Model
 
@@ -61,51 +61,51 @@ The fact that the original investment lost money does not mean the company can n
 
 At materially lower prices, the valuation has compressed enough for me to reassess the name using the stricter FCF-to-common framework developed in the post-mortem.
 
-At roughly **$38.50/share on October 6, 2026**, the stock is materially below my original ~$66.2 entry. Using my current model:
+At roughly $38.50/share on October 6, 2026, the stock is materially below my original ~$66.2 entry. Using my current model:
 
-- 2026E FCF to common is approximately **$2.50/share**;
-- 2027E FCF to common is approximately **$3.75/share**.
+- 2026E FCF to common is approximately $2.50/share;
+- 2027E FCF to common is approximately $3.75/share.
 
 That implies a much less demanding valuation than at the original entry, although leverage, preferred claims and cash conversion remain important risks.
 
-My preferred re-entry level would be around **$30/share**. At that level, the model would imply roughly **12x 2026E FCF/share** and **8x 2027E FCF/share**. This is a watchlist threshold rather than a current position or a claim that the stock must reach that level.
+My preferred re-entry level would be around $30/share. At that level, the model would imply roughly 12x 2026E FCF/share and 8x 2027E FCF/share. This is a watchlist threshold rather than a current position or a claim that the stock must reach that level.
 
 ### Founder Buying: Jared Isaacman
 
-A new qualitative factor in the reassessment is the behavior of founder **Jared Isaacman**.
+A new qualitative factor in the reassessment is the behavior of founder Jared Isaacman.
 
-Isaacman founded the company that became Shift4, stepped down as CEO in 2025, and is now the **15th Administrator of NASA**. He remains a major Shift4 shareholder.
+Isaacman founded the company that became Shift4, stepped down as CEO in 2025, and is now the 15th Administrator of NASA. He remains a major Shift4 shareholder.
 
 SEC Form 4 filings show a series of open-market purchases in 2026:
 
-- **296,237 shares** purchased on February 26–27 at weighted-average prices of approximately **$48.38 and $44.15**;
-- **45,693 shares** purchased on March 2 at a weighted-average price of approximately **$43.83**;
-- **43,827 shares** purchased on March 10 at a weighted-average price of approximately **$45.75**;
-- **388,500 shares** purchased on May 11–12 at weighted-average prices of approximately **$41.41 and $40.66**.
+- 296,237 shares purchased on February 26–27 at weighted-average prices of approximately $48.38 and $44.15;
+- 45,693 shares purchased on March 2 at a weighted-average price of approximately $43.83;
+- 43,827 shares purchased on March 10 at a weighted-average price of approximately $45.75;
+- 388,500 shares purchased on May 11–12 at weighted-average prices of approximately $41.41 and $40.66.
 
-Across these disclosed purchases, Isaacman acquired approximately **774,257 shares for about $33.6m**, at a weighted-average price of roughly **$43.4/share**.
+Across these disclosed purchases, Isaacman acquired approximately 774,257 shares for about $33.6m, at a weighted-average price of roughly $43.4/share.
 
 I view this as a meaningful alignment signal, but not as proof that the stock is undervalued. Insider purchases are one input alongside valuation, leverage, cash conversion and operating execution.
 
 ### Global Blue: Margin and Tourism Exposure Risk
 
-The **Global Blue acquisition** is one of the main reasons I remain cautious despite the lower valuation.
+The Global Blue acquisition is one of the main reasons I remain cautious despite the lower valuation.
 
-Shift4 completed the acquisition in July 2025 for approximately **$2.7bn of cash consideration**. Strategically, Global Blue expands Shift4 into tax-free shopping, dynamic currency conversion and payments for global luxury retailers. The trade-off is that Global Blue has a different economic profile from the legacy Shift4 business.
+Shift4 completed the acquisition in July 2025 for approximately $2.7bn of cash consideration. Strategically, Global Blue expands Shift4 into tax-free shopping, dynamic currency conversion and payments for global luxury retailers. The trade-off is that Global Blue has a different economic profile from the legacy Shift4 business.
 
-Management has explicitly said that Global Blue is **gross-margin accretive but slightly dilutive to adjusted EBITDA margin and working capital** in the near term. That matters because one of the key issues in my post-mortem is already the difference between EBITDA growth and cash ultimately available to common shareholders.
+Management has explicitly said that Global Blue is gross-margin accretive but slightly dilutive to adjusted EBITDA margin and working capital in the near term. That matters because one of the key issues in my post-mortem is already the difference between EBITDA growth and cash ultimately available to common shareholders.
 
-The second concern is cyclicality. Global Blue's Tax-Free Shopping activity is exposed to **international travel and luxury spending**, so it adds sensitivity to variables that are outside Shift4's control.
+The second concern is cyclicality. Global Blue's Tax-Free Shopping activity is exposed to international travel and luxury spending, so it adds sensitivity to variables that are outside Shift4's control.
 
-Shift4 already reduced the midpoint of its 2026 revenue guidance by roughly **200 bps** in Q2 because of travel disruption affecting tax-free shopping. That specific revision was primarily linked to the Middle East conflict, not China. Separately, however, I view weakness in Chinese luxury demand as another risk to monitor because Global Blue is tied to cross-border luxury shopping.
+Shift4 already reduced the midpoint of its 2026 revenue guidance by roughly 200 bps in Q2 because of travel disruption affecting tax-free shopping. That specific revision was primarily linked to the Middle East conflict, not China. Separately, however, I view weakness in Chinese luxury demand as another risk to monitor because Global Blue is tied to cross-border luxury shopping.
 
-The broader luxury environment has weakened materially in 2026. Hermès shares fell sharply after reporting that buying in China had not rebounded, while LVMH - owner of Louis Vuitton - has also suffered from weak Chinese demand and a broader luxury downturn. I therefore treat **China / luxury-sector weakness as an external demand risk**, not as a confirmed explanation for Shift4's current results.
+The broader luxury environment has weakened materially in 2026. Hermès shares fell sharply after reporting that buying in China had not rebounded, while LVMH - owner of Louis Vuitton - has also suffered from weak Chinese demand and a broader luxury downturn. I therefore treat China / luxury-sector weakness as an external demand risk, not as a confirmed explanation for Shift4's current results.
 
 This creates an important tension in the thesis:
 
-**Global Blue expands Shift4's addressable market and international reach, but also adds lower-margin integration risk, working-capital drag and greater exposure to tourism and luxury spending cycles.**
+Global Blue expands Shift4's addressable market and international reach, but also adds lower-margin integration risk, working-capital drag and greater exposure to tourism and luxury spending cycles.
 
-At a sufficiently low valuation I can accept that risk, but it strengthens my preference for a re-entry closer to **$30/share** rather than treating the current share price as automatically attractive.
+At a sufficiently low valuation I can accept that risk, but it strengthens my preference for a re-entry closer to $30/share rather than treating the current share price as automatically attractive.
 
 ## Process Changes
 

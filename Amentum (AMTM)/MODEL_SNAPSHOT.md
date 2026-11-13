@@ -16,13 +16,13 @@ This page summarizes selected outputs from my internal Amentum Excel model.
 
 ## Current Valuation Reference
 
-Model price reference: **$18.50/share**
+Model price reference: $18.50/share
 
 Approximate 2026E valuation on the model:
 
-- **P/E:** ~7.9x
-- **P/FCF:** ~8.0x
-- **EV/EBITDA:** ~7.1x
+- P/E: ~7.9x
+- P/FCF: ~8.0x
+- EV/EBITDA: ~7.1x
 
 ## Valuation Cross-Checks
 
@@ -32,27 +32,27 @@ Approximate 2026E valuation on the model:
 | P/FCF framework | $23.32 | $25.06 |
 | EV/EBITDA framework | $22.67 | $24.60 |
 
-The valuation methods cluster in the low-to-mid $20s. My personal thesis target is **above $25/share**, with capital-allocation upside not treated as guaranteed.
+The valuation methods cluster in the low-to-mid $20s. My personal thesis target is above $25/share, with capital-allocation upside not treated as guaranteed.
 
 ## Current Return Bridge
 
-Using the **October 6, 2026 close of $18.77/share**:
+Using the October 6, 2026 close of $18.77/share:
 
 | Target | Price Return | Dividend Contribution | Total Return |
 |---|---:|---:|---:|
-| **$25** | **+33.2%** | **0%** | **+33.2%** |
+| $25 | +33.2% | 0% | +33.2% |
 
-Amentum does not currently pay a dividend. Since the thesis target is **above $25**, the table represents a minimum threshold rather than a precise target.
+Amentum does not currently pay a dividend. Since the thesis target is above $25, the table represents a minimum threshold rather than a precise target.
 
 ## Deleveraging
 
 Amentum's Q3 FY2026 results showed:
 
-- **$3.875bn gross debt**
-- **$459m cash**
-- approximately **$3.42bn net debt**
-- **3.0x net leverage**
-- **$125m voluntary Term Loan B repayment** in the quarter
+- $3.875bn gross debt
+- $459m cash
+- approximately $3.42bn net debt
+- 3.0x net leverage
+- $125m voluntary Term Loan B repayment in the quarter
 
 Management expected net leverage to fall below 3.0x in Q4 FY2026.
 
@@ -60,10 +60,10 @@ Management expected net leverage to fall below 3.0x in Q4 FY2026.
 
 At Q3 FY2026:
 
-- **Total backlog:** $48.2bn, +8.1% YoY
-- **Funded backlog:** $6.2bn, +10.7% YoY
-- **Quarterly book-to-bill:** 1.1x
-- **LTM book-to-bill:** 1.3x
+- Total backlog: $48.2bn, +8.1% YoY
+- Funded backlog: $6.2bn, +10.7% YoY
+- Quarterly book-to-bill: 1.1x
+- LTM book-to-bill: 1.3x
 
 Backlog is not guaranteed revenue because it includes unfunded work and option periods, but it is an important measure of future opportunity and contract visibility.
 
@@ -73,28 +73,28 @@ I do not explicitly capitalize a separate nuclear premium in the base valuation.
 
 Selected 2026 evidence:
 
-- up to **$207m** for an Amentum-led consortium supporting the Netherlands' new nuclear program;
-- **$406m** for an Amentum-led JV serving as owner's engineer for the UK's first SMR program;
-- **>$400m** of Q3 FY2026 bookings tied to advanced nuclear engineering, development and design;
-- preferred-supplier status on a Sellafield framework worth up to **$2.78bn**.
+- up to $207m for an Amentum-led consortium supporting the Netherlands' new nuclear program;
+- $406m for an Amentum-led JV serving as owner's engineer for the UK's first SMR program;
+- >$400m of Q3 FY2026 bookings tied to advanced nuclear engineering, development and design;
+- preferred-supplier status on a Sellafield framework worth up to $2.78bn.
 
 This matters because the current model does not require an aggressive nuclear-growth assumption to reach the low-to-mid $20s valuation range. If global nuclear investment accelerates and Amentum converts these capabilities into recurring backlog and cash flow, that would represent incremental upside.
 
 ## Reverse Morris Trust Catalyst
 
-The CMS distribution / Amentum combination closed on **September 27, 2024**.
+The CMS distribution / Amentum combination closed on September 27, 2024.
 
 The related tax matters agreement generally restricted certain transactions for two years, including stock repurchases, material M&A/dispositions and ownership changes that could threaten the tax-free treatment.
 
-That two-year period expired around **September 27, 2026**.
+That two-year period expired around September 27, 2026.
 
 The expiry does not itself create a buyback. It removes one structural obstacle at the same time that leverage has reached management's target range.
 
 ## Illustrative Buyback Scenario
 
-My model includes a scenario - not company guidance - where Amentum deploys approximately **$200m** toward repurchases at an average price around **$22/share**.
+My model includes a scenario - not company guidance - where Amentum deploys approximately $200m toward repurchases at an average price around $22/share.
 
-That would retire roughly **9.1m shares gross** before considering stock-option dilution. After an illustrative dilution offset, the model assumes a net share reduction of roughly **7.5m shares**.
+That would retire roughly 9.1m shares gross before considering stock-option dilution. After an illustrative dilution offset, the model assumes a net share reduction of roughly 7.5m shares.
 
 The purpose of this scenario is to test how low-valuation repurchases could change FCF/share and EPS, not to predict the Board's decision.
 

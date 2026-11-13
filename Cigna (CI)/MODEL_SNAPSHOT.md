@@ -26,13 +26,7 @@ These outputs are scenario cross-checks, not price targets.
 
 ## What the Model Is Testing
 
-The main questions are:
-
-1. Can Cigna sustain roughly $30+ of annual adjusted EPS without relying on Medicare Advantage?
-2. Does Evernorth continue to offset volatility in the insurance segment?
-3. Can medical-cost inflation be reflected in commercial pricing?
-4. Does portfolio reshaping improve the quality and predictability of the earnings base?
-5. Are buybacks accretive after accounting for leverage and alternative uses of capital?
+The model evaluates the sustainability of roughly $30+ in annual adjusted EPS without relying on Medicare Advantage, Evernorth's ability to offset volatility in the insurance segment, and the extent to which medical-cost inflation can be reflected in commercial pricing. It also assesses the effect of portfolio reshaping on earnings quality and predictability, along with the accretion from buybacks after accounting for leverage and alternative uses of capital.
 
 ## Current Fundamental Check
 
@@ -40,4 +34,4 @@ Cigna reported 2025 adjusted EPS of $29.84. After Q2 2026, management raised ful
 
 The company also confirmed that the planned exit from Individual and Family Plans becomes effective in 2027.
 
-> Model outputs are based on my own assumptions and are not company guidance or investment advice.
+Model outputs are based on my own assumptions and are not company guidance or investment advice.

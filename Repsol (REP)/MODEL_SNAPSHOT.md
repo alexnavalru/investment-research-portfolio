@@ -132,4 +132,4 @@ The purpose is comparability across changes in ownership structure and reporting
 
 This is exactly the environment in which a cyclical company can look cheapest on trailing or current earnings.
 
-> Figures labeled as internal/model values come from my own workbook and assumptions. This is a research snapshot, not investment advice.
+Figures labeled as internal/model values come from my own workbook and assumptions. This is a research snapshot, not investment advice.

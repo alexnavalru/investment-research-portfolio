@@ -281,5 +281,4 @@ Interpretation: CDNL trades at ~6.5x the $151.3m FY2026E adjusted EBITDA guidanc
 - Sector cyclicality: Residential development, commercial/industrial construction and infrastructure capex can slow when interest rates, financing conditions or the economy weaken. Customers can delay/cancel projects, reduce new orders and pressure pricing and workforce utilization.
 - Up-C / TRA complexity and takeover risk: The two-layer share structure and future TRA cash obligations make valuation more complex. Certain changes of control can accelerate TRA payments, potentially increasing the cost of an acquisition, deterring bidders or reducing the consideration received by Class A shareholders. Cardinal explicitly warns about these risks in its
 
-> Independent personal research for educational and professional use; not investment advice.
-
+Independent personal research for educational and professional use; not investment advice.

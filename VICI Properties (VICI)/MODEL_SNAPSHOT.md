@@ -235,4 +235,4 @@ The purpose is not to average multiples mechanically, but to understand which as
 - Acquisition economics
 - Implied valuation relative to cash flow and asset value
 
-> Current valuation uses the latest available Q2 2026 reported balance sheet and rent roll because Q3 2026 results are scheduled for release later in October 2026. Figures and assumptions are presented for portfolio demonstration only.
+Current valuation uses the latest available Q2 2026 reported balance sheet and rent roll because Q3 2026 results are scheduled for release later in October 2026. Figures and assumptions are presented for portfolio demonstration only.

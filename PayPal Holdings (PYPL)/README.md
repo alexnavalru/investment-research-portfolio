@@ -5,7 +5,6 @@ Status: Active thesis
 Target price: above $70/share  
 Position initiated: April 2025 at $60/share  
 Additional purchase: February 2026 at approximately $40.3/share  
-Primary skills: free-cash-flow analysis, management assessment, balance-sheet analysis, buyback economics, scenario valuation, position construction
 
 ## Executive Summary
 
@@ -88,22 +87,3 @@ Personal exposure was built in stages, initially around $60/share in April 2025 
 The position was based on a multi-year thesis rather than a near-term earnings trade. The key variables were:
 
 cash generation → share-count reduction → operational stabilization → potential multiple normalization
-
-## Key Risks
-
-- Continued share loss in branded checkout.
-- Lower-margin growth becoming a larger percentage of total payment volume.
-- Failure of the new management team to improve execution.
-- Buybacks masking weak underlying operating performance.
-- BNPL working-capital timing making reported cash flow harder to interpret.
-- Competitive pressure from digital wallets, card networks and alternative payment platforms.
-- Capital allocation shifting toward low-return acquisitions.
-
-## What This Case Demonstrates
-
-This case demonstrates how I separate business growth from per-share value creation. A company does not need high top-line growth to create attractive shareholder returns if it generates substantial cash, maintains financial flexibility and retires shares at an undemanding valuation.
-
-Supporting research: PayPal Model Snapshot
-
-> Personal entry prices are approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
-

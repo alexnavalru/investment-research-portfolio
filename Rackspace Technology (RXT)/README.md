@@ -54,7 +54,6 @@ The opportunity: Rackspace plans to use existing data centers, power and cooling
 
 Execution and financing: The 30 MW is a target, not guaranteed contracted revenue. The first 2 MW requires about $75m of CapEx. For later deployments, management intends to rely primarily on hardware-backed / asset-backed financing, including OEM and equipment financing secured by the GPUs and servers. It also plans to reallocate savings from lower-return operations toward AI, preserving cash and aiming to deleverage gradually. Financing terms, deployment approvals and customer demand remain uncertain.
 
-
 ## 5. Palantir, NVIDIA and the full-stack strategy
 
 Rackspace wants to integrate and manage enterprise AI, combining computing infrastructure, software, security, data governance and ongoing operations - especially for companies handling sensitive information.
@@ -65,7 +64,7 @@ Rackspace wants to integrate and manage enterprise AI, combining computing infra
 
 The strategy could create more recurring, higher-value services, but partner agreements are not proof of revenue or margins.
 
-## 6. RPO and the demand question
+## 6. RPO and demand validation
 
 Remaining performance obligations (RPO) represent contract revenue yet to be recognized. Rackspace's RPO reached $809.1m in Q2 2026, an increase of 40.6% from Q1 and 57.1% year over year.
 
@@ -169,5 +168,4 @@ I consider 8x–10x EV/EBITDA reasonable for a successful turnaround; a few fast
 
 I intend to start building a speculative position when RXT trades around $3 per share, using out-of-the-money (OTM) LEAPS calls. Given the considerable downside risk and the potential upside if the turnaround succeeds, I consider this an attractive asymmetric risk/reward opportunity, with a limited initial allocation.
 
-> Disclosure: Independent investment research as of October 15, 2026. Valuation scenarios are illustrative, uncertain and not investment advice.
-
+Disclosure: Independent investment research as of October 15, 2026. Valuation scenarios are illustrative, uncertain and not investment advice.

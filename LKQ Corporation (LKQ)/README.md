@@ -28,7 +28,7 @@ The thesis combines portfolio simplification, operational restructuring and FCF-
 6. Optional dividend reallocation: cutting the dividend could initially hurt the stock but free cash for faster debt repayment; this is not my base case.
 7. Potential SOTP re-rating: a clearer portfolio and improved segment performance could narrow the valuation discount. This is a valuation scenario, not my price target.
 
-Who are the activists? Ancora and Engine Capital are activist investors that negotiated LKQ board representation in February 2025. Ananym Capital is a New York activist fund founded by Charlie Penner and Alex Silver; Penner previously worked at JANA Partners. Ananym has argued that separating or selling European assets could unlock value. Activist pressure increases the focus on capital allocation, but does not guarantee a transaction.
+Ancora and Engine Capital are activist investors that negotiated LKQ board representation in February 2025. Ananym Capital is a New York activist fund founded by Charlie Penner and Alex Silver; Penner previously worked at JANA Partners. Ananym has argued that separating or selling European assets could unlock value. Activist pressure increases the focus on capital allocation, but does not guarantee a transaction.
 
 Earnings-call evidence: Q1 2026 management targeted >$50m annual cost savings and expected improved European private-label pricing into 2027. Q2 stressed cost/productivity gains hidden by the German ERP failure: management estimated ~$140m of lost Q2 German revenue and ~$50m EBITDA, while the UK/Benelux remained weak. German sales run-rate was reported >85% of normal by late July, with a stated ambition to approach 100% near year-end; this is a management *goal*, not a proven outcome.
 
@@ -145,8 +145,6 @@ Historic drawdown and entry discipline: LKQ has declined ~58.8% from its peak, a
 | EV/EBITDA after $350m debt reduction at 6x / 7x / 8x; EV = market cap ($5.59bn) + net debt ($3.31bn) = ~$8.90bn | $20.36 | $25.93 | $31.50 |
 | P/FCF at 8x / 10x / 12x × ($660m/253m) | $20.87 | $26.09 | $31.30 |
 
-
-
 ### Valuation by comparable companies
 
 | Company | Similarity to LKQ | Main difference | Market cap ($bn) | EV ($bn) | EV / EBITDA | EBITDA margin | Net debt / EBITDA | Recent organic growth |
@@ -188,16 +186,3 @@ Assumptions: EV = sum of segment EBITDA × assigned multiple. Equity = EV − ne
 | P/FCF (8x–12x) | $20.9 | $26.1 | $31.3 |
 | SOTP - Q2 net debt | $15.8 | $21.3 | $26.8 |
 | SOTP - after $350m debt reduction | $17.1 | $22.6 | $28.2 |
-
-## 7. Key risks and what to monitor
-
-1. Q3 results and entry timing (29 October 2026): another guidance cut or weak cash conversion could push shares lower, potentially offering an entry near $20. I may wait for these results.
-2. German ERP recovery: monitor service levels, recovered customers and European margins. Continued disruption could cause lasting market-share losses.
-3. U.S. demand and macro: weak collision-repair volumes, paint sales and higher interest rates could pressure growth, profits and financing costs.
-4. FCF and debt reduction: monitor delivery of my ~$660m FY2026 FCF assumption and whether net debt actually falls, rather than merely being refinanced.
-5. Strategic review: track the potential Specialty or whole-company sale, net proceeds, separation costs and taxes. No transaction is guaranteed.
-6. Working capital: inventory is rising and cash conversion depends heavily on longer supplier payment terms (DPO). A reversal could reduce FCF.
-7. Dividend risk: a cut could initially hurt the share price, but redirecting cash to debt repayment might strengthen LKQ long term. Not my base case.
-
-> Educational personal investment research; assumptions may be wrong and transaction scenarios are uncertain.
-

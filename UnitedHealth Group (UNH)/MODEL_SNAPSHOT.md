@@ -70,4 +70,4 @@ correct business thesis + wrong timing = potentially poor option outcome
 
 For that reason, duration and position sizing were central to the trade construction.
 
-> Values above come from the personal working model and are simplified for portfolio presentation. They are not current investment recommendations.
+Values above come from the personal working model and are simplified for portfolio presentation. They are not current investment recommendations.

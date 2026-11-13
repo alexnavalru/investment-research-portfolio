@@ -93,6 +93,6 @@ The company guides to $285–295m adjusted FY2026 EBITDA. A purely illustrative 
 - CFO; cash capex; finance-lease additions; hardware-backed borrowings; principal amortization; replacement capex.
 - Status of refinancing and covenant headroom ahead of the 2028 maturity wall.
 
-> Methodology warning: Fixed $2.7bn net debt plus hypothetical completed ATM issuance is intentionally a simplified and asymmetric sensitivity: it recognizes potential new shares without automatically reducing debt by potential ATM cash proceeds, because those proceeds may be deployed in GPUs or working capital. Recalculate consistently once real sources and uses of funds are reported.
+Methodology warning: Fixed $2.7bn net debt plus hypothetical completed ATM issuance is intentionally a simplified and asymmetric sensitivity: it recognizes potential new shares without automatically reducing debt by potential ATM cash proceeds, because those proceeds may be deployed in GPUs or working capital. Recalculate consistently once real sources and uses of funds are reported.
 
-> Independent analytical sensitivity for educational and professional research; not investment advice.
+Independent analytical sensitivity for educational and professional research; not investment advice.

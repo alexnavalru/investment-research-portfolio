@@ -298,4 +298,4 @@ Using the $26.50 ADR reference price and a $1.00 annual dividend per ADS:
 
 \*One-year illustration assuming the $1.00 annual dividend is maintained. Because the target is above $35, the table represents a minimum threshold.
 
-> Model values are personal assumptions and are not company guidance or investment advice.
+Model values are personal assumptions and are not company guidance or investment advice.

@@ -5,7 +5,6 @@ Status: Closed thesis
 Target price: N/A  
 Position initiated: April 2025 at approximately $6.1/share (Old Lionsgate, pre-spin-off)  
 Additional purchase: August 2025 at approximately $5.8/share (Lionsgate Studios only)  
-Primary skills: SOTP valuation, precedent transactions, catalyst analysis, insider/ownership analysis, regulatory scenario analysis, trade construction, downside and timing risk
 
 ## Executive Summary
 
@@ -138,24 +137,3 @@ A later long-dated call position was initiated when Lionsgate Studios traded aro
 ### Exit Lesson: Scale Out Rather Than Sell Everything at Once
 
 In hindsight, I was conservative in my valuation and exit decision. I built exposure over time, but I did not apply the same discipline when selling. The lesson is to exit progressively, just as I build a position progressively, unless I have unusually high conviction that the stock has reached fair value or the thesis has fundamentally changed. Selling in stages would allow me to secure part of the gains while preserving exposure to further upside from film releases, strategic transactions or a continued re-rating. The point is to improve the decision process, not to imply that subsequent price movements could have been predicted.
-
-## Key Risks
-
-- Delay or cancellation of the spin-off.
-- Further deterioration in Starz.
-- Volatility in studio EBITDA and film releases.
-- Precedent M&A multiples proving inapplicable.
-- Short borrow and spread risk in the relative-value structure.
-- Option expiration occurring before the thesis materialized.
-- The market continuing to assign a conglomerate discount after separation.
-
-## What This Case Demonstrates
-
-This case shows how I connect:
-
-market pricing → segment economics → valuation → corporate action → trade construction → risk management
-
-The research process used public filings, earnings calls, management commentary, ownership filings, segment financials and precedent transactions.
-
-> This case study is personal research for professional portfolio purposes and is not investment advice. The regulatory/M&A scenario was an investment hypothesis, not evidence that any government official would influence a transaction.
-

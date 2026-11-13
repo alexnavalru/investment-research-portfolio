@@ -223,4 +223,4 @@ Valuation discipline: I estimate Copart's median historical P/E since the 2000s 
 6. Capital allocation: The $1.6bn FY2026 buyback at about $37.6/share occurred amid weakening U.S. volumes and rising unit costs. Further expensive buybacks or acquisitions could produce poor returns on Copart's cash.
 7. Valuation compression and limited visibility: Management has not committed to specific near-term margin or spending targets. Even a strong franchise can trade at lower multiples for a prolonged period if organic growth and margins disappoint.
 
-> Independent fundamental research for educational and professional purposes; not investment advice.
+Independent fundamental research for educational and professional purposes; not investment advice.

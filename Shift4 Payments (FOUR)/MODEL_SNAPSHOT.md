@@ -100,4 +100,4 @@ At a prospective $30/share entry level, I would want a wider margin of safety sp
 5. Stress-test valuation before allowing growth to justify a premium.
 6. Define thesis-breaking conditions before entering.
 
-> Figures above are taken from the simplified public version of my personal model and are presented for portfolio demonstration only.
+Figures above are taken from the simplified public version of my personal model and are presented for portfolio demonstration only.

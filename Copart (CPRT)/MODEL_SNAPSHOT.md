@@ -42,7 +42,6 @@ September 17, 2026 merger-document projections: independent ACV standalone scena
 
 The standalone negative unlevered FCF includes capex, capitalized software and changes in net working capital. Do not equate it to Copart's consolidated CFO-capex metric or ignore ACV Capital loan receivables.
 
-
 ## 3. Revenues bridge - actual October 16 close
 
 Copart FY2027 = August 1, 2026–July 31, 2027. ACV consolidated from October 16, 2026.
@@ -201,4 +200,4 @@ Valuation discipline: I estimate Copart's median historical P/E since the 2000s 
 6. Share count: actual common outstanding, repurchase prices, option strike and conversion from former ACV plans.
 7. Governance: updated FY2026 proxy and 2027 CEO compensation, change in insider stakes, collateral pledging disclosure.
 
-> Research workpaper. Forecasts may differ substantially from realized results; not investment advice.
+Research workpaper. Forecasts may differ substantially from realized results; not investment advice.

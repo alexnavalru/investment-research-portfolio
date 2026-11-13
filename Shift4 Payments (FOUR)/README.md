@@ -4,7 +4,6 @@ Case type: Investment Post-Mortem / Payments / Watchlist Reassessment
 Status: Watchlist; preferred re-entry around $30/share  
 Target price: not formally set  
 Historical position initiated: December 2025 at approximately $66.2/share  
-Primary skills: FCF reconstruction, valuation discipline, capital-structure analysis, insider/ownership analysis, error review
 
 ## Why I Include a Losing Investment
 
@@ -45,7 +44,7 @@ Once I rebuilt the cash-flow framework, the valuation looked materially more dem
 
 The lesson was not simply “do not pay a high multiple.” It was:
 
-> The stronger the growth narrative, the more important it is to reconcile adjusted metrics with cash available to common equity before deciding what multiple is justified.
+The stronger the growth narrative, the more important it is to reconcile adjusted metrics with cash available to common equity before deciding what multiple is justified.
 
 ## Public Post-Mortem Model
 
@@ -117,18 +116,3 @@ This investment led me to add several explicit checks to my research process:
 4. Compare EBITDA growth with actual cash conversion.
 5. Stress-test the valuation before using growth to justify a premium multiple.
 6. Define thesis-breaking conditions before entering the position.
-
-## What This Case Demonstrates
-
-This case is intended to demonstrate analytical accountability rather than investment performance.
-
-A good investment process should be able to explain:
-
-- why a position was initiated;
-- which assumptions mattered;
-- what was missed;
-- how the valuation changed;
-- what rule will be different next time.
-
-> This case study is personal research for professional portfolio purposes and is not investment advice.
-

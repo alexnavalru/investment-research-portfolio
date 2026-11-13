@@ -3,7 +3,6 @@
 Case type: Watchlist / Deleveraging / Capital Allocation Catalyst  
 Status: Watchlist; prospective entry around $18/share  
 Target price: above $25/share  
-Primary skills: leverage analysis, FCF valuation, backlog analysis, capital allocation, special-situation/tax-structure analysis
 
 ## Business overview
 
@@ -160,29 +159,3 @@ Current position: none.
 Prospective entry: approximately $18/share.
 
 I would treat this as a staged entry rather than a binary catalyst trade because the timing and size of any repurchase program are uncertain.
-
-## Key Risks
-
-- Revenue pressure from NASA or other major customer programs.
-- Backlog converting more slowly than expected into revenue.
-- Government-budget and procurement delays.
-- Margin expansion failing to offset slower top-line growth.
-- M&A being prioritized over buybacks at unattractive valuations.
-- Private-equity sponsors selling down their stakes and creating an overhang.
-- Buybacks not being authorized despite the expiry of the RMT restrictions.
-- Higher-for-longer leverage or weaker FCF conversion.
-- Nuclear projects being delayed, cancelled or subject to budget, regulatory or execution risk.
-- Nuclear contract wins not translating into attractive incremental margins or cash flow.
-
-## What This Case Demonstrates
-
-This case combines traditional fundamental analysis with a corporate-structure catalyst:
-
-low valuation → deleveraging → growing backlog → removal of RMT constraints → broader capital-allocation optionality
-
-The investment case does not require a buyback to work, but a well-priced repurchase program could materially improve the per-share return profile.
-
-Supporting research: Amentum Model Snapshot
-
-> Prospective entry level and valuation outputs are personal research assumptions. This case study is for professional portfolio purposes and is not investment advice.
-

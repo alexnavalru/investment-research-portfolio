@@ -4,7 +4,6 @@ Case type: Bearish / Cyclical Normalization / Commodity & Refining-Margin Mean R
 Status: Short watchlist; preferred entry around €30/share  
 Target price: below €22/share  
 Reference price: approximately €29–€30/share in early October 2026  
-Primary skills: commodity-cycle analysis, refining economics, normalized FCF, accounting adjustments, scenario valuation, catalyst/risk analysis
 
 ## Executive Summary
 
@@ -221,26 +220,3 @@ Potential triggers include:
 - lower refining premiums;
 - Brent reverting toward Repsol's planning range;
 - investors shifting from peak reported FCF to normalized FCF.
-
-## Key Risks to the Bear Thesis
-
-- Geopolitical conflicts keeping oil and refined-product prices elevated for years.
-- Structural refinery closures making European refining margins permanently higher.
-- Repsol continuing to capture a large premium above its refining indicator.
-- Strong buybacks materially increasing FCF and earnings per share.
-- Better-than-expected upstream production growth.
-- New projects improving normalized earnings enough to offset commodity normalization.
-- The market continuing to value the company on shareholder yield rather than normalized FCF.
-
-## What This Case Demonstrates
-
-This case demonstrates the difference between reported cheapness and normalized cheapness.
-
-The core analytical framework is:
-
-peak commodity prices + peak refining margins → unusually high FCF → optically low multiple → normalize the cycle → materially lower sustainable FCF → lower fair value
-
-Supporting research: Repsol Model Snapshot
-
-> This is a bearish research case, not a recommendation to short the stock. Commodity-cycle timing is inherently uncertain. Model outputs are personal assumptions and are not company guidance.
-

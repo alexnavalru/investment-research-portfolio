@@ -67,4 +67,4 @@ The key future work is a full sum-of-the-parts analysis using:
 - Comcast's temporary retained NBCUniversal stake;
 - post-spin dividend and buyback policies.
 
-> Model figures are based on my own assumptions and are not company guidance or investment advice.
+Model figures are based on my own assumptions and are not company guidance or investment advice.

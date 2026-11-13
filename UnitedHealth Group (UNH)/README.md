@@ -5,7 +5,6 @@ Status: Closed thesis
 Target price: historical thesis target $400–$450/share by 2027  
 Position initiated: July 2025 at approximately $270/share  
 Research period: May–July 2025  
-Primary skills: insurance economics, normalized earnings, management assessment, regulatory analysis, scenario valuation, long-dated options
 
 ## Executive Summary
 
@@ -22,7 +21,7 @@ The market was trying to price:
 
 My thesis was that the market was treating a severe pricing and execution problem as if it were a permanent impairment of the franchise.
 
-The key question was not whether 2025 would be a bad year. It clearly would be. The question was whether UnitedHealth's normalized earning power could recover once pricing, benefits, product design and cost controls were reset.
+The thesis did not depend on 2025 being a good year; it clearly was not. It depended on UnitedHealth recovering its normalized earning power as pricing, benefits, product design and cost controls were reset.
 
 My base-case valuation was above $400/share, with a medium-term range of roughly $400–$450 by 2027.
 
@@ -149,4 +148,3 @@ Personal trade outcome, unaudited: the option position approximately doubled wit
 The stock itself continued to be highly volatile and later traded below the initial research level before the recovery broadened. It ultimately moved back above $400 in 2026.
 
 I view the result as evidence that the market was pricing an unusually large uncertainty discount, not as proof that every part of the original thesis was correct.
-

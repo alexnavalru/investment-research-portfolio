@@ -4,7 +4,6 @@ Case type: Sector Dislocation / Fundamental Value / Portfolio Reshaping
 Status: Active thesis  
 Target price: above $300/share  
 Position initiated: October 2025 at $248/share  
-Primary skills: insurance economics, medical-cost analysis, segment mix, guidance analysis, capital allocation, valuation
 
 ## Executive Summary
 
@@ -71,24 +70,3 @@ The initial position was opened in October 2025 at approximately $248/share.
 The setup was a classic sector-dislocation thesis:
 
 peer problems → indiscriminate sector selloff → business-mix differentiation → unchanged/reaffirmed guidance → valuation opportunity
-
-## Key Risks
-
-- Medical-cost inflation spreading beyond government programs.
-- Stop-loss claims remaining structurally elevated.
-- Regulatory pressure on PBMs and Evernorth economics.
-- Client losses or margin compression in Pharmacy Benefit Services.
-- Individual-plan exit producing larger-than-expected transition costs.
-- Capital allocation becoming less attractive if buybacks are executed at poor prices.
-- The market correctly anticipating a future earnings reset before company guidance reflects it.
-
-## What This Case Demonstrates
-
-This case shows the importance of not treating every company in a stressed sector as economically identical.
-
-The research question was not "Are health insurers facing higher costs?" - they were. The relevant question was whether Cigna's earnings mix, strategic exits and maintained guidance justified the magnitude of the valuation compression.
-
-Supporting research: Cigna Model Snapshot
-
-> Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
-

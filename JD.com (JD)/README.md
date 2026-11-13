@@ -5,7 +5,6 @@ Status: Active thesis
 Target price: above $35 per ADR  
 Position initiated: October 2026 at approximately $25.8 per ADR  
 Reference price: approximately $26.50 per ADR on October 6, 2026  
-Primary skills: segment analysis, normalized earnings, balance-sheet valuation, NAV, SOTP, capital allocation, China consumer policy, optionality analysis
 
 ## Executive Summary
 
@@ -75,11 +74,7 @@ Annualized mechanically, that is above RMB60bn of operating profit before New Bu
 
 At the same time, New Businesses lost RMB20.2bn in H1 2026.
 
-This creates the key valuation question:
-
-> What would JD's consolidated earnings look like if New Businesses stopped consuming RMB tens of billions of annual operating profit?
-
-The thesis does not require every new initiative to become highly profitable. It only requires the current level of losses to become materially less dilutive over time.
+JD's consolidated earnings could recover significantly if New Businesses stopped consuming tens of billions of RMB in annual operating profit. The thesis does not require every new initiative to become highly profitable; it only requires these losses to shrink enough to become materially less dilutive over time.
 
 ## 4. Q2 2026 Shows the New-Business Investment Cycle Beginning to Normalize
 
@@ -252,7 +247,7 @@ Examples at Q2 2026 include:
 - connected JoyInside devices more than tripling from the prior 11.11 promotion;
 - an AI-powered procurement assistant in JD Industrials.
 
-R&D expense increased 37.7% YoY in Q2 2026, so this optionality is not free. The key question is whether the technology spend produces lower fulfillment costs, stronger customer retention, advertising monetization or new high-return businesses.
+R&D expense increased 37.7% YoY in Q2 2026, so this optionality is not free. Its value depends on that investment delivering lower fulfillment costs, stronger customer retention, advertising monetization or new high-return businesses.
 
 ## 12. New Businesses Create Multiple Sources of Optionality
 
@@ -295,46 +290,10 @@ I opened a position in October 2026 at $25.8 per ADR, slightly above that origin
 
 My personal medium-term valuation objective is above $35 per ADR. This is supported even by a conservative 4x framework if New Businesses losses partially normalize, while a multiple re-rating toward 5x–6x EV/EBIT would increase fair value materially.
 
-The next major check is whether:
+The next major monitoring priorities are:
 
 1. New Businesses losses continue falling;
 2. JD Retail margins remain resilient despite weaker appliance subsidies;
 3. buybacks continue after the remaining authorization is used;
 4. CECONOMY is completed on sensible terms;
 5. cash remains available for shareholder returns rather than being consumed by low-return expansion.
-
-## Key Risks
-
-- A renewed food-delivery subsidy war.
-- New Businesses continuing to destroy significant value rather than becoming less dilutive.
-- China consumer weakness lasting longer than expected.
-- Further reduction or expiration of government consumption subsidies.
-- JD Retail losing share while maintaining margins through unsustainable cost cuts.
-- Poor capital allocation, including overpaying for international acquisitions.
-- CECONOMY integration and regulatory risk.
-- PRC regulatory / legal intervention and uncertainty around the VIE structure.
-- Foreign-private-issuer disclosure differences and lower individual executive-compensation transparency than a typical U.S. domestic issuer.
-- ADR / HFCAA / U.S.-China geopolitical risk, even though PCAOB inspection access is currently available.
-- Founder voting control limiting minority shareholder influence.
-- Treating too much cash as "excess" when significant liquidity is required for working capital and strategic investment.
-- Buybacks slowing materially after the current authorization is exhausted.
-
-## What This Case Demonstrates
-
-This case is fundamentally about separating temporary investment drag from normalized earning power.
-
-The framework is:
-
-profitable core Retail + Logistics
-+ very large net cash position
-+ dividends and buybacks
-– New Businesses losses
-+ optionality from loss normalization, AI, automation and international expansion
-= potentially mispriced consolidated equity
-
-The strongest version of the thesis does not require JD Food Delivery, AI or Europe to become spectacular successes. It requires the market to be over-discounting the current earnings contraction while the core remains profitable and the balance sheet continues to protect downside.
-
-Supporting research: JD.com Model Snapshot
-
-> This case study is personal research for professional portfolio purposes and is not investment advice. China-related equities carry governance, regulatory, geopolitical and market-structure risks that are not captured by valuation multiples alone.
-

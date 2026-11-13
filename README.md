@@ -48,7 +48,6 @@ Supporting research: [FOUR Model Snapshot](./Shift4%20Payments%20%28FOUR%29/MODE
 
 Skills demonstrated: FCF reconstruction, capital-structure analysis, insider/ownership analysis, valuation, error analysis, process improvement.
 
-
 ### 5. [PayPal (PYPL): Cash Flow & Buybacks](./PayPal%20Holdings%20%28PYPL%29/README.md)
 Status: Active thesis · Target: above $70/share  
 Position initiated: April 2025 at $60/share  
@@ -81,7 +80,6 @@ Supporting research: [Comcast Model Snapshot](./Comcast%20%28CMCSA%29/MODEL_SNAP
 
 Skills demonstrated: FCF analysis, spin-offs, conglomerate analysis, capital allocation, thesis monitoring, error analysis.
 
-
 ### 8. [Amentum (AMTM) - Deleveraging & Capital Allocation](./Amentum%20%28AMTM%29/README.md)
 Status: Watchlist · Entry: ~$18/share · Target: above $25/share
 
@@ -91,7 +89,6 @@ Supporting research: [Amentum Model Snapshot](./Amentum%20%28AMTM%29/MODEL_SNAPS
 
 Skills demonstrated: leverage analysis, FCF valuation, backlog analysis, capital allocation, special-situation/tax-structure analysis.
 
-
 ### 9. [Repsol (REP) - Peak-Cycle FCF Bear Case](./Repsol%20%28REP%29/README.md)
 Status: Short watchlist · Entry: ~€30/share · Target: below €22/share
 
@@ -100,7 +97,6 @@ A bearish cyclical thesis with a preferred short entry around €30/share, focus
 Supporting research: [Repsol Bear-Case Model Snapshot](./Repsol%20%28REP%29/MODEL_SNAPSHOT.md)
 
 Skills demonstrated: commodity-cycle analysis, refining economics, normalized FCF, accounting adjustments, scenario valuation, bearish thesis construction.
-
 
 ### 10. [JD.com (JD) - Cash-Rich Core, New-Business Drag](./JD.com%20%28JD%29/README.md)
 Status: Active thesis · Target: above $35/ADR  
@@ -177,4 +173,4 @@ My default process is:
 LinkedIn: linkedin.com/in/alejandro-naval-04b58526b  
 Email: Alexnavalru@gmail.com
 
-> Disclaimer: This repository is a personal research portfolio created for educational and professional purposes. It is not investment advice.
+Disclaimer: This repository is a personal research portfolio created for educational and professional purposes. It is not investment advice.

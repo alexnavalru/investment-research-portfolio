@@ -98,5 +98,4 @@ That would retire roughly 9.1m shares gross before considering stock-option dilu
 
 The purpose of this scenario is to test how low-valuation repurchases could change FCF/share and EPS, not to predict the Board's decision.
 
-
-> Model figures are personal assumptions and are not company guidance or investment advice.
+Model figures are personal assumptions and are not company guidance or investment advice.

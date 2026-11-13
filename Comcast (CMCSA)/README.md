@@ -5,7 +5,6 @@ Status: Active thesis
 Target price: N/A  
 Position initiated: June 2025  
 Average purchase price: approximately $29/share  
-Primary skills: FCF analysis, capital allocation, conglomerate analysis, catalyst assessment, thesis monitoring, error analysis
 
 ## Executive Summary
 
@@ -86,26 +85,3 @@ low valuation + FCF + buybacks/dividend + Versant spin
 Updated framework:
 
 low valuation + operating risk + temporarily weaker capital returns + larger NBCUniversal/Sky separation catalyst
-
-## Key Risks
-
-- Continued broadband subscriber pressure.
-- Wireless growth failing to offset connectivity weakness.
-- Peacock and media investment remaining capital intensive.
-- Theme-park cyclicality.
-- Separation costs and execution risk.
-- Buybacks remaining suspended longer than expected.
-- Higher leverage or weaker-than-expected balance sheets at the two future companies.
-- The market assigning low multiples to both standalone businesses after separation.
-- The new spin-off failing to surface value, as occurred with the original Versant catalyst.
-
-## What This Case Demonstrates
-
-This case is intentionally included because the thesis changed.
-
-The value of the research is not that every catalyst works. It is the process of comparing the original assumptions with subsequent facts, identifying which parts failed and deciding whether a new corporate action creates a genuinely different opportunity.
-
-Supporting research: Comcast Model Snapshot
-
-> Personal entry price is approximate and unaudited. This case study is personal research for professional portfolio purposes and is not investment advice.
-

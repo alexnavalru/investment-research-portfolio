@@ -3,7 +3,6 @@
 Case type: Fundamental Equity Research / REIT  
 Status: Active thesis  
 Target price: approximately $29–$30/share based on NAV/SOTP  
-Primary skills: AFFO, leverage, capital allocation, per-share analysis, P/AFFO, NAV, SOTP, EV/EBITDA
 
 ## Objective
 
@@ -108,7 +107,7 @@ SOTP ≈ $29.3/share
 
 At $22.73, that implies approximately 28.9% price upside + 8.1% current dividend yield = ~37.0% total return potential, assuming the annual dividend remains at $1.84/share over an approximately one-year holding period.
 
-> Q3 2026 results have not yet been released, so the NAV and SOTP use the latest available Q2 2026 balance sheet and rent roll, combined with the October 6, 2026 share price.
+Q3 2026 results have not yet been released, so the NAV and SOTP use the latest available Q2 2026 balance sheet and rent roll, combined with the October 6, 2026 share price.
 
 ## Total Return Potential
 
@@ -234,10 +233,3 @@ The model focuses on:
 - net debt / EBITDA;
 - share dilution and per-share compounding;
 - P/AFFO, NAV, SOTP, EV/EBITDA and P/Book valuation cross-checks.
-
-## What This Case Demonstrates
-
-The VICI case is intended to show a more traditional modeling process than the Lionsgate special situation. It demonstrates my ability to work through historical financials, identify the right sector-specific metric, forecast per-share economics and connect operating assumptions to valuation.
-
-> The public snapshot is rebuilt from my personal working model. Valuation assumptions are illustrative and do not constitute investment advice.
-
